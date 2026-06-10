@@ -1,0 +1,45 @@
+name: Mañanera diaria por correo
+
+on:
+  schedule:
+    # 20:00 UTC = 2:00 pm CDMX (México ya no tiene horario de verano), lun-vie
+    - cron: "0 20 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mananera:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install chromium
+
+      - name: Scrapear y enviar
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_TO: ${{ vars.MAIL_TO }}
+          MAIL_FROM: ${{ vars.MAIL_FROM }}
+        run: python scraper_mananera.py
+
+      - name: Guardar transcripción en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add corpus/
+          if git diff --cached --quiet; then
+            echo "Sin transcripción nueva."
+          else
+            git commit -m "Mañanera $(date -u +%F)"
+            git push
+          fi

@@ -1,0 +1,33 @@
+name: Spike — acceso a gob.mx desde GitHub Actions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  spike:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install chromium
+
+      - name: Probar acceso (challenge Imperva)
+        run: python scraper_mananera.py --spike
+
+      - name: Subir evidencia
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: spike-evidencia
+          path: |
+            spike.png
+            spike.html
+          if-no-files-found: ignore
