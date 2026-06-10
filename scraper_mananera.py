@@ -28,11 +28,20 @@ import json
 import logging
 import os
 import re
+import ssl
 import sys
 import time
 import urllib.request
 from pathlib import Path
 from datetime import datetime
+
+try:
+    import certifi
+    SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+except ImportError:
+    # El Python de python.org en macOS no instala certificados raíz por
+    # default; certifi los provee. Sin él, se usa el almacén del sistema.
+    SSL_CONTEXT = ssl.create_default_context()
 
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
@@ -243,11 +252,13 @@ def enviar_correo(fecha: str, titulo: str, url: str, texto: str, ruta_txt: Path)
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
+            # Cloudflare (error 1010) bloquea el User-Agent default de urllib
+            "User-Agent": "mananera-diaria/1.0",
         },
         method="POST",
     )
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60, context=SSL_CONTEXT) as resp:
             cuerpo = resp.read().decode("utf-8")
             log.info(f"Correo enviado a {destinatarios}: {cuerpo}")
             return True
