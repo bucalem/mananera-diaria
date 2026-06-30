@@ -39,6 +39,8 @@ const VOZ_LABELS = {
   otro:        "Otros",
 };
 
+const ACTOR_COLOR = "#2D6A4F";
+
 // ── Utilidades ───────────────────────────────────────────────────────────────
 
 const $ = id => document.getElementById(id);
@@ -49,9 +51,7 @@ async function loadJSON(path) {
   return res.json();
 }
 
-function formatNum(n) {
-  return n.toLocaleString("es-MX");
-}
+function formatNum(n) { return n.toLocaleString("es-MX"); }
 
 function formatMonth(ym) {
   const [y, m] = ym.split("-");
@@ -59,14 +59,27 @@ function formatMonth(ym) {
   return `${names[+m]} ${y}`;
 }
 
+function dateToWeek(dateStr) {
+  const d = new Date(dateStr + "T12:00:00");
+  const jan1 = new Date(d.getFullYear(), 0, 1);
+  const w = Math.ceil((((d - jan1) / 86400000) + jan1.getDay() + 1) / 7);
+  return `${d.getFullYear()}-W${String(w).padStart(2, "0")}`;
+}
+
+function weekLabel(wk) {
+  const [y, wStr] = wk.split("-W");
+  const w = +wStr;
+  const d = new Date(+y, 0, 1 + (w - 1) * 7);
+  d.setDate(d.getDate() - d.getDay() + 1);
+  return `${d.getDate()}/${d.getMonth()+1}/${String(d.getFullYear()).slice(-2)}`;
+}
+
 // ── Hero stats ───────────────────────────────────────────────────────────────
 
-function renderHeroStats(stats, topics) {
-  $("stat-conf").textContent   = formatNum(stats.total_conferencias);
-  $("stat-meses").textContent  = stats.meses.length;
-  $("stat-rango").textContent  = `${stats.fecha_inicio.slice(0,7)} → ${stats.fecha_fin.slice(0,7)}`;
-
-  // Conteo de turnos presidenta desde topics (por_fecha keys ≈ conferencias con turno pres)
+function renderHeroStats(stats) {
+  $("stat-conf").textContent = formatNum(stats.total_conferencias);
+  $("stat-meses").textContent = stats.meses.length;
+  $("stat-rango").textContent = `${stats.fecha_inicio.slice(0,7)} → ${stats.fecha_fin.slice(0,7)}`;
   const totalTurnos = Object.values(stats.por_fecha)
     .reduce((a, c) => a + (c.presidenta_turns || 0), 0);
   $("stat-turnos").textContent = formatNum(totalTurnos);
@@ -78,7 +91,6 @@ function renderVoz(stats) {
   const meses = stats.meses;
   const tipos = ["presidenta", "pregunta", "funcionario", "otro"];
 
-  // Agrega palabras por tipo por mes
   const porMes = {};
   meses.forEach(m => { porMes[m] = { presidenta: 0, pregunta: 0, funcionario: 0, otro: 0 }; });
 
@@ -86,12 +98,11 @@ function renderVoz(stats) {
     const m = fecha.slice(0, 7);
     if (!porMes[m]) return;
     porMes[m].presidenta  += d.presidenta_words || 0;
-    porMes[m].pregunta    += (d.pregunta_turns || 0) * 30;   // estimación ~30 palabras/pregunta
+    porMes[m].pregunta    += (d.pregunta_turns    || 0) * 30;
     porMes[m].funcionario += (d.funcionario_turns || 0) * 60;
-    porMes[m].otro        += (d.otro_turns || 0) * 20;
+    porMes[m].otro        += (d.otro_turns        || 0) * 20;
   });
 
-  // Normaliza a porcentaje
   const datasets = tipos.map(tipo => ({
     label: VOZ_LABELS[tipo],
     data: meses.map(m => {
@@ -107,25 +118,29 @@ function renderVoz(stats) {
     data: { labels: meses.map(formatMonth), datasets },
     options: {
       responsive: true,
-      plugins: { legend: { position: "bottom" }, tooltip: {
-        callbacks: { label: ctx => `${ctx.dataset.label}: ${ctx.parsed.y}%` }
-      }},
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${ctx.parsed.y}%` } }
+      },
       scales: {
         x: { stacked: true, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: {
-          callback: v => v + "%"
-        }, grid: { color: "#F0F0F0" } },
+        y: { stacked: true, max: 100, ticks: { callback: v => v + "%" }, grid: { color: "#F0F0F0" } },
       },
     },
+  });
+
+  const legend = $("voz-legend");
+  tipos.forEach(tipo => {
+    const item = document.createElement("div");
+    item.className = "legend-item";
+    item.innerHTML = `<span class="legend-dot" style="background:${VOZ_COLORS[tipo]}"></span>${VOZ_LABELS[tipo]}`;
+    legend.appendChild(item);
   });
 }
 
 // ── Tópicos ──────────────────────────────────────────────────────────────────
 
 function renderTopicos(topics, meses) {
-  const labels = meses.map(formatMonth);
-
-  const datasets = topics.topic_labels.map((words, i) => ({
+  const datasets = topics.topic_labels.map((_, i) => ({
     label: `T${i+1}`,
     data: meses.map(m => {
       const v = topics.por_mes[m];
@@ -139,133 +154,36 @@ function renderTopicos(topics, meses) {
 
   new Chart($("chart-topicos"), {
     type: "bar",
-    data: { labels, datasets },
+    data: { labels: meses.map(formatMonth), datasets },
     options: {
       responsive: true,
       plugins: { legend: { display: false } },
       scales: {
         x: { stacked: true, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: v => v + "%" },
-             grid: { color: "#F0F0F0" } },
+        y: { stacked: true, max: 100, ticks: { callback: v => v + "%" }, grid: { color: "#F0F0F0" } },
       },
     },
   });
 
-  // Tabla lateral
   const container = $("topic-words");
   topics.topic_labels.forEach((words, i) => {
     const row = document.createElement("div");
     row.className = "topic-row";
     row.innerHTML = `
       <span class="topic-dot" style="background:${TOPIC_COLORS[i]}"></span>
-      <span class="topic-words"><strong>T${i+1}:</strong> ${words.slice(0,6).join(", ")}</span>
-    `;
+      <span class="topic-words"><strong>T${i+1}:</strong> ${words.slice(0, 6).join(", ")}</span>`;
     container.appendChild(row);
   });
 }
 
-// ── Heatmap TF-IDF (D3) ──────────────────────────────────────────────────────
-
-function renderHeatmap(tfidf, meses) {
-  $("heatmap-loading").remove();
-
-  // Selecciona los 35 términos con mayor varianza temporal (los que más cambian)
-  const termFreq = {};
-  meses.forEach(m => {
-    (tfidf[m] || []).forEach(({ termino, score }) => {
-      if (!termFreq[termino]) termFreq[termino] = {};
-      termFreq[termino][m] = score;
-    });
-  });
-
-  // Calcula varianza de cada término
-  const termVariance = Object.entries(termFreq).map(([term, scores]) => {
-    const vals = meses.map(m => scores[m] || 0);
-    const mean = vals.reduce((a, b) => a + b, 0) / vals.length;
-    const variance = vals.reduce((a, v) => a + (v - mean) ** 2, 0) / vals.length;
-    return { term, variance, scores };
-  });
-
-  termVariance.sort((a, b) => b.variance - a.variance);
-  const topTerms = termVariance.slice(0, 35).map(t => t.term);
-
-  // Construir matriz
-  const data = [];
-  topTerms.forEach(term => {
-    meses.forEach(m => {
-      data.push({ term, mes: m, score: termFreq[term]?.[m] || 0 });
-    });
-  });
-
-  const margin = { top: 20, right: 20, bottom: 80, left: 160 };
-  const cellW = 36, cellH = 20;
-  const width  = cellW * meses.length + margin.left + margin.right;
-  const height = cellH * topTerms.length + margin.top + margin.bottom;
-
-  const svg = d3.select("#heatmap-container")
-    .append("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-  const g = svg.append("g")
-    .attr("transform", `translate(${margin.left},${margin.top})`);
-
-  const xScale = d3.scaleBand().domain(meses).range([0, cellW * meses.length]).padding(0.05);
-  const yScale = d3.scaleBand().domain(topTerms).range([0, cellH * topTerms.length]).padding(0.05);
-
-  const maxScore = d3.max(data, d => d.score) || 1;
-  const color = d3.scaleSequential()
-    .domain([0, maxScore])
-    .interpolator(d3.interpolate("#F0F9F4", "#1B4332"));
-
-  // Celdas
-  g.selectAll("rect")
-    .data(data)
-    .enter().append("rect")
-    .attr("x", d => xScale(d.mes))
-    .attr("y", d => yScale(d.term))
-    .attr("width", xScale.bandwidth())
-    .attr("height", yScale.bandwidth())
-    .attr("rx", 2)
-    .style("fill", d => d.score > 0 ? color(d.score) : "#F8F9FA");
-
-  // Tooltip básico
-  const tip = d3.select("body").append("div")
-    .style("position","absolute").style("background","rgba(0,0,0,.78)")
-    .style("color","#fff").style("padding","4px 8px").style("border-radius","4px")
-    .style("font-size","12px").style("pointer-events","none").style("display","none");
-
-  g.selectAll("rect")
-    .on("mouseover", (event, d) => {
-      tip.style("display","block")
-        .html(`<strong>${d.term}</strong><br>${formatMonth(d.mes)}: ${d.score.toFixed(3)}`);
-    })
-    .on("mousemove", event => {
-      tip.style("left", (event.pageX + 10) + "px").style("top", (event.pageY - 20) + "px");
-    })
-    .on("mouseout", () => tip.style("display","none"));
-
-  // Eje Y (términos)
-  g.append("g").call(d3.axisLeft(yScale).tickSize(0))
-    .select(".domain").remove();
-  g.selectAll(".tick text").style("font-size","11px").style("fill","#495057");
-
-  // Eje X (meses)
-  g.append("g")
-    .attr("transform", `translate(0,${cellH * topTerms.length + 4})`)
-    .call(d3.axisBottom(xScale).tickFormat(formatMonth).tickSize(0))
-    .select(".domain").remove();
-  g.selectAll(".tick:last-child text, .tick text")
-    .style("font-size","10px").style("fill","#495057")
-    .attr("transform","rotate(-45)").attr("text-anchor","end");
-}
-
 // ── Encuadre ─────────────────────────────────────────────────────────────────
 
-function renderEncuadre(speakers, meses) {
-  const framing = speakers.framing;
-  const frames = framing.frames;
-  const labels = meses.map(formatMonth);
+let encuadreChart = null;
+
+function renderEncuadre(speakers, meses, corpus) {
+  const framing = corpus === "total" ? speakers.framing_total : speakers.framing_presidenta;
+  const frames  = framing.frames;
+  const labels  = meses.map(formatMonth);
 
   const datasets = frames.map(frame => ({
     label: FRAME_LABELS[frame],
@@ -278,7 +196,13 @@ function renderEncuadre(speakers, meses) {
     fill: false,
   }));
 
-  new Chart($("chart-encuadre"), {
+  if (encuadreChart) {
+    encuadreChart.data.datasets = datasets;
+    encuadreChart.update();
+    return;
+  }
+
+  encuadreChart = new Chart($("chart-encuadre"), {
     type: "line",
     data: { labels, datasets },
     options: {
@@ -286,13 +210,11 @@ function renderEncuadre(speakers, meses) {
       plugins: { legend: { display: false } },
       scales: {
         x: { grid: { display: false } },
-        y: { title: { display: true, text: "ocurrencias / mil palabras" },
-             grid: { color: "#F0F0F0" } },
+        y: { title: { display: true, text: "ocurrencias / mil palabras" }, grid: { color: "#F0F0F0" } },
       },
     },
   });
 
-  // Leyenda manual
   const legend = $("framing-legend");
   frames.forEach(frame => {
     const item = document.createElement("div");
@@ -304,12 +226,16 @@ function renderEncuadre(speakers, meses) {
 
 // ── KWIC ─────────────────────────────────────────────────────────────────────
 
-let kwicData = null;
+let kwicData        = null;
+let kwicAllResults  = [];
+let kwicCurrentPage = 0;
+const KWIC_PER_PAGE = 15;
 
 async function loadKwic() {
   if (kwicData) return kwicData;
-  $("kwic-results").innerHTML = `<p class="kwic-loading">Cargando índice…</p>`;
+  $("kwic-status").textContent = "Cargando índice…";
   kwicData = await loadJSON("json/kwic.json");
+  $("kwic-status").textContent = "";
   return kwicData;
 }
 
@@ -318,74 +244,191 @@ function highlight(text, word) {
   return text.replace(re, "<mark>$1</mark>");
 }
 
+function renderKwicPage() {
+  const start = kwicCurrentPage * KWIC_PER_PAGE;
+  const end   = Math.min(start + KWIC_PER_PAGE, kwicAllResults.length);
+  const total = kwicAllResults.length;
+  const word  = $("kwic-input").value.trim().toLowerCase();
+  const pages = Math.ceil(total / KWIC_PER_PAGE);
+
+  $("kwic-results").innerHTML = kwicAllResults.slice(start, end).map(h => `
+    <div class="kwic-card">
+      <div class="kwic-date">${h.fecha}</div>
+      <div class="kwic-text">${highlight(h.ctx, word)}</div>
+    </div>`).join("");
+
+  $("kwic-status").textContent = `${total} resultado${total !== 1 ? "s" : ""} · mostrando ${start + 1}–${end}`;
+  $("kwic-page-info").textContent = `Página ${kwicCurrentPage + 1} de ${pages}`;
+  $("kwic-prev").disabled = kwicCurrentPage === 0;
+  $("kwic-next").disabled = kwicCurrentPage >= pages - 1;
+  $("kwic-pagination").style.display = total > KWIC_PER_PAGE ? "flex" : "none";
+}
+
 async function doKwicSearch() {
   const term = $("kwic-input").value.trim().toLowerCase();
-  const results = $("kwic-results");
   if (!term) return;
 
   const data = await loadKwic();
   const hits = data[term];
 
   if (!hits || hits.length === 0) {
-    // Buscar términos parecidos
-    const similar = Object.keys(data)
-      .filter(k => k.startsWith(term.slice(0, 3)))
-      .slice(0, 5);
-    results.innerHTML = `
-      <p class="kwic-empty">No hay ejemplos para "<strong>${term}</strong>".
-      ${similar.length ? `Prueba con: ${similar.map(s => `<em>${s}</em>`).join(", ")}.` : ""}
-      </p>`;
+    const similar = Object.keys(data).filter(k => k.startsWith(term.slice(0, 3))).slice(0, 5);
+    $("kwic-results").innerHTML = `<p class="kwic-empty">
+      Sin resultados para "<strong>${term}</strong>".
+      ${similar.length ? `Prueba: ${similar.map(s => `<em>${s}</em>`).join(", ")}.` : ""}
+    </p>`;
+    $("kwic-status").textContent = "";
+    $("kwic-pagination").style.display = "none";
     return;
   }
 
-  results.innerHTML = hits.map(h => `
-    <div class="kwic-card">
-      <div class="kwic-date">${h.fecha}</div>
-      <div class="kwic-text">${highlight(h.ctx, term)}</div>
-    </div>
-  `).join("");
+  kwicAllResults  = hits;
+  kwicCurrentPage = 0;
+  renderKwicPage();
 }
 
 // ── Actores ──────────────────────────────────────────────────────────────────
 
-function renderSpeakers(speakers) {
-  const grid = $("speakers-grid");
-  const top = speakers.top_funcionarios;
-  const maxCount = top[0]?.apariciones || 1;
+let actorChart       = null;
+let selectedActor    = null;
+let currentGran      = "mes";
+let speakersData     = null;
 
-  top.forEach(({ nombre, apariciones }) => {
-    const pct = Math.round(apariciones / maxCount * 100);
-    const div = document.createElement("div");
-    div.className = "speaker-bar-wrap";
-    div.innerHTML = `
-      <div class="speaker-name">${nombre.split(",").slice(0,2).join(",")}</div>
-      <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
-      <div class="bar-count">${apariciones} apariciones</div>
-    `;
-    grid.appendChild(div);
+function parseName(nombre) {
+  const parts = nombre.split(",").map(s => s.trim());
+  if (parts.length === 1) return { cargo: "", nombre: parts[0] };
+  return { cargo: parts[0], nombre: parts.slice(1).join(",").trim() };
+}
+
+function buildActorTimeline(fechas, gran) {
+  const buckets = {};
+  fechas.forEach(f => {
+    let key;
+    if (gran === "dia")    key = f;
+    else if (gran === "semana") key = dateToWeek(f);
+    else                   key = f.slice(0, 7);
+    buckets[key] = (buckets[key] || 0) + 1;
   });
+  const keys = Object.keys(buckets).sort();
+  const labels = keys.map(k => {
+    if (gran === "dia")    return k;
+    if (gran === "semana") return weekLabel(k);
+    return formatMonth(k);
+  });
+  return { labels, data: keys.map(k => buckets[k]) };
+}
+
+function renderActorChart(nombre, gran) {
+  const fechas = speakersData.actor_fechas[nombre];
+  if (!fechas) return;
+
+  const { labels, data } = buildActorTimeline(fechas, gran);
+  const parsed = parseName(nombre);
+
+  $("actors-chart-title").textContent = parsed.nombre || nombre;
+  $("actors-hint").style.display = "none";
+  $("actors-chart-wrap").style.display = "block";
+
+  if (actorChart) {
+    actorChart.data.labels   = labels;
+    actorChart.data.datasets[0].data = data;
+    actorChart.update();
+    return;
+  }
+
+  actorChart = new Chart($("chart-actor"), {
+    type: "bar",
+    data: {
+      labels,
+      datasets: [{
+        label: "Apariciones",
+        data,
+        backgroundColor: ACTOR_COLOR + "CC",
+        borderColor: ACTOR_COLOR,
+        borderWidth: 1,
+        borderRadius: 3,
+      }],
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false }, ticks: { maxRotation: 45, font: { size: 11 } } },
+        y: { beginAtZero: true, ticks: { stepSize: 1 }, grid: { color: "#F0F0F0" } },
+      },
+    },
+  });
+}
+
+function renderActorsList(speakers) {
+  speakersData = speakers;
+  const list   = $("actors-list");
+  list.innerHTML = "";
+
+  speakers.top_funcionarios.forEach((actor, i) => {
+    const { cargo, nombre } = parseName(actor.nombre);
+    const item = document.createElement("div");
+    item.className = "actor-item";
+    item.dataset.nombre = actor.nombre;
+    item.innerHTML = `
+      <span class="actor-rank">${i + 1}</span>
+      <div class="actor-info">
+        <div class="actor-name" title="${actor.nombre}">${nombre || actor.nombre}</div>
+        ${cargo ? `<div class="actor-cargo">${cargo}</div>` : ""}
+      </div>
+      <span class="actor-count">${actor.apariciones}</span>`;
+
+    item.addEventListener("click", () => {
+      document.querySelectorAll(".actor-item").forEach(el => el.classList.remove("selected"));
+      item.classList.add("selected");
+      selectedActor = actor.nombre;
+      renderActorChart(actor.nombre, currentGran);
+    });
+
+    list.appendChild(item);
+  });
+
+  // Seleccionar el primero por defecto
+  const firstItem = list.querySelector(".actor-item");
+  if (firstItem) firstItem.click();
 }
 
 // ── Bootstrap ────────────────────────────────────────────────────────────────
 
 async function init() {
   try {
-    const [stats, wordFreq, tfidf, topics, speakers] = await Promise.all([
+    const [stats, topics, speakers] = await Promise.all([
       loadJSON("json/corpus_stats.json"),
-      loadJSON("json/word_freq_monthly.json"),
-      loadJSON("json/tfidf_monthly.json"),
       loadJSON("json/topics.json"),
       loadJSON("json/speakers.json"),
     ]);
 
     const meses = stats.meses;
 
-    renderHeroStats(stats, topics);
+    renderHeroStats(stats);
     renderVoz(stats);
     renderTopicos(topics, meses);
-    renderHeatmap(tfidf, meses);
-    renderEncuadre(speakers, meses);
-    renderSpeakers(speakers);
+    renderEncuadre(speakers, meses, "presidenta");
+    renderActorsList(speakers);
+
+    // Corpus selector (encuadre)
+    document.querySelectorAll(".pill").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".pill").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        renderEncuadre(speakers, meses, btn.dataset.corpus);
+      });
+    });
+
+    // Granularidad actores
+    document.querySelectorAll(".gran-pill").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".gran-pill").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentGran = btn.dataset.gran;
+        if (selectedActor) renderActorChart(selectedActor, currentGran);
+      });
+    });
 
   } catch (err) {
     console.error("Error cargando datos:", err);
@@ -397,7 +440,7 @@ document.addEventListener("DOMContentLoaded", () => {
   init();
 
   $("kwic-btn").addEventListener("click", doKwicSearch);
-  $("kwic-input").addEventListener("keydown", e => {
-    if (e.key === "Enter") doKwicSearch();
-  });
+  $("kwic-input").addEventListener("keydown", e => { if (e.key === "Enter") doKwicSearch(); });
+  $("kwic-prev").addEventListener("click", () => { kwicCurrentPage--; renderKwicPage(); window.scrollTo({top: $("kwic").offsetTop - 60, behavior: "smooth"}); });
+  $("kwic-next").addEventListener("click", () => { kwicCurrentPage++; renderKwicPage(); window.scrollTo({top: $("kwic").offsetTop - 60, behavior: "smooth"}); });
 });

@@ -312,11 +312,12 @@ FRAMES = {
 FRAMES_SETS = {k: set(v) for k, v in FRAMES.items()}
 
 
-def build_framing(turns_pres: list[dict]) -> dict:
-    """Ratio mensual de cada lexicón de encuadre (ocurrencias / total palabras)."""
+def build_framing(turns_any: list[dict]) -> dict:
+    """Ratio mensual de cada lexicón de encuadre (ocurrencias / total palabras).
+    Acepta cualquier lista de turnos (presidenta o todos)."""
     por_mes: dict[str, dict] = defaultdict(lambda: {k: 0 for k in FRAMES} | {"total": 0})
 
-    for t in turns_pres:
+    for t in turns_any:
         mes = t["fecha"][:7]
         palabras = re.findall(r"[a-záéíóúüñ]+", t["texto"].lower())
         por_mes[mes]["total"] += len(palabras)
@@ -343,16 +344,21 @@ def build_framing(turns_pres: list[dict]) -> dict:
 # ---------------------------------------------------------------------------
 
 def build_speakers(turns: list[dict]) -> dict:
-    """Top funcionarios y ratios de voz por mes."""
+    """Top funcionarios, ratios de voz por mes, y fechas de aparición por actor."""
     func_counter = Counter()
+    func_fechas: dict[str, list] = defaultdict(list)
+
     for t in turns:
         if t["tipo"] == "funcionario":
             func_counter[t["hablante"]] += 1
+            func_fechas[t["hablante"]].append(t["fecha"])
 
+    top_nombres = [n for n, _ in func_counter.most_common(25)]
     top_funcionarios = [
-        {"nombre": nombre, "apariciones": count}
-        for nombre, count in func_counter.most_common(25)
+        {"nombre": nombre, "apariciones": func_counter[nombre]}
+        for nombre in top_nombres
     ]
+    actor_fechas = {nombre: sorted(set(func_fechas[nombre])) for nombre in top_nombres}
 
     # Ratio de palabras por tipo por mes
     por_mes: dict[str, dict] = defaultdict(lambda: defaultdict(int))
@@ -373,6 +379,7 @@ def build_speakers(turns: list[dict]) -> dict:
 
     return {
         "top_funcionarios": top_funcionarios,
+        "actor_fechas": actor_fechas,
         "ratio_palabras_por_mes": ratio_por_mes,
     }
 
@@ -465,13 +472,15 @@ def main():
 
     print("\n[6/6] Speakers + encuadre + KWIC...")
     speakers = build_speakers(turns)
-    framing = build_framing(turns_pres)
-    speakers["framing"] = framing
+    framing_pres  = build_framing(turns_pres)
+    framing_total = build_framing(turns)
+    speakers["framing_presidenta"] = framing_pres
+    speakers["framing_total"]      = framing_total
 
     (DOCS_JSON / "speakers.json").write_text(
         json.dumps(speakers, ensure_ascii=False), encoding="utf-8"
     )
-    print(f"  → speakers.json")
+    print(f"  → speakers.json (con actor_fechas y framing presidenta+total)")
 
     kwic = build_kwic(turns_pres, word_freq)
     (DOCS_JSON / "kwic.json").write_text(

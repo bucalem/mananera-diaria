@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Discurso de la Mañanera — Análisis léxico y de encuadre</title>
-  <meta name="description" content="Análisis del discurso de Claudia Sheinbaum en conferencias de prensa (2024–2025). Léxico, tópicos, encuadre y distribución de voz.">
+  <meta name="description" content="Análisis del discurso de Claudia Sheinbaum en conferencias de prensa (2024–2026). Léxico, tópicos, encuadre y distribución de voz.">
   <link rel="stylesheet" href="css/style.css">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 </head>
 <body>
 
@@ -19,7 +18,7 @@
       Análisis lexicométrico y de encuadre de las conferencias de prensa de la presidenta
       de México, basado en las versiones estenográficas oficiales publicadas por Presidencia.
     </p>
-    <div class="hero-stats" id="hero-stats">
+    <div class="hero-stats">
       <div class="stat-card"><div class="num" id="stat-conf">—</div><div class="lbl">Conferencias</div></div>
       <div class="stat-card"><div class="num" id="stat-turnos">—</div><div class="lbl">Turnos de la presidenta</div></div>
       <div class="stat-card"><div class="num" id="stat-meses">—</div><div class="lbl">Meses analizados</div></div>
@@ -32,39 +31,62 @@
 <nav>
   <div class="container">
     <ul>
+      <li><a href="#kwic">Buscador de contexto</a></li>
       <li><a href="#voz">Distribución de voz</a></li>
       <li><a href="#topicos">Tópicos</a></li>
-      <li><a href="#lexico">Léxico distintivo</a></li>
       <li><a href="#encuadre">Encuadre</a></li>
-      <li><a href="#kwic">Buscador de contexto</a></li>
       <li><a href="#actores">Actores</a></li>
     </ul>
   </div>
 </nav>
 
-<!-- ── 1. Distribución de voz ────────────────────────────── -->
-<section id="voz">
+<!-- ── 1. KWIC ───────────────────────────────────────────── -->
+<section id="kwic">
   <div class="container">
     <div class="section-header">
-      <h2>Distribución de voz</h2>
-      <p>Porcentaje de palabras por tipo de hablante en cada mes. La presidenta domina
-         el tiempo de palabra, pero los funcionarios y las preguntas revelan la dinámica
-         de cada etapa de gobierno.</p>
+      <h2>Buscador de contexto (KWIC)</h2>
+      <p>Busca una palabra y ve cómo la usa <strong>la presidenta</strong> en contexto, con fecha de cada conferencia.
+         Disponible para las 200 palabras más frecuentes del corpus.</p>
     </div>
-    <div class="chart-wrap">
-      <canvas id="chart-voz"></canvas>
+    <div class="kwic-search">
+      <input type="text" id="kwic-input" placeholder="Ej: agua, seguridad, bienestar, educación…" autocomplete="off">
+      <button id="kwic-btn">Buscar</button>
+    </div>
+    <div id="kwic-status"></div>
+    <div id="kwic-results">
+      <p class="kwic-empty">Escribe una palabra para ver ejemplos en contexto.</p>
+    </div>
+    <div class="kwic-pagination" id="kwic-pagination" style="display:none">
+      <button id="kwic-prev" class="pag-btn">← Anterior</button>
+      <span id="kwic-page-info"></span>
+      <button id="kwic-next" class="pag-btn">Siguiente →</button>
     </div>
   </div>
 </section>
 
-<!-- ── 2. Tópicos en el tiempo ───────────────────────────── -->
+<!-- ── 2. Distribución de voz ────────────────────────────── -->
+<section id="voz">
+  <div class="container">
+    <div class="section-header">
+      <h2>Distribución de voz</h2>
+      <p>Porcentaje de palabras por tipo de hablante en cada mes.
+         Incluye turnos de la presidenta, preguntas de periodistas y funcionarios invitados.</p>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="chart-voz"></canvas>
+    </div>
+    <div class="chart-legend" id="voz-legend"></div>
+  </div>
+</section>
+
+<!-- ── 3. Tópicos ────────────────────────────────────────── -->
 <section id="topicos">
   <div class="container">
     <div class="section-header">
       <h2>Tópicos en el tiempo</h2>
-      <p>Distribución de 10 tópicos latentes (LDA) extraídos de los turnos de la presidenta.
-         Cada tópico agrupa palabras que co-ocurren con frecuencia; su peso relativo mensual
-         revela cambios en la agenda discursiva.</p>
+      <p>Distribución de 10 tópicos latentes (LDA) extraídos
+         <span class="corpus-badge badge-pres">solo de los turnos de la presidenta</span>.
+         Cada tópico agrupa palabras que co-ocurren con frecuencia.</p>
     </div>
     <div class="topics-grid">
       <div class="chart-wrap" style="margin-bottom:0">
@@ -78,30 +100,23 @@
   </div>
 </section>
 
-<!-- ── 3. Léxico distintivo (TF-IDF) ────────────────────── -->
-<section id="lexico">
-  <div class="container">
-    <div class="section-header">
-      <h2>Léxico distintivo por período</h2>
-      <p>Términos con mayor TF-IDF en cada mes: palabras que son especialmente características
-         de ese período frente al resto del corpus. Las columnas revelan picos temáticos y
-         cambios de agenda.</p>
-    </div>
-    <div id="heatmap-container">
-      <div class="loading" id="heatmap-loading">Cargando mapa de calor…</div>
-    </div>
-  </div>
-</section>
-
 <!-- ── 4. Encuadre ───────────────────────────────────────── -->
 <section id="encuadre">
   <div class="container">
     <div class="section-header">
       <h2>Análisis de encuadre</h2>
-      <p>Frecuencia normalizada (ocurrencias por mil palabras) de cinco lexicones de encuadre
-         en los turnos de la presidenta. Los picos revelan momentos de énfasis en cada
-         dimensión retórica.</p>
+      <p>Frecuencia normalizada (ocurrencias por mil palabras) de cinco lexicones retóricos.
+         Los picos revelan momentos de énfasis en cada dimensión.</p>
     </div>
+
+    <div class="corpus-selector">
+      <span class="selector-label">Fuente de análisis:</span>
+      <div class="selector-pills">
+        <button class="pill active" data-corpus="presidenta">Solo Sheinbaum</button>
+        <button class="pill" data-corpus="total">Conferencia total</button>
+      </div>
+    </div>
+
     <div class="chart-wrap">
       <canvas id="chart-encuadre"></canvas>
     </div>
@@ -109,34 +124,37 @@
   </div>
 </section>
 
-<!-- ── 5. KWIC ───────────────────────────────────────────── -->
-<section id="kwic">
-  <div class="container">
-    <div class="section-header">
-      <h2>Buscador de contexto (KWIC)</h2>
-      <p>Busca una palabra o término y ve cómo lo usa la presidenta en contexto,
-         con fecha de la conferencia. Solo funciona con las 200 palabras más frecuentes
-         del corpus.</p>
-    </div>
-    <div class="kwic-search">
-      <input type="text" id="kwic-input" placeholder="Ej: agua, seguridad, bienestar…" autocomplete="off">
-      <button id="kwic-btn">Buscar</button>
-    </div>
-    <div id="kwic-results">
-      <p class="kwic-empty">Escribe una palabra para ver ejemplos en contexto.</p>
-    </div>
-  </div>
-</section>
-
-<!-- ── 6. Actores ─────────────────────────────────────────── -->
+<!-- ── 5. Actores ─────────────────────────────────────────── -->
 <section id="actores">
   <div class="container">
     <div class="section-header">
       <h2>Actores en las conferencias</h2>
-      <p>Funcionarios y titulares que participan con mayor frecuencia en las conferencias
-         de prensa, ordenados por número de apariciones.</p>
+      <p>Funcionarios con mayor presencia. Selecciona un actor para ver su distribución temporal.</p>
     </div>
-    <div class="speakers-grid" id="speakers-grid"></div>
+
+    <div class="actors-layout">
+      <!-- Lista izquierda -->
+      <div class="actors-list-panel">
+        <div class="granularity-bar">
+          <span class="gran-label">Ver por:</span>
+          <div class="gran-pills">
+            <button class="gran-pill active" data-gran="mes">Mes</button>
+            <button class="gran-pill" data-gran="semana">Semana</button>
+            <button class="gran-pill" data-gran="dia">Día</button>
+          </div>
+        </div>
+        <div id="actors-list"></div>
+      </div>
+
+      <!-- Panel derecho: gráfica -->
+      <div class="actors-chart-panel">
+        <div id="actors-chart-title" class="actors-chart-title">Selecciona un actor</div>
+        <div class="chart-wrap actors-chart-wrap" id="actors-chart-wrap">
+          <canvas id="chart-actor"></canvas>
+        </div>
+        <p class="actors-hint" id="actors-hint">← Haz clic en un actor para ver su actividad temporal</p>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -148,10 +166,11 @@
         <h4>Metodología</h4>
         <p>
           Las transcripciones provienen de las versiones estenográficas oficiales de Presidencia
-          de la República (gob.mx), scrapeadas automáticamente desde la toma de protesta del
-          1 de octubre de 2024.<br><br>
-          El análisis se limita a los turnos marcados como
-          <strong>PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO:</strong>.
+          de la República (gob.mx), scrapeadas automáticamente desde el 2 de octubre de 2024.<br><br>
+          Los análisis sobre <em>léxico</em>, <em>tópicos</em> y <em>encuadre</em> se pueden ver
+          en modo "Solo Sheinbaum" (únicamente sus turnos, marcados como
+          <strong>PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO:</strong>) o en modo
+          "Conferencia total" (todos los participantes).<br><br>
           Se usa spaCy (es_core_news_sm) para lematización; scikit-learn para TF-IDF y LDA
           (10 tópicos, 20 iteraciones). Los lexicones de encuadre son curados manualmente.
         </p>
@@ -162,7 +181,7 @@
           Repositorio: <a href="https://github.com/bucalem/mananera-diaria" target="_blank">
           github.com/bucalem/mananera-diaria</a><br><br>
           Corpus actualizado automáticamente con GitHub Actions cada día hábil.<br><br>
-          Fuente original: <a href="https://www.gob.mx/presidencia/archivo/articulos" target="_blank">
+          Fuente: <a href="https://www.gob.mx/presidencia/archivo/articulos" target="_blank">
           gob.mx/presidencia</a>
         </p>
       </div>
