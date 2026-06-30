@@ -40,8 +40,6 @@ jobs:
 
       - name: Resumen de la última mañanera (temas + participantes)
         if: ${{ !inputs.dry_run }}
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python analisis/resumen_ultima.py
 
       - name: Guardar corpus y resumen en el repo

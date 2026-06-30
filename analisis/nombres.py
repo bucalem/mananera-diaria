@@ -20,8 +20,9 @@ HONORIFICOS = {"DOCTOR", "DOCTORA", "DR", "DRA", "LICENCIADO", "LICENCIADA",
 CARGO_STEMS = ("SECRETARI", "SUBSECRETARI", "DIRECTOR", "SUBDIRECTOR",
                "GOBERNADOR", "JEFE DE GOBIERNO", "JEFA DE GOBIERNO", "JEFE DE",
                "JEFA DE", "TITULAR", "FISCAL", "PROCURADOR", "COORDINADOR",
-               "COMISIONAD", "PRESIDENT", "VOCER", "CONSEJER", "OFICIAL MAYOR",
-               "ENCARGAD")
+               "COMISIONAD", "COMISARI", "PRESIDENT", "VOCER", "CONSEJER",
+               "OFICIAL MAYOR", "ENCARGAD", "BENEFICIARI", "REPRESENTANTE",
+               "EMBAJADOR", "CONSUL", "SENADOR", "DIPUTAD", "RECTOR")
 
 # Entidades federativas, ordenadas para que el match más largo gane
 # (p. ej. "BAJA CALIFORNIA SUR" antes que "BAJA CALIFORNIA").
