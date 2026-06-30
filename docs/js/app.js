@@ -391,18 +391,33 @@ let currentCat       = "todos";            // filtro por tipo de funcionario
 let currentActorKeys = [];                 // claves del eje del chart actual
 let speakersData     = null;
 
+const CAT_LABEL = {
+  todos: "funcionarios", secretarios: "secretarios",
+  gobernadores: "gobernadores", directores: "directores", otros: "otros",
+};
+
 function parseName(nombre) {
   const parts = nombre.split(",").map(s => s.trim());
   if (parts.length === 1) return { cargo: "", nombre: parts[0] };
   return { cargo: parts[0], nombre: parts.slice(1).join(",").trim() };
 }
 
-function actorCategoria(nombre) {
-  const u = nombre.toUpperCase();
-  if (u.includes("GOBERNADOR")) return "gobernadores";
-  if (u.includes("DIRECTOR"))   return "directores";
-  if (u.includes("SECRETARI"))  return "secretarios";   // incluye subsecretarios
-  return "otros";
+// Funcionarios de la categoría activa
+function actoresDeCategoria(cat) {
+  return speakersData.top_funcionarios.filter(a => cat === "todos" || a.categoria === cat);
+}
+
+// Fechas (una por turno) del objeto activo: un actor concreto o el AGREGADO
+// de toda la categoría seleccionada.
+function getActiveFechas() {
+  if (selectedActor) return speakersData.actor_fechas[selectedActor] || [];
+  return actoresDeCategoria(currentCat).flatMap(a => speakersData.actor_fechas[a.nombre] || []);
+}
+
+function getActiveTitle() {
+  if (selectedActor) return parseName(selectedActor).nombre || selectedActor;
+  const n = actoresDeCategoria(currentCat).length;
+  return `Todos los ${CAT_LABEL[currentCat]} (${n}) — agregado`;
 }
 
 // Rango temporal completo del corpus (lo fija init desde corpus_stats)
@@ -434,17 +449,14 @@ function buildActorTimeline(fechas, gran, metric) {
   return { labels, data, keys: ejeKeys };
 }
 
-function renderActorChart(nombre, gran, metric) {
-  const fechas = speakersData.actor_fechas[nombre];
-  if (!fechas) return;
-
-  const { labels, data, keys } = buildActorTimeline(fechas, gran, metric);
+// Dibuja la gráfica del objeto activo (actor o agregado de la categoría)
+function renderActorChart() {
+  const fechas = getActiveFechas();
+  const { labels, data, keys } = buildActorTimeline(fechas, currentGran, currentMetric);
   currentActorKeys = keys;
-  const parsed = parseName(nombre);
-  const metricLabel = metric === "apariciones" ? "Apariciones (conferencias)" : "Intervenciones (turnos)";
+  const metricLabel = currentMetric === "apariciones" ? "Apariciones (conferencias)" : "Intervenciones (turnos)";
 
-  $("actors-chart-title").textContent = parsed.nombre || nombre;
-  $("actors-hint").style.display = "none";
+  $("actors-chart-title").textContent = getActiveTitle();
   $("actors-tip").style.display = "block";
   $("actors-chart-wrap").style.display = "block";
   $("actor-detail").innerHTML = "";   // limpiar detalle previo
@@ -487,10 +499,11 @@ function renderActorChart(nombre, gran, metric) {
 }
 
 // Al hacer clic en una barra: lista las fechas (conferencias) de ese periodo
-// con enlace a la versión estenográfica en gob.mx.
+// con enlace a la versión estenográfica en gob.mx. Sirve para un actor o para
+// el agregado de la categoría.
 function showActorDetail(periodKey) {
-  if (!selectedActor || !periodKey) return;
-  const fechas = speakersData.actor_fechas[selectedActor]
+  if (!periodKey) return;
+  const fechas = getActiveFechas()
     .filter(f => (currentGran === "anio" ? f.slice(0, 4) : f.slice(0, 7)) === periodKey);
 
   const porFecha = {};
@@ -517,23 +530,21 @@ function showActorDetail(periodKey) {
     </div>`;
 }
 
-function renderActorsList(filtro) {
+// Cambia de categoría: rellena la lista y muestra el AGREGADO por defecto.
+function selectCategoria(cat) {
+  currentCat = cat;
+  selectedActor = null;
+  const actores = actoresDeCategoria(cat);
+
+  $("actors-list-head").textContent =
+    `${actores.length} ${CAT_LABEL[cat]} · clic para uno`;
+
   const list = $("actors-list");
   list.innerHTML = "";
-
-  const actores = speakersData.top_funcionarios.filter(a =>
-    filtro === "todos" || actorCategoria(a.nombre) === filtro);
-
-  if (actores.length === 0) {
-    list.innerHTML = `<p class="kwic-empty" style="padding:1rem">Sin funcionarios en esta categoría.</p>`;
-    return;
-  }
-
   actores.forEach((actor, i) => {
     const { cargo, nombre } = parseName(actor.nombre);
     const item = document.createElement("div");
     item.className = "actor-item";
-    item.dataset.nombre = actor.nombre;
     item.innerHTML = `
       <span class="actor-rank">${i + 1}</span>
       <div class="actor-info">
@@ -546,14 +557,14 @@ function renderActorsList(filtro) {
       document.querySelectorAll(".actor-item").forEach(el => el.classList.remove("selected"));
       item.classList.add("selected");
       selectedActor = actor.nombre;
-      renderActorChart(actor.nombre, currentGran, currentMetric);
+      renderActorChart();
     });
 
     list.appendChild(item);
   });
 
-  // Seleccionar el primero por defecto
-  list.querySelector(".actor-item")?.click();
+  // Por defecto: agregado de toda la categoría (ningún actor seleccionado)
+  renderActorChart();
 }
 
 // ── Bootstrap ────────────────────────────────────────────────────────────────
@@ -604,13 +615,12 @@ async function init() {
     };
     viewInitializers.actores = () => {
       speakersData = speakers;
-      renderActorsList(currentCat);
+      selectCategoria(currentCat);   // muestra el agregado de "Todos" por defecto
       document.querySelectorAll(".cat-pill").forEach(btn => {
         btn.addEventListener("click", () => {
           document.querySelectorAll(".cat-pill").forEach(b => b.classList.remove("active"));
           btn.classList.add("active");
-          currentCat = btn.dataset.cat;
-          renderActorsList(currentCat);   // re-selecciona el primero del filtro
+          selectCategoria(btn.dataset.cat);   // agregado de la categoría por defecto
         });
       });
       document.querySelectorAll(".gran-pill").forEach(btn => {
@@ -618,7 +628,7 @@ async function init() {
           document.querySelectorAll(".gran-pill").forEach(b => b.classList.remove("active"));
           btn.classList.add("active");
           currentGran = btn.dataset.gran;
-          if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
+          renderActorChart();
         });
       });
       document.querySelectorAll(".metric-pill").forEach(btn => {
@@ -626,7 +636,7 @@ async function init() {
           document.querySelectorAll(".metric-pill").forEach(b => b.classList.remove("active"));
           btn.classList.add("active");
           currentMetric = btn.dataset.metric;
-          if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
+          renderActorChart();
         });
       });
     };

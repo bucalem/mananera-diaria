@@ -344,6 +344,27 @@ def build_framing(turns_any: list[dict]) -> dict:
 # Speakers / participación
 # ---------------------------------------------------------------------------
 
+TRAILING_PAREN = re.compile(r"\s*\([^)]*\)\s*$")
+
+
+def normaliza_hablante(h: str) -> str:
+    """Quita la anotación final entre paréntesis (p. ej. '(ENLACE
+    VIDEOLLAMADA)') para que el mismo funcionario no se cuente dos veces.
+    No toca paréntesis internos del cargo (p. ej. '(CONAGUA)')."""
+    return TRAILING_PAREN.sub("", h).strip()
+
+
+def categoria_funcionario(nombre: str) -> str:
+    u = nombre.upper()
+    if "GOBERNADOR" in u or "JEFE DE GOBIERNO" in u or "JEFA DE GOBIERNO" in u:
+        return "gobernadores"   # incluye Jefatura de Gobierno de la CDMX
+    if "DIRECTOR" in u:
+        return "directores"
+    if "SECRETARI" in u:
+        return "secretarios"    # incluye subsecretarios
+    return "otros"
+
+
 def build_speakers(turns: list[dict]) -> dict:
     """Top funcionarios, ratios de voz por mes, y fechas de aparición por actor."""
     func_counter = Counter()
@@ -351,17 +372,24 @@ def build_speakers(turns: list[dict]) -> dict:
 
     for t in turns:
         if t["tipo"] == "funcionario":
-            func_counter[t["hablante"]] += 1
-            func_fechas[t["hablante"]].append(t["fecha"])
+            nom = normaliza_hablante(t["hablante"])
+            func_counter[nom] += 1
+            func_fechas[nom].append(t["fecha"])
 
-    top_nombres = [n for n, _ in func_counter.most_common(100)]
+    # Selección: TODOS los gobernadores y secretarios (aunque sean poco
+    # frecuentes) + los 100 más frecuentes del resto.
+    seleccion = {n for n in func_counter
+                 if categoria_funcionario(n) in ("gobernadores", "secretarios")}
+    seleccion.update(n for n, _ in func_counter.most_common(100))
+
+    nombres = sorted(seleccion, key=lambda n: -func_counter[n])
     top_funcionarios = [
-        {"nombre": nombre, "apariciones": func_counter[nombre]}
-        for nombre in top_nombres
+        {"nombre": n, "apariciones": func_counter[n], "categoria": categoria_funcionario(n)}
+        for n in nombres
     ]
     # Una entrada por turno (sin deduplicar fechas): así la gráfica temporal
     # suma los mismos turnos que el total mostrado en la lista.
-    actor_fechas = {nombre: sorted(func_fechas[nombre]) for nombre in top_nombres}
+    actor_fechas = {n: sorted(func_fechas[n]) for n in nombres}
 
     # Ratio de palabras por tipo por mes
     por_mes: dict[str, dict] = defaultdict(lambda: defaultdict(int))

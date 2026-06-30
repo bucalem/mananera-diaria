@@ -162,6 +162,17 @@ nav ul li a.active { color: var(--white); border-bottom-color: var(--green-light
 #kwic-page-info { font-size: .85rem; color: var(--gray-700); white-space: nowrap; }
 
 /* ── Actors ──────────────────────────────────────────────── */
+/* Barra de controles horizontal */
+.actors-toolbar {
+  display: flex; flex-wrap: wrap; gap: 1.25rem 2rem;
+  align-items: center;
+  background: var(--white); border-radius: 10px;
+  padding: .9rem 1.25rem; margin-bottom: 1.25rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+}
+.toolbar-group { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
+.toolbar-group .info-icon { margin-left: .25rem; }
+
 .actors-layout {
   display: grid;
   grid-template-columns: 300px 1fr;
@@ -169,6 +180,13 @@ nav ul li a.active { color: var(--white); border-bottom-color: var(--green-light
   align-items: start;
 }
 @media (max-width: 760px) { .actors-layout { grid-template-columns: 1fr; } }
+
+.actors-list-head {
+  font-size: .75rem; font-weight: 700; color: var(--gray-700);
+  text-transform: uppercase; letter-spacing: .04em;
+  padding: .75rem 1rem; background: var(--gray-100);
+  border-bottom: 1px solid var(--gray-200);
+}
 
 /* Panel izquierdo: lista */
 .actors-list-panel {
