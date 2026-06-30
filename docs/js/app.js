@@ -202,6 +202,7 @@ function renderEncuadre(speakers, meses, corpus) {
 
 let corpusPres      = null;   // [[fecha, texto], …] ordenado desc por fecha
 let stopwordsSet    = null;   // stopwords funcionales a rechazar
+let fechaUrl        = null;   // {fecha: url de gob.mx}
 let kwicAllResults  = [];
 let kwicCurrentPage = 0;
 let kwicTerm        = "";
@@ -211,11 +212,26 @@ const KWIC_WINDOW   = 60;     // caracteres de contexto a cada lado
 async function loadCorpus() {
   if (corpusPres) return;
   $("kwic-status").textContent = "Cargando corpus (~4 MB, solo la primera vez)…";
-  [corpusPres, stopwordsSet] = await Promise.all([
+  [corpusPres, stopwordsSet, fechaUrl] = await Promise.all([
     loadJSON("json/corpus_presidenta.json"),
     loadJSON("json/stopwords.json").then(arr => new Set(arr)),
+    loadJSON("json/fecha_url.json"),
   ]);
   $("kwic-status").textContent = "";
+}
+
+// Construye un enlace al segmento exacto de la conferencia usando Text
+// Fragments de Chrome (#:~:text=). Toma una frase contigua desde la palabra
+// para que el navegador haga scroll y la resalte en la página de gob.mx.
+function buildSegmentLink(fecha, texto, idx, termLen) {
+  const base = fechaUrl[fecha];
+  if (!base) return null;
+  const snippet = texto.slice(idx, idx + 170);
+  const words = snippet.split(/\s+/).slice(0, 12);
+  if (words.length > 6) words.pop();   // descarta la última palabra (cortada)
+  const frase = words.join(" ").replace(/[.,;:¿?¡!"]+$/, "").trim();
+  if (!frase) return base;
+  return `${base}#:~:text=${encodeURIComponent(frase)}`;
 }
 
 const escapeRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -242,6 +258,7 @@ function searchCorpus(term) {
       results.push({
         fecha,
         ctx: (start > 0 ? "…" : "") + texto.slice(start, end) + (end < texto.length ? "…" : ""),
+        link: buildSegmentLink(fecha, texto, m.index, term.length),
       });
     }
   }
@@ -256,7 +273,10 @@ function renderKwicPage() {
 
   $("kwic-results").innerHTML = kwicAllResults.slice(start, end).map(h => `
     <div class="kwic-card">
-      <div class="kwic-date">${h.fecha}</div>
+      <div class="kwic-card-head">
+        <span class="kwic-date">${h.fecha}</span>
+        ${h.link ? `<a class="kwic-link" href="${h.link}" target="_blank" rel="noopener">Ver en gob.mx ↗</a>` : ""}
+      </div>
       <div class="kwic-text">${highlight(h.ctx, kwicTerm)}</div>
     </div>`).join("");
 

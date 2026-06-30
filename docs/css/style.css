@@ -135,7 +135,13 @@ nav ul li a:hover { color: var(--white); background: rgba(255,255,255,.1); }
   padding: .9rem 1.1rem; box-shadow: 0 1px 3px rgba(0,0,0,.06);
   font-size: .88rem;
 }
-.kwic-date { font-size: .75rem; color: var(--gray-500); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; margin-bottom: .35rem; }
+.kwic-card-head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: .35rem; }
+.kwic-date { font-size: .75rem; color: var(--gray-500); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+.kwic-link {
+  font-size: .75rem; font-weight: 600; color: var(--green-mid);
+  text-decoration: none; white-space: nowrap; flex-shrink: 0;
+}
+.kwic-link:hover { text-decoration: underline; color: var(--green-dark); }
 .kwic-text { color: var(--gray-700); line-height: 1.6; }
 .kwic-text mark { background: var(--green-pale); color: var(--green-dark); border-radius: 3px; padding: 0 2px; }
 .kwic-empty, .kwic-loading { color: var(--gray-500); font-size: .9rem; padding: 1rem 0; }

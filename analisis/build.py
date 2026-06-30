@@ -33,6 +33,7 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 # ---------------------------------------------------------------------------
 
 ROOT = Path(__file__).parent.parent
+CORPUS_DIR = ROOT / "corpus"
 TURNS_JSON = Path(__file__).parent / "turns.json"
 DOCS_JSON = ROOT / "docs" / "json"
 DOCS_JSON.mkdir(parents=True, exist_ok=True)
@@ -408,6 +409,22 @@ def build_stopwords_kwic() -> list:
     return sorted(nltk_sw.words("spanish"))
 
 
+def build_fecha_url() -> dict:
+    """Mapa fecha → URL de la conferencia en gob.mx, para enlazar cada
+    resultado del buscador a su fuente original."""
+    mapa = {}
+    for path in sorted(CORPUS_DIR.glob("*.txt")):
+        url = fecha = ""
+        for ln in path.read_text(encoding="utf-8").splitlines()[:3]:
+            if ln.startswith("URL:"):
+                url = ln[4:].strip()
+            elif ln.startswith("Fecha:"):
+                fecha = ln[6:].strip()
+        if fecha and url:
+            mapa[fecha] = url
+    return mapa
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -471,6 +488,12 @@ def main():
         json.dumps(build_stopwords_kwic(), ensure_ascii=False), encoding="utf-8"
     )
     print(f"  → stopwords.json")
+
+    fecha_url = build_fecha_url()
+    (DOCS_JSON / "fecha_url.json").write_text(
+        json.dumps(fecha_url, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  → fecha_url.json ({len(fecha_url)} conferencias)")
 
     # kwic.json pre-construido ya no se usa (búsqueda ahora es en cliente)
     obsoleto = DOCS_JSON / "kwic.json"
