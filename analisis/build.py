@@ -398,13 +398,22 @@ def clave_persona(hablante: str) -> str:
 
 
 def categoria_funcionario(nombre: str) -> str:
-    u = nombre.upper()
+    u = _sin_acentos(nombre.upper())
     if "GOBERNADOR" in u or "JEFE DE GOBIERNO" in u or "JEFA DE GOBIERNO" in u:
         return "gobernadores"   # incluye Jefatura de Gobierno de la CDMX
     if "DIRECTOR" in u:
         return "directores"
     if "SECRETARI" in u:
-        return "secretarios"    # incluye subsecretarios
+        # 'Secretarios' = gabinete federal (incluye subsecretarios y titulares).
+        # Se excluyen (→ otros): líderes sindicales, funcionarios extranjeros
+        # y secretarías de gobiernos estatales.
+        es_sindical = ("SINDICATO" in u or "CONFEDERACION" in u
+                       or "SECRETARIO GENERAL" in u or "SECRETARIA GENERAL" in u)
+        es_extranjero = "ESTADOS UNIDOS DE AMERICA" in u
+        es_estatal = detecta_estado(nombre) is not None
+        if es_sindical or es_extranjero or es_estatal:
+            return "otros"
+        return "secretarios"
     return "otros"
 
 
