@@ -1,29 +1,47 @@
 {
-  "fecha": "2026-06-29",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de junio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-junio-de-2026?idiom=es",
+  "fecha": "2026-06-30",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 30 de junio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-30-de-junio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 66,
+  "n_preguntas": 103,
   "temas": [
-    "Pueblos indígenas",
-    "Indígenas afromexicanos",
-    "Vender refinería",
-    "Piedra caliza",
-    "Comité técnico",
-    "Indígenas inpi"
+    "Vih",
+    "Registro proveedores",
+    "Landers upax",
+    "Medicamentos",
+    "Camas eléctricas",
+    "Vida sexual"
   ],
   "participantes": [
     {
-      "nombre": "ADELFO REGINO MONTES",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS (INPI)",
-      "categoria": "directores",
-      "intervenciones": 16
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
+      "categoria": "secretarios",
+      "intervenciones": 625
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 1
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
+      "intervenciones": 45
+    },
+    {
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "JOSÉ ANTONIO MENDOZA BELMONT",
+      "cargo": "DIRECTOR GENERAL ADSCRITO A LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA",
+      "categoria": "directores",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "categoria": "directores",
+      "intervenciones": 9
     }
   ]
 }
