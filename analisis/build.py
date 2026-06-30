@@ -386,6 +386,42 @@ def categoria_funcionario(nombre: str) -> str:
     return "otros"
 
 
+# Entidades federativas, ordenadas para que el match más largo gane
+# (p. ej. "BAJA CALIFORNIA SUR" antes que "BAJA CALIFORNIA").
+ESTADOS = [
+    "CIUDAD DE MEXICO", "ESTADO DE MEXICO", "BAJA CALIFORNIA SUR",
+    "BAJA CALIFORNIA", "SAN LUIS POTOSI", "QUINTANA ROO", "NUEVO LEON",
+    "AGUASCALIENTES", "CAMPECHE", "COAHUILA", "COLIMA", "CHIAPAS",
+    "CHIHUAHUA", "DURANGO", "GUANAJUATO", "GUERRERO", "HIDALGO", "JALISCO",
+    "MICHOACAN", "MORELOS", "NAYARIT", "OAXACA", "PUEBLA", "QUERETARO",
+    "SINALOA", "SONORA", "TABASCO", "TAMAULIPAS", "TLAXCALA", "VERACRUZ",
+    "YUCATAN", "ZACATECAS",
+]
+
+
+def detecta_estado(hablante: str) -> str | None:
+    """Identifica la entidad federativa en el cargo de un gobernador, para
+    fusionar todas sus variantes (un gobernador por entidad)."""
+    u = _sin_acentos(hablante.upper())
+    # La Jefatura de Gobierno es única (CDMX), aunque omita "Ciudad de México"
+    if "JEFE DE GOBIERNO" in u or "JEFA DE GOBIERNO" in u:
+        return "CIUDAD DE MEXICO"
+    for est in ESTADOS:
+        if est in u:
+            return est
+    return None
+
+
+def clave_merge(hablante: str) -> str:
+    """Clave para fusionar variantes del mismo funcionario. Gobernadores por
+    entidad (robusto a erratas, apodos y formato); el resto por nombre."""
+    if categoria_funcionario(hablante) == "gobernadores":
+        est = detecta_estado(hablante)
+        if est:
+            return "GOB::" + est
+    return clave_persona(hablante)
+
+
 def build_speakers(turns: list[dict]) -> dict:
     """Top funcionarios, ratios de voz por mes, y fechas de aparición por actor."""
     # 1ª pasada: contar por hablante normalizado (sin "(ENLACE VIDEOLLAMADA)")
@@ -401,7 +437,7 @@ def build_speakers(turns: list[dict]) -> dict:
     # El nombre mostrado es la variante con más turnos del grupo.
     variantes_por_clave: dict[str, list] = defaultdict(list)
     for nom in counts_norm:
-        variantes_por_clave[clave_persona(nom)].append(nom)
+        variantes_por_clave[clave_merge(nom)].append(nom)
 
     func_counter = Counter()
     func_fechas: dict[str, list] = defaultdict(list)
