@@ -373,6 +373,11 @@ def _sin_acentos(s: str) -> str:
                    if unicodedata.category(c) != "Mn")
 
 
+def _tiene_cargo(seg: str) -> bool:
+    u = _sin_acentos(seg.upper())
+    return any(k in u for k in CARGO_STEMS)
+
+
 def _segmento_nombre(hablante: str) -> str:
     """Segmento que contiene el nombre, manejando 'CARGO, NOMBRE' y el formato
     invertido 'NOMBRE, CARGO' (incluso con cargos que llevan comas internas)."""
@@ -381,7 +386,14 @@ def _segmento_nombre(hablante: str) -> str:
         return segs[0]
     u0 = _sin_acentos(segs[0].upper())
     empieza_con_cargo = any(u0.startswith(k) for k in CARGO_STEMS)
-    return segs[-1] if empieza_con_cargo else segs[0]
+    cand = segs[-1] if empieza_con_cargo else segs[0]
+    # Si el candidato todavía contiene términos de cargo (línea mal partida),
+    # usar el otro extremo si ése sí parece nombre limpio.
+    if _tiene_cargo(cand):
+        otro = segs[0] if cand is segs[-1] else segs[-1]
+        if not _tiene_cargo(otro):
+            cand = otro
+    return cand
 
 
 def clave_persona(hablante: str) -> str:
@@ -464,15 +476,86 @@ def build_speakers(turns: list[dict]) -> dict:
             counts_norm[nom] += 1
             fechas_norm[nom].append(t["fecha"])
 
-    # 2ª pasada: fusionar variantes de la misma persona (nombre canónico).
-    # El nombre mostrado es la variante con más turnos del grupo.
+    # 2ª pasada: fusionar variantes de la misma persona (gobernadores por
+    # entidad; el resto por apellidos).
     variantes_por_clave: dict[str, list] = defaultdict(list)
     for nom in counts_norm:
         variantes_por_clave[clave_merge(nom)].append(nom)
 
+    # 3ª pasada (refinamiento): fusionar grupos cuyo nombre completo está
+    # contenido en otro y comparten primer nombre (atrapa truncamientos como
+    # "Eduardo Clark Dobarganes" ⊂ "Eduardo Clark García Dobarganes", o
+    # "Juan Ramón de la Fuente" ⊂ "Juan Ramón de la Fuente Ramírez").
+    grupos = list(variantes_por_clave.values())
+
+    def toks_canon(variantes):
+        canon = max(variantes, key=lambda v: counts_norm[v])
+        return [t for t in _sin_acentos(_segmento_nombre(canon).upper()).split()
+                if t not in PARTICULAS and t not in HONORIFICOS]
+
+    info = [{"vars": v, "cat": categoria_funcionario(
+                max(v, key=lambda x: counts_norm[x])),
+             "toks": toks_canon(v)} for v in grupos]
+
+    parent = list(range(len(info)))
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    for i in range(len(info)):
+        for j in range(i + 1, len(info)):
+            a, b = info[i], info[j]
+            if a["cat"] != b["cat"] or not a["toks"] or not b["toks"]:
+                continue
+            sa_, sb = set(a["toks"]), set(b["toks"])
+            corto, largo = (sa_, sb) if len(sa_) <= len(sb) else (sb, sa_)
+            if len(corto) >= 2 and corto <= largo and a["toks"][0] == b["toks"][0]:
+                parent[find(i)] = find(j)
+
+    fusionados: dict[int, list] = defaultdict(list)
+    for idx, g in enumerate(info):
+        fusionados[find(idx)].extend(g["vars"])
+
+    # 4ª pasada: entradas sin nombre (líneas mal transcritas cuyo "nombre"
+    # sigue siendo puro cargo) se atan al titular con el cargo más parecido.
+    def canon_of(vs):
+        return max(vs, key=lambda v: counts_norm[v])
+
+    def cargo_tokens(h):
+        full = {t for t in _sin_acentos(h.upper()).split() if t not in PARTICULAS}
+        nom = set(_sin_acentos(_segmento_nombre(h).upper()).split())
+        return full - nom
+
+    grupos_finales = list(fusionados.values())
+    con_nombre, sin_nombre = [], []
+    for vs in grupos_finales:
+        (sin_nombre if _tiene_cargo(_segmento_nombre(canon_of(vs))) else con_nombre).append(vs)
+
+    for vs in sin_nombre:
+        c = canon_of(vs)
+        cat = categoria_funcionario(c)
+        ct = {t for t in _sin_acentos(c.upper()).split() if t not in PARTICULAS}
+        mejor, mejor_score = None, 0.0
+        for nvs in con_nombre:
+            nc = canon_of(nvs)
+            if categoria_funcionario(nc) != cat:
+                continue
+            nct = cargo_tokens(nc)
+            if not nct:
+                continue
+            score = len(ct & nct) / len(nct)   # ¿cubre el cargo del titular?
+            if score > mejor_score:
+                mejor_score, mejor = score, nvs
+        if mejor is not None and mejor_score >= 0.6:
+            mejor.extend(vs)          # fusiona con el titular
+        else:
+            con_nombre.append(vs)     # no hubo match: queda como está
+
     func_counter = Counter()
     func_fechas: dict[str, list] = defaultdict(list)
-    for variantes in variantes_por_clave.values():
+    for variantes in con_nombre:
         canonico = max(variantes, key=lambda v: counts_norm[v])
         for v in variantes:
             func_counter[canonico] += counts_norm[v]
