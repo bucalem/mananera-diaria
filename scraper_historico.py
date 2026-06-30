@@ -140,10 +140,10 @@ def recolectar_urls(page, max_pages: int) -> list[dict]:
         except PWTimeout:
             timeouts_consecutivos += 1
             log.warning(f"Timeout en página {pag} ({timeouts_consecutivos} consecutivo/s).")
-            if timeouts_consecutivos >= 2:
-                log.info("2 timeouts consecutivos — fin del archivo detectado.")
+            if timeouts_consecutivos >= 5:
+                log.info("5 timeouts consecutivos — fin del archivo detectado.")
                 break
-            time.sleep(PAUSA_S * 2)
+            time.sleep(PAUSA_S * 5)
             continue
 
         # Fin del archivo: página cargó pero no tiene artículos
