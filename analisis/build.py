@@ -20,6 +20,7 @@ Salidas en docs/json/:
 import json
 import re
 import sys
+import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -354,6 +355,26 @@ def normaliza_hablante(h: str) -> str:
     return TRAILING_PAREN.sub("", h).strip()
 
 
+PARTICULAS = {"DE", "DEL", "LA", "LAS", "LOS", "Y", "SAN"}
+
+
+def _sin_acentos(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFD", s)
+                   if unicodedata.category(c) != "Mn")
+
+
+def clave_persona(hablante: str) -> str:
+    """Clave de identidad robusta a variantes: primer nombre + dos apellidos
+    (ignora segundos nombres y diferencias de cargo). Así 'CLARA BRUGADA
+    MOLINA' y 'CLARA MARINA BRUGADA MOLINA' caen en la misma persona."""
+    nombre = hablante.split(",", 1)[1] if "," in hablante else hablante
+    toks = [t for t in _sin_acentos(nombre.upper()).split() if t]
+    sig = [t for t in toks if t not in PARTICULAS]
+    if len(sig) <= 1:
+        return " ".join(sig) or _sin_acentos(hablante.upper())
+    return sig[0] + "|" + "|".join(sig[-2:])
+
+
 def categoria_funcionario(nombre: str) -> str:
     u = nombre.upper()
     if "GOBERNADOR" in u or "JEFE DE GOBIERNO" in u or "JEFA DE GOBIERNO" in u:
@@ -367,14 +388,28 @@ def categoria_funcionario(nombre: str) -> str:
 
 def build_speakers(turns: list[dict]) -> dict:
     """Top funcionarios, ratios de voz por mes, y fechas de aparición por actor."""
-    func_counter = Counter()
-    func_fechas: dict[str, list] = defaultdict(list)
-
+    # 1ª pasada: contar por hablante normalizado (sin "(ENLACE VIDEOLLAMADA)")
+    counts_norm = Counter()
+    fechas_norm: dict[str, list] = defaultdict(list)
     for t in turns:
         if t["tipo"] == "funcionario":
             nom = normaliza_hablante(t["hablante"])
-            func_counter[nom] += 1
-            func_fechas[nom].append(t["fecha"])
+            counts_norm[nom] += 1
+            fechas_norm[nom].append(t["fecha"])
+
+    # 2ª pasada: fusionar variantes de la misma persona (nombre canónico).
+    # El nombre mostrado es la variante con más turnos del grupo.
+    variantes_por_clave: dict[str, list] = defaultdict(list)
+    for nom in counts_norm:
+        variantes_por_clave[clave_persona(nom)].append(nom)
+
+    func_counter = Counter()
+    func_fechas: dict[str, list] = defaultdict(list)
+    for variantes in variantes_por_clave.values():
+        canonico = max(variantes, key=lambda v: counts_norm[v])
+        for v in variantes:
+            func_counter[canonico] += counts_norm[v]
+            func_fechas[canonico].extend(fechas_norm[v])
 
     # Selección: TODOS los gobernadores y secretarios (aunque sean poco
     # frecuentes) + los 100 más frecuentes del resto.
