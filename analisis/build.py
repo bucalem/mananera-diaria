@@ -387,54 +387,25 @@ def build_speakers(turns: list[dict]) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# KWIC (Key Word In Context)
+# Corpus de la presidenta para KWIC en cliente
 # ---------------------------------------------------------------------------
 
-KWIC_WINDOW = 60   # caracteres a cada lado de la palabra
-MAX_KWIC_PER_WORD = 80
-TOP_KWIC_WORDS = 200
-
-
-TOKEN_RE = re.compile(r"[a-záéíóúüñ]{4,}")
-
-
-def build_kwic(turns_pres: list[dict]) -> dict:
+def build_corpus_presidenta(turns_pres: list[dict]) -> list:
     """
-    Indexa por FORMA DE SUPERFICIE (la palabra tal como aparece en el texto,
-    no su lema), para que el usuario pueda buscar "mujeres", "niños", etc. y
-    obtenga resultados completos. Toma las 200 formas más frecuentes (≥4 letras,
-    sin stopwords) y guarda hasta 80 ejemplos en contexto por cada una.
+    Exporta los turnos de la presidenta como pares [fecha, texto] (compacto),
+    ordenados de más reciente a más antiguo. La búsqueda KWIC se hace en el
+    navegador sobre este corpus, permitiendo buscar CUALQUIER palabra.
     """
-    # 1ª pasada: contar formas de superficie en los turnos de la presidenta
-    freq_superficie = Counter()
-    for t in turns_pres:
-        for tok in TOKEN_RE.findall(t["texto"].lower()):
-            if tok not in STOPWORDS:
-                freq_superficie[tok] += 1
+    pares = [[t["fecha"], t["texto"]] for t in turns_pres]
+    pares.sort(key=lambda x: x[0], reverse=True)
+    return pares
 
-    top_words = set(w for w, _ in freq_superficie.most_common(TOP_KWIC_WORDS))
-    fragmentos_por_word: dict[str, list] = {w: [] for w in top_words}
 
-    # 2ª pasada: extraer contextos
-    for t in turns_pres:
-        texto = t["texto"]
-        texto_lower = texto.lower()
-        # palabras candidatas presentes en este turno (evita recorrer las 200)
-        presentes = top_words.intersection(TOKEN_RE.findall(texto_lower))
-        for word in presentes:
-            if len(fragmentos_por_word[word]) >= MAX_KWIC_PER_WORD:
-                continue
-            for m in re.finditer(r"\b" + re.escape(word) + r"\b", texto_lower):
-                start = max(0, m.start() - KWIC_WINDOW)
-                end = min(len(texto), m.end() + KWIC_WINDOW)
-                fragmentos_por_word[word].append({
-                    "fecha": t["fecha"],
-                    "ctx": ("…" if start > 0 else "") + texto[start:end] + ("…" if end < len(texto) else ""),
-                })
-                if len(fragmentos_por_word[word]) >= MAX_KWIC_PER_WORD:
-                    break
-
-    return fragmentos_por_word
+def build_stopwords_kwic() -> list:
+    """Stopwords funcionales (NLTK español) que el buscador KWIC rechaza.
+    No incluye palabras de contenido (méxico, gobierno, programa…), que sí
+    deben poder buscarse."""
+    return sorted(nltk_sw.words("spanish"))
 
 
 # ---------------------------------------------------------------------------
@@ -478,7 +449,7 @@ def main():
     )
     print(f"  → topics.json ({topics['n_topics']} tópicos, {len(topics['por_fecha'])} fechas)")
 
-    print("\n[6/6] Speakers + encuadre + KWIC...")
+    print("\n[6/6] Speakers + encuadre + corpus KWIC...")
     speakers = build_speakers(turns)
     framing_pres  = build_framing(turns_pres)
     framing_total = build_framing(turns)
@@ -490,11 +461,22 @@ def main():
     )
     print(f"  → speakers.json (con actor_fechas y framing presidenta+total)")
 
-    kwic = build_kwic(turns_pres)
-    (DOCS_JSON / "kwic.json").write_text(
-        json.dumps(kwic, ensure_ascii=False), encoding="utf-8"
+    corpus_pres = build_corpus_presidenta(turns_pres)
+    (DOCS_JSON / "corpus_presidenta.json").write_text(
+        json.dumps(corpus_pres, ensure_ascii=False), encoding="utf-8"
     )
-    print(f"  → kwic.json ({len(kwic)} términos)")
+    print(f"  → corpus_presidenta.json ({len(corpus_pres)} turnos)")
+
+    (DOCS_JSON / "stopwords.json").write_text(
+        json.dumps(build_stopwords_kwic(), ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  → stopwords.json")
+
+    # kwic.json pre-construido ya no se usa (búsqueda ahora es en cliente)
+    obsoleto = DOCS_JSON / "kwic.json"
+    if obsoleto.exists():
+        obsoleto.unlink()
+        print("  × kwic.json eliminado (reemplazado por corpus en cliente)")
 
     print("\n✓ Pipeline completado.")
     sizes = {p.name: f"{p.stat().st_size // 1024} KB" for p in DOCS_JSON.glob("*.json")}

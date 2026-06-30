@@ -45,8 +45,8 @@
   <div class="container">
     <div class="section-header">
       <h2>Buscador de contexto (KWIC)</h2>
-      <p>Busca una palabra y ve cómo la usa <strong>la presidenta</strong> en contexto, con fecha de cada conferencia.
-         Disponible para las 200 palabras más frecuentes del corpus.</p>
+      <p>Busca <strong>cualquier palabra</strong> y ve cómo la usa la presidenta en contexto, con fecha de cada conferencia.
+         Resultados ordenados de más reciente a más antiguo (se excluyen palabras funcionales como «el», «de», «que»).</p>
     </div>
     <div class="kwic-search">
       <input type="text" id="kwic-input" placeholder="Ej: agua, seguridad, bienestar, educación…" autocomplete="off">
@@ -135,6 +135,14 @@
     <div class="actors-layout">
       <!-- Lista izquierda -->
       <div class="actors-list-panel">
+        <div class="granularity-bar">
+          <span class="gran-label">Medir:</span>
+          <div class="gran-pills">
+            <button class="metric-pill active" data-metric="intervenciones">Intervenciones</button>
+            <button class="metric-pill" data-metric="apariciones">Apariciones</button>
+          </div>
+          <span class="info-icon" tabindex="0" title="Intervención: cada vez que el actor toma la palabra (puede hablar varias veces en una misma conferencia).&#10;Aparición: cada conferencia (día) en que el actor participó, sin importar cuántas veces habló.">ⓘ</span>
+        </div>
         <div class="granularity-bar">
           <span class="gran-label">Ver por:</span>
           <div class="gran-pills">

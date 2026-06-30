@@ -198,40 +198,69 @@ function renderEncuadre(speakers, meses, corpus) {
   });
 }
 
-// ── KWIC ─────────────────────────────────────────────────────────────────────
+// ── KWIC (búsqueda en cliente sobre el corpus de la presidenta) ──────────────
 
-let kwicData        = null;
+let corpusPres      = null;   // [[fecha, texto], …] ordenado desc por fecha
+let stopwordsSet    = null;   // stopwords funcionales a rechazar
 let kwicAllResults  = [];
 let kwicCurrentPage = 0;
+let kwicTerm        = "";
 const KWIC_PER_PAGE = 15;
+const KWIC_WINDOW   = 60;     // caracteres de contexto a cada lado
 
-async function loadKwic() {
-  if (kwicData) return kwicData;
-  $("kwic-status").textContent = "Cargando índice…";
-  kwicData = await loadJSON("json/kwic.json");
+async function loadCorpus() {
+  if (corpusPres) return;
+  $("kwic-status").textContent = "Cargando corpus (~4 MB, solo la primera vez)…";
+  [corpusPres, stopwordsSet] = await Promise.all([
+    loadJSON("json/corpus_presidenta.json"),
+    loadJSON("json/stopwords.json").then(arr => new Set(arr)),
+  ]);
   $("kwic-status").textContent = "";
-  return kwicData;
 }
 
+const escapeRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
 function highlight(text, word) {
-  const re = new RegExp(`(${word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
+  // Resalta la palabra respetando límites de palabra (con acentos)
+  const re = new RegExp(`(?<![a-záéíóúüñ])(${escapeRe(word)})(?![a-záéíóúüñ])`, "gi");
   return text.replace(re, "<mark>$1</mark>");
+}
+
+function searchCorpus(term) {
+  // Límites de palabra que funcionan con vocales acentuadas (JS \b es ASCII)
+  const re = new RegExp(`(?<![a-záéíóúüñ])${escapeRe(term)}(?![a-záéíóúüñ])`, "gi");
+  const results = [];
+  // corpusPres ya viene ordenado de más reciente a más antiguo
+  for (const [fecha, texto] of corpusPres) {
+    const lower = texto.toLowerCase();
+    if (!lower.includes(term)) continue;
+    let m;
+    re.lastIndex = 0;
+    while ((m = re.exec(lower)) !== null) {
+      const start = Math.max(0, m.index - KWIC_WINDOW);
+      const end   = Math.min(texto.length, m.index + term.length + KWIC_WINDOW);
+      results.push({
+        fecha,
+        ctx: (start > 0 ? "…" : "") + texto.slice(start, end) + (end < texto.length ? "…" : ""),
+      });
+    }
+  }
+  return results;
 }
 
 function renderKwicPage() {
   const start = kwicCurrentPage * KWIC_PER_PAGE;
   const end   = Math.min(start + KWIC_PER_PAGE, kwicAllResults.length);
   const total = kwicAllResults.length;
-  const word  = $("kwic-input").value.trim().toLowerCase();
   const pages = Math.ceil(total / KWIC_PER_PAGE);
 
   $("kwic-results").innerHTML = kwicAllResults.slice(start, end).map(h => `
     <div class="kwic-card">
       <div class="kwic-date">${h.fecha}</div>
-      <div class="kwic-text">${highlight(h.ctx, word)}</div>
+      <div class="kwic-text">${highlight(h.ctx, kwicTerm)}</div>
     </div>`).join("");
 
-  $("kwic-status").textContent = `${total} resultado${total !== 1 ? "s" : ""} · mostrando ${start + 1}–${end}`;
+  $("kwic-status").textContent = `${total.toLocaleString("es-MX")} resultado${total !== 1 ? "s" : ""} · mostrando ${start + 1}–${end}`;
   $("kwic-page-info").textContent = `Página ${kwicCurrentPage + 1} de ${pages}`;
   $("kwic-prev").disabled = kwicCurrentPage === 0;
   $("kwic-next").disabled = kwicCurrentPage >= pages - 1;
@@ -242,22 +271,35 @@ async function doKwicSearch() {
   const term = $("kwic-input").value.trim().toLowerCase();
   if (!term) return;
 
-  const data = await loadKwic();
-  const hits = data[term];
-
-  if (!hits || hits.length === 0) {
-    const similar = Object.keys(data).filter(k => k.startsWith(term.slice(0, 3))).slice(0, 5);
-    $("kwic-results").innerHTML = `<p class="kwic-empty">
-      Sin resultados para "<strong>${term}</strong>".
-      ${similar.length ? `Prueba: ${similar.map(s => `<em>${s}</em>`).join(", ")}.` : ""}
-    </p>`;
+  if (/\s/.test(term) === false && term.length < 3) {
     $("kwic-status").textContent = "";
+    $("kwic-results").innerHTML = `<p class="kwic-empty">Escribe una palabra de al menos 3 letras.</p>`;
     $("kwic-pagination").style.display = "none";
     return;
   }
 
-  kwicAllResults  = hits;
+  await loadCorpus();
+
+  if (stopwordsSet.has(term)) {
+    $("kwic-status").textContent = "";
+    $("kwic-results").innerHTML = `<p class="kwic-empty">
+      "<strong>${term}</strong>" es una palabra funcional (stopword) y no se indexa.
+      Prueba con una palabra de contenido (sustantivo, verbo, adjetivo).</p>`;
+    $("kwic-pagination").style.display = "none";
+    return;
+  }
+
+  kwicTerm = term;
+  kwicAllResults = searchCorpus(term);
   kwicCurrentPage = 0;
+
+  if (kwicAllResults.length === 0) {
+    $("kwic-status").textContent = "";
+    $("kwic-results").innerHTML = `<p class="kwic-empty">Sin resultados para "<strong>${term}</strong>" en los turnos de la presidenta.</p>`;
+    $("kwic-pagination").style.display = "none";
+    return;
+  }
+
   renderKwicPage();
 }
 
@@ -266,6 +308,7 @@ async function doKwicSearch() {
 let actorChart       = null;
 let selectedActor    = null;
 let currentGran      = "mes";
+let currentMetric    = "intervenciones";   // "intervenciones" | "apariciones"
 let speakersData     = null;
 
 function parseName(nombre) {
@@ -278,27 +321,38 @@ function parseName(nombre) {
 let corpusMeses = [];   // ["2024-10", "2024-11", …]
 let corpusAnios = [];   // ["2024", "2025", "2026"]
 
-function buildActorTimeline(fechas, gran) {
+function buildActorTimeline(fechas, gran, metric) {
+  // fechas: una entrada por turno (intervención). Para "apariciones" se
+  // cuentan días/conferencias únicos por periodo.
   const buckets = {};
   fechas.forEach(f => {
     const key = gran === "anio" ? f.slice(0, 4) : f.slice(0, 7);
-    buckets[key] = (buckets[key] || 0) + 1;
+    if (metric === "apariciones") {
+      (buckets[key] ||= new Set()).add(f);
+    } else {
+      buckets[key] = (buckets[key] || 0) + 1;
+    }
   });
 
   // Eje completo y continuo desde octubre 2024 hasta la última actualización,
-  // rellenando con cero los periodos sin apariciones.
+  // rellenando con cero los periodos sin actividad.
   const ejeKeys = gran === "anio" ? corpusAnios : corpusMeses;
   const labels  = ejeKeys.map(k => gran === "anio" ? k : formatMonth(k));
-  const data    = ejeKeys.map(k => buckets[k] || 0);
+  const data    = ejeKeys.map(k => {
+    const b = buckets[k];
+    if (!b) return 0;
+    return metric === "apariciones" ? b.size : b;
+  });
   return { labels, data };
 }
 
-function renderActorChart(nombre, gran) {
+function renderActorChart(nombre, gran, metric) {
   const fechas = speakersData.actor_fechas[nombre];
   if (!fechas) return;
 
-  const { labels, data } = buildActorTimeline(fechas, gran);
+  const { labels, data } = buildActorTimeline(fechas, gran, metric);
   const parsed = parseName(nombre);
+  const metricLabel = metric === "apariciones" ? "Apariciones (conferencias)" : "Intervenciones (turnos)";
 
   $("actors-chart-title").textContent = parsed.nombre || nombre;
   $("actors-hint").style.display = "none";
@@ -307,6 +361,8 @@ function renderActorChart(nombre, gran) {
   if (actorChart) {
     actorChart.data.labels   = labels;
     actorChart.data.datasets[0].data = data;
+    actorChart.data.datasets[0].label = metricLabel;
+    actorChart.options.scales.y.title.text = metricLabel;
     actorChart.update();
     return;
   }
@@ -316,7 +372,7 @@ function renderActorChart(nombre, gran) {
     data: {
       labels,
       datasets: [{
-        label: "Apariciones",
+        label: metricLabel,
         data,
         backgroundColor: ACTOR_COLOR + "CC",
         borderColor: ACTOR_COLOR,
@@ -329,7 +385,8 @@ function renderActorChart(nombre, gran) {
       plugins: { legend: { display: false } },
       scales: {
         x: { grid: { display: false }, ticks: { maxRotation: 45, font: { size: 11 } } },
-        y: { beginAtZero: true, ticks: { stepSize: 1 }, grid: { color: "#F0F0F0" } },
+        y: { beginAtZero: true, ticks: { precision: 0 }, grid: { color: "#F0F0F0" },
+             title: { display: true, text: metricLabel } },
       },
     },
   });
@@ -357,7 +414,7 @@ function renderActorsList(speakers) {
       document.querySelectorAll(".actor-item").forEach(el => el.classList.remove("selected"));
       item.classList.add("selected");
       selectedActor = actor.nombre;
-      renderActorChart(actor.nombre, currentGran);
+      renderActorChart(actor.nombre, currentGran, currentMetric);
     });
 
     list.appendChild(item);
@@ -403,7 +460,17 @@ async function init() {
         document.querySelectorAll(".gran-pill").forEach(b => b.classList.remove("active"));
         btn.classList.add("active");
         currentGran = btn.dataset.gran;
-        if (selectedActor) renderActorChart(selectedActor, currentGran);
+        if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
+      });
+    });
+
+    // Métrica actores (intervenciones vs apariciones)
+    document.querySelectorAll(".metric-pill").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".metric-pill").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentMetric = btn.dataset.metric;
+        if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
       });
     });
 
