@@ -38,16 +38,21 @@ jobs:
             python scraper_historico.py
           fi
 
-      - name: Guardar corpus en el repo
+      - name: Resumen de la última mañanera (temas + participantes)
+        if: ${{ !inputs.dry_run }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python analisis/resumen_ultima.py
+
+      - name: Guardar corpus y resumen en el repo
         if: ${{ !inputs.dry_run }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add corpus/
+          git add corpus/ docs/json/resumen_ultima.json
           if git diff --cached --quiet; then
-            echo "Sin transcripciones nuevas."
+            echo "Sin cambios."
           else
-            COUNT=$(git diff --cached --name-only | wc -l | tr -d ' ')
-            git commit -m "Corpus histórico: ${COUNT} transcripciones"
+            git commit -m "Corpus histórico + resumen ($(date -u +%F))"
             git push
           fi

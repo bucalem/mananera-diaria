@@ -34,6 +34,25 @@
 <!-- ── 1. KWIC (vista inicial) ───────────────────────────── -->
 <section id="kwic" class="view active">
   <div class="container">
+    <!-- Tarjeta: resumen de la última mañanera -->
+    <div class="ultima-card" id="ultima-card" style="display:none">
+      <div class="ultima-head">
+        <span class="ultima-badge">Última mañanera</span>
+        <span class="ultima-fecha" id="ultima-fecha"></span>
+        <a class="ultima-link" id="ultima-link" target="_blank" rel="noopener">Ver en gob.mx ↗</a>
+      </div>
+      <div class="ultima-body">
+        <div class="ultima-col">
+          <h3>Temas principales</h3>
+          <ul id="ultima-temas" class="ultima-temas"></ul>
+        </div>
+        <div class="ultima-col">
+          <h3 id="ultima-part-titulo">Participantes</h3>
+          <div id="ultima-part" class="ultima-part"></div>
+        </div>
+      </div>
+    </div>
+
     <div class="section-header">
       <h2>Buscador de contexto (KWIC)</h2>
       <p>Busca <strong>cualquier palabra</strong> y ve cómo la usa la presidenta en contexto, con fecha de cada conferencia.

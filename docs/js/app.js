@@ -59,6 +59,52 @@ function formatMonth(ym) {
   return `${names[+m]} ${y}`;
 }
 
+// ── Tarjeta "Última mañanera" ─────────────────────────────────────────────────
+
+const CAT_PLURAL = {
+  presidenta: "Presidenta", gobernadores: "Gobernador/a",
+  secretarios: "Secretaría", directores: "Dirección", otros: "Funcionario/a",
+};
+
+async function renderUltima() {
+  let d;
+  try {
+    d = await loadJSON("json/resumen_ultima.json");
+  } catch {
+    return;   // aún no generado; la tarjeta queda oculta
+  }
+
+  $("ultima-fecha").textContent = formatDateLong(d.fecha);
+  const link = $("ultima-link");
+  if (d.url) { link.href = d.url; } else { link.style.display = "none"; }
+
+  const temas = $("ultima-temas");
+  temas.innerHTML = (d.temas && d.temas.length)
+    ? d.temas.map(t => `<li>${t}</li>`).join("")
+    : `<li class="ultima-vacio">Resumen de temas no disponible.</li>`;
+
+  const part = $("ultima-part");
+  const chips = (d.participantes || []).map(p => `
+    <div class="ultima-chip">
+      <span class="cn">${p.nombre}</span>
+      <span class="cc">${p.cargo}</span>
+    </div>`).join("");
+  part.innerHTML = chips +
+    `<div class="ultima-preguntas"><strong>${d.n_preguntas}</strong> preguntas de prensa</div>`;
+  if (!d.participantes || !d.participantes.length) {
+    $("ultima-part-titulo").textContent = "Prensa";
+  }
+
+  $("ultima-card").style.display = "block";
+}
+
+function formatDateLong(iso) {
+  const [y, m, dd] = iso.split("-");
+  const meses = ["", "enero","febrero","marzo","abril","mayo","junio","julio",
+    "agosto","septiembre","octubre","noviembre","diciembre"];
+  return `${+dd} de ${meses[+m]} de ${y}`;
+}
+
 // ── Stats compactas (barra superior) ─────────────────────────────────────────
 
 function renderTopbarStats(stats) {
@@ -599,6 +645,7 @@ async function init() {
     corpusAnios = [...new Set(meses.map(m => m.slice(0, 4)))].sort();
 
     renderTopbarStats(stats);
+    renderUltima();
 
     // Inicializadores diferidos por vista
     viewInitializers.voz      = () => renderVoz(stats, speakers);

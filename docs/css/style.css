@@ -125,6 +125,63 @@ nav ul li a.active { color: var(--white); border-bottom-color: var(--green-light
 
 #kwic-status { font-size: .82rem; color: var(--gray-500); margin-bottom: .75rem; min-height: 1.2em; }
 
+/* ── Tarjeta "Última mañanera" ────────────────────────────── */
+.ultima-card {
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-left: 4px solid var(--green-light);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+}
+.ultima-head {
+  display: flex; align-items: center; gap: .75rem;
+  flex-wrap: wrap; margin-bottom: 1rem;
+}
+.ultima-badge {
+  background: var(--green-dark); color: var(--white);
+  font-size: .7rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .05em; padding: .2rem .6rem; border-radius: 4px;
+}
+.ultima-fecha { font-size: .9rem; font-weight: 600; color: var(--gray-700); }
+.ultima-link {
+  margin-left: auto; font-size: .8rem; font-weight: 600;
+  color: var(--green-mid); text-decoration: none; white-space: nowrap;
+}
+.ultima-link:hover { text-decoration: underline; color: var(--green-dark); }
+
+.ultima-body {
+  display: grid; grid-template-columns: 1.3fr 1fr; gap: 1.75rem;
+}
+@media (max-width: 680px) { .ultima-body { grid-template-columns: 1fr; gap: 1.25rem; } }
+
+.ultima-col h3 {
+  font-size: .78rem; font-weight: 700; color: var(--gray-700);
+  text-transform: uppercase; letter-spacing: .04em; margin-bottom: .6rem;
+}
+.ultima-temas { list-style: none; padding: 0; display: flex; flex-direction: column; gap: .4rem; }
+.ultima-temas li {
+  font-size: .9rem; color: var(--gray-900); line-height: 1.4;
+  padding-left: 1rem; position: relative;
+}
+.ultima-temas li::before {
+  content: "›"; position: absolute; left: 0; color: var(--green-light); font-weight: 700;
+}
+.ultima-temas .ultima-vacio { padding-left: 0; color: var(--gray-500); font-size: .85rem; }
+
+.ultima-part { display: flex; flex-direction: column; gap: .5rem; }
+.ultima-chip {
+  display: flex; flex-direction: column; gap: 1px;
+  background: var(--gray-100); border-radius: 6px; padding: .4rem .65rem;
+}
+.ultima-chip .cn { font-size: .82rem; font-weight: 600; color: var(--gray-900); }
+.ultima-chip .cc { font-size: .72rem; color: var(--gray-500); line-height: 1.3; }
+.ultima-preguntas {
+  font-size: .82rem; color: var(--gray-700); margin-top: .3rem;
+}
+.ultima-preguntas strong { color: var(--green-dark); }
+
 .kwic-trend { padding: 1.25rem 1.5rem; }
 .kwic-trend-title { font-size: .85rem; font-weight: 600; color: var(--gray-700); margin-bottom: .75rem; }
 .kwic-trend canvas { max-height: 180px; }
