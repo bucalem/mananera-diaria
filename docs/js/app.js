@@ -6,7 +6,7 @@
 
 const TOPIC_COLORS = [
   "#1B4332","#2D6A4F","#40916C","#52B788","#74C69D",
-  "#95D5B2","#B7E4C7","#6A994E","#386641","#BC4749",
+  "#95D5B2","#B7E4C7","#6A994E","#386641","#1D3557",
 ];
 
 const FRAME_COLORS = {
@@ -59,21 +59,6 @@ function formatMonth(ym) {
   return `${names[+m]} ${y}`;
 }
 
-function dateToWeek(dateStr) {
-  const d = new Date(dateStr + "T12:00:00");
-  const jan1 = new Date(d.getFullYear(), 0, 1);
-  const w = Math.ceil((((d - jan1) / 86400000) + jan1.getDay() + 1) / 7);
-  return `${d.getFullYear()}-W${String(w).padStart(2, "0")}`;
-}
-
-function weekLabel(wk) {
-  const [y, wStr] = wk.split("-W");
-  const w = +wStr;
-  const d = new Date(+y, 0, 1 + (w - 1) * 7);
-  d.setDate(d.getDate() - d.getDay() + 1);
-  return `${d.getDate()}/${d.getMonth()+1}/${String(d.getFullYear()).slice(-2)}`;
-}
-
 // ── Hero stats ───────────────────────────────────────────────────────────────
 
 function renderHeroStats(stats) {
@@ -87,28 +72,17 @@ function renderHeroStats(stats) {
 
 // ── Distribución de voz ──────────────────────────────────────────────────────
 
-function renderVoz(stats) {
+function renderVoz(stats, speakers) {
   const meses = stats.meses;
   const tipos = ["presidenta", "pregunta", "funcionario", "otro"];
 
-  const porMes = {};
-  meses.forEach(m => { porMes[m] = { presidenta: 0, pregunta: 0, funcionario: 0, otro: 0 }; });
-
-  Object.entries(stats.por_fecha).forEach(([fecha, d]) => {
-    const m = fecha.slice(0, 7);
-    if (!porMes[m]) return;
-    porMes[m].presidenta  += d.presidenta_words || 0;
-    porMes[m].pregunta    += (d.pregunta_turns    || 0) * 30;
-    porMes[m].funcionario += (d.funcionario_turns || 0) * 60;
-    porMes[m].otro        += (d.otro_turns        || 0) * 20;
-  });
+  // Usa los ratios REALES de palabras por tipo calculados en el pipeline
+  // (speakers.ratio_palabras_por_mes), no estimaciones.
+  const ratios = speakers.ratio_palabras_por_mes;
 
   const datasets = tipos.map(tipo => ({
     label: VOZ_LABELS[tipo],
-    data: meses.map(m => {
-      const total = Object.values(porMes[m]).reduce((a, b) => a + b, 0);
-      return total ? Math.round(porMes[m][tipo] / total * 100) : 0;
-    }),
+    data: meses.map(m => ratios[m]?.[tipo] ?? 0),
     backgroundColor: VOZ_COLORS[tipo],
     borderWidth: 0,
   }));
@@ -300,22 +274,23 @@ function parseName(nombre) {
   return { cargo: parts[0], nombre: parts.slice(1).join(",").trim() };
 }
 
+// Rango temporal completo del corpus (lo fija init desde corpus_stats)
+let corpusMeses = [];   // ["2024-10", "2024-11", …]
+let corpusAnios = [];   // ["2024", "2025", "2026"]
+
 function buildActorTimeline(fechas, gran) {
   const buckets = {};
   fechas.forEach(f => {
-    let key;
-    if (gran === "dia")    key = f;
-    else if (gran === "semana") key = dateToWeek(f);
-    else                   key = f.slice(0, 7);
+    const key = gran === "anio" ? f.slice(0, 4) : f.slice(0, 7);
     buckets[key] = (buckets[key] || 0) + 1;
   });
-  const keys = Object.keys(buckets).sort();
-  const labels = keys.map(k => {
-    if (gran === "dia")    return k;
-    if (gran === "semana") return weekLabel(k);
-    return formatMonth(k);
-  });
-  return { labels, data: keys.map(k => buckets[k]) };
+
+  // Eje completo y continuo desde octubre 2024 hasta la última actualización,
+  // rellenando con cero los periodos sin apariciones.
+  const ejeKeys = gran === "anio" ? corpusAnios : corpusMeses;
+  const labels  = ejeKeys.map(k => gran === "anio" ? k : formatMonth(k));
+  const data    = ejeKeys.map(k => buckets[k] || 0);
+  return { labels, data };
 }
 
 function renderActorChart(nombre, gran) {
@@ -404,9 +379,11 @@ async function init() {
     ]);
 
     const meses = stats.meses;
+    corpusMeses = meses;
+    corpusAnios = [...new Set(meses.map(m => m.slice(0, 4)))].sort();
 
     renderHeroStats(stats);
-    renderVoz(stats);
+    renderVoz(stats, speakers);
     renderTopicos(topics, meses);
     renderEncuadre(speakers, meses, "presidenta");
     renderActorsList(speakers);

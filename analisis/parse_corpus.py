@@ -24,13 +24,6 @@ OUTPUT = Path(__file__).parent / "turns.json"
 # Patrones de clasificación
 # ---------------------------------------------------------------------------
 
-PRESIDENTA_RE = re.compile(
-    r"^(PRESIDENTA DE MÉXICO,\s*CLAUDIA SHEINBAUM PARDO)\s*:\s*(.*)", re.DOTALL
-)
-PREGUNTA_RE = re.compile(r"^(PREGUNTA)\s*:\s*(.*)", re.DOTALL)
-INTERVENCION_RE = re.compile(r"^(INTERVENCIÓN[^:]*)\s*:\s*(.*)", re.DOTALL)
-VOZ_RE = re.compile(r"^(VOZ\s+(?:HOMBRE|MUJER)[^:]*)\s*:\s*(.*)", re.DOTALL)
-
 # Cargos que clasifican como funcionario
 CARGO_KEYWORDS = (
     "SECRETARI",
@@ -67,16 +60,13 @@ SPEAKER_RE = re.compile(
 # Acotaciones/anotaciones (líneas entre paréntesis sin hablante)
 ANNOTATION_RE = re.compile(r"^\(.*\)$|^—.*—$|^—000—$")
 
-# Palabras de protocolo a excluir del análisis textual (no del parser)
-PROTOCOL_WORDS = {
-    "gracias", "buenos días", "buenas tardes", "buenas noches",
-    "adelante", "con mucho gusto",
-}
-
 
 def clasificar_hablante(identificador: str) -> str:
     id_upper = identificador.upper()
-    if "PRESIDENTA DE MÉXICO" in id_upper and "SHEINBAUM" in id_upper:
+    # La estenografía usó dos variantes: "PRESIDENTA DE MÉXICO, CLAUDIA
+    # SHEINBAUM PARDO" y (al inicio del sexenio) "PRESIDENTA CLAUDIA SHEINBAUM
+    # PARDO". Basta exigir SHEINBAUM, que no aparece en otros cargos.
+    if "PRESIDENTA" in id_upper and "SHEINBAUM" in id_upper:
         return "presidenta"
     if id_upper.strip() == "PREGUNTA":
         return "pregunta"
@@ -89,7 +79,8 @@ def clasificar_hablante(identificador: str) -> str:
 
 
 def parsear_archivo(path: Path) -> dict:
-    lines = path.read_text(encoding="utf-8").splitlines()
+    contenido = path.read_text(encoding="utf-8")
+    lines = contenido.splitlines()
 
     meta = {"url": "", "fecha": "", "titulo": "", "incompleto": False}
     turnos = []
@@ -103,7 +94,7 @@ def parsear_archivo(path: Path) -> dict:
         elif ln.startswith("Título:"):
             meta["titulo"] = ln[7:].strip()
 
-    if "(CONTINÚA…)" in path.read_text(encoding="utf-8"):
+    if "(CONTINÚA…)" in contenido:
         meta["incompleto"] = True
 
     # Reconstruir turnos: cada línea con "IDENTIFICADOR: texto" inicia un turno;

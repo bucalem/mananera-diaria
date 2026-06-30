@@ -358,7 +358,9 @@ def build_speakers(turns: list[dict]) -> dict:
         {"nombre": nombre, "apariciones": func_counter[nombre]}
         for nombre in top_nombres
     ]
-    actor_fechas = {nombre: sorted(set(func_fechas[nombre])) for nombre in top_nombres}
+    # Una entrada por turno (sin deduplicar fechas): así la gráfica temporal
+    # suma los mismos turnos que el total mostrado en la lista.
+    actor_fechas = {nombre: sorted(func_fechas[nombre]) for nombre in top_nombres}
 
     # Ratio de palabras por tipo por mes
     por_mes: dict[str, dict] = defaultdict(lambda: defaultdict(int))
@@ -393,27 +395,33 @@ MAX_KWIC_PER_WORD = 80
 TOP_KWIC_WORDS = 200
 
 
-def build_kwic(turns_pres: list[dict], word_freq: dict) -> dict:
-    """
-    Para las top-200 palabras del corpus completo, guarda hasta 80 ejemplos
-    de uso en contexto de los turnos de la presidenta.
-    """
-    # Acumular frecuencias de todos los meses para obtener ranking global
-    freq_global = Counter()
-    for mes_freq in word_freq.values():
-        freq_global.update(mes_freq)
+TOKEN_RE = re.compile(r"[a-záéíóúüñ]{4,}")
 
-    top_words = [w for w, _ in freq_global.most_common(TOP_KWIC_WORDS)]
 
-    # Texto plano de todos los turnos presidenta, con fecha
+def build_kwic(turns_pres: list[dict]) -> dict:
+    """
+    Indexa por FORMA DE SUPERFICIE (la palabra tal como aparece en el texto,
+    no su lema), para que el usuario pueda buscar "mujeres", "niños", etc. y
+    obtenga resultados completos. Toma las 200 formas más frecuentes (≥4 letras,
+    sin stopwords) y guarda hasta 80 ejemplos en contexto por cada una.
+    """
+    # 1ª pasada: contar formas de superficie en los turnos de la presidenta
+    freq_superficie = Counter()
+    for t in turns_pres:
+        for tok in TOKEN_RE.findall(t["texto"].lower()):
+            if tok not in STOPWORDS:
+                freq_superficie[tok] += 1
+
+    top_words = set(w for w, _ in freq_superficie.most_common(TOP_KWIC_WORDS))
     fragmentos_por_word: dict[str, list] = {w: [] for w in top_words}
 
+    # 2ª pasada: extraer contextos
     for t in turns_pres:
         texto = t["texto"]
         texto_lower = texto.lower()
-        for word in top_words:
-            if word not in texto_lower:
-                continue
+        # palabras candidatas presentes en este turno (evita recorrer las 200)
+        presentes = top_words.intersection(TOKEN_RE.findall(texto_lower))
+        for word in presentes:
             if len(fragmentos_por_word[word]) >= MAX_KWIC_PER_WORD:
                 continue
             for m in re.finditer(r"\b" + re.escape(word) + r"\b", texto_lower):
@@ -482,7 +490,7 @@ def main():
     )
     print(f"  → speakers.json (con actor_fechas y framing presidenta+total)")
 
-    kwic = build_kwic(turns_pres, word_freq)
+    kwic = build_kwic(turns_pres)
     (DOCS_JSON / "kwic.json").write_text(
         json.dumps(kwic, ensure_ascii=False), encoding="utf-8"
     )
