@@ -262,9 +262,17 @@ def main():
             urls = recolectar_urls(page, max_pages)
             log.info(f"Total URLs encontradas: {len(urls)}")
 
-            pendientes = [u for u in urls if not (CORPUS_DIR / f"{u['fecha']}.txt").exists()]
+            def falta_o_incompleta(u) -> bool:
+                ruta = CORPUS_DIR / f"{u['fecha']}.txt"
+                if not ruta.exists():
+                    return True
+                # Re-descargar si quedó truncada: gob.mx publica la conferencia
+                # por partes y el scraper pudo capturarla antes del Q&A.
+                return "(CONTINÚA…)" in ruta.read_text(encoding="utf-8")
+
+            pendientes = [u for u in urls if falta_o_incompleta(u)]
             ya_existen = len(urls) - len(pendientes)
-            log.info(f"Ya en corpus: {ya_existen} | Por descargar: {len(pendientes)}")
+            log.info(f"Ya en corpus: {ya_existen} | Por descargar/recompletar: {len(pendientes)}")
 
             if dry_run:
                 for u in pendientes:
@@ -282,6 +290,12 @@ def main():
                     continue
 
                 ruta = CORPUS_DIR / f"{u['fecha']}.txt"
+                if "(CONTINÚA…)" in datos["texto"] and ruta.exists():
+                    log.warning(f"  Sigue truncada en gob.mx; se reintentará después.")
+                    fallo += 1
+                    time.sleep(PAUSA_S)
+                    continue
+
                 ruta.write_text(
                     f"URL: {u['url']}\nFecha: {u['fecha']}\nTítulo: {datos['titulo']}\n\n{datos['texto']}",
                     encoding="utf-8",
