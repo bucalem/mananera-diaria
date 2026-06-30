@@ -354,7 +354,7 @@ def build_speakers(turns: list[dict]) -> dict:
             func_counter[t["hablante"]] += 1
             func_fechas[t["hablante"]].append(t["fecha"])
 
-    top_nombres = [n for n, _ in func_counter.most_common(25)]
+    top_nombres = [n for n, _ in func_counter.most_common(100)]
     top_funcionarios = [
         {"nombre": nombre, "apariciones": func_counter[nombre]}
         for nombre in top_nombres

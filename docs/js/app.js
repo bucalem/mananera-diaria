@@ -212,10 +212,9 @@ const KWIC_WINDOW   = 60;     // caracteres de contexto a cada lado
 async function loadCorpus() {
   if (corpusPres) return;
   $("kwic-status").textContent = "Cargando corpus (~4 MB, solo la primera vez)…";
-  [corpusPres, stopwordsSet, fechaUrl] = await Promise.all([
+  [corpusPres, stopwordsSet] = await Promise.all([
     loadJSON("json/corpus_presidenta.json"),
     loadJSON("json/stopwords.json").then(arr => new Set(arr)),
-    loadJSON("json/fecha_url.json"),
   ]);
   $("kwic-status").textContent = "";
 }
@@ -388,12 +387,22 @@ let actorChart       = null;
 let selectedActor    = null;
 let currentGran      = "mes";
 let currentMetric    = "intervenciones";   // "intervenciones" | "apariciones"
+let currentCat       = "todos";            // filtro por tipo de funcionario
+let currentActorKeys = [];                 // claves del eje del chart actual
 let speakersData     = null;
 
 function parseName(nombre) {
   const parts = nombre.split(",").map(s => s.trim());
   if (parts.length === 1) return { cargo: "", nombre: parts[0] };
   return { cargo: parts[0], nombre: parts.slice(1).join(",").trim() };
+}
+
+function actorCategoria(nombre) {
+  const u = nombre.toUpperCase();
+  if (u.includes("GOBERNADOR")) return "gobernadores";
+  if (u.includes("DIRECTOR"))   return "directores";
+  if (u.includes("SECRETARI"))  return "secretarios";   // incluye subsecretarios
+  return "otros";
 }
 
 // Rango temporal completo del corpus (lo fija init desde corpus_stats)
@@ -422,20 +431,23 @@ function buildActorTimeline(fechas, gran, metric) {
     if (!b) return 0;
     return metric === "apariciones" ? b.size : b;
   });
-  return { labels, data };
+  return { labels, data, keys: ejeKeys };
 }
 
 function renderActorChart(nombre, gran, metric) {
   const fechas = speakersData.actor_fechas[nombre];
   if (!fechas) return;
 
-  const { labels, data } = buildActorTimeline(fechas, gran, metric);
+  const { labels, data, keys } = buildActorTimeline(fechas, gran, metric);
+  currentActorKeys = keys;
   const parsed = parseName(nombre);
   const metricLabel = metric === "apariciones" ? "Apariciones (conferencias)" : "Intervenciones (turnos)";
 
   $("actors-chart-title").textContent = parsed.nombre || nombre;
   $("actors-hint").style.display = "none";
+  $("actors-tip").style.display = "block";
   $("actors-chart-wrap").style.display = "block";
+  $("actor-detail").innerHTML = "";   // limpiar detalle previo
 
   if (actorChart) {
     actorChart.data.labels   = labels;
@@ -461,6 +473,9 @@ function renderActorChart(nombre, gran, metric) {
     },
     options: {
       responsive: true,
+      onClick: (evt, els) => {
+        if (els.length) showActorDetail(currentActorKeys[els[0].index]);
+      },
       plugins: { legend: { display: false } },
       scales: {
         x: { grid: { display: false }, ticks: { maxRotation: 45, font: { size: 11 } } },
@@ -471,12 +486,50 @@ function renderActorChart(nombre, gran, metric) {
   });
 }
 
-function renderActorsList(speakers) {
-  speakersData = speakers;
-  const list   = $("actors-list");
+// Al hacer clic en una barra: lista las fechas (conferencias) de ese periodo
+// con enlace a la versión estenográfica en gob.mx.
+function showActorDetail(periodKey) {
+  if (!selectedActor || !periodKey) return;
+  const fechas = speakersData.actor_fechas[selectedActor]
+    .filter(f => (currentGran === "anio" ? f.slice(0, 4) : f.slice(0, 7)) === periodKey);
+
+  const porFecha = {};
+  fechas.forEach(f => { porFecha[f] = (porFecha[f] || 0) + 1; });
+  const dias = Object.keys(porFecha).sort().reverse();
+
+  const periodoLabel = currentGran === "anio" ? periodKey : formatMonth(periodKey);
+  const totalInterv = fechas.length;
+  const resumen = currentMetric === "apariciones"
+    ? `${dias.length} conferencia${dias.length !== 1 ? "s" : ""}`
+    : `${totalInterv} intervencion${totalInterv !== 1 ? "es" : ""} en ${dias.length} conferencia${dias.length !== 1 ? "s" : ""}`;
+
+  $("actor-detail").innerHTML = `
+    <div class="detail-head">${periodoLabel} · ${resumen}</div>
+    <div class="detail-list">
+      ${dias.map(f => {
+        const url = fechaUrl[f];
+        const cnt = porFecha[f] > 1 ? `<span class="detail-count">${porFecha[f]} intervenciones</span>` : "";
+        return `<div class="detail-row">
+          <span class="detail-fecha">${f}${cnt}</span>
+          ${url ? `<a class="detail-link" href="${url}" target="_blank" rel="noopener">Ver en gob.mx ↗</a>` : ""}
+        </div>`;
+      }).join("")}
+    </div>`;
+}
+
+function renderActorsList(filtro) {
+  const list = $("actors-list");
   list.innerHTML = "";
 
-  speakers.top_funcionarios.forEach((actor, i) => {
+  const actores = speakersData.top_funcionarios.filter(a =>
+    filtro === "todos" || actorCategoria(a.nombre) === filtro);
+
+  if (actores.length === 0) {
+    list.innerHTML = `<p class="kwic-empty" style="padding:1rem">Sin funcionarios en esta categoría.</p>`;
+    return;
+  }
+
+  actores.forEach((actor, i) => {
     const { cargo, nombre } = parseName(actor.nombre);
     const item = document.createElement("div");
     item.className = "actor-item";
@@ -500,8 +553,7 @@ function renderActorsList(speakers) {
   });
 
   // Seleccionar el primero por defecto
-  const firstItem = list.querySelector(".actor-item");
-  if (firstItem) firstItem.click();
+  list.querySelector(".actor-item")?.click();
 }
 
 // ── Bootstrap ────────────────────────────────────────────────────────────────
@@ -523,11 +575,13 @@ function showView(name) {
 
 async function init() {
   try {
-    const [stats, topics, speakers] = await Promise.all([
+    const [stats, topics, speakers, fu] = await Promise.all([
       loadJSON("json/corpus_stats.json"),
       loadJSON("json/topics.json"),
       loadJSON("json/speakers.json"),
+      loadJSON("json/fecha_url.json"),
     ]);
+    fechaUrl = fu;   // disponible para KWIC y para el detalle de Actores
 
     const meses = stats.meses;
     corpusMeses = meses;
@@ -549,7 +603,16 @@ async function init() {
       });
     };
     viewInitializers.actores = () => {
-      renderActorsList(speakers);
+      speakersData = speakers;
+      renderActorsList(currentCat);
+      document.querySelectorAll(".cat-pill").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".cat-pill").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentCat = btn.dataset.cat;
+          renderActorsList(currentCat);   // re-selecciona el primero del filtro
+        });
+      });
       document.querySelectorAll(".gran-pill").forEach(btn => {
         btn.addEventListener("click", () => {
           document.querySelectorAll(".gran-pill").forEach(b => b.classList.remove("active"));

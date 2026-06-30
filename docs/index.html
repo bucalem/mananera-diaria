@@ -130,6 +130,16 @@
     <div class="actors-layout">
       <!-- Lista izquierda -->
       <div class="actors-list-panel">
+        <div class="granularity-bar cat-bar">
+          <span class="gran-label">Tipo:</span>
+          <div class="gran-pills cat-pills">
+            <button class="cat-pill active" data-cat="todos">Todos</button>
+            <button class="cat-pill" data-cat="secretarios">Secretarios</button>
+            <button class="cat-pill" data-cat="gobernadores">Gobernadores</button>
+            <button class="cat-pill" data-cat="directores">Directores</button>
+            <button class="cat-pill" data-cat="otros">Otros</button>
+          </div>
+        </div>
         <div class="granularity-bar">
           <span class="gran-label">Medir:</span>
           <div class="gran-pills">
@@ -155,6 +165,8 @@
           <canvas id="chart-actor"></canvas>
         </div>
         <p class="actors-hint" id="actors-hint">← Haz clic en un actor para ver su actividad temporal</p>
+        <p class="actors-tip" id="actors-tip" style="display:none">Haz clic en una barra para ver las fechas de ese periodo.</p>
+        <div id="actor-detail"></div>
       </div>
     </div>
   </div>
