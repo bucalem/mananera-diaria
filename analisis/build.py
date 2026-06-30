@@ -356,6 +356,16 @@ def normaliza_hablante(h: str) -> str:
 
 
 PARTICULAS = {"DE", "DEL", "LA", "LAS", "LOS", "Y", "SAN"}
+HONORIFICOS = {"DOCTOR", "DOCTORA", "DR", "DRA", "LICENCIADO", "LICENCIADA",
+               "LIC", "MAESTRO", "MAESTRA", "MTRO", "MTRA", "INGENIERO", "ING",
+               "GENERAL", "ALMIRANTE", "CONTRALMIRANTE", "C"}
+# Raíces de cargo: si el texto empieza con una de éstas, el formato es
+# "CARGO, NOMBRE"; si no, es el invertido "NOMBRE, CARGO".
+CARGO_STEMS = ("SECRETARI", "SUBSECRETARI", "DIRECTOR", "SUBDIRECTOR",
+               "GOBERNADOR", "JEFE DE GOBIERNO", "JEFA DE GOBIERNO", "JEFE DE",
+               "JEFA DE", "TITULAR", "FISCAL", "PROCURADOR", "COORDINADOR",
+               "COMISIONAD", "PRESIDENT", "VOCER", "CONSEJER", "OFICIAL MAYOR",
+               "ENCARGAD")
 
 
 def _sin_acentos(s: str) -> str:
@@ -363,16 +373,28 @@ def _sin_acentos(s: str) -> str:
                    if unicodedata.category(c) != "Mn")
 
 
+def _segmento_nombre(hablante: str) -> str:
+    """Segmento que contiene el nombre, manejando 'CARGO, NOMBRE' y el formato
+    invertido 'NOMBRE, CARGO' (incluso con cargos que llevan comas internas)."""
+    segs = [s.strip() for s in hablante.split(",") if s.strip()]
+    if len(segs) == 1:
+        return segs[0]
+    u0 = _sin_acentos(segs[0].upper())
+    empieza_con_cargo = any(u0.startswith(k) for k in CARGO_STEMS)
+    return segs[-1] if empieza_con_cargo else segs[0]
+
+
 def clave_persona(hablante: str) -> str:
-    """Clave de identidad robusta a variantes: primer nombre + dos apellidos
-    (ignora segundos nombres y diferencias de cargo). Así 'CLARA BRUGADA
-    MOLINA' y 'CLARA MARINA BRUGADA MOLINA' caen en la misma persona."""
-    nombre = hablante.split(",", 1)[1] if "," in hablante else hablante
-    toks = [t for t in _sin_acentos(nombre.upper()).split() if t]
-    sig = [t for t in toks if t not in PARTICULAS]
-    if len(sig) <= 1:
-        return " ".join(sig) or _sin_acentos(hablante.upper())
-    return sig[0] + "|" + "|".join(sig[-2:])
+    """Clave de identidad por APELLIDOS (dos últimos tokens significativos),
+    ignorando nombres de pila, segundos nombres, títulos y partículas. Así
+    'CLARA BRUGADA MOLINA' = 'CLARA MARINA BRUGADA MOLINA' y
+    'NOEMÍ JUÁREZ PÉREZ' = 'ANGÉLICA NOEMÍ JUÁREZ PÉREZ'."""
+    nombre = _segmento_nombre(hablante)
+    toks = [t for t in _sin_acentos(nombre.upper()).split()
+            if t not in PARTICULAS and t not in HONORIFICOS]
+    if not toks:
+        return _sin_acentos(hablante.upper())
+    return "|".join(toks[-2:])
 
 
 def categoria_funcionario(nombre: str) -> str:
