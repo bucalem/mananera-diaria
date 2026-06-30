@@ -2,8 +2,8 @@ name: Mañanera diaria por correo
 
 on:
   schedule:
-    # 20:00 UTC = 2:00 pm CDMX (México ya no tiene horario de verano), lun-vie
-    - cron: "0 20 * * 1-5"
+    # 23:00 UTC = 5:00 pm CDMX (México ya no tiene horario de verano), lun-vie
+    - cron: "0 23 * * 1-5"
   workflow_dispatch:
 
 permissions:
