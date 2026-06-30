@@ -1,0 +1,788 @@
+URL: https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-agosto-de-2025?idiom=es
+Fecha: 2025-08-13
+Título: Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de agosto de 2025
+
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Buenos días.
+PREGUNTA: Buenos días, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Se nos hizo un poco tarde, disculpen a quienes nos ven, nos oyen y a ustedes.
+Bueno, el día de hoy vamos a hablar de dos de los proyectos de investigación y desarrollo tecnológico, que es parte del Programa de Nación, de los 100 puntos de compromiso con el pueblo de México.
+Para ello, está con nosotros la doctora Rosaura Ruiz, secretaria de Ciencia, Humanidades, Tecnología e Innovación; está también el doctor Arturo Reyes Sandoval, director general del Instituto Politécnico Nacional; el maestro Ramón Jiménez, director general del Tecnológico Nacional de México.
+Y como parte, o el liderazgo que llevan los dos proyectos que vamos a presentar hoy está Roberto Capuano y Rafael Garayoa, que son: Roberto es el coordinador general del proyecto Olinia y también Rafael es coordinador del proyecto.
+Y después, Edmundo Antonio Gutiérrez Domínguez, que es director general de InnovaBienestar, y que nos va a hablar del proyecto del Taller de Diseño de Semiconductores, que van muy avanzados.
+Y nos visitan el día de hoy investigadores e investigadoras que son parte de ambos proyectos.
+Estamos muy contentos. Va muy avanzado y el día de hoy presentamos estos avances.
+Y está Miguel Elorza, también, para cerrar con el “Detector de mentiras”.
+—Lo dejaron ahí atrás, doctor, a usted. Pásese para adelante, para que…—
+—Bueno. Rosaura—.
+SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ: Con su permiso, Presidenta.
+Buenos días, todos y todas.
+La Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la Secihti, además de dar continuidad y fortalecer todos los programas que tenía el Conahcyt, como becas de posgrado, posdoctorado, el Sistema Nacional de Investigadores e Investigadoras, los proyectos de investigación, el apoyo a todas las instituciones, entre otros, estamos impulsando nuevos proyectos en los que colaboramos con las Secretarías de Estado y las entidades federativas.
+Asimismo, estamos impulsando la formación de cuadros especializados desde el bachillerato hasta el posgrado en temas prioritarios para el país; conducimos las nuevas universidades también, de Rosario Castellanos.
+Además, conducimos proyectos estratégicos encargados por la Presidenta, que nacen de una articulación inédita entre las necesidades reales de la sociedad mexicana e instituciones como la UNAM, Instituto Politécnico Nacional, el Tecnológico Nacional de México y de más universidades, y también los Centros Públicos de Investigación de la Secihti.
+Por ejemplo, hoy les vamos a presentar el estado actual de dos de esos proyectos: Kutsari, para el diseño y la fabricación de semiconductores; y Olinia, para la construcción de un vehículo eléctrico.
+Es importante destacar que el desarrollo de las ciencias básicas, como la física, las matemáticas, la química, la biología, etcétera, también las ciencias sociales, son indispensables para el avance de la tecnología.
+Por ejemplo, los semiconductores del proyecto Kutsari son el resultado fascinante de la física de partículas: los chips, los microprocesadores, que son como pequeñísimas computadoras con miles o millones de transistores integrados apenas en un área pequeñísima como la que tiene nuestro teléfono celular y otros instrumentos, surgen precisamente de los semiconductores de ese estudio de la mecánica cuántica.
+Por su parte, Olinia nace del principio rector que guía este gobierno: “La ciencia como fuente de bienestar social y prosperidad compartida”. Esta tecnología está pensada para ser un vehículo para múltiples usos, más seguro, más ecológico y más accesible para miles de personas.
+Este proyecto propone soluciones hechas en México, para México, y lo hace con un propósito claro de mejorar la vida de quienes lo utilizan.
+Lo que verán adelante sobre Olinia y Kutsari, además de ser avances de los proyectos prioritarios, son el inicio de una nueva etapa del país, en donde la ciencia y las humanidades se convierten en justicia social, y la tecnología en soberanía.
+Muchas gracias.
+Va a empezar Kutsari con Edmundo. —Por favor. ¿Puedes pasar?—
+Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos a ver el video.
+—Pasa, Edmundo―.
+DIRECTOR GENERAL DE INNOVABIENESTAR DE MÉXICO, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ: ―Por favor, el video―.
+(INICIA VIDEO)
+VOZ MUJER: Kutsari, que significa “arena” en p'urhépecha, es un proyecto estratégico impulsado por la Presidenta Claudia Sheinbaum Pardo y coordinado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti), que busca incorporar a México en la cadena de proveeduría de semiconductores y avanzar hacia la soberanía tecnológica.
+DIRECTORA DEL INSTITUTO DE FÍSICA DE LA UNAM, MERCEDES RODRÍGUEZ VILLAFUERTE: Los semiconductores son materiales que tienen propiedades muy interesantes. A diferencia de los materiales conductores, en donde los electrones transitan libremente o los aislantes como plásticos en donde los electrones no pueden transitar en ese material, en los semiconductores, a través de diferentes estímulos externos, podemos permitir o detener el tránsito de los electrones.
+DIRECTOR GENERAL DEL INAOE, DAVID SÁNCHEZ DE LA LLAVE: Y esa propiedad la hace muy útil para muchos de los dispositivos y muchos de los avances tecnológicos que hoy gozamos en la sociedad.
+CINVESTAV JALISCO, RAMÓN PARRA MICHEL: Quizá el circuito más conocido es el microprocesador, que está en todos los equipos electrónicos que realizan cierta inteligencia. La computadora, los celulares, las tablets,en las pantallas, todo lo que vean con electrónica, que tiene algún grado de interacción con el ser humano, todo conlleva semiconductores.
+COORDINADOR DEL PROYECTO KUTSARI, EDMUNDO GUTIÉRREZ DOMÍNGUEZ: Los semiconductores se utilizan para fabricar circuitos integrados o chips. En México tenemos aproximadamente 4 décadas de experiencia a nivel académico y de investigación en el diseño de circuitos integrados.
+El objetivo principal de Kutsari es tomar estos grupos, estas personas con capacidad de desarrollo tecnológico de alto nivel y concretar un centro que pueda competir a nivel industrial y nivel global.
+UNIVERSIDAD DE SONORA, ROBERTO GÓMEZ FUENTES: Fabricar nuestros propios semiconductores, tener nuestra cadena de diseño y fabricación de estos circuitos para poder generar nuestra propia tecnología.
+VOZ MUJER: Kutsari articula capacidades existentes en tres nodos para conformar el Centro Nacional de Diseño de Semiconductores en Puebla, Jalisco y Sonora.
+VOZ HOMBRE: El grupo es multidisciplinario, porque llegar a generar un circuito integrado es una tarea ardua que requiere mucho talento y mucho compromiso. Estas personas son, yo diría, las más talentosas como grupo de este país.
+INSTITUTO NACIONAL DE ASTROFÍSICA ÓPTICA Y ELECTRÓNICA, JULO NOEL HERNÁNDEZ PÉREZ: Y creo yo que cuando quieres realizar o afrontar un reto, como lo es el proyecto Kutsari, tiene que escogerse al mejor equipo.
+GLOBAL FOUNDRIES, FERNANDO GUARÍN: Este proyecto Kutsari es verdaderamente una apuesta muy inteligente, por parte del gobierno mexicano, para entrar a competir en el ámbito de diseño de semiconductores y tener presencia a primer nivel en el mundo actual.
+INSTITUTO NACIONAL DE ASTROFÍSICA ÓPTICA Y ELECTRÓNICA, ALEJANDRO BAUTISTA CARRILLO: Estamos en un momento muy importante porque tenemos la gran ventaja de que a nivel gobierno se tiene la voluntad de hacer. Hay industria que está teniendo ganas de venir y nosotros, los investigadores o la academia, estamos colaborando.
+VOZ HOMBRE: Por primera vez, esta parte del diseño de circuitos integrados, se está tomando la relevancia que realmente tiene en el mundo.
+INSTITUTO NACIONAL DE ASTROFÍSICA ÓPTICA Y ELECTRÓNICA, ALEJANDRO SILVA: Ser parte de un proyecto estratégico de la primera Presidenta de México es un reto que todos en Kutsari estamos dispuestos a llevar a buen fin, para lograr la soberanía de México en el área de diseño de circuitos integrados.
+DIRECTORA DEL INSTITUTO DE FÍSICA DE LA UNAM, MERCEDES RODRÍGUEZ VILLAFUERTE: Tenemos las bases, tenemos el entusiasmo y tenemos la capacidad humana y de infraestructura para poder desarrollar y llegar a algo real que nos empuje como país en donde comencemos a hacer este gran desarrollo que es más que necesario.
+VOZ MUJER: Gobierno de México.
+(FINALIZA VIDEO)
+DIRECTOR GENERAL DE INNOVABIENESTAR, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ: Muy buenos días a todas y todos. Muy buenos días, Presidenta.
+Es un honor y es un placer estar aquí por segunda vez y darles un reporte de actividades.
+Muy buen día, doctora Rosaura Ruiz Gutiérrez, secretaria de Ciencia, Humanidades, Tecnología e Innovación.
+Buen día a todos los que nos acompañan aquí al frente y a la audiencia en general.
+El día de hoy voy a hacer un reporte de actividades realizadas, del mes de febrero al mes de julio. Voy a presentar cinco puntos de manera breve.
+Voy a hablar sobre las tres unidades de diseño del Centro Nacional de Diseño de Semiconductores Kutsari, ubicadas en en el estado de Puebla, en particular en la ciudad de Cholula; en el estado de Jalisco, en la ciudad de Guadalajara; y en el estado de Sonora, en la ciudad de Hermosillo.
+Les hablaré también un poco sobre ejemplos, un ejemplo de innovación ―por favor, si regresan a donde estábamos―. Les hablaré también sobre un ejemplo de innovación que nos ha permitido llevar la investigación y el desarrollo tecnológico del nivel académico a un prototipo que puede ser aplicado en el sector salud.
+Les mostraré también un poco sobre vinculación, lo que hemos hecho en vinculación, las acciones en proceso hacia diciembre del año 2025, actual.
+Y, finalmente, un cronograma de actividades.
+Bien, lo que quiero comentar aquí básicamente es que tenemos tres unidades con las cuales hemos trabajado.
+Y quiero, en este momento, reconocer a los gobiernos de los estados de Puebla, Jalisco y Sonora por el apoyo decidido que nos han estado dando, no solamente con apoyo económico, sino con todo el apoyo logístico, en apoyo en infraestructura y, sobre todo, lo más importante, el apoyo en recursos humanos de alto nivel tecnológico.
+En este momento, en Puebla estamos listos para la inauguración, Doctora, Presidenta, estamos listos. Lo van a ver en las imágenes siguientes.
+En Jalisco estamos trabajando de manera articulada con el Cinvestav, Unidad Guadalajara. Tenemos también ya un espacio disponible ahí para empezar a trabajar.
+Y con Sonora, firmamos un convenio que nos va a permitir la instalación de la unidad en la Universidad de Sonora, en la ciudad de Hermosillo.
+Esto fue lo que hemos realizado durante el mes de julio… perdón, de febrero a julio en cuanto a establecer las condiciones básicas, el diálogo y los convenios con estos tres gobiernos para iniciar operación en estas tres unidades.
+¿Por qué Puebla?
+Lo que están mirando ahí son unas imágenes del espacio físico con el cual ya contamos en Puebla, gracias al apoyo decidido del gobierno de Puebla. Estas instalaciones están ubicadas en la ciudad de Cholula. Y básicamente hemos elegido Puebla por ser un polo académico generador de talento de alto nivel en diseño de dispositivos semiconductores.
+Conjuntamente en estos tres lugares tenemos una experiencia de más de 4 décadas en el sector académico, de investigación y de desarrollo tecnológico.
+Cholula. Cholula representa mucho. Es la combinación del rescate de toda una tradición, una cultura, reflejada en la ciudad milenaria, la ciudad más antigua del Continente Americano que ha estado continuamente habitada y que ha sido un pilar para el desarrollo de la cultura, el desarrollo de la identidad de México; y sobre todo, porque se caracterizó por ser un centro religioso —en su momento—, por ser un centro de gobierno y por ser un centro de intercambio comercial.
+Hoy en día rescatamos eso ubicando el centro en Cholula, además de que contamos con centros de investigación y la Universidad Autónoma de Puebla, que nos permite nutrirnos de recursos humanos.
+Guadalajara. El estado de Jalisco, en general y la ciudad de Guadalajara se han caracterizado desde hace ya muchas décadas de ser un polo de atracción de la industria de la electrónica y de los semiconductores en general.
+Y las universidades y los entes académicos que están en Guadalajara, como es la Universidad de Guadalajara, el Cinvestav y muchos otros, como el ITESO también en el sector privado, han realizado un trabajo de interacción con el sector industrial que ha establecido las condiciones mínimas necesarias para poder hacer ese enlace entre la academia y la industria. Por esa razón elegimos también Guadalajara, porque complementa el desarrollo de talento humano en Puebla.
+¿Por qué Sonora?
+Sonora básicamente es un estado que tiene un proyecto muy interesante, el Plan Sonora, que básicamente, en el caso específico de electrónica y semiconductores tiene una relación estrecha con el estado de Arizona, en Estados Unidos, donde se está dando un desarrollo de la industria de semiconductores muy fuerte.
+En Sonora contamos no solamente con el apoyo del gobierno del estado de Puebla, sino de la Universidad de Sonora, del Tecnológico Nacional de México y muchas otras instituciones locales con las cuales vamos a estar participando para generar y para empezar, en este mes de agosto, con un programa de capacitación acelerada, no solamente para los investigadores que se están uniendo en Sonora, sino para otros investigadores y estudiantes de todo el país.
+En cuanto a la innovación, es importante mencionar aquí que este es un asunto inédito en México, al menos en el caso de la electrónica y los semiconductores. Es la primera vez que, gracias a la iniciativa y a la decisión política del actual Gobierno Federal de México y la participación de varios estados de la República, se está logrando enlazar todo ese conocimiento y desarrollo de talento humano, que ha venido generándose en el sector académico con el sector industrial para identificar algunos casos donde se requiere generar soluciones.
+Aquí me refiero al caso específico, solamente como un ejemplo de muchos que tenemos en México: la investigación básica en materiales del Centro de Investigación de Materiales Avanzados, ubicado en Chihuahua, y que es uno de los centros públicos de la Secihti; junto con el desarrollo tecnológico de un chip, de un circuito integrado diseñado en INAOE.
+Y finalmente, hacer la parte de desarrollo de ingeniería para terminar con la creación de un prototipo de un instrumento para detección de creatinina en saliva para el sector salud.
+Y estas son unas imágenes que les muestran lo que hemos estado haciendo en esta etapa de articular y enlazar de manera complementaria nuestras actividades en México.
+Lo que ven en la parte central es investigación básica, investigación fundamental en ciencia de materiales. Y eso es algo que en México hemos hecho por muchas décadas, la investigación y el desarrollo tecnológico en México está muy bien reconocido y ahora, es el momento de enlazarlo para resolver problemas que tengamos a nivel nacional o a nivel global.
+Ahí lo que ven ustedes es una imagen del desarrollo de un sensor de creatinina que detecta la presencia y la concentración o las características de la creatinina en saliva del ser humano.
+¿Qué se hizo?
+Ese sensor, la información que genera ese sensor tiene que ser leída por un chip y procesada por un chip; el chip fue diseñado en INAOE. Lo ven ahí arriba en la imagen, a la derecha, y ven que es un circuito integrado, es un chip que apenas tiene 2.5 por 2 milímetros, es extremadamente pequeño, y ahí se integran todas estas funcionalidades.
+Finalmente, esto se integra en una tarjeta PCD.
+Y como ven, en la parte izquierda, tenemos el desarrollo del instrumento para censado universal, en este caso, de creatinina.
+Y ese es uno de los ejemplos de la integración y la articulación complementaria de estas actividades.
+Y solamente para darles un ejemplo; cuando yo era estudiante en la escuela secundaria y en la escuela preparatoria, tomé talleres de electrónica y me tocó estudiar, analizar y construir circuitos con esto, con bulbo. Un bulbo…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Ya somos de otra época—.
+DIRECTOR GENERAL DE INNOVABIENESTAR, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ: Sí, desafortunadamente esto delata nuestra edad.
+Fíjense, voy a poner un número en cuestión de tiempo, esto probablemente dejó de usarse hace 40, a 45 años, aunque todavía se puede encontrar en algunas aplicaciones específicas.
+Pero imagínense construir ese chip con bulbos. Ese chip que ven ahí tiene del orden —es un chip muy sencillo, eh— solamente tiene del orden de unos 5 mil o 10 mil transistores; imagínense montar ese circuito integrado, ese chip, con 10 mil de estos bulbos, sería una cosa tremendamente enorme.
+Con esto lo que quiero comentarles es que apenas en unas 4 o 5 décadas el desarrollo tecnológico ha sido impresionante; impresionante porque hoy en día podemos integrar —como ya lo comenté— en un circuito integrado como este. Aquí tengo dos ejemplos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Estos los hicieron aquí en…—
+DIRECTOR GENERAL DE INNOVABIENESTAR, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ: Eso está ahí.
+Esos son algunos de los chips de ejemplo que se han diseñado y algunos fabricados en México y otros fuera de México. Cuando digo “fabricados en México” me refiero a un prototipo de un laboratorio de investigación que hay en el INAOE, en Puebla; en el CIDESI, en Querétaro; y parcialmente también la Universidad Autónoma de Ciudad Juárez, y en algunos otros espacios y lugares en México.
+Entonces, con esto quiero remarcar que introducirse en el sector de semiconductores implica mantener la investigación, el desarrollo tecnológico y la formación de talento de manera dinámica y permanente, para que nutra de nuevo conocimiento al desarrollo de la industria y sirva ésta, para sustentar el desarrollo de México.
+En vinculación, estamos conscientes de que este proyecto para que tenga un beneficio en nuestra sociedad, en el entorno nacional y global, tenemos que vincularlos. Y por eso, hemos tenido diálogos con la Asociación Coreana de Semiconductores; con ellos estamos explorando posibles colaboraciones en el ámbito de diseño y fabricación de chips, de circuitos integrados.
+Hemos iniciado también diálogos con otras empresas, no solamente con empresas de Asia, sino también en Europa, con la empresa Siemens en una posible colaboración en diseño; y sobre todo, apertura a la cartera de clientes para empezar a darle una salida e iniciar el proceso de autosustentabilidad económica del Centro Nacional de Diseño de Semiconductores.
+En Bélgica también tenemos conversaciones con el IMEC, que es un Centro de Desarrollo Tecnológico de Semiconductores. Estamos trabajando, estamos en diálogo con ellos.
+Internamente, en el país hemos estado trabajando con la CANIETI, con la Cámara Nacional de la Industria de la Tecnología y la Información; con la Secretaría de Economía, con la Embajada de Estados Unidos en los foros binacionales de semiconductores para tratar de integrar también esta iniciativa de manera más allá de nuestras fronteras.
+Y también se firmó un convenio con la empresa Intel con la posibilidad de acceder a su tecnología de 18 ángstroms, es decir, 1.8 nanómetros.
+Bien, estas son las acciones que tenemos hacia finales del año ´25.
+Vamos a tener una reunión con personas de la Unión Europea.
+Tenemos unos primeros diálogos con una empresa mexicana que se llama Circuify Semiconductors, pero no lo voy a mencionar aquí.
+―La que sigue por favor, para cumplir con el tiempo―.
+Y estas son las acciones que tenemos hacia para finalizar el año 2025 y el cronograma que tenemos hacia el 2030 ―por favor―.
+Esto es en el 2025; no se ve muy bien, pero el objetivo es llegar a finales de este año con la firma de al menos un convenio o un contrato para el diseño del primer chip comercial de nuestro Centro.
+Hacia el 2030 estamos estimando que tendremos autosustentabilidad del Centro de Diseño, cuando ya tenga del orden de 100 diseñadores en el 2027.
+Y finalmente, hacia el 2030 seremos un Centro que no solamente prestará servicios, sino también generará mucha propiedad intelectual que podrá ser comercializada.
+Esto es en cuanto a la Fábrica de Semiconductores, la cual podremos… Es la segunda fase del proyecto Kutsari, y la podremos analizar en otro momento.
+Muchas gracias por su atención.
+Y solamente quiero terminar mi intervención haciéndole un pequeño obsequio a nuestra Presidenta: le quiero regalar este libro que habla un poco sobre la industria de semiconductores y su impacto a nivel social.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Es de él. Gracias, Edmundo—.
+Adelante, Roberto.
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: Buenos días. Señora Presidenta. Con su permiso.
+Hace unos meses, desde este mismo lugar expusimos nuestra misión de crear la primera armadora mexicana de minivehículos eléctricos diseñados por ingenieros e ingenieras mexicanas. Hoy venimos a dar una actualización de cómo estamos convirtiendo Olinia en una realidad.
+Desde el inicio entendimos que la misión no podía ser simplemente fabricar un vehículo eléctrico; nuestra misión contenía una promesa fundamental: ofrecer una movilidad sin emisiones, al alcance de millones de mexicanos y mexicanas.
+Olinia tiene un propósito profundo: usar la ciencia y la tecnología para mejorar la vida de las personas, específicamente la forma en la que nos movemos.
+La necesidad más latente la encontramos en lo que se llama “movilidad de primera y última milla”. Son esos trayectos cortos, pero vitales, que millones de mexicanos realizan todos los días para llevar a los niños a la escuela, para hacer el mandado o para conectar con vías principales de transporte; son viajes que hoy dependen de soluciones con un ingenio admirable, pero que frecuentemente carecen de seguridad y formalidad.
+Para diseñar vehículos que realmente sirvan a México, sabíamos que la respuesta estaba en la gente.
+Por eso, nuestro equipo de ingenieros y diseñadores se sumergió en la realidad, viajamos en mototaxi en varias ciudades del país, hemos conversado durante horas con conductores, pasajeros y dueños de flotillas. Documentamos sus jornadas de trabajo, que a menudo superan las 10 horas; sus frustraciones cuando los vehículos se descomponen o porque son inseguros; pero también su ingenio y la fuerza con la que buscan salir adelante.
+Nuestro acercamiento al diseño no es desde la ingeniería, sino desde la empatía, centrados en torno a las necesidades de los y las mexicanas.
+Para atacar este reto, nuestra estrategia se enfoca en el diseño de una plataforma vehicular modular que permite construir dos herramientas de trabajo:
+La primera es un vehículo de transporte de pasajeros que represente una verdadera alternativa al mototaxi, una opción más segura tanto para quienes la conducen como para quienes la usan para viajar.
+Para las personas usuarias ofrecerá mayor comodidad y amplitud, se adaptará a la variedad de usos que hoy demandan y tendrá un costo igual o menor al de hoy.
+Para las y los conductores será un vehículo más cómodo para sus largas jornadas, más moderno, pero, sobre todo, más rentable gracias a una reducción drástica en el costo de operación.
+La segunda, un vehículo de uso comercial para reparto, orientado a atender la creciente necesidad de transporte de mercancías en entornos urbanos.
+Queremos crear una herramienta para acelerar el crecimiento de los pequeños comercios, que son un motor clave en nuestra economía; y también, que las empresas que tienen necesidades de logística urbana tengan un vehículo que esté diseñado para nuestras calles, que lleve productos hasta zonas de difícil acceso y que sea más rentable.
+Tras décadas de operar en México, la industria automotriz ha florecido y con el paso del tiempo se ha formado un talento excepcional, tanto en la industria como en la academia.
+El proyecto Olinia ha sido recibido con los brazos abiertos y gran expectativa, por parte de los mexicanos que trabajan en la industria automotriz. Todos nos dicen lo mismo: “México ya se había tardado en lanzar un proyecto así”.
+Nos hemos reunido con clústers automotrices y empresas mexicanas que nos han hecho evidente las impresionantes capacidades de fabricación y diseño de partes que hay en México.
+Olinia será orgullosamente un coche Hecho en México. Y nuestro país podrá tener una marca de vehículos que refleje nuestro talento y nuestra cultura, primero aquí y más adelante en otras partes del mundo.
+Ahora, para hacer realidad este proyecto hemos recurrido a los mejores. Conformamos un equipo multidisciplinario con el mejor talento del Tecnológico Nacional de México, del Instituto Politécnico Nacional, la UNAM y los Centros Públicos de Investigación a cargo de la Secihti, en un ejercicio nunca antes visto en México: Todos colaboramos en un solo equipo para lograr la misión y cumplir la promesa de Olinia.
+Algunos miembros del equipo me acompañan el día de hoy aquí, por lo que aprovecho para dar un reconocimiento a las más de 70 personas de 17 estados de la República, de todas estas instituciones que hoy conforman nuestro equipo de trabajo. Todos, ellos y ellas, son personas de gran talento y quienes cargan en sus hombros, junto conmigo y con Rafael la responsabilidad de cumplir. Confiamos en su capacidad de ingenio para demostrar que lo hecho en México está bien hecho.
+Señora Presidenta:
+Hoy comparto que hemos pasado de la planeación a la acción. Ya establecimos nuestro Centro de Diseño e Ingeniería en el Tecnológico de Puebla, un espacio de innovación que ya está en pleno funcionamiento y cuyo edificio se encuentra en construcción dentro del campus del mismo Tecnológico de Puebla. Esto lo logramos con ayuda de la secretaria Rosaura Ruiz, el apoyo fundamental de las instituciones que ya mencioné y sus directores que hoy nos acompañan aquí, así como el compromiso que hemos recibido de los estados de Puebla y Sonora.
+Hoy quiero mostrar una prueba de ese trabajo. Es un vistazo a la seriedad, la disciplina y el corazón con el que este equipo de mexicanos está trabajando para ustedes.
+—Adelante—.
+(INICIA VIDEO)
+COORDINADOR DEL PROYECTO, JAVIER RAFAEL GARAYOA GUAJARDO: Estamos desarrollando un vehículo para que todos en México puedan acceder a una forma de transporte que sea sustentable, que sea accesible y que sea amigable con el medio ambiente.
+LÍDER DE SISTEMA DE GESTIÓN INTEGRAL, CYNTHIA LEMUS: Es un minivehículo eléctrico ensamblado en México con mexicanos, desde cero, desde la parte de diseñarlo, trabajar hacia prototipos y posteriormente, la producción para el armado en un primer término.
+LÍDER DE DISEÑO AUTOMOTRIZ, FERNANDO OCAÑA ESPINOSA: Tenemos que diseñar un vehículo ultraligero, y ese es un reto considerable. Tenemos que integrar muchas tecnologías que ya existen, y estamos trabajando ya en la construcción de un prototipo que nos va a llevar a una flotilla piloto que se va a presentar en junio de 2026.
+VOZ MUJER: Olinia es desarrollado en las instituciones de educación superior del país y coordinado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti), mediante un modelo de colaboración interinstitucional que articula las capacidades científicas y tecnológicas nacionales.
+COORDINADOR DEL PROYECTO, JAVIER RAFAEL GARAYOA GUAJARDO: Olinia se ha vuelto un proyecto emblemático en el área de ciencia y tecnología porque le ha dado orientación a diversas instituciones, y a sus programas académicos y de investigación alrededor de un propósito común, que es desarrollar un vehículo que logre llegar al mercado, generar ingresos, y que podamos reinvertir esos ingresos en nuevos programas de innovación para tener más desarrollos tecnológicos exitosos en el futuro.
+VOZ MUJER: Actualmente, los trabajos del proyecto se realizan en el Centro de Diseño Olinia, ubicado en el Instituto Tecnológico de Puebla. Aquí convergen más de 50 especialistas de instituciones como el TecNM, el IPN, la UNAM y los Centros Públicos de la Secihti.
+LÍDER DE CADENA DE SUMINISTRO, KAREN ITZEL VÁZQUEZ SAN AGUSTÍN: Creo que nos quitamos la camiseta de cada institución, y en este lugar y en este momento somos Olinia y eso nos hace que, digamos, dejemos a un lado la burocracia porque tenemos claro que nuestro objetivo es el desarrollo del vehículo.
+DISEÑADOR CAD, MAURICIO A. MANJARREZ JIMÉNEZ: El proyecto se encuentra en un estado de conceptualización ya más avanzado, ya no es solo una idea. Estamos entrando en lo que sería la ingeniería a detalle, de cómo y en qué forma van a ir cada una de esas piezas.
+DISEÑADOR INDUSTRIAL, GUILLERMO E. BAUTISTA ORDUÑA: Pero ya aterrizándolo más en ingeniería, ya teniendo modelos tridimensionales, pensando más en los procesos de fabricación para poder validar con estos usuarios, obtener ese feedback necesario.
+VOZ MUJER: El Centro de Diseño Olinia, que pronto contará con instalaciones definitivas, es el corazón donde la ciencia y la tecnología se transforman en bienestar para las y los mexicanos.
+LÍDER DE INTEGRACIÓN MECÁNICA, JOSÉ LUIS RUEDA ARREGUÍN: Confiar este proyecto a gente mexicana va a demostrar que México tiene esa capacidad de poder diseñar o trabajar como un país de primer mundo, y demostrarle a todos los demás que tenemos conocimiento, la capacidad.
+INGENIERO DE PROCESO, FRANCISCO REFUGIO TORRES CHÁVEZ: Veo muchísimas capacidades, veo muchas ganas. El tiempo apremia, y los minutos y las horas son escasos, pero los ánimos están muy por arriba.
+INGENIERA DE PROCESOS, IMELDA VEGA PLATAS: Es un orgullo muy grande, pero creo que está directamente relacionado con el nivel de responsabilidad para poder estar a la altura de lo que se exige de nosotros.
+LÍDER DE INTEGRACIÓN DE SISTEMAS, DAVID ALONSO TAPIA ABREGO: Nos mueve el hecho de realizar un proyecto que va más allá de nuestra propia institución, sino va por toda la nación.
+VOZ MUJER: Gobierno de México.
+(FINALIZA VIDEO)
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: Lo que acaban de ver es el cerebro detrás de Olinia, la estrategia de colaboración y la unión entre la ingeniería, la tecnología y el diseño para crear un producto viable, factible y emocionante.
+Hoy queremos compartir que este septiembre próximo estaremos develando el diseño de los primeros vehículos Olinia. Les puedo adelantar que serán eléctricos, ligeros, pero con la potencia suficiente para subir las pendientes; que podrán recargarse en cualquier enchufe convencional, y su costo de operación será menor al de cualquier coche a gasolina e inclusive que al de una moto.
+Pero, además de la ingeniería, un proyecto de esta trascendencia para que realmente se convierta en un Proyecto de Nación necesita algo más.
+Nacimos con el nombre “Olinia”, derivado de ollin, la palabra náhuatl para “movimiento”. Es un recordatorio permanente de que existimos para crear tecnología para mover a los mexicanos, pero también refleja nuestro arraigo y el orgullo en la herencia de nuestro pasado.
+Este logotipo que ven aquí es nuestra firma comercial. Cada trazo de este logotipo fue pensado para evocar un equilibrio entre la precisión de la ingeniería y de la calidez humana. Cuando vean este logotipo verán nuestra promesa de crear tecnología centrada en las personas.
+Pero una firma no es suficiente; los grandes proyectos tienen un símbolo, un ícono, que resuena sin necesidad de palabras. Por eso, buscamos ese ícono en el corazón de nuestra cultura, y lo encontramos, lo encontramos en la magia, el color y el ingenio de los alebrijes, esas criaturas fantásticas nacidas en Oaxaca, de los sueños, en ellos vimos la combinación perfecta de fuerza, fantasía y movimiento.
+Por lo que hoy, señora Presidenta, quiero pedirle el honor de develar el emblema que irá en todos los vehículos Olinia.
+—Por favor, Rafael—.
+Este emblema es nuestra liebre alebrije. ¿Por qué una liebre? Porque es un animal que simboliza perfectamente la inteligencia práctica, la adaptabilidad, el aprovechamiento eficiente de la energía. Nos identificamos con su dinamismo que, como México, es imparable.
+Y sus alas representan la libertad de moverse, de trascender obstáculos, de nuestra capacidad de soñar. ¿Son un guiño a nuestra águila?, sí, pero una forma única y propia, simbolizan un nuevo tipo de vuelo, el vuelo de la innovación.
+Este alebrije será el sello que garantiza que es un producto auténtico, un símbolo de calidad y de la transformación de México.
+Señora Presidenta:
+Esto es Olinia, un esfuerzo en equipo, con el alma de México. Y aquí estaremos de regreso pronto.
+Muchas gracias.
+¿Presentamos a los directores, que pasen los compañeros?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Sí. Vénganse acá de este lado—.
+(TOMA DE FOTOGRAFÍA)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —¿Quién va a hablar primero, Poli o…?, ¿Poli?
+―Ándale―.
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: —Traemos unas gorras que mandamos a hacer especialmente para este evento. Se las vamos a entregar después del evento, a todos los que están aquí—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ―Adelante el Poli, doctor―.
+DIRECTOR DEL INSTITUTO POLITÉCNICO NACIONAL, ARTURO REYES SANDOVAL: Con su permiso, querida Presidenta. Buenos días a todas y a todos.
+En nombre del Instituto Politécnico Nacional quiero expresar nuestro orgullo por ser parte de Olinia, un proyecto trasformador que posiciona a México como líder en innovación y en la movilidad eléctrica.
+Sin duda, las instituciones de educación superior, como el Instituto Politécnico Nacional y el Tecnológico Nacional de México, son claves para que Olinia sea una realidad viable. Ambas instituciones estamos aportando soluciones basadas en el conocimiento científico, pero también en la aplicación práctica de ellos.
+Hay que recordar, y es algo que poco se sabe, que en los años de 1973 y 1974, el Instituto Politécnico Nacional hizo la conversión, por primera vez en México, de un auto de combustión a un auto eléctrico. Ese auto eléctrico circuló durante 60 minutos por las calles de la Ciudad de México a una velocidad de 50 a 60 kilómetros por hora.
+A 50 años de que eso sucediera, ahora somos parte de este gran proyecto. Y hemos formado una gran cantidad de estudiantes y de investigadores, de científicos con la capacidad suficiente para participar en un proyecto de talla mundial.
+De las seis áreas principales que conforman el desarrollo de este vehículo, el Instituto Politécnico Nacional ha asumido el liderazgo en tres de ellas: el diseño exterior; el diseño interior; y el desarrollo de los sistemas embebidos, ello consiste en el software a través del cual será posible el control, comunicación, operación y monitoreo de una unidad.
+Es importante destacar que nuestras labores no se limitan al diseño. Estamos generando un catálogo integral de infraestructura y equipos para la construcción y prueba de todos los componentes; también, desarrollando el cargador del vehículo; además, hemos asumido la responsabilidad de crear un sistema de gestión integral de calidad para todos los procesos.
+Sin duda, Presidenta, el corazón de este proyecto es la gente que está participando en él, con la firme convicción de mostrar que en México hay capacidad tecnológica y mucha capacidad para la innovación también.
+De las 82 personas que colaboran a nivel nacional, 33 pertenecen al Instituto Politécnico Nacional. Ellos incluyen investigadores e investigadores de primer nivel; pero también nos da gusto que participan alrededor de 12 estudiantes de excelencia del posgrado del mismo Instituto Politécnico Nacional; y una persona como parte de los PAE, del Personal de Asistencia a la Educación.
+También participan como consultores expertos, mostrando el prestigio en el sector automotriz que hemos forjado a lo largo de nuestra historia, pero también nuestra capacidad para asumir los retos actuales, como la movilidad sustentable.
+Y hay que destacar que contamos con una escuela específica para esos fines: la Unidad Profesional Interdisciplinaria de Energía y Movilidad, la UPIEM; que surgió siguiendo una idea, y nosotros la tomamos como una instrucción de la Doctora Claudia Sheinbaum, en aquel entonces como jefa de Gobierno de la Ciudad de México, inicia actividades la UPIEM.
+Además, a partir del 18 de agosto de este año, se impartirá la especialidad de vehículos híbridos y eléctricos.
+En las próximas semanas este semillero de talento Politécnico dará un primer resultado: el diseño exterior ya concluido.
+Por otra parte, para garantizar la viabilidad a largo plazo, algunos de los especialistas involucrados en Olinia han viajado a China y Taiwán con el objetivo de explorar el mercado de proveedores y también tejer alianzas estratégicas.
+El Instituto Politécnico Nacional está a cargo del análisis también del mercado y plan de negocios para minivehículos eléctricos en México; de este análisis, tengo el placer de informar que tenemos ya un avance del 90 por ciento. Una vez que se concluya, nos permitirá dimensionar el tamaño y la localización del mercado.
+Además, trabajamos en el anteproyecto de un plan de negocios para una planta armadora, que incluye la logística, la identificación de ubicaciones estratégicas, la disponibilidad de mano de obra calificada, entre otros aspectos.
+Aunque la sede principal del proyecto se encuentra en el estado de Puebla, quiero destacar que dos de las sedes operativas se ubican en la Ciudad de México, y son coordinadas directamente por el Politécnico, esto nos permite una integración profunda y una supervisión que sea constante.
+Finalmente, quiero decirles que Olinia no es solo el resultado de la ingeniería, sino de la investigación, el análisis de datos y una colaboración que está siendo muy efectiva entre las diversas instituciones que participan.
+Es un proyecto transformador que posiciona a México en el desarrollo de la movilidad eléctrica como un líder regional y centro de innovación tecnológica, donde el Instituto Politécnico Nacional refrenda su misión histórica como brazo científico y tecnológico del Estado mexicano, cumpliendo con su compromiso de poner la técnica al servicio de la patria.
+Muchas gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+―Adelante, Ramón―.
+DIRECTOR GENERAL DEL TECNOLÓGICO NACIONAL DE MÉXICO, RAMÓN JIMÉNEZ LÓPEZ: Gracias. Buenos días. Con su permiso, Presidenta.
+Para nosotros, como Tecnológico Nacional de México, es un gran orgullo participar en este proyecto estratégico que ha diseñado la Presidenta de nuestro país.
+Nos recuerda aquellos años en que el Instituto Politécnico Nacional, después de la Expropiación Petrolera, tuvo la capacidad con la formación de ingenieros, técnicos de alto nivel para sacar adelante a nuestro país.
+Hoy es un momento nuevo, donde la historia aparentemente se repite, pero sobre una base superior, en el desarrollo técnico, científico independiente de nuestra patria. En ese terreno, el Tecnológico Nacional de México, de los 254 Institutos Tecnológicos que lo conforman: 20 de ellos están participando activamente con 34 investigadores y científicos de alto nivel.
+Aquí están algunos de los compañeros en la primer fila. Quiero decir que el Tecnológico Nacional de México:
+Como líder de Calidad y Productos está Rafael Lara Hernández.
+Como líder del Tren de Potencia, Pedro Martín García, del Tecnológico de Ciudad Madero.
+El líder de Diseño de Plataforma aquí está con nosotros, Marco Antonio Meraz Melo, del Instituto Tecnológico de Puebla.
+El líder de Escalamiento, René Romero Sánchez.
+El líder de Integración, David Alonso Tapia Abrego.
+Y la líder de Cadena de Suministro, Karen Itzel Vázquez, que están con nosotros.
+Quiero decirles que 34 científicos e ingenieros del Tecnológico Nacional de México han dejado su lugar de residencia, algunos desde el norte, otros desde el sur del país, para concentrarse de tiempo completo en esta tarea de Estado, que es el proyecto Olinia.
+Yo, en primer lugar, quiero agradecer mucho la buena disposición de todos los científicos e ingenieros.
+Y quisiera leer un Acta de inicio, porque son el corazón del proyecto.
+Acta de inicio de actividades del equipo de trabajo convocado por el Tecnológico Nacional de México para el diseño del prototipo de vehículo eléctrico —para ver también y resaltar el cariño, el amor a nuestra patria, el amor por construir un México mejor, que no deje a nadie atrás—:
+En la ciudad heroica de Puebla de Zaragoza de los Estados Unidos Mexicanos, a los 8 días del mes de noviembre del 2024, un grupo de nacionales patriotas, convencidos de que los grandes logros nacionales se cimentan en la colaboración y el compromiso, unidos por los conocimientos científicos y tecnológicos adquiridos en diversas casas de estudios, provenientes del Instituto Tecnológico de diversos rincones del territorio nacional, destacados, entre otros, por la calidad de sus logros académicos en el área de electromovilidad, reunidos en este lugar por convocatoria del Tecnológico Nacional de México.
+En armonía con la propuesta de la Presidenta Constitucional México, la Doctora Claudia Sheinbaum Pardo, de lograr en un mediano plazo la creación de un vehículo eléctrico integrado por tecnología nacional que se ha denominado, por ella misma, como “Olinia”, que es una forma del verbo náhuatl “para mover”, los firmantes de este documento declaran su propósito de contribuir al desarrollo del vehículo eléctrico Olinia, que será un hito en la independencia científica y tecnológica de México en el ámbito de la electromovilidad, inspirados por la historia de los grandes movimientos nacionales y la determinación del pueblo mexicano.
+Los firmantes visualizan en este proyecto un medio para consolidar la revolución científica y tecnológica de nuestro país hacia un futuro de innovación y sostenibilidad, donde la industria nacional coexista en una sinergia imparable con la academia y con el Estado mexicano.
+Esta acta representa no solo un acontecimiento que quedará registrado en la historia, vivido por las partes aquí presentes, sino una promesa implícita con el pueblo de México, por parte de sus representantes, que han propiciado que este hecho tenga lugar y quede asentado para la posteridad de las generaciones, que tendrán el día de mañana la responsabilidad de mantener esta luz de independencia científica y tecnológica en sus manos, y les permita atravesar por la senda del desarrollo de la humanidad.
+La tinta y el papel que impregnan este documento será testimonial eterno de que este día cada uno de los participantes ha aportado su experiencia, conocimiento y visión de la mejor manera que las condiciones actuales les brindan en la primera mesa de trabajo para la creación del vehículo eléctrico mexicano.
+Los presentes han incitado los acontecimientos para que México se posicione como una nación próspera, que avanza en la historia, fortaleciendo cada día su soberanía e independencia nacional.
+Bajo la directriz de la Presidenta de nuestro país, con la guía de nuestro coordinador general, Roberto Capuano, a quien agradecemos mucho todas sus orientaciones, y en colaboración sistemática y permanente con los científicos e investigadores del Instituto Politécnico Nacional estamos poniendo lo mejor de nosotros para lograr contribuir de manera efectiva a la independencia científica y tecnológica de nuestra patria.
+Muchas gracias. Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Muchas gracias.
+Bueno, como ven, es un proyecto muy hermoso. Son más de 100 científicos, científicas, tecnólogos, tecnólogas, que se están concentrando ya en Puebla, desde hace ya meses; y su objetivo es tener los primeros vehículos Olinia a mediados del próximo año.
+Esa fue la tarea que les dimos, para que, a partir de ahí, podamos empezar a desarrollar la producción de estos vehículos.
+¿Qué características tienen? Eléctricos, no contaminan, se pueden conectar en cualquier conexión de cualquier hogar o de cualquier lugar, y deben tener las características del tipo de vehículo que usamos los mexicanos.
+Entonces, por eso hicieron una investigación de campo tan profunda. De ahí viene el diseño, la ingeniería de detalle, todo lo que están desarrollando.
+Y el costo del vehículo tiene que ser menor a cualquier vehículo comercial en su tipo.
+Entonces, es un reto bastante importante, pero que estamos seguros, o segura, que lo van a cumplir.
+Eso por el vehículo Olinia.
+Y, por otro lado, el Centro Nacional de Diseño de Semiconductores, que también ya va muy avanzado, que tiene tres sedes y que ya comienza a generar diseños de semiconductores, particularmente para el diseño de equipos médicos.
+Estos son 2 de los 12 proyectos estratégicos que planteamos para el gobierno, y ya vamos a ir presentando poco a poco los que siguen.
+Bueno, esta es la información.
+Ahora sí, agradecemos al Poli, al TecNM y a todos los que participan.
+PREGUNTA: Sobre el tema
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO:  Sobre el tema.
+—A ver, el compañero—.
+PREGUNTA: Buen día, Presidenta. Óscar Zamudio, para Zagazine.
+Sobre el tema, entiendo entonces que la producción de Olinia se estaría ensamblando en el estado de Puebla. Y saber si, ¿se tiene ya considerada la primera producción, cuántas unidades serían y el precio?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Roberto—.
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: Muchas gracias.
+En este momento estamos trabajando en Puebla, nuestro centro de diseño está en Puebla. Puebla tiene una gran infraestructura y herencia en la industria automotriz; sin embargo, no hemos establecido en dónde va a estar nuestra planta, esa decisión la tenemos en proceso.
+El vehículo, el costo del vehículo es el mismo que anunciamos en enero, no va a costar más de 150 mil pesos este vehículo.
+PREGUNTA: Entendiendo que es un tema de ciencia y tecnología para la movilidad, ¿estarían considerando en hacer un convenio con plataformas digitales de reparto a domicilio, que tuvieran ellos un beneficio para ellos como empresarios?
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: Recuerden que Olinia nace con la instrucción de ser una empresa rentable que va a tener inversión privada.
+Nuestra meta y nuestra promesa es la misma, la que acabo de decir: vamos a llevar la movilidad eléctrica en forma asequible a millones de mexicanos y mexicanas, al mismo tiempo que la empresa debe de ser rentable; y eso quiere decir que nuestro modelo de negocios debe de permitir vender la tecnología de la manera más efectiva posible y, obviamente, cumpliendo siempre nuestros principios rectores.
+Pero la respuesta es: si la empresa encuentra un modelo de negocios viable en la opción que usted acaba de mencionar, se considerará.
+PREGUNTA: ¿Qué segmento de mercado está cubriendo Olinia con este primer vehículo, sería un segmento nuevo, es algo entre un vehículo y una moto?
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: Olinia va a tener tres modelos, lo anunciamos en enero. En este momento, estamos empezando con los primeros dos, que tienen la misma plataforma vehicular:
+El primero es un vehículo que está dirigido para ser un sustituto auténtico al mototaxi. El mototaxismo es un medio de transporte muy utilizado en el país, en la Ciudad de México los que vivimos aquí lo hemos visto; pero no solamente eso, en el sur y sureste se usa muchísimo para inclusive viajes intermunicipales.
+Nuestra intención es poder atender el mercado de personas que se mueven en mototaxi, las organizaciones de transporte y transportistas que utilizan estos vehículos para moverse.
+Y en el segmento de carga, estamos buscando darle una alternativa al pequeño comercio y también a las empresas que tienen flotas de reparto.
+Les puedo compartir que ya tuvimos, por ejemplo, una reunión con Sepomex, porque estamos en el proceso de diseñar nuestro vehículo de carga, diseñar el diseño de ingeniería a detalle, como mencionamos. Y estamos encontrando estas organizaciones adentro y fuera del gobierno que requieren flotas de distribución urbana; se usa mucho este tipo de viajes adentro de las ciudades de todo el país.
+PREGUNTA: Muchas gracias. En otro tema de movilidad, Presidenta, usted estuvo en…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A ver, es importante… Por supuesto que cualquier persona lo puede adquirir, el objetivo del diseño es cubrir ese sector.
+Ahora, estamos trabajando para ver si la producción es solo pública o tiene una alianza con algún privado que nos permita tener recursos y el involucramiento de alguna empresa privada que quiera ayudarnos a desarrollar el vehículo.
+Ahora estamos en el diseño y en el análisis de cómo sería ya la producción masiva, y cualquier persona lo podría adquirir.
+Ahora, está pensado que en ese sector va a ser muy útil.
+El diseño fue decidido en campo. Entonces, uno ve un mototaxi en el sureste, por ejemplo, un pequeño carrito que lo traen de fuera, pero tiene problemas para que pueda subir la persona con discapacidad o tiene problemas para poder llevar tus bolsas del mandado; entonces, está diseñado justamente para las necesidades de las y los mexicanos.
+Es un proyecto nacional, de diseño nacional. Va a tener… va a ir generando todas sus partes a nivel nacional y va a cubrir ese sector, pero cualquiera lo va a poder adquirir.
+PREGUNTA: Gracias, Presidenta.
+PREGUNTA: Presidenta, (inaudible).
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Ya, ya vamos a la siguiente—.
+En septiembre nos vamos a ver de nuevo, van a venir hacia finales de septiembre, ya con el diseño. Y es para pasajeros y para carga, para pequeña carga.
+PREGUNTA: En el mismo tema de movilidad, Presidenta, el fin de semana usted estuvo en el estado de Hidalgo haciendo una visita de supervisión de obra para los avances del Tren Ciudad de México-AIFA-Pachuca.
+Saber en términos generales, ¿cómo va el avance de esa sección del tren?
+Y si, ¿estaría considerado ese estado como uno de los Polos del Bienestar para que también se pusiera una planta de ensamble de Olinia?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Estuvimos en Hidalgo, justo en una zona que está aledaña a un terreno que fue adquirido hace mucho tiempo por el gobierno del estado de Hidalgo, a principios del siglo XXI, en los años 2000, cuando se presentó la primera propuesta por parte del Gobierno Federal en aquella época para hacer el aeropuerto en Texcoco; en aquella época se planteó también la posibilidad de hacerlo en Tizayuca.
+Entonces, el gobierno de Hidalgo, aquel gobierno, compró ese predio en la idea de que ya pudiera estar disponible para poder hacer el aeropuerto.
+El aeropuerto finalmente se hizo en Santa Lucía, en Tecámac, Estado de México, ya está funcionando, pero ese gran terreno va a ser para un Polo de Desarrollo de Bienestar, que tiene muchísimas opciones, desde industria farmacéutica, porque cerca es la producción de productos farmacéuticos, hasta muchas otras opciones.
+El tren va muy bien. Se tiene ya todo el recurso, ya tiene… digamos, ya inició la construcción y queremos que esté listo para el primer semestre del 2027, el tren México-AIFA y su libramiento del AIFA para llegar a Pachuca.
+PREGUNTA: Ahí mismo, Presidenta, en la zona, en la región de Tizayuca, el Gobierno de México informó…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: “Se va a rayar” Hidalgo, porque va a tener los tres trenes: el que va a Querétaro… El México-Pachuca, Ciudad de México-Pachuca; Ciudad de México-Querétaro, también pasa por Tula; y hay otra parte que va hacia Irapuato, que también va a tocar Hidalgo, en otra zona.
+PREGUNTA: Exactamente, Presidenta.
+Justo ahí, en esa misma zona, el Gobierno de México informó, a través del IMSS, que el gobierno municipal de Tizayuca ya donó el terreno que está pensado para la construcción de un hospital; ya fue autorizado por el IMSS el terreno.
+Saber si, ¿está programado y si existen los recursos para este hospital dentro de este Polo del Bienestar para el 2026?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Los Polos de Bienestar tienen el objetivo —depende del tamaño, obviamente, hay unos de 20 hectáreas, hay otros de 3 mil hectáreas— que, en la zona, se construya la vivienda de las personas que van a trabajar ahí; tengan las escuelas de los hijos de las personas que van a trabajar ahí; y los centros de salud o, en su caso, hospitales.
+Entonces, en el caso de Hidalgo, una vez que esté definido el diseño del Polo del Bienestar, ya tendría toda la incorporación de los servicios que se requieren para que las personas puedan vivir cerca del lugar donde trabajan.
+PREGUNTA: Gracias, Presidenta.
+PREGUNTA: Sobre el tema.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Sobre el tema, sobre el tema. A ver, sobre el tema, la compañera―.
+PREGUNTA: Soy Mireya Cuéllar, de La Jornada, Baja California. Buenos días a todos.
+Presidenta, sobre este tema, primero, no sé si alguien pudiera decirnos: ¿qué tan importante es esto de que “la creatinina que se pueda identificar en la saliva”, no sé, tiene que ver con la diabetes?, ¿o por qué es importante este desarrollo que presentaron hoy?
+DIRECTOR GENERAL DE INNOVABIENESTAR DE MÉXICO, EDMUNDO ANTONIO GUTIÉRREZ DOMÍNGUEZ: La detección de algunas variables del cuerpo humano como, por ejemplo, la creatinina, nos permite monitorear con suficiente tiempo de anticipación el posible desarrollo de una enfermedad de deficiencia renal como puede ser la diabetes o alguna otra. Ese es el valor ejemplificado en un sensor de creatinina.
+Pero no solamente es un sensor de creatinina, también hay ejemplos de detectores de calor que pueden identificar entre un tumor maligno y uno benigno en la mama de una mujer. Entonces, son ejemplos.
+Y el valor reside en que podemos tener el control completo del diseño, la tecnología y la fabricación en México de ese tipo de sensores para aplicaciones tan importantes como es en la medicina.
+PREGUNTA: Gracias.
+Y bueno, yo entiendo también, Presidenta, el tema de los estados de la República que están participando en estos proyectos; pero, por ejemplo, en Baja California hay un instituto, hay un laboratorio, por ejemplo, de semiconductores en la UABC, hay las carreras de ingenieros en semiconductores, muy recientes.
+Pero el laboratorio de la UABC, por ejemplo, tiene muchos años trabajando, hay empresas de semiconductores en Baja California. No sé si… ¿por qué algunos otros estados que tienen también cierto desarrollo, en este sentido, no se incluyeron en este proyecto?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Se van a incluir más estados.  Iniciamos, en el caso de semiconductores.
+De hecho, hay investigadores de la UNAM, también del Politécnico que están participando, pero en el caso de Puebla, Jalisco y Sonora los propios gobernadores dijeron que: “Nosotros ponemos para que se hagan los primeros centros de laboratorio”.
+Eso no quiere decir que no van a participar otros que ya tienen sus propios centros de diseño, pero inicia con estos tres equipos.
+¿Qué virtud tienen estos proyectos?
+Ustedes saben que yo muchos años trabajé en la academia. Y en la academia… la academia se fue haciendo muy individualista en muchos sentidos.
+O sea: el investigador, desarrollando, con su propio grupo de investigación con el objetivo ya sea de tener una patente o de tener una publicación en alguna revista nacional o internacional, pero los grupos de investigación, en general, trabajan aislados: un grupo de investigación del TecNM, del Politécnico, de la UNAM, de la UABC o de algún otro centro de investigación.
+Rosaura, cuando fue secretaria de Ciencia en la Ciudad de México, creó estos grupos de investigación que les llama ECOs, es decir, equipos de investigación de distintos lugares que se ponen juntos a desarrollar un objetivo.
+Y esta es una virtud de estos proyectos que diseñamos, de estos 12 proyectos, en particular Olinia.
+Olinia tiene… Podría haberse dicho: “Bueno, se lo encargamos a la UNAM y ya la UNAM que…”, no; hay un coordinador de proyecto y ese coordinador de proyecto tiene que incorporar a investigadores de distintas instituciones.
+En este caso, además de que hay de otros lados, principalmente están del Politécnico, del TecNM, y son investigadores que levantaron la mano, dijo: “Yo quiero participar”; incluso están viviendo en Puebla, dejaron sus lugares de origen y se fueron allá a trabajar.
+Y la idea es que no solamente esté el vehículo, sino que se vincule con carreras que tienen que ver con electromovilidad, con investigación; que, a su vez, va a dar para otras cosas, porque normalmente cuando se desarrolla una actividad de ahí vienen semiconductores que van a funcionar para otras cosas, y es el mismo caso del proyecto Olinia.
+Entonces, son… Iniciamos y después, se van a ir incorporando o se pueden incorporar investigadores de otras instituciones.
+PREGUNTA: (inaudible)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, lo que tenemos… Vale la pena tu pregunta.
+Por ejemplo, con distintas instituciones, lo coordina el Instituto de Ciencias de la Atmósfera y Cambio Climático de la UNAM; pero participan el CICESE, y otros investigadores y otros centros de investigación, junto con la Secretaría de Marina en —lo había platicado aquí—, en el diseño de un sistema que nos permita monitorear huracanes o ciclones, o actividades atmosféricas que pueden llegar a causar problemas.
+Entonces, ese es uno de los 12 proyectos.
+Hay radares, por ejemplo, que también —este caso no lo estamos planteando—, que nos permiten poder, junto con el Meteorológico Nacional, no predecir, porque es difícil predecir, pero sí anunciar con tiempo la posibilidad de que venga una lluvia, como la que se vivió en la Ciudad de México para poder prevenir.
+PREGUNTA: Presidenta, perdón, yo quisiera también preguntar de otro tema, específicamente el que tiene que ver con los miembros del crimen organizado que fueron entregados a Estados Unidos.
+¿Qué sentido tiene seguirle entregando al vecino del norte todos estos presuntos o narcotraficantes y, al mismo tiempo, la reacción que hay de aquel lado, que después tienen acuerdos con estos personajes, los liberan y sigue habiendo un golpeteo terrible contra México por el tema del narcotráfico?
+O sea, ¿negocian con ellos?, no sabemos tampoco en calidad de qué, están allá, ha sido muy diverso el trato a estos personajes.
+A mí, sí me gustaría saber, nos deja un poco de dudas el sentido de seguirle dando a Estados Unidos a todos estos personajes, ¿no? Ciertamente, no los quisiéramos en México, pero acá han generado violencia, muchos muertos, como para verlos después negociando con ese país y viviendo en libertad.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A las 11:00 de la mañana va a haber una conferencia de prensa del Gabinete de Seguridad, para poder dar toda la información sobre este caso que tomó el Consejo Nacional de Seguridad.
+Lo que sí podemos decirles es que en todos estos casos —no es los casos de extradición o de envío de estos miembros de la delincuencia organizada—, la decisión es por la seguridad de nuestro país; son decisiones soberanas, no tienen que ver con una petición, aunque muchos de ellos tienen peticiones, pero hay muchos otros que siguen teniendo peticiones.
+Entonces, la decisión que se toma por el Consejo Nacional de Seguridad tiene que ver con la seguridad del país, son decisiones soberanas. Y ya el Gabinete de Seguridad a las 11:00 podrá darles más explicaciones.
+PREGUNTA: ¿Con esto avanza el Acuerdo de Seguridad, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Tampoco tiene que ver con el Acuerdo de Seguridad. Son decisiones soberanas que se toman en México para la seguridad de nuestro país; y las toma, a partir de un análisis del propio Sistema Nacional de Inteligencia e Investigación, el Consejo Nacional de Seguridad.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ―A ver, vamos, vamos…—
+PREGUNTA: Sobre el tema.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Sobre el tema―.
+PREGUNTA: Buenos días, Presidenta. Hans Salazar, de Noticiero en Redes.
+Sobre este tema, preguntar un poquito, si se puede ahondar, si, ¿ha habido empresas interesadas, empresas privadas sobre coinversión, que se está explorando, ya lo dijo?, pero si, ¿hay empresas privadas interesadas?, sería una de las preguntas.
+Otra, sobre estas visitas a países asiáticos en particular, porque, bueno, han demostrado mucha vanguardia en el tema de los autos eléctricos. Si, también, ¿hay un asunto de compartir sus avances tecnológicos?, ¿algún tipo de acuerdo?
+De hecho, usted ya había comentado, recuerdo que, con India, también se había platicado sobre posibilidad al respecto de acuerdos de este tipo, o no sé si me estoy confundiendo de tema.
+Y también preguntarle: bueno, aquí que están los jóvenes que son quienes están desarrollando esto. Y bueno, usted es una Presidenta científica, eso ya todo mundo lo sabemos, creo que ahí viene un enfoque muy importante.
+Y preguntarle precisamente: ¿qué les diría a los adolescentes de este país, a los niños, a las niñas?, ¿cómo impulsarlos también desde tempranas edades?, porque muchas veces tienen algún tipo de términos, son imperativos, pero no son atendidos y tienen para desarrollar tantas cosas, para crear, para todo esto.
+¿Cómo encarrilar a un país? Digo, eso sí se requiere de mucho más tiempo, pero estos son los cimientos.
+Preguntarle, en ese sentido también, ¿cuál sería el enfoque, Presidenta?
+Y si alguno de los jóvenes quiere comentar su experiencia, sería muy interesante; y también, si lo permite, Presidenta, para el país para ver que ellos son quienes están metidos de lleno y que esto, prácticamente, va a ser algo no solo innovador, sino va a ser… me parece que incluso puede ser un antes y un después, en este tema tecnológico.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —¿Quiere alguno de ustedes comentar algo? Platiquen de su trabajo, cómo es su trabajo, cómo fue que se contactaron para el proyecto Olinia. Quien quiera. Adelante. Pásate. Sí, que pase—.
+LÍDER DE INTEGRACIÓN MECÁNICA, JOSÉ LUIS RUEDA ARREGUÍN: Muchas gracias, con permiso, Presidenta.
+Yo provengo del Instituto Politécnico Nacional, soy doctor en Ciencias.
+Yo empecé con este proyecto desde el mes de febrero. Han sido diferentes etapas, desde la conceptualización, ahorita la ingeniería de detalle.
+Y dentro de Olinia tenemos un decálogo, una idea, un pensamiento: Que este proyecto debe de salir de la mejor manera, y todos estamos dando el 100 por ciento, incluso el 200 por ciento, para conseguir que este proyecto salga.
+Todos hemos hecho sacrificios —como mencionaban la señora Presidenta, el coordinador Roberto, Rafael—, nos hemos movido de nuestras ciudades donde vivimos, nos hemos separado de nuestras familias, pero sabemos que la recompensa va a ser enorme. Digo, estamos trabajando como mexicanos, para mexicanos y es un orgullo muchísimo muy grande.
+PREGUNTA: ¿Les impulsa mucho que sea una Presidenta científica?
+LÍDER DE INTEGRACIÓN MECÁNICA, JOSÉ LUIS RUEDA ARREGUÍN: Sí. Digo, más por los antecedentes de la señora Presidenta, pero es el impulso que se le ha dado a las instituciones académicas en los últimos sexenios, demuestra que dentro de las instituciones tenemos la capacidad para poder alcanzar grandes cosas.
+Muchas veces se miraba hacia el extranjero, cuando aquí en México tenemos la capacidad de lograr grandes cosas.
+Entonces, es un orgullo.
+Gracias.
+PREGUNTA: ¿Tu nombre?
+LÍDER DE INTEGRACIÓN MECÁNICA, JOSÉ LUIS RUEDA ARREGUÍN: Ah, perdón. José Luis Rueda Arreguín.
+Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Fíjense que ahora que estamos… Vamos a presentar muy pronto un proyecto que es una plataforma muy grande donde van a participar todas las instituciones académicas públicas, para que cualquier persona pueda llevar un curso a distancia de lo que quiera y que participen permanentemente académicos de las universidades públicas, de los tecnológicos para poder…. ¿Quieres saber de inteligencia artificial? Pues te conectas ahí y te van a explicar qué es inteligencia artificial o cómo acceder a lo que está hoy disponible.
+O, ¿quieres aprender náhuatl? Pues ahí va a haber un curso de náhuatl. Es una plataforma muy grande que estamos construyendo.
+A la hora de que estamos revisando esto, resulta que muchos jóvenes que salen de la preparatoria la carrera que escogen siguen siendo las carreras centrales de hace 100 años: abogado, contador; quizá porque no tienen la idea de lo que significaría estudiar matemáticas, o física, o ciencias de la computación.
+Entonces, parte de estos proyectos, entre otras cosas, lo que tienen es la idea de las y los jóvenes, primero, con lo que estamos haciendo en la preparatoria, para que nadie diga: “Ay no, yo no puedo estudiar matemáticas; no sé matemáticas, es muy difícil”. No, las matemáticas son accesibles para cualquiera si se enseñan adecuadamente.
+Entonces, para que un joven… Está bien que quiera ser abogado o abogada, pero que también tenga el sentido de que a lo mejor quiere ser matemático, física o quiere estudiar Ciencias de la Computación, o quiere estudiar filosofía también, o quiere estudiar otras carreras en donde también encuentre un espacio laboral y que estén vinculados con estos grandes proyectos de desarrollo del país.
+Por eso es un proyecto de largo plazo, no solamente del diseño particular del vehículo.
+Y sí tenemos propuestas de empresas privadas que están interesadas, Roberto y todo el equipo está hablando con ellas, pero queremos primero tener el diseño para después, ya en todo caso, la producción, ya podría ser una alianza o un proyecto mixto.
+PREGUNTA: ¿También en transferencia de tecnología, no solo en ensamblaje?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, particularmente en el caso del Taller de Semiconductores, es la creatividad de las y los mexicanos puesta a disposición. Y después, se puede vender, digamos, esa creatividad a alguna empresa, pero con beneficio para los investigadores mexicanos y para las instituciones públicas.
+Entonces, todo esto lleva también una modificación de patentes y otras cosas que estamos haciendo.
+En el caso de la India es un trabajo que tiene que ver con una empresa grande que tienen ellos, que se llama Serum, que es para la producción de vacunas principalmente; y ahí estamos en pláticas para ver si es factible hacer una alianza para la producción de vacunas con Birmex. Todavía es… Es algo que platiqué con el ministro Modi cuando estuve en Canadá.
+Y han estado viniendo, además de otros proyectos de vinculación.
+PREGUNTA: Presidenta, si me permite otro tema.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí.
+PREGUNTA: Bueno, pues todo esto y el programa no se puede tampoco sin dinero. Y a mí me llama la atención en este tema que el SAT informó que, de enero a julio del 2025, los ingresos tributarios alcanzaron 3.27 billones de pesos, lo que representa 102.7 por ciento de la meta anual establecida, es decir, que rebasó un aumento real de 7.2 por ciento frente al mismo periodo del año pasado.
+“La mayor recaudación y un control en el gasto han permitido reducir este déficit público”, así lo señala.
+Aquí hay una meta. Yo preguntarle sobre esta recaudación, ¿cómo ha sido también la evolución en la atención del SAT con la gente? Es decir, estamos hablando de contribuyentes de todos los niveles y de las empresas tanto grandes… Bueno, algunos que no quieren pagar, pero, en general, creo que hay una conciencia mayor.
+¿Cuáles serían las metas en este y el próximo año, si nos pudiera comentar un poco más respecto a este tema de la recaudación, ya que, en este momento, repito, en este periodo ya se superó la meta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Todos los días me envían una tabla.
+— A ver si la tienen. A ver si les pueden mandar la tabla, de todas maneras, de…―.
+Esa es hasta la fecha, cuál es recaudación del 2025, que es histórica: 334 mil —No. Sí— 962 millones.
+Ah, es que esta solo tributaria; está la no tributaria, que son derechos.
+―A ver si también nos la pueden poner―.
+PREGUNTA: ¿Cómo se logra esto, Presidenta, si nos podría comentar un poco?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Primero, agradecer a todos los que pagan sus impuestos y pagan los derechos.
+Hay una buena recaudación gracias a que la gente está pagando sus impuestos, y que sabe que los usamos bien; que nadie se está robando el dinero, sino que se está invirtiendo en Programas de Bienestar, en educación, en salud, en programas de vivienda y en obra pública, como los trenes, los proyectos de agua, las carreteras que estamos desarrollando, y también en investigación y desarrollo tecnológico.
+El SAT hizo —estoy viendo, a ver si Pepe nos puede enviar también; y si no, que venga un día Toni con Pepe Merino—.
+Ahora es mucho más fácil sacar tu RFC, por ejemplo. Antes te pedían un montón de trámites, todavía hasta el año pasado, y ahora hicimos una reducción de trámites; entonces, eso facilita poder acceder al RFC; y algunos otros trámites que tenía el SAT, que facilitan para poder pagar los impuestos.
+Y desde los grandes empresarios, con sus excepciones que ya conocemos, también están pagando sus impuestos, igual que el contribuyente menor.
+Y la otra es el trabajo que se está haciendo en aduanas. El lunes tuvimos reunión de aduanas.
+Yo dije que eran 150 mil millones; son 180 mil millones de pesos adicionales que se han recaudado, de enero a julio, en aduanas, 180 mil millones de pesos.
+Entonces, eso también es parte de las contribuciones.
+PREGUNTA: Bien, Presidenta.
+Y ya por último, si me permite: ayer hubo una sesión en la Suprema Corte de Justicia de la Nación, y en este caso la presidenta de la Corte, la ministra Piña, sorprendió al convocar a una nueva sesión extraordinaria a pesar de que ya se había realizado la que consideraba la última reunión del actual Pleno, antes ya del cambio del 1º de septiembre —que aquí ya se ha tocado bastante el tema— y su decisión que se extiende la actividad judicial hasta el 19 de agosto, el próximo 19, e incluso podría llegar hasta el 28.
+Levanta cuestionamientos sobre si busca influir en resoluciones claves antes de dejar el cargo, en un contexto marcado por tensiones políticas y el inminente relevo en el Poder Judicial.
+La maniobra de Piña, de la ministra Piña —perdón— abre dudas sobre esta pertinencia y este… especialmente en temas electorales de alto impacto.
+Usted seguramente está enterada, Presidenta.
+¿Qué pudiera comentar respecto a este tema, que se ha levantado mucha polémica?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Habría que preguntar: ¿por qué quieren una sesión extraordinaria?, a lo mejor y van a resolver los impuestos de una persona que debe mucho.
+Y si no, que digan: ¿por qué están llamando a una reunión extraordinaria?, porque ayer era la última sesión ya de la Corte del pasado, vamos a decir. El 1º de septiembre…
+PREGUNTA: Todavía puede llegar (inaudible) impugnaciones de los magistrados y el término que da la ley para (inaudible).
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, pues eso sí está… O qué, ¿a poco hasta al último momento van a querer echar para atrás para la reforma al Poder Judicial? Eso ya.
+PREGUNTA: (Inaudible)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Todavía no resuelve completamente el Tribunal Electoral, ¿no?, todavía no resuelve el Tribunal Electoral.
+Recuerden que se eligieron… ¿Qué día es hoy? 13 de agosto. Pues ¿qué tanto van a esperar para el 1º de septiembre?, primero.
+Segundo, hay, de acuerdo con la Constitución, hay una sola forma en que la Corte puede intervenir, que es para los que participaron en el Tribunal Electoral, en la Sala Superior del Tribunal Electoral; porque finalmente la Sala Superior del Tribunal Electoral no podría decidir sobre sí misma, supuestamente.
+Pero no sé si tienen sustento las impugnaciones o no.
+Lo cierto es que ya se van y vamos a ver esta última sesión extraordinaria a la que están llamando qué sentido tiene.
+PREGUNTA: Presidenta, a propósito de la Corte, también aprobaron el proyecto para el próximo año, en donde…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, sí, de presupuesto. No, pues no.
+Ya viene la nueva Corte, ya no van a ganar tanto, ya van a ganar menos que la Presidenta.
+No pueden ganar más que la Presidenta, eso ya lo dice claramente la Constitución.
+Aprobaron un presupuesto altísimo, pero, bueno, ya viene la nueva Corte, los tiempos… Llega aire fresco al Poder Judicial.
+PREGUNTA: Hubiera sido correcto que la próxima Corte hubiera revisado…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Lo pueden revisar de nuevo, no tienen por qué no revisarlo.
+PREGUNTA: Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —A ver, vamos allá atrás porque no… Y luego, Reyna, le prometí, ahorita vamos contigo. A ver, la compañera de los derechos de los animales, siempre nos habla—.
+PREGUNTA: Bueno, para no salirse del tema, aunque traigo dos más: ¿será Olinia una esperanza para los animales, para erradicar la atracción a sangre? La atracción a sangre, o sea: para erradicar la esclavitud de los caballos y de los burros que utilizan como carretoneros, por ejemplo…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, se puede usar de distintas maneras.
+PREGUNTA: ¿Será una esperanza Olinia para eso?, probablemente.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es otro debate, tal vez. Otro día entramos a eso.
+PREGUNTA: Ok, gracias. Bueno, señora Presidenta, permítame, para poder formularle la pregunta, hacerle una muy breve cronología y recapitulación sobre el Movimiento por los Derechos de la Naturaleza.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos siendo breves, nada más, para que podamos…
+PREGUNTA: Sí. Un movimiento que inició hace más de 50 años:
+En 2008, Ecuador fue el primer país en incluir los derechos de la madre tierra, la Pachamama, en su Constitución.
+En 2010, entró en vigor en Bolivia la Ley de los Derechos de la Madre Tierra.
+Y en 2012, se aprobó la Ley Marco de la Madre Tierra y Desarrollo Integral para Vivir Bien, esta última recoge la cosmovisión de las comunidades indígenas y pueblos originarios como guardianes ancestrales de la naturaleza.
+En México, el Movimiento por los Derechos de la Naturaleza tomó fuerza en 2013 con la Ley Ambiental de Protección de la Tierra, en el entonces Distrito Federal; sin embargo, dicha ley ha sido reformada recientemente eliminando, lamentablemente, conceptos clave como el que “se reconoce a la tierra como un ente vivo”.
+En 2014, el estado de Guerrero fue el primero en reconocer los derechos de la naturaleza en su Constitución.
+En 2016, se llevó a cabo el primer Foro Internacional por los Derechos de la Naturaleza en la Ciudad de México; el cual motivó que, en 2017, se incluyeran estos en su nueva Constitución.
+Posteriormente, se incluyeron en las Constituciones de las entidades federativas de Colima, en 2019; de Oaxaca, en 2021; y el Estado de México, en 2024.
+Los gobiernos de Chile y Colombia presentaron ante la Corte Interamericana de Derechos Humanos una solicitud de opinión consultiva sobre las obligaciones de los Estados parte para responder a la emergencia climática.
+Resultado de dicha solicitud, el pasado 3 de julio de 2025, como un gran avance, la Corte emitió una histórica opinión: el reconocimiento de la naturaleza y sus componentes como sujetos de derecho.
+Así, también ha habido diversos intentos para reformar la Constitución Política de los Estados Unidos Mexicanos en ese sentido, pero sin éxito.
+Señora Presidenta, es apremiante una visión biocéntrica y ecocéntrica fundamental para cuidar y preservar nuestro patrimonio biocultural para las generaciones presentes y futuras.
+Que se reconozca que la naturaleza y todos los seres vivos y elementos que la habitan tienen derecho a existir, prosperar y evolucionar, y a ser respetados y protegidos por su valor intrínseco y no por su utilidad para los seres humanos.
+Considerando que no hay justicia social sin justicia ambiental, y a la inversa, y siguiendo el enfoque de una sola salud, la pregunta, señora Presidenta, es: ¿será tiempo de que México reconozca la naturaleza a sus especies, individuos y ecosistemas como un ente colectivo sujeto de derechos en su Carta Magna?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Estoy analizando hasta dónde ha llegado la Constitución en nuestro país: Se reconoce el derecho a un ambiente, a un medio ambiente sano, se reconoce los derechos de los animales o por lo menos el no ejercer violencia contra los animales.
+Y habría que ver, vamos a plantearle este tema a Alicia Bárcena.
+PREGUNTA: Gracias, señora Presidenta.
+Y una segunda pregunta más breve:
+En el marco del 2º Festival y Académico por los Derechos de los Animales y contra la Violencia, el 18 de agosto se inaugurará la exposición “Revocar el silencio” en la Secretaría de Educación Pública, muestra que tuvo lugar en 2022 en el Complejo Cultural Los Pinos y que inauguró en aquel tiempo la secretaria de Educación, la maestra Delfina Gómez, en representación del Presidente Andrés Manuel López Obrador.
+En esta ocasión se distribuirá un tríptico informativo y será el inicio de una campaña: “Erradicar el maltrato, la crueldad y la tortura animal: un compromiso por la paz”.
+Agradecemos a la Dirección General de Planeación, Programación y Estadística Educativa por su altura de miras.
+Señora Presidenta, “Revocar el silencio” es un ensayo fotográfico a través del cual, como lo señalara la escritora Francesca Gargallo: confirmamos que los derechos de los hombres y mujeres han pervivido a costa de la negación de los derechos de los animales y la naturaleza.
+Esta exposición estará un mes en los recintos emblemáticos de la Secretaría de Educación Pública y posteriormente, itinerará al Senado de la República la última semana de septiembre, cuyas anfitrionas serán las senadoras Anahí González Hernández y Reyna Celeste Ascencio Ortega.
+Nos acompañarán indistintamente el poeta Homero Aridjis, la escritora Elena Poniatowska y el músico Horacio Franco, embajadores de buena voluntad del Movimiento Consciencia, entre otras personalidades, tanto del Gobierno Federal como artistas, académicos y ciudadanos comprometidos que se han solidarizado en esta lucha.
+Nada nos gustaría más que contar también con su presencia, señora Presidenta. Su opinión tiene un peso enorme en el despertar de las conciencias.
+La pregunta es: ¿usted me aceptaría la invitación a conocer este ensayo fotográfico por los derechos de los animales?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Qué día es la inauguración?
+PREGUNTA: Se inaugura el lunes 18 a las 11:00 de la mañana. Estará un mes en la Secretaría de Educación Pública.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, el lunes va a estar difícil, pero vamos a ver si vamos a dar la vuelta.
+PREGUNTA: Cualquier día. Muchas gracias, señora Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Bueno, vamos… A ver, aquí el compañero, atrás; y luego Reyna porque se lo prometí desde hace 2 días—.
+PREGUNTA: Gracias, Presidenta. Yo quisiera ahondar un poco…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vámonos rápido porque ya son 09:15.
+PREGUNTA: Soy Marco Antonio Olvera, del periódico digital Hidalgo News y del canal México News World.
+Presidenta, quisiera saber ¿cuántos serán los empleos generados de manera directa e indirecta con la fabricación de este automóvil?
+Y también saber, ¿quién será el encargado de distribuir las mismas unidades y la cantidad de unidades que saldrán al mercado en un primer ciclo, por decirlo?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos primero a lo primero: vamos al diseño.
+En septiembre se presenta el prototipo, o sea, ya el próximo mes; después, viene ya la fabricación de los primeros; y en el proceso ya es la instalación de la planta, o las plantas, pueden ser también.
+PREGUNTA: O las plantas.
+Presidenta, en otro tema, rápido, el pasado 11 de junio de los corrientes, el CEO de la cervecera Heineken, con sede en Ámsterdam, capital de los Países Bajos, vino a anunciar una inversión de 2.7 millones de dólares con el objetivo de, obviamente, generar empleos en el país y a su vez, hacer más productiva el líquido, que es la cerveza.
+También hubo un acuerdo con más de mil 87 productores de cebada provenientes de los estados de Puebla, Tlaxcala, Hidalgo y el Estado de México. Estos mil 87 productores tienen sembradas 87 mil hectáreas, de las cuales producen, estas hectáreas, 35 mil toneladas.
+En ese sentido, Heineken ha roto el acuerdo comercial con estos productores, y hoy se quejan de que la cebada está ahí en las bodegas, incluso se están echando a perder.
+Entonces, ya, incluso también fueron a la Secretaría de Gobernación, a la Sader, para que obviamente, renegocien ese acuerdo comercial para que estos pequeños productores de cebada tengan sus ganancias de la siembra de la cebada. Y hay que recordar que Heineken en el país ha generado un 65 por ciento de su crecimiento.
+Entonces, si hubiese la posibilidad de checarlo…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Lo revisamos y le pedimos a Julio Berdegué que de inmediato revise.
+PREGUNTA: Gracias, Presidenta.
+Por otro lado, rápido, la cuestión de los periodistas. Bueno, cuando se asesina o se persigue a cualquier periodista, así sea de un medio independiente o de un “machuchón” —como decía el Presidente— se coarta la democracia, sin la prensa no hay democracia en cualquier país.
+En este sentido, Presidenta, quisiera saber, ¿cuál es su opinión de la muerte de 2 corresponsales en Gaza de la agencia Al Jazeera?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Terrible. Lo que pasa en Gaza es terrible, es muy triste y, particularmente, lo que ocurrió con los periodistas —no solo fueron dos, han sido más— también, evidentemente.
+Por eso, nosotros siempre hacemos un llamado a la paz, urgente y al reconocimiento de ambos Estados.
+PREGUNTA: Gracias, Presidenta. Buenos días.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ―Atrás―.
+PREGUNTA: Muy buenos días, Presidenta. Amir Ibrahim, de ElQuintanaRooMx. Muy buenos días. Voy a sentarme, por las cámaras.
+La primera pregunta sería también sobre el auto. Si, ¿tienen ya como el concepto de la seguridad que lleva el auto, las cuestiones de seguridad?, porque puede haber algunos accidentes; si, ¿el modelo contempla alguna tecnología de seguridad interna?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ―Roberto―.
+COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: Una de las primeras cosas que estamos haciendo en Olinia es definir normativamente qué es un minivehículo.
+Entonces, hoy, si queremos nosotros emplacar un minivehículo, lo tenemos que emplacar como una cuatrimoto, y eso no es adecuado; tampoco puede ser un vehículo.
+Entonces, al crear la norma estamos estableciendo y trabajando con la Secretaría de Economía para precisamente asegurarnos que la categoría de minivehículo, de la cual Olinia será un participante, pueda ofrecer las mejores condiciones de seguridad para el vehículo.
+Es un asunto, sin duda, que nos ocupa y nos tiene trabajando.
+PREGUNTA: Muchas gracias.
+Y, en otro tema, el sargazo en Quintana Roo es un problema que ya tiene temporada, más o menos inició como en el 2017 la primera oleada fuerte de sargazo que se tuvo a conocer.
+Yo tuve la oportunidad de documentar muy de cerca ese momento porque en ese momento una empresa que había ganado la licitación para extraer el sargazo y todo eso, como una medida emergente, nos permitió cubrir exactamente cómo llevaban las acciones en varios puntos de las playas.
+Hicimos dos tomos de documentación, trabajamos con unos compañeros que son biólogos también, en ese trabajo; unos documentamos, digamos, lo que estaba pasando.
+Y la verdad es que el programa de sargazo es un problema muy fuerte, o sea, lo sacaban y básicamente al otro día estaba exactamente igual, ¿no?
+Y pues se implementaron medidas como estas de las barreras, de las famosas barreras, que contienen hasta cierto punto el sargazo, pero, en realidad, las oleadas fuertes de sargazos, la barrera no funciona tampoco; funciona hasta cierto punto.
+Y ha venido evolucionando este tema del sargazo. Pero el Gobierno de México claro que ha hecho el esfuerzo, con la Secretaría de Marina también, de extraer el sargazo; sin embargo, señora Presidenta, no es suficiente, y es un problema que sí daña fuerte el tema del turismo en Quintana Roo, o sea, porque las personas que van no esperan tener una playa llena de sargazo.
+Y pues los hoteleros también han estado contribuyendo en lo que se puede, pero es un trabajo muy arduo; los municipios y todos.
+Sin embargo, tiene un origen. La pregunta sería: ¿por qué no atacar el tema del sargazo desde el origen?
+Esto quiere decir: se crea —tengo entendido— en las islas, del sargazo en Brasil.
+¿Por qué no hacer un pacto internacional con Brasil, aprovechando la buena relación que tienen los gobiernos mexicanos y el brasileño para atacar el fenómeno desde la creación del sargazo?, porque no para y cada temporada empieza a ser… ¿Y qué pasa también en este sentido?, que es un problema interesante de analizar.
+Que la competencia hotelera de otros países —porque el turismo es una competencia también entre países—, las islas del Caribe, cercana, o la competencia hotelera empieza, digamos, a usar ese argumento como: “No vayas a Playa, no vayas a Cancún, no vayas a Tulum, porque hay sargazo. Y mejor, aquí tenemos estas playas donde no llega”.
+Y entonces, pareciera que en este momento pues no es tan grave, porque llegan muchos turistas al estado de Quintana Roo —gracias a Dios—, pero podría avanzar en algún momento si el sargazo se mantiene, digamos, como una ya corriente.
+Porque, a partir del 2017 lo que ha sucedido es que ya hay temporada; o sea, ya en el 2018 llegó en ciertos meses; 2019, llegó en ciertos meses; hasta el día de hoy ha estado. Digamos, hay meses que baja mucho el sargazo.
+Y tampoco impacta a todas las playas; llega a ciertos puntos de playas públicas, sobre todo, que son las más importantes.
+Saber si, ¿el acuerdo con Brasil o este análisis de atacar el problema desde el fondo podría ser una opción para poder reducir este impacto que está teniendo Quintana Roo con el sargazo, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Se está trabajando en ello.
+No es claro cuál es la causa del sargazo. Hay científicos que plantean que es un tema de la deforestación de la Amazonía, entonces tampoco es tan sencillo decir: Vamos a atender la causa tan sencillamente como que de un día a otro se resuelva.
+Hay quien habla que está impactando el cambio climático, porque sargazo siempre ha habido, solamente que no llegaba al Caribe mexicano, sino que se iba a otros lados.
+Entonces, hay un grupo de investigación que tiene Rosaura que están trabajando sobre las causas de la llegada del sargazo, y la colaboración internacional que pudiera haber para atenderlo.
+Y la otra, es la contención del sargazo para que no llegue a las playas, como las barreras, las máquinas que están recogiendo el sargazo.
+Y la otra línea es: ¿cómo usamos el sargazo para algo que funcione?, para que no sea solo basura que pudiera llegar incluso a generar un problema en términos de dónde se deposita el sargazo.
+Entonces, está trabajando en los tres temas.
+Ha habido un trabajo muy importante de la gobernadora, de la Secretaría Marina, de los hoteleros también, que han estado trabajando.
+Realmente no hay un impacto real que uno pueda ver que “debido al sargazo que hay en algunas playas, ha disminuido el turismo en Quintana Roo”, pero hay que atenderlo.
+Entonces, estamos en las tres áreas atendiendo el sargazo:
+Conteniendo, para que puedan estar limpias las playas.
+Analizando, investigando cuál es la causa y viendo cómo puede contenerse desde el origen.
+Y la otra, cómo puede usarse el sargazo para que pueda servir para generar energía, para construir tabiques, en fin, hay varios usos que pueden tener, siempre y cuando se capture en el mar.
+PREGUNTA: Y como un tercer tema, ya rapidísimo, también de Quintana Roo: sucede que hay una… Digamos, en los temas del predial, los grandes, los que tienen, digamos, un precio sobre el predial, digamos, mucho menor al que paga una persona que vive en una casa, y trabajadora precisamente.
+Se ha optado en algunos municipios por aumentar ese costo del predial a los hoteleros y tratar de reducir el costo también el predial a las casas normales, pues.
+¿Qué opinaría sobre este tema?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Son temas municipales principalmente, el predial se cobra a nivel municipal.
+Hay algunos estados que no… que lo tienen a nivel estatal. La Ciudad de México, por cómo está constituida, el predial se cobra a nivel de la entidad.
+Pero tiene que ver con los municipios.
+Ahora, mi opinión es como siempre de los impuestos: quien más tiene debe pagar más, quien menos tiene debe pagar menos; porque si no, profundizas las desigualdades y la pobreza. Y hay estados que han avanzado mucho en eso y otros que todavía falta.
+Y la Agencia de Transformación Digital tiene asesorías para los catastros, porque para poder decir dónde puede aumentar el predial para ciertas zonas que son de muy alto nivel económico tienes que tener mapeado el municipio o las distintas poblaciones de los municipios, para saber realmente cuáles son esas zonas. Y ahí ayuda mucho la Agencia de Transformación Digital.
+PREGUNTA: O sea, ¿ahí los alcaldes pueden acercarse a la Agencia para toda la asesoría?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Puede acercarse a la Agencia para toda la asesoría sin costo alguno, para que puedan digitalizar sus catastros.
+PREGUNTA: Muchas gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: — Ahora sí—.
+PREGUNTA: Gracias, Presidenta. Parece que no me quiere dar mucho tiempo, pero espero que me deje tocar los tres temas que traigo.
+Y si quisiera hablar del tema, pero tengo como un año que no hablo y… Porque la movilidad es muy importante, Presidenta, hasta le iba a platicar de mis vacaciones en un paradisiaco lugar de este México.
+En La Paz hay un camión para una colonia; o sea, que si la gente no sale a la hora…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, estamos ayudándole a La Paz porque vamos a…
+PREGUNTA: Tardan una hora, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Creo que… ―A ver pregúntale a Andrés cuántos autobuses vamos a comprar para el municipio de La Paz―.
+PREGUNTA: Pero no era mi tema, pero qué bueno que lo… Sí, porque…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Desde hace mucho…
+PREGUNTA: Y está muy caro, 12 pesos, o sea, digo...
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, con excepción de la Ciudad de México, porque no sé cuánto cueste allá en Hermosillo.
+PREGUNTA: En Hermosillo cuesta, igual, 10.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Con excepción de la Ciudad de México… Fíjense, el programa social o uno de los programas sociales más importantes de la Ciudad de México es el subsidio al transporte público.
+El Metro cuesta 5 pesos, pero, en realidad, su costo es como de 12, 13 pesos; entonces, lo que no paga el usuario, lo paga el gobierno para poder operar en México.
+PREGUNTA: ¿Y por qué no hacen algo parejo, así, piso parejo pa’ todo México?, porque…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, bueno, eso depende de los estados.
+PREGUNTA: Es que a mí me tocó ver: una hora, Presidenta, para que llegue. Hay un solo camión, por ejemplo, para la Loma Linda y para cada colonia. Entonces, la gente sufre mucho. con… Y luego, el calorón.
+Tienen un camión que le llaman “Tiburón”, muy elitista: trae aire, pero también cuesta más, y tienes que comprar una tarjeta para poderte subir a él, que cuesta 50 pesos.
+Entonces, pues no, las condiciones en La Paz no son… Porque ya ve cómo está Cancún: la mitad ricos, muy ricos, y la otra mitad muy pobres. Los Cabos es igual: una mitad muy ricos y otra mitad muy pobres.
+Entonces, La Paz ya está casi igual, hay mucha pobreza, marginación, no hay transporte.
+Me tocó una semana sin agua.
+Eso fueron en las vacaciones.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos a hacer una presa ahí, en La Paz y se van a adquirir autobuses este mismo año.
+PREGUNTA: Bueno, ese no era el tema, pero como estaban hablando de movilidad, ojalá llegaran esos camioncitos, imagínense. ¡No’mbre!
+Pero, bueno, Presidenta, ¿y cuánto gana usted? Ahorita, que habla de sueldo; de que ya se van a bajar estos señores el sueldo; que, qué bueno.
+¿Cuánto gana usted? Si nos puede recordar, por favor, porque…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —A ver, ¿cuánto gano yo?, por favor—.
+PREGUNTA: Bruto, ¿no?, bruto, y ya cuánto le queda.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Neto, ¿no?, neto.
+PREGUNTA: Neto.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —A ver si nos puede decir Luisa—.
+Neto, son como 130, creo, al mes.
+PREGUNTA: O sea, que queda como ciento… ¿Bruto cuánto sería? Como ciento…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, bruto es con los impuestos, con el ISSSTE, es como…. O sea, me descuentan, debe ser como un 40 por ciento más o menos.
+PREGUNTA: Entonces, serían ciento ¿qué?, ¿160-70?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: 133 mil pesos mensuales.
+PREGUNTA: ¿En bruto?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Neto.
+PREGUNTA: ¿Y bruto?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos a ver... 191.
+PREGUNTA: 191. Ah, bueno. Sí ganan un poquito menos los del Senado. Pero hay un trabajo de investigación por ahí que habla de que hay 60 personas que ganan 170 y tantos mil pesos brutos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Por cierto, este año no aumentamos los salarios de…  Ni el año que entra de los funcionarios, de los servidores públicos de confianza, sí.
+PREGUNTA: Se bajó.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No aumentó. Normalmente aumentaba, la inflación, incluso con el Presidente López Obrador y nosotros lo…
+PREGUNTA: Entonces, ¿cuál sería el promedio de un funcionario federal, por ejemplo? ¿el promedio salarial?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sobre 70, yo creo.
+PREGUNTA: 70.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, depende. Hay…
+PREGUNTA: Sí, de administrativo.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, funcionarios que ganan 15 mil pesos.
+PREGUNTA: Y, bueno y ahora… Porque ya ve con esta ola que se ha venido de… Ya como que ya le salió el cinismo panista por ahí a algunos que se vinieron a Morena, y la corrupción priista que también se vino pa’acá; y ahí andan exhibiéndose con sus ropas y todo. Usted…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ya, ya hablamos de eso. Ya hablamos mucho de eso.
+PREGUNTA: ¿Usted vive en la justa medianía, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ya hablamos de eso.
+PREGUNTA: No, pero usted no nos ha contado su historia.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A ver, yo vivo aquí en Palacio, ahora, en un departamento; en el mismo departamento donde vivía el Presidente López Obrador.
+Previo a ello, vivía en un departamento rentado ahí en la colonia Toriello Guerra en Tlalpan.
+Y previo a ello, vivía en una casa donde crecieron mis hijos, en San Andrés Totoltepec, en Tlalpan.
+PREGUNTA: Entonces, ¿consideraría que sí vive en la justa medianía?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, gano mucho más que lo que gana el trabajador medio. El salario medio de un mexicano, mexicana, de acuerdo con el Instituto Mexicano del Seguro Social, es sobre 18 mil pesos, más o menos.
+PREGUNTA: Porque el problema de que, por ejemplo, lo último que sacaron del Senado: 60 personas, amigos, familiares, parientes…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Como jefa de Gobierno ganaba 86 mil pesos mensuales.
+PREGUNTA: Bueno, pues eso sí es… imagínense, el salario promedio de un mexicano no llega ni a 7 mil pesos a la semana.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: El promedio es de 17 mil.
+PREGUNTA: 3 mil 500, más o menos, y eso yéndoles muy bien, o sea, no son ni 3 mil pesos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es cierto, por eso hay que seguir aumentando el salario mínimo.
+PREGUNTA: Entonces, 60 personas que ganan 170 mil pesos, y en la mayoría de los casos son administrativos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Por cierto, hoy iba a salir el resultado de pobreza del Inegi.
+—¿Ya salió?—
+PREGUNTA: Pero a veces las encuestas no reflejan muy bien lo que vive la gente en las colonias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Ya salió ahorita? ¿Ya está publicado? Ah, no, pues es a las 10.
+PREGUNTA: Entonces, aquí la pregunta, Presidenta, es: ¿por qué esa disparidad?, que ya se la he hecho muchas veces, ojalá tenga usted oportunidad de contarnos qué pasa ahí. ¿Por qué un administrativo, un exfuncionario, gana más que un policía, que un enfermero, que un doctor, que un maestro?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Tenemos que publicar —por cierto, ya se aprobó en el Congreso— y tenemos que publicar, porque se aprobó que el salario mínimo de un policía, de un soldado, no puede ser… O sea, tiene que ser el salario medio del IMSS, y después del 2024, y después aumentar de acuerdo a la inflación.
+Esa resolución del Senado tenemos que publicarla, va a ser publicada en estos días.
+PREGUNTA: Pero no hay, no hay… No sé si usted tenga alguna iniciativa o algún pensamiento de que pudiera equiparar un poco más o hacer un poco más homologado, pues es que...
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, este año el salario de los maestros lo aumentamos 10 por ciento.
+PREGUNTA: Bueno, aumentar los…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ha habido… ¿Por qué no lo comparamos con lo que eran los salarios en el periodo neoliberal?
+PREGUNTA: Bajar lo de los administrativos, Presidenta. Es igual que con el PRI, que con el PAN, ganan mucho dinero.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, recuerda… ¡N’ombre!
+PREGUNTA: Ganan mucho dinero.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Peña Nieto ganaba como el doble.
+PREGUNTA: Pero los funcionarios, 170 mil pesos, ¿a usted le parece justo? Vean los empleos que tienen, “técnico de no sé qué de no sé qué”, “asistente del asistente del asistente”.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Por eso, vamos a aumentar poco a poco…
+PREGUNTA: Eso sigue siendo una burla.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No. A ver, se ha reducido muchísimo todo eso del “asistente del asistente”, eso ya no existe; ya no existe en el gobierno.
+PREGUNTA: Pero sigue. Imagínense, si se ha reducido, o sea, todavía les falta un poco más, porque, porque…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero, fíjate, Reyna, porque es importante comparar con lo que era antes.
+O sea, recuerden que el salario mínimo estaba sobre 3 mil 500 pesos en el 2018. Hoy el salario mínimo es 8 mil, más de 8 mil pesos; y va a seguir aumentando para que el salario mínimo alcance por lo menos a 2.5 canastas básicas.
+O sea, lo que fue todo el periodo neoliberal, el salario mínimo no aumentó. Y los salarios de los funcionarios eran el doble de los que son ahora. Entonces…
+PREGUNTA: Y así están muy altos.
+Y luego, aparte, la vida se ha encarecido mucho, 50 pesos un kilo de naranjas en La Paz.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ahora, fíjate…
+―A ver si ya… Lo que ya salió publicado en el Inegi. Pero ponlo ahí, así tal cual salió publicado en el Inegi―.
+PREGUNTA: Entonces, cómo no…  Si son tiempos, Presidenta, si son tiempos de la 4T, este sería el momento. O sea, ¿por qué no…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A ver, hubo una disminución de los salarios, Reyna, no te… que no se nos olvide esa parte, y ahora, no hay aumentos salariales para los funcionarios.
+PREGUNTA: Pero aún siguen ganando mucho y sigue habiendo el nepotismo, y sigue habiendo la preferencia de meter al primo, al hermano, al pariente. Ya ve la pareja de Gutiérrez-Barreras.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿En dónde? ¿En dónde?
+PREGUNTA: ¿Cómo que dónde? Acaba de salir ese reportaje de lo que está en el Senado, están los Gutiérrez-Barreras, que no tienen la mínima decencia de seguir las reglas que dejó el Presidente; o sea, son ostentosos, cínicos. Yo no sé qué pasó.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A ver, pero ¿por qué no hablas tú de la hipocresía de la derecha?
+PREGUNTA: ¿De quién?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿De la derecha?
+PREGUNTA: Ya lo he hablado mucho, pero ahorita…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Que ahora, los domingos van a misa y luego…
+PREGUNTA: Presidenta, pero ahorita, la derecha —y usted lo sabe bien, para qué quiere le cuente yo— no pintan.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A ver, ¿por qué no hablamos del cártel inmobiliario?
+PREGUNTA: No pinta en el país, Presidenta, porque fue el México…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, en eso sí estoy de acuerdo. En eso sí estamos de acuerdo, Reyna.
+PREGUNTA: México votó por…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Cómo dijiste? “La derecha no pinta en el país”.
+PREGUNTA: México votó por el Presidente, porque justo se iba a acabar los excesos y la corrupción y la impunidad que dejó el PRI y que dejó el PAN…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pues imagínate que ahora…
+PREGUNTA: …pero no ha sido así, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero, a ver, fíjate.
+PREGUNTA: Y lo estamos viendo.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Sabes cuánto destina el gobierno, el presupuesto público, para los Programas de Bienestar? Son 850 mil millones de pesos.
+PREGUNTA: ¿No considera que es insuficiente?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: El próximo año los programas de Bienestar van a representar un billón de pesos.
+¿A dónde se iba antes ese billón?, porque no había Programas de Bienestar universales como hay ahora.
+PREGUNTA: Pero eso no se ha acabado.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Hoy todos los adultos mayores reciben una pensión; hoy todos los jóvenes de preparatoria reciben una beca si van a escuela pública.
+PREGUNTA: Bueno, unos lo (inaudible). También hay quejas.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Hoy todas las personas con discapacidad reciben un apoyo.
+Hoy todos los pequeños propietarios, ejidatarios, comuneros que cultivan el campo reciben fertilizantes gratuitos.
+PREGUNTA: Pero ¿no considera que es insuficiente?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, por supuesto que tiene que mejorar todavía más, por eso…
+PREGUNTA: Y que falta trabajar un poco más arriba, o sea, con estos funcionarios.
+No ha hecho… El Presidente quería pasar a la historia como el que terminó la impunidad y la corrupción; lamentablemente no fue así. Porque había la esperanza de que…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, esa es tu opinión, esa es tu opinión.
+PREGUNTA: No, no, él lo dijo, él lo dijo aquí en “La mañanera”.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero es tu opinión. Pero no podría haber habido Programas de Bienestar sin haber aumentado impuestos.
+Antes todo eso se lo robaban o era para altos…
+PREGUNTA: Hoy también siguen robando, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …salarios de los funcionarios.
+Con que me des un ejemplo, se presenta la denuncia. Nosotros no vamos a cubrir a nadie, eso ya lo he dicho, pero tiene que haber pruebas.
+PREGUNTA: No tengo mucho tiempo, pero sí hay ejemplos, lo estamos viendo.
+Ahora, también acaban de decir que el… Se siguen tapando con la misma cobija.
+Por ejemplo, ahorita pa’ pasar al otro, este muchacho Arturo —o señor, quién sabe qué será— que acaban, de la PGR, que acaban de detener, tenía tres sexenios en el Gobierno Federal, y hasta hoy.
+Lo bueno que ya lo van a investigar; espero que tengan la inteligencia y los elementos para poderlo consignar por corrupción —qué sé yo—, porque hasta ahorita también en ese punto no se ha avanzado mucho, la impunidad está arriba del 90 y tantos por ciento en México.
+Entonces, Arturo Serrano, presunto… Le acusan de presuntos actos de corrupción ahí en la Fiscalía, pero tenía tres sexenios: sí entró con Calderón, Presidenta, en 2009; y lo mantuvo, Peña Nieto; y lo mantuvo, Andrés Manuel López Obrador.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, pero en la Fiscalía… Acuérdate que la Fiscalía es autónoma.
+PREGUNTA: Pero es la misma cosa, ya ve que aquí el fiscal ayer… No me dejó preguntarle, Presidenta, me hubiera dejado preguntarle a él. Se protegen pues, se protegen entre ustedes, entre los políticos, entre… No sé qué pasa cuando llegan ahí, Presidenta, no sé.
+No sé, a lo mejor usted un día nos quiere decir porque: se empoderan, se envalentonan, empiezan a corromperse, empiezan a (inaudible)...
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero, a ver, cuando hablas así, en general, Reyna, porque hay que dar casos en particular, porque la corrupción tiene que documentarse.
+PREGUNTA: Ahí tenemos a los Gutiérrez.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Entonces, cuando se habla así en general… Por ejemplo, yo cuando estuve en el Gobierno de la Ciudad de México, la fiscal general de Justicia documentó la corrupción del cártel inmobiliario, y hay personas en la cárcel.
+Documentó la corrupción de personajes que habían participado en el gobierno anterior, y hubo detenidos, hubo detenidos incluso de gente que había sido subsecretaria, en su momento, del gobierno anterior al que nosotros llegamos.
+Pero tiene que documentarse, porque tienen que haber pruebas, decir: “A ver, esta persona cometió un acto de corrupción”.
+¿Y quién lo documenta? Para una sanción administrativa… ¿“Administrativa” qué quiere decir?  Que deje su puesto, que no pueda seguir trabajando en el gobierno. Las sanciones administrativas las hace ahora el Tribunal de Justicia Administrativa, como parte del llamado Sistema Anticorrupción.
+Y cuando es penal, cuando se van a la cárcel, es la Fiscalía General de la República.
+Y un juez tiene que dictaminarlo. Hay muchos jueces, hay cerca de… creo que son como 60 denuncias de personas que no pagan impuestos, por parte del SAT y que cada vez que lo presenta la Fiscalía un juez dice: “No procede, no procede, no procede”. Por eso, qué bueno que ahora, vamos a ir reduciendo la impunidad con la nueva Corte.
+PREGUNTA: En lso temas del SAT no tengo mucho conocimiento. Ahí, en temas del SAT no tengo mucho conocimiento yo; pero en los penales sí, y en lo que es de la justicia, y hay un “amafiamiento” entre… No es nada más los jueces, cuando llega a los jueces ya es otra cosa; viene desde el policía, el ministerio público, el fiscal.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, pero te estoy dando el caso de cómo la Fiscalía General de la República presenta un caso de una denuncia…
+PREGUNTA: Pero este señor Arturo Serrano…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …de factureros, por ejemplo.
+PREGUNTA: …trabajaba en la Fiscalía Anticorrupción.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Y el juez, porque, ¿quién dicta una orden de aprehensión? Un juez.
+PREGUNTA: Sí, pero con lo que ya le dieron el MP y los demás…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Por eso.
+PREGUNTA: …los de abajo. Entonces, viene la negligencia y la, desde todo, es una cadenita de, y que es ahí donde llegamos a la impunidad.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero te estoy poniendo otro caso: la Fiscalía actúa, presenta las pruebas, se las da un juez.
+Yel dice: “No, no te puedo dar la orden de aprehensión o la orden de cateo”.
+PREGUNTA: Habría que ver qué pruebas presentó, ampliar un poco, porque ya ve, la Fiscalía ha sido muy negligente. Ahorita, yo que creo que es la primera vez que detienen a alguien de adentro de su… No sé si usted tenga conocimiento de que…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pues tiene que explicarlo el fiscal, porque…
+PREGUNTA:  Arturo Serrano
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …ahí, dentro de la Fiscalía.
+PREGUNTA: Y por ejemplo, ese muchacho, fíjese, estaba con Peña Nieto, y que tampoco le hicieron nada a Peña Nieto…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero ¿ya lo detuvieron?
+PREGUNTA: Estuvo en la Fiscalía Anti… No.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Es una orden de aprehensión?
+PREGUNTA: Estuvo en la Fiscalía Anticorrupción; o sea, él era el que revisaba toda la corrupción de la Fiscalía, imagínense, ahí estaba este muchacho.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, tú estás diciendo que “ya tiene orden de aprehensión”, ¿no?
+PREGUNTA: No, no, no, apenas lo están investigando.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah.
+PREGUNTA: Entonces, el problema es que ahí se quedan años. Ya ve lo de Israel, 20 años, y nunca le pudieron encontrar un indicio de culpabilidad, o sea, en un secuestro. Entonces…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, vamos rápido, porque ya son 9:46, ahora sí vamos a romper récord de “mañanera del pueblo”.
+PREGUNTA: Ahí viene lo otro. Que, ahora Estados Unidos está diciendo que “en 30 estados del país hay violencia tipo terrorista y está alertando a sus ciudadanos”.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero eso es porque ellos hacen esto desde hace mucho tiempo; ahora, usan esta palabra, porque así nombraron a los cárteles.
+Pero, fíjense, el principal destino turístico de los estadounidenses es México. Bueno, aquí viven cerca de un millón de estadounidenses porque les gusta más vivir aquí, porque han decidido vivir.
+Y aquí, bueno, el sureste, la península de Baja California, el Pacífico, la Ciudad de México. Es el principal destino de Estados Unidos, México.
+PREGUNTA: Entonces, ¿están equivocados ellos en…?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Lo que digo es que la gente sigue viniendo a México.
+Entonces, este alertamiento… La gente sigue viniendo.
+PREGUNTA: Porque es muy bonito México, Presidenta. Eso le salva.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pues como México no hay dos.
+PREGUNTA: Pues sí, pero sí hay. Por ejemplo, en el noroeste… Usted estuvo en Guachochi… digo, allá en la Sierra Tarahumara. Ahí la gente le pidió —justamente llegó usted un día después de que hubo una balacera ahí—, la gente le pidió opinar al respecto, yo ayer le iba a preguntar de eso a esta gente.
+Ojalá que algún martes, por favor, me dé la oportunidad de hablar cuando venga el Gabinete de Seguridad para preguntarles qué está pasando.
+Usted dijo: “De eso no vinimos a hablar ahorita, de seguridad”, porque le cuestionaron allá; pero hoy puede hablar qué está pasando en la Sierra Tarahumara porque sí, de verdad, siembran el terror, en Sonora siembran el terror.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Hay presencia ahí de…
+PREGUNTA: En Baja California Sur, siembran el terror.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero fíjate, Reyna: disminución del 25 por ciento de homicidios dolosos en 11 meses de gobierno. Por supuesto que tenemos que seguir trabajando, y trabajamos todos los días para ello, pero hay una reducción del 25 por ciento en los homicidios dolosos.
+PREGUNTA: ¿Y tiene el aumento de desapariciones, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, también.
+PREGUNTA: ¿De cómo ha aumentado las desapariciones?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero eso, es lo que dice Loret de Mola.
+PREGUNTA: No, no, yo le pregunto: ¿cuál es?, ¿cuánto ha aumentado las desapariciones?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, hay datos de ello y las vamos a presentar, pero nadie esconde…
+PREGUNTA: ¿Tiene un dato ahorita?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …porque eso es importante. Porque cuando no había una reducción tan marcada, “porque no había”.
+Y ahora que hay reducción, 25 por ciento, “porque hay reducción”.
+O sea, nunca va a aceptar la derecha ni los datos ni la información.
+Salió un índice hace poco, de que México está entre los 10 países donde la gente se siente más feliz, de todo el mundo.
+PREGUNTA: Pues porque no le queda de otra. Imagínense si se quitan la felicidad, porque en Sonora…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, es que contigo no se puede.
+PREGUNTA: ¡Ay, Presidenta!, pues ni modo que lloremos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Tú estás ya como la derecha: que si es por una cosa, una cosa; si es por otra, es por otra.
+PREGUNTA: Pero no es la derecha, independientemente de la derecha; o sea, son pocos o serán muchos, pero qué sé yo.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, esa fue tu frase de hoy. ¿Cómo? ¿cómo fue?
+“La derecha ya no pinta”: Reyna.
+PREGUNTA: Y ojalá no pinte.
+Ya está dictando línea de la… Y le pueden hacer caso, Presidenta, porque ya controla muchos medios, eh, le van a hacer caso.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, no es como…
+PREGUNTA: Le van a hacer caso.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Luego, luego sales en las redes.
+PREGUNTA: Pero, ¿en Sonora por qué usted considera que no se nota este 25 por ciento?
+Ayer vi cifras muy alegres, pero usted… La invito, como la invitan a ver la exposición, yo la invito a la Loma Obrera sin guardias, la invito a los barrios.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Camino por todo el país, camino por todo el país y hablo con la gente, las escucho…
+PREGUNTA: ¿Sí leyó la carta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Lo que me dicen, lo llevo al Gabinete de Seguridad. Vienen no solamente los gobernadores, sino…
+PREGUNTA: Pero no cualquiera se le puede acercar.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, ¡¿cómo no?! Claro que sí.
+PREGUNTA: ¿Leyó la carta del alcalde de Guachochi?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, y estamos trabajando ahí también, en la sierra.
+PREGUNTA: ¿Sí leyó donde dice que “no les hicieron caso, porque le dijeron que no atendieron la emergencia que ellos tenían de la balacera porque estaban…”? Porque estaban comisionados a…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Fíjate, hablamos ahí con la compañera que es la presidenta municipal de Guadalupe y Calvo. Guadalupe y Calvo es un municipio…
+PREGUNTA: Muy peligroso.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …que está justamente en el límite con Sinaloa, y es un municipio que ha tenido problemas.
+Ahí hablamos con la presidenta municipal, vino incluso la presidenta municipal. Y con todos, con cualquier alcalde de cualquier partido político, gobernador, gobernador, apoyamos siempre y nos coordinamos para la seguridad de la gente.
+PREGUNTA: ¿Pero por qué no le quiso dar un mensaje a la gente que estaba sufriendo en ese momento, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, pero me acerqué, yo me acerco a todos. Si en algún momento a alguna persona no la atendí, le pido disculpas.
+Pero cuando estoy en los mítines, por ejemplo, en las asambleas, y hay personas que levantan una cartulina y que quieren participar en el momento de la asamblea, les digo: “Espérenme un segundo. Terminamos la asamblea y voy a atenderlos”.
+Y, en general, me voy hasta el lugar donde están para poder atender y escucharlos. Y de inmediato, muchas veces, se canaliza su denuncia para que puedan estar en contacto, si es de seguridad, con el Gabinete de Seguridad.
+PREGUNTA: Entonces, ¿se daría un informe sobre lo que pasó en Guachochi en esos días? Decía el alcalde que “no atendieron la emergencia porque estaban comisionados a la gira de usted, para resguardar la seguridad”.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, eso no es cierto.
+PREGUNTA: Eso dijo.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero no.
+PREGUNTA: Pero ¿sí se daría un informe de qué está pasando en la sierra, si hay detenidos?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: De cualquier lado. Nuestra obligación siempre es informar y no vamos a esconder nada.
+PREGUNTA: ¿Pero lo harían, Presidenta, se comprometería con la Sierra Tarahumara para darles un informe de seguridad, algún avance?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, sí. Y le pido al Gabinete de Seguridad.
+PREGUNTA: ¿Y con Baja California Sur?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: También Baja California Sur, que es un estado con muy pocos delitos…
+PREGUNTA: Ya tienen tres meses de duro y dale.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …pero tuvieron 1 o 2 delitos graves que, por supuesto, la gente se preocupa, y ahí estamos permanentemente.
+PREGUNTA: Nueve muertos en un fin de semana; entre ellos, una señora que la bala entró a su casa. Entonces, ahorita está muy fuerte también ahí la… Ciudad Constitución.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Atendemos a todos, a todos, atendemos a todos.
+PREGUNTA: Y Sonora, pues, ¿qué le digo de Sonora? Ya se lo dije una vez al Presidente: tenemos un gobierno… en muchas partes porque ya luego recibí información, pero…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, ándale, Reyna, porque ya van a dar las 10:00 de la mañana.
+PREGUNTA: ¿Sí sabe usted Presidenta que hay un gobierno alterno, en algunos Estados?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es muy buen gobernador Alfonso Durazo, esa es mi opinión, muy buen gobernador.
+PREGUNTA: No, no, independientemente de él, ¿sabe que la…?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es de los gobernadores mejor evaluados de todo el país.
+PREGUNTA: ¿Pero usted sabe que hay gente que recurre no al gobernador, sino a otras personas para hacer gestiones o justicia?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No. Es un buen gobernador. Y en Sonora, como en todo el país, estamos atendiendo la seguridad y cualquier otro tema.
+PREGUNTA: Por eso, le digo que “la invito a que vaya”, porque basta ir un fin de semana para darse cuenta cómo… lo triste que es como no se nota.
+Esto que anuncian aquí, de verdad, Presidenta, de verdad, en las colonias no se nota, sigue la misma situación, sigue la pobreza; sigue el empleo propio, o sea, no hay garantía de un empleo seguro.
+Por ejemplo, el CECyTEs, hay en las colonias, en los barrios, Presidenta, hay niños que solo tienen 3 opciones: o la consumen, o la venden, o hacen otra cosa más fea.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero, fíjate, somos de los pocos países que tiene una campaña desde las escuelas…
+PREGUNTA: Y cuando quieren regresar a la escuela les cierran las puertas…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …para que no haya consumo de drogas.
+PREGUNTA: Por ejemplo, en los CECyTEs les está cerrando la puerta. En el CECyTEs van los muchachitos que están en muchas de estas situaciones, y cuando quieren, “ahí está, bueno, pues ya voy a regresar, ya voy a entrar”, no les aceptan; les dicen que se vayan, “que mejor lo estudien en la prepa abierta”, cuando lo que necesitan es reforzar.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero si estamos siendo más preparatorias, estamos haciendo más preparatorias, más universidades. Hay una campaña masiva de por la paz y contra las adicciones.
+Y vamos a seguir trabajando todos los días por el bien del pueblo de México, todos los días.
+PREGUNTA: ¿Haría usted un llamado a las preparatorias a que tengan más sensibilidad en estos casos?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos a traer a Tania Rodríguez para que platique todo lo que estamos haciendo en las preparatorias, todo.
+PREGUNTA: Es una preocupación de las familias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, vámonos ya, Reyna, porque ya son 9:55. Ya, récord de tiempo en “La mañanera”.
+PREGUNTA: Y ya me dejó sin el tren fantasma y otros, el tren fantasma y otros pendientes.
+Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias a todas y a todos.
+PREGUNTA: Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Muchas gracias a los compañeros de Olinia.
+Y todavía falta el “Detector de mentiras”, no se vayan.
+COORDINADOR DE INFODEMIA, MIGUEL ÁNGEL ELORZA VÁSQUEZ: Con su permiso, Presidenta. Buenos días a todas y todos.
+Fieles a la estrategia de desinformación que han seguido desde 2006, políticos de oposición, comentaristas, y en esta ocasión hasta exconsejeros del INE y del desaparecido IFE, han lanzado mentiras contra la reforma electoral, que no conocen, pues en un ejercicio democrático la iniciativa de reforma electoral se presentará luego de que la Comisión Presidencial realice foros y consultas.
+Veamos el video del “Detector de Mentiras” de esta semana.
+(PROYECCIÓN DE VIDEO DE LA SECCIÓN “DETECTOR DE MENTIRAS”)
+COORDINADOR DE INFODEMIA, MIGUEL ÁNGEL ELORZA VÁSQUEZ: Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Nada más:
+Mañana vamos a hablar de esto, pero vean la cifra del Inegi, va a salir hoy a las… Ya salió.
+La pobreza, el porcentaje de población en situación de pobreza se redujo a 29.6 por ciento; en 2018 era de 41.9 por ciento.
+Ya mañana detallamos.
+¡Que viva la Cuarta Transformación!
+Gracias.
+—000—
