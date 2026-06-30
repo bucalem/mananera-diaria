@@ -10,38 +10,29 @@
 </head>
 <body>
 
-<!-- ── Hero ──────────────────────────────────────────────── -->
-<section id="hero">
-  <div class="container">
-    <h1>La Mañanera en palabras<br>Análisis del discurso de Claudia Sheinbaum</h1>
-    <p class="subtitle">
-      Análisis lexicométrico y de encuadre de las conferencias de prensa de la presidenta
-      de México, basado en las versiones estenográficas oficiales publicadas por Presidencia.
-    </p>
-    <div class="hero-stats">
-      <div class="stat-card"><div class="num" id="stat-conf">—</div><div class="lbl">Conferencias</div></div>
-      <div class="stat-card"><div class="num" id="stat-turnos">—</div><div class="lbl">Turnos de la presidenta</div></div>
-      <div class="stat-card"><div class="num" id="stat-meses">—</div><div class="lbl">Meses analizados</div></div>
-      <div class="stat-card"><div class="num" id="stat-rango">—</div><div class="lbl">Rango</div></div>
-    </div>
+<!-- ── Barra superior compacta ───────────────────────────── -->
+<header id="topbar">
+  <div class="container topbar-inner">
+    <div class="topbar-title">La Mañanera en palabras</div>
+    <div class="topbar-stats" id="topbar-stats">—</div>
   </div>
-</section>
+</header>
 
-<!-- ── Nav ───────────────────────────────────────────────── -->
+<!-- ── Nav (conmuta vistas) ──────────────────────────────── -->
 <nav>
   <div class="container">
     <ul>
-      <li><a href="#kwic">Buscador de contexto</a></li>
-      <li><a href="#voz">Distribución de voz</a></li>
-      <li><a href="#topicos">Tópicos</a></li>
-      <li><a href="#encuadre">Encuadre</a></li>
-      <li><a href="#actores">Actores</a></li>
+      <li><a href="#kwic" class="active" data-view="kwic">Buscador de contexto</a></li>
+      <li><a href="#voz" data-view="voz">Distribución de voz</a></li>
+      <li><a href="#topicos" data-view="topicos">Tópicos</a></li>
+      <li><a href="#encuadre" data-view="encuadre">Encuadre</a></li>
+      <li><a href="#actores" data-view="actores">Actores</a></li>
     </ul>
   </div>
 </nav>
 
-<!-- ── 1. KWIC ───────────────────────────────────────────── -->
-<section id="kwic">
+<!-- ── 1. KWIC (vista inicial) ───────────────────────────── -->
+<section id="kwic" class="view active">
   <div class="container">
     <div class="section-header">
       <h2>Buscador de contexto (KWIC)</h2>
@@ -53,6 +44,10 @@
       <button id="kwic-btn">Buscar</button>
     </div>
     <div id="kwic-status"></div>
+    <div class="chart-wrap kwic-trend" id="kwic-trend" style="display:none">
+      <div class="kwic-trend-title" id="kwic-trend-title"></div>
+      <canvas id="chart-kwic-trend"></canvas>
+    </div>
     <div id="kwic-results">
       <p class="kwic-empty">Escribe una palabra para ver ejemplos en contexto.</p>
     </div>
@@ -65,7 +60,7 @@
 </section>
 
 <!-- ── 2. Distribución de voz ────────────────────────────── -->
-<section id="voz">
+<section id="voz" class="view">
   <div class="container">
     <div class="section-header">
       <h2>Distribución de voz</h2>
@@ -80,7 +75,7 @@
 </section>
 
 <!-- ── 3. Tópicos ────────────────────────────────────────── -->
-<section id="topicos">
+<section id="topicos" class="view">
   <div class="container">
     <div class="section-header">
       <h2>Tópicos en el tiempo</h2>
@@ -101,7 +96,7 @@
 </section>
 
 <!-- ── 4. Encuadre ───────────────────────────────────────── -->
-<section id="encuadre">
+<section id="encuadre" class="view">
   <div class="container">
     <div class="section-header">
       <h2>Análisis de encuadre</h2>
@@ -125,7 +120,7 @@
 </section>
 
 <!-- ── 5. Actores ─────────────────────────────────────────── -->
-<section id="actores">
+<section id="actores" class="view">
   <div class="container">
     <div class="section-header">
       <h2>Actores en las conferencias</h2>

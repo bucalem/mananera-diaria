@@ -24,30 +24,20 @@ section { padding: 3.5rem 0; border-bottom: 1px solid var(--gray-200); }
 section:last-of-type { border-bottom: none; }
 
 /* ── Hero ────────────────────────────────────────────────── */
-#hero {
+/* ── Barra superior compacta ─────────────────────────────── */
+#topbar {
   background: var(--green-dark);
   color: var(--white);
-  padding: 4rem 0 3rem;
-  border-bottom: 4px solid var(--green-light);
 }
-#hero h1 {
-  font-family: var(--serif);
-  font-size: clamp(1.6rem, 4vw, 2.6rem);
-  font-weight: 400;
-  line-height: 1.25;
-  margin-bottom: 1rem;
+.topbar-inner {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 1rem; padding: .75rem 1.5rem; flex-wrap: wrap;
 }
-#hero .subtitle { font-size: 1rem; color: var(--green-pale); max-width: 680px; margin-bottom: 2rem; }
-.hero-stats { display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2rem; }
-.stat-card {
-  background: rgba(255,255,255,.08);
-  border: 1px solid rgba(255,255,255,.15);
-  border-radius: 8px;
-  padding: .75rem 1.25rem;
-  min-width: 140px;
+.topbar-title {
+  font-family: var(--serif); font-size: 1.15rem; font-weight: 400;
+  color: var(--white); line-height: 1.2;
 }
-.stat-card .num { font-size: 1.8rem; font-weight: 700; color: var(--green-light); line-height: 1; }
-.stat-card .lbl { font-size: .75rem; color: var(--green-pale); text-transform: uppercase; letter-spacing: .05em; margin-top: .25rem; }
+.topbar-stats { font-size: .8rem; color: var(--green-pale); white-space: nowrap; }
 
 /* ── Nav ─────────────────────────────────────────────────── */
 nav {
@@ -60,9 +50,15 @@ nav ul li a {
   display: block; padding: .7rem 1rem;
   color: var(--green-pale); text-decoration: none;
   font-size: .82rem; font-weight: 500; letter-spacing: .03em; white-space: nowrap;
-  transition: color .15s, background .15s;
+  border-bottom: 3px solid transparent;
+  transition: color .15s, background .15s, border-color .15s;
 }
 nav ul li a:hover { color: var(--white); background: rgba(255,255,255,.1); }
+nav ul li a.active { color: var(--white); border-bottom-color: var(--green-light); }
+
+/* ── Vistas conmutables ──────────────────────────────────── */
+.view { display: none; }
+.view.active { display: block; }
 
 /* ── Section headers ─────────────────────────────────────── */
 .section-header { margin-bottom: 1.75rem; }
@@ -128,6 +124,10 @@ nav ul li a:hover { color: var(--white); background: rgba(255,255,255,.1); }
 .kwic-search button:hover { background: var(--green-dark); }
 
 #kwic-status { font-size: .82rem; color: var(--gray-500); margin-bottom: .75rem; min-height: 1.2em; }
+
+.kwic-trend { padding: 1.25rem 1.5rem; }
+.kwic-trend-title { font-size: .85rem; font-weight: 600; color: var(--gray-700); margin-bottom: .75rem; }
+.kwic-trend canvas { max-height: 180px; }
 
 #kwic-results { display: flex; flex-direction: column; gap: .75rem; }
 .kwic-card {

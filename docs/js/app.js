@@ -59,15 +59,15 @@ function formatMonth(ym) {
   return `${names[+m]} ${y}`;
 }
 
-// ── Hero stats ───────────────────────────────────────────────────────────────
+// ── Stats compactas (barra superior) ─────────────────────────────────────────
 
-function renderHeroStats(stats) {
-  $("stat-conf").textContent = formatNum(stats.total_conferencias);
-  $("stat-meses").textContent = stats.meses.length;
-  $("stat-rango").textContent = `${stats.fecha_inicio.slice(0,7)} → ${stats.fecha_fin.slice(0,7)}`;
+function renderTopbarStats(stats) {
   const totalTurnos = Object.values(stats.por_fecha)
     .reduce((a, c) => a + (c.presidenta_turns || 0), 0);
-  $("stat-turnos").textContent = formatNum(totalTurnos);
+  $("topbar-stats").textContent =
+    `${formatNum(stats.total_conferencias)} conferencias · ` +
+    `${formatNum(totalTurnos)} turnos · ` +
+    `${stats.fecha_inicio.slice(0,7)}–${stats.fecha_fin.slice(0,7)}`;
 }
 
 // ── Distribución de voz ──────────────────────────────────────────────────────
@@ -337,10 +337,49 @@ async function doKwicSearch() {
     $("kwic-status").textContent = "";
     $("kwic-results").innerHTML = `<p class="kwic-empty">Sin resultados para "<strong>${term}</strong>" en los turnos de la presidenta.</p>`;
     $("kwic-pagination").style.display = "none";
+    $("kwic-trend").style.display = "none";
     return;
   }
 
+  renderKwicTrend(term, kwicAllResults);
   renderKwicPage();
+}
+
+// Tendencia temporal del término: ocurrencias por mes sobre el rango completo
+let kwicTrendChart = null;
+
+function renderKwicTrend(term, results) {
+  const porMes = {};
+  results.forEach(r => { const m = r.fecha.slice(0, 7); porMes[m] = (porMes[m] || 0) + 1; });
+  const labels = corpusMeses.map(formatMonth);
+  const data   = corpusMeses.map(m => porMes[m] || 0);
+
+  $("kwic-trend-title").textContent = `Menciones de «${term}» por mes (turnos de la presidenta)`;
+  $("kwic-trend").style.display = "block";
+
+  if (kwicTrendChart) {
+    kwicTrendChart.data.labels = labels;
+    kwicTrendChart.data.datasets[0].data = data;
+    kwicTrendChart.update();
+    return;
+  }
+
+  kwicTrendChart = new Chart($("chart-kwic-trend"), {
+    type: "bar",
+    data: { labels, datasets: [{
+      data, backgroundColor: "#2D6A4FCC", borderColor: "#2D6A4F",
+      borderWidth: 1, borderRadius: 3,
+    }]},
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => `${ctx.parsed.y} menciones` } } },
+      scales: {
+        x: { grid: { display: false }, ticks: { maxRotation: 45, font: { size: 10 } } },
+        y: { beginAtZero: true, ticks: { precision: 0 }, grid: { color: "#F0F0F0" } },
+      },
+    },
+  });
 }
 
 // ── Actores ──────────────────────────────────────────────────────────────────
@@ -467,6 +506,21 @@ function renderActorsList(speakers) {
 
 // ── Bootstrap ────────────────────────────────────────────────────────────────
 
+// Router de vistas: cada gráfica se inicializa solo la primera vez que se
+// muestra su vista (Chart.js necesita un canvas visible para medir tamaño).
+const viewInitializers = {};
+const viewsReady = new Set(["kwic"]);   // KWIC no necesita init previo
+
+function showView(name) {
+  document.querySelectorAll(".view").forEach(v => v.classList.toggle("active", v.id === name));
+  document.querySelectorAll("nav a").forEach(a => a.classList.toggle("active", a.dataset.view === name));
+  if (!viewsReady.has(name) && viewInitializers[name]) {
+    viewInitializers[name]();
+    viewsReady.add(name);
+  }
+  window.scrollTo({ top: 0, behavior: "auto" });
+}
+
 async function init() {
   try {
     const [stats, topics, speakers] = await Promise.all([
@@ -479,39 +533,44 @@ async function init() {
     corpusMeses = meses;
     corpusAnios = [...new Set(meses.map(m => m.slice(0, 4)))].sort();
 
-    renderHeroStats(stats);
-    renderVoz(stats, speakers);
-    renderTopicos(topics, meses);
-    renderEncuadre(speakers, meses, "presidenta");
-    renderActorsList(speakers);
+    renderTopbarStats(stats);
 
-    // Corpus selector (encuadre)
-    document.querySelectorAll(".pill").forEach(btn => {
-      btn.addEventListener("click", () => {
-        document.querySelectorAll(".pill").forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
-        renderEncuadre(speakers, meses, btn.dataset.corpus);
+    // Inicializadores diferidos por vista
+    viewInitializers.voz      = () => renderVoz(stats, speakers);
+    viewInitializers.topicos  = () => renderTopicos(topics, meses);
+    viewInitializers.encuadre = () => {
+      renderEncuadre(speakers, meses, "presidenta");
+      document.querySelectorAll(".pill").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".pill").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          renderEncuadre(speakers, meses, btn.dataset.corpus);
+        });
       });
-    });
+    };
+    viewInitializers.actores = () => {
+      renderActorsList(speakers);
+      document.querySelectorAll(".gran-pill").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".gran-pill").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentGran = btn.dataset.gran;
+          if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
+        });
+      });
+      document.querySelectorAll(".metric-pill").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".metric-pill").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentMetric = btn.dataset.metric;
+          if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
+        });
+      });
+    };
 
-    // Granularidad actores
-    document.querySelectorAll(".gran-pill").forEach(btn => {
-      btn.addEventListener("click", () => {
-        document.querySelectorAll(".gran-pill").forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
-        currentGran = btn.dataset.gran;
-        if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
-      });
-    });
-
-    // Métrica actores (intervenciones vs apariciones)
-    document.querySelectorAll(".metric-pill").forEach(btn => {
-      btn.addEventListener("click", () => {
-        document.querySelectorAll(".metric-pill").forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
-        currentMetric = btn.dataset.metric;
-        if (selectedActor) renderActorChart(selectedActor, currentGran, currentMetric);
-      });
+    // Navegación entre vistas
+    document.querySelectorAll("nav a[data-view]").forEach(a => {
+      a.addEventListener("click", e => { e.preventDefault(); showView(a.dataset.view); });
     });
 
   } catch (err) {
@@ -525,6 +584,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   $("kwic-btn").addEventListener("click", doKwicSearch);
   $("kwic-input").addEventListener("keydown", e => { if (e.key === "Enter") doKwicSearch(); });
-  $("kwic-prev").addEventListener("click", () => { kwicCurrentPage--; renderKwicPage(); window.scrollTo({top: $("kwic").offsetTop - 60, behavior: "smooth"}); });
-  $("kwic-next").addEventListener("click", () => { kwicCurrentPage++; renderKwicPage(); window.scrollTo({top: $("kwic").offsetTop - 60, behavior: "smooth"}); });
+  $("kwic-prev").addEventListener("click", () => { kwicCurrentPage--; renderKwicPage(); window.scrollTo({top: 0, behavior: "smooth"}); });
+  $("kwic-next").addEventListener("click", () => { kwicCurrentPage++; renderKwicPage(); window.scrollTo({top: 0, behavior: "smooth"}); });
 });
