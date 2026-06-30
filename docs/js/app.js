@@ -207,7 +207,7 @@ let kwicAllResults  = [];
 let kwicCurrentPage = 0;
 let kwicTerm        = "";
 const KWIC_PER_PAGE = 15;
-const KWIC_WINDOW   = 60;     // caracteres de contexto a cada lado
+const KWIC_WINDOW   = 120;    // caracteres de contexto a cada lado
 
 async function loadCorpus() {
   if (corpusPres) return;
