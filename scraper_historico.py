@@ -130,15 +130,27 @@ def recolectar_urls(page, max_pages: int) -> list[dict]:
     antigua, solo con artículos >= FECHA_INICIO.
     """
     resultados = []
+    timeouts_consecutivos = 0
     for pag in range(1, max_pages + 1):
         log.info(f"Paginando archivo — página {pag}")
         try:
             page.goto(url_pagina(pag), wait_until="domcontentloaded", timeout=TIMEOUT_MS)
             page.wait_for_selector("article", timeout=TIMEOUT_MS)
+            timeouts_consecutivos = 0
         except PWTimeout:
-            log.warning(f"Timeout en página {pag}; intentando continuar.")
+            timeouts_consecutivos += 1
+            log.warning(f"Timeout en página {pag} ({timeouts_consecutivos} consecutivo/s).")
+            if timeouts_consecutivos >= 2:
+                log.info("2 timeouts consecutivos — fin del archivo detectado.")
+                break
             time.sleep(PAUSA_S * 2)
             continue
+
+        # Fin del archivo: página cargó pero no tiene artículos
+        total = page.eval_on_selector_all("article", "els => els.length")
+        if not total:
+            log.info(f"Página {pag} sin artículos — fin del archivo.")
+            break
 
         links = page.eval_on_selector_all(
             "article a[href*='/articulos/']",
