@@ -2,3 +2,5 @@ __pycache__/
 .DS_Store
 spike.png
 spike.html
+analisis/.venv/
+analisis/turns.json
