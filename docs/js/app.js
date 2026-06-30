@@ -221,17 +221,37 @@ async function loadCorpus() {
 }
 
 // Construye un enlace al segmento exacto de la conferencia usando Text
-// Fragments de Chrome (#:~:text=). Toma una frase contigua desde la palabra
-// para que el navegador haga scroll y la resalte en la página de gob.mx.
+// Fragments de Chrome (#:~:text=). Usa la ORACIÓN que contiene el término:
+// las oraciones no cruzan párrafos, y los Text Fragments no casan texto que
+// cruza límites de bloque (esa era la causa de que algunos no saltaran).
+const SENT_END = /[.?!…]/;
+
 function buildSegmentLink(fecha, texto, idx, termLen) {
   const base = fechaUrl[fecha];
   if (!base) return null;
-  const snippet = texto.slice(idx, idx + 170);
-  const words = snippet.split(/\s+/).slice(0, 12);
-  if (words.length > 6) words.pop();   // descarta la última palabra (cortada)
-  const frase = words.join(" ").replace(/[.,;:¿?¡!"]+$/, "").trim();
+
+  // Inicio de la oración: tras el anterior signo de fin de oración
+  let s = idx;
+  while (s > 0 && !SENT_END.test(texto[s - 1])) s--;
+  while (s < idx && /\s/.test(texto[s])) s++;        // saltar espacios
+  // Fin de la oración: hasta el siguiente signo (incluido)
+  let e = idx + termLen;
+  while (e < texto.length && !SENT_END.test(texto[e])) e++;
+  if (e < texto.length) e++;
+
+  const frase = texto.slice(s, e).trim();
   if (!frase) return base;
-  return `${base}#:~:text=${encodeURIComponent(frase)}`;
+
+  // Oración corta → fragmento de cadena única. Larga → forma de rango
+  // textStart,textEnd (ambos anclajes dentro de la misma oración/bloque),
+  // para respetar el límite de longitud de la URL.
+  const words = frase.split(/\s+/);
+  if (frase.length <= 160 || words.length <= 12) {
+    return `${base}#:~:text=${encodeURIComponent(frase)}`;
+  }
+  const start = words.slice(0, 8).join(" ");
+  const end   = words.slice(-6).join(" ");
+  return `${base}#:~:text=${encodeURIComponent(start)},${encodeURIComponent(end)}`;
 }
 
 const escapeRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
