@@ -1,53 +1,29 @@
 {
-  "fecha": "2026-07-01",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 01 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-01-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-02",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 02 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 50,
+  "n_preguntas": 89,
   "temas": [
-    "Prorrogar",
-    "Revisión conjunta",
-    "Estudios históricos",
-    "Sociales humanidades",
-    "Vigencia",
-    "Ecuador"
+    "Revisiones anuales",
+    "Revisión anual",
+    "Reglas origen",
+    "Tratado tratado",
+    "Vigente tratado",
+    "Cualquier momento"
   ],
   "participantes": [
     {
-      "nombre": "FELIPE ARTURO ÁVILA ESPINOSA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ESTUDIOS HISTÓRICOS DE LAS REVOLUCIONES DE MÉXICO",
-      "categoria": "directores",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
+      "nombre": "MARCELO EBRARD CASAUBON",
+      "cargo": "SECRETARIO DE ECONOMÍA",
       "categoria": "secretarios",
-      "intervenciones": 9
+      "intervenciones": 3025
     },
     {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "FRANCISCO JAVIER BARRÓN AGUAYO",
-      "cargo": "SECRETARIO DE BIENESTAR Y DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA",
-      "categoria": "otros",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 4
-    },
-    {
-      "nombre": "NEREYDA JIMÉNEZ POMPA",
-      "cargo": "BENEFICIARIA INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 2
-    },
-    {
-      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
-      "categoria": "secretarios",
-      "intervenciones": 1
     }
   ]
 }
