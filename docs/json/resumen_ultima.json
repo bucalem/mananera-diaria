@@ -1,47 +1,53 @@
 {
-  "fecha": "2026-06-30",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 30 de junio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-30-de-junio-de-2026?idiom=es",
+  "fecha": "2026-07-01",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 01 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-01-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 103,
+  "n_preguntas": 50,
   "temas": [
-    "Vih",
-    "Registro proveedores",
-    "Landers upax",
-    "Medicamentos",
-    "Camas eléctricas",
-    "Vida sexual"
+    "Prorrogar",
+    "Revisión conjunta",
+    "Estudios históricos",
+    "Sociales humanidades",
+    "Vigencia",
+    "Ecuador"
   ],
   "participantes": [
     {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
+      "nombre": "FELIPE ARTURO ÁVILA ESPINOSA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ESTUDIOS HISTÓRICOS DE LAS REVOLUCIONES DE MÉXICO",
+      "categoria": "directores",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
       "categoria": "secretarios",
-      "intervenciones": 625
+      "intervenciones": 9
     },
     {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
-      "intervenciones": 45
-    },
-    {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "JOSÉ ANTONIO MENDOZA BELMONT",
-      "cargo": "DIRECTOR GENERAL ADSCRITO A LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA",
-      "categoria": "directores",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
       "categoria": "directores",
       "intervenciones": 9
+    },
+    {
+      "nombre": "FRANCISCO JAVIER BARRÓN AGUAYO",
+      "cargo": "SECRETARIO DE BIENESTAR Y DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "NEREYDA JIMÉNEZ POMPA",
+      "cargo": "BENEFICIARIA INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 2
+    },
+    {
+      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
+      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
+      "categoria": "secretarios",
+      "intervenciones": 1
     }
   ]
 }
