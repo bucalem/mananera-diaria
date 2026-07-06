@@ -1,89 +1,41 @@
 {
-  "fecha": "2026-07-03",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-06",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 57,
+  "n_preguntas": 66,
   "temas": [
-    "Michoacán",
-    "Pueblo urhépecha",
-    "Plan justicia",
-    "Uruapan",
-    "Paz justicia",
-    "Cherán"
+    "Colector",
+    "Pensión ocupo",
+    "Ciudad neza",
+    "Millones barriles",
+    "Encuentra completamente",
+    "Completamente operación"
   ],
   "participantes": [
-    {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 100
-    },
-    {
-      "nombre": "ALFREDO RAMÍREZ BEDOLLA",
-      "cargo": "GOBERNADOR DE MICHOACÁN",
-      "categoria": "gobernadores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "EVELYN SALGADO PINEDA",
-      "cargo": "GOBERNADORA DE GUERRERO",
-      "categoria": "gobernadores",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
     {
       "nombre": "EFRAÍN MORALES LÓPEZ",
       "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA)",
       "categoria": "directores",
-      "intervenciones": 1
+      "intervenciones": 49
     },
     {
-      "nombre": "JESÚS ANTONIO ESTEVA MEDINA",
-      "cargo": "SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 16
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "nombre": "LETICIA RAMÍREZ AMAYA",
+      "cargo": "SECRETARIA DE BIENESTAR",
       "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 9
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "VIOLETA VÁZQUEZ-ROJAS MALDONADO",
-      "cargo": "SUBSECRETARIA DE CIENCIAS Y HUMANIDADES",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "XIMENA ESCOBEDO JUÁREZ",
-      "cargo": "SUBSECRETARIA DE INDUSTRIA Y COMERCIO DE LA SECRETARÍA DE ECONOMÍA",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "FELIPE ZATARÁIN MENDOZA",
+      "cargo": "SUBDIRECTOR GENERAL DE AGUA POTABLE, DRENAJE Y SANEAMIENTO DE LA CONAGUA",
+      "categoria": "directores",
+      "intervenciones": 4
     }
   ]
 }
