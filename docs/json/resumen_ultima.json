@@ -1,40 +1,34 @@
 {
-  "fecha": "2026-07-06",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-07",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 66,
+  "n_preguntas": 104,
   "temas": [
-    "Colector",
-    "Pensión ocupo",
-    "Ciudad neza",
-    "Millones barriles",
-    "Encuentra completamente",
-    "Completamente operación"
+    "Mintió",
+    "Quién miente",
+    "Ken salazar",
+    "Fbi",
+    "Toyota",
+    "Inmunidad diplomática"
   ],
   "participantes": [
     {
-      "nombre": "EFRAÍN MORALES LÓPEZ",
-      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA)",
-      "categoria": "directores",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
       "intervenciones": 49
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "LETICIA RAMÍREZ AMAYA",
-      "cargo": "SECRETARIA DE BIENESTAR",
+      "nombre": "ROBERTO VELASCO ÁLVAREZ",
+      "cargo": "SECRETARIO DE RELACIONES EXTERIORES",
       "categoria": "secretarios",
-      "intervenciones": 9
+      "intervenciones": 49
     },
     {
-      "nombre": "FELIPE ZATARÁIN MENDOZA",
-      "cargo": "SUBDIRECTOR GENERAL DE AGUA POTABLE, DRENAJE Y SANEAMIENTO DE LA CONAGUA",
-      "categoria": "directores",
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
       "intervenciones": 4
     }
   ]
