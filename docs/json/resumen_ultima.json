@@ -1,34 +1,46 @@
 {
-  "fecha": "2026-07-07",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-08",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 08 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 104,
+  "n_preguntas": 60,
   "temas": [
-    "Mintió",
-    "Quién miente",
-    "Ken salazar",
-    "Fbi",
-    "Toyota",
-    "Inmunidad diplomática"
+    "Infonavit programa",
+    "Derecha mexicana",
+    "Mercado laboral",
+    "Buen desempeño",
+    "Equipo ecuatoriano",
+    "Segunda tasa"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 49
+      "nombre": "ADELAIDA RIVERA MARTÍNEZ",
+      "cargo": "BENEFICIARIA INFONAVIT PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 36
     },
     {
-      "nombre": "ROBERTO VELASCO ÁLVAREZ",
-      "cargo": "SECRETARIO DE RELACIONES EXTERIORES",
-      "categoria": "secretarios",
-      "intervenciones": 49
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 36
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "nombre": "ÉDGAR AMADOR ZAMORA",
+      "cargo": "SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO",
       "categoria": "secretarios",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
+      "intervenciones": 10
+    },
+    {
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
       "intervenciones": 4
     }
   ]
