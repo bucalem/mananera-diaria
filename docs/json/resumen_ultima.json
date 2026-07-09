@@ -1,47 +1,47 @@
 {
-  "fecha": "2026-07-08",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 08 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-09",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 60,
+  "n_preguntas": 70,
   "temas": [
-    "Infonavit programa",
-    "Derecha mexicana",
-    "Mercado laboral",
-    "Buen desempeño",
-    "Equipo ecuatoriano",
-    "Segunda tasa"
+    "Servicio meteorológico",
+    "Fenómeno niño",
+    "Machain",
+    "Alertamiento",
+    "Protección civil",
+    "Centros detención"
   ],
   "participantes": [
     {
-      "nombre": "ADELAIDA RIVERA MARTÍNEZ",
-      "cargo": "BENEFICIARIA INFONAVIT PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
-      "categoria": "directores",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "ÉDGAR AMADOR ZAMORA",
-      "cargo": "SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO",
+      "nombre": "ROBERTO VELASCO ÁLVAREZ",
+      "cargo": "SECRETARIO DE RELACIONES EXTERIORES",
       "categoria": "secretarios",
-      "intervenciones": 16
+      "intervenciones": 81
     },
     {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
-      "intervenciones": 10
+      "nombre": "LAURA VELÁZQUEZ ALZÚA",
+      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
+      "categoria": "otros",
+      "intervenciones": 9
     },
     {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
+      "nombre": "FABIÁN VÁZQUEZ ROMAÑA",
+      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
       "categoria": "otros",
       "intervenciones": 4
+    },
+    {
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "FABIÁN VÁZQUEZ ROMÁN",
+      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
+      "categoria": "otros",
+      "intervenciones": 1
     }
   ]
 }
