@@ -1,47 +1,35 @@
 {
-  "fecha": "2026-07-09",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-10",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 70,
+  "n_preguntas": 57,
   "temas": [
-    "Servicio meteorológico",
-    "Fenómeno niño",
-    "Machain",
-    "Alertamiento",
-    "Protección civil",
-    "Centros detención"
+    "Piezas",
+    "Museo",
+    "Pato merlín",
+    "Lago texcoco",
+    "Artesanos",
+    "Cervantino"
   ],
   "participantes": [
     {
-      "nombre": "ROBERTO VELASCO ÁLVAREZ",
-      "cargo": "SECRETARIO DE RELACIONES EXTERIORES",
+      "nombre": "CLAUDIA CURIEL DE ICAZA",
+      "cargo": "SECRETARIA DE CULTURA",
       "categoria": "secretarios",
-      "intervenciones": 81
+      "intervenciones": 25
     },
     {
-      "nombre": "LAURA VELÁZQUEZ ALZÚA",
-      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
-      "categoria": "otros",
-      "intervenciones": 9
+      "nombre": "JOEL OMAR VÁZQUEZ HERRERA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA",
+      "categoria": "directores",
+      "intervenciones": 3
     },
     {
-      "nombre": "FABIÁN VÁZQUEZ ROMAÑA",
-      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "nombre": "MARINA NÚÑEZ BESPALOVA",
+      "cargo": "SUBSECRETARIA DE DESARROLLO CULTURAL",
       "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "FABIÁN VÁZQUEZ ROMÁN",
-      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
-      "categoria": "otros",
-      "intervenciones": 1
+      "intervenciones": 2
     }
   ]
 }
