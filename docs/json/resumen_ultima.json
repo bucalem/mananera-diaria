@@ -1,35 +1,35 @@
 {
-  "fecha": "2026-07-10",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-13",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 57,
+  "n_preguntas": 36,
   "temas": [
-    "Piezas",
-    "Museo",
-    "Pato merlín",
-    "Lago texcoco",
-    "Artesanos",
-    "Cervantino"
+    "Azúcar",
+    "Diputado migrante",
+    "Mantequilla",
+    "Plaga",
+    "Mexicanos exterior",
+    "Exembajador"
   ],
   "participantes": [
     {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
       "intervenciones": 25
     },
     {
-      "nombre": "JOEL OMAR VÁZQUEZ HERRERA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA",
-      "categoria": "directores",
-      "intervenciones": 3
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 1
     },
     {
-      "nombre": "MARINA NÚÑEZ BESPALOVA",
-      "cargo": "SUBSECRETARIA DE DESARROLLO CULTURAL",
-      "categoria": "secretarios",
-      "intervenciones": 2
+      "nombre": "PAMELA LÓPEZ RUIZ",
+      "cargo": "DIRECTORA GENERAL DEL PROGRAMA LA ESCUELA ES NUESTRA",
+      "categoria": "directores",
+      "intervenciones": 1
     }
   ]
 }
