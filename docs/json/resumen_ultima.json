@@ -1,35 +1,35 @@
 {
-  "fecha": "2026-07-13",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-14",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 36,
+  "n_preguntas": 61,
   "temas": [
-    "Azúcar",
-    "Diputado migrante",
-    "Mantequilla",
-    "Plaga",
-    "Mexicanos exterior",
-    "Exembajador"
+    "Homicidios",
+    "Promedio diario",
+    "Septiembre junio",
+    "Protección ciudadana",
+    "Seguridad protección",
+    "Dolosos"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
       "categoria": "secretarios",
-      "intervenciones": 25
+      "intervenciones": 256
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 1
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 4
     },
     {
-      "nombre": "PAMELA LÓPEZ RUIZ",
-      "cargo": "DIRECTORA GENERAL DEL PROGRAMA LA ESCUELA ES NUESTRA",
-      "categoria": "directores",
-      "intervenciones": 1
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
+      "intervenciones": 4
     }
   ]
 }
