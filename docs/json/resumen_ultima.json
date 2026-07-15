@@ -1,35 +1,77 @@
 {
-  "fecha": "2026-07-14",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-15",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 61,
+  "n_preguntas": 63,
   "temas": [
-    "Homicidios",
-    "Promedio diario",
-    "Septiembre junio",
-    "Protección ciudadana",
-    "Seguridad protección",
-    "Dolosos"
+    "Delito feminicidio",
+    "Programa vivienda",
+    "Jurídica presidencia",
+    "Tipo penal",
+    "Consejera jurídica",
+    "Vulnerabilidad trata"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 256
+      "nombre": "RENÉ SÁNCHEZ LÓPEZ",
+      "cargo": "BENEFICIARIO DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 34
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "nombre": "CYNTIA HERNÁNDEZ MENDOZA",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "MARIBEL BOJORGES BELTRÁN",
+      "cargo": "TITULAR DE LA FISCALÍA ESPECIALIZADA EN DELITOS DE VIOLENCIA CONTRA LAS MUJERES, GRUPOS EN SITUACIÓN DE VULNERABILIDAD Y TRATA DE PERSONAS",
+      "categoria": "otros",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
+      "categoria": "secretarios",
+      "intervenciones": 5
+    },
+    {
+      "nombre": "INGRID GÓMEZ SARACIBAR",
+      "cargo": "SUBSECRETARIA DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIAS DE LA SECRETARÍA DE LAS MUJERES",
       "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
       "intervenciones": 4
+    },
+    {
+      "nombre": "MARGARITA GONZÁLEZ SARAVIA",
+      "cargo": "GOBERNADORA DE MORELOS",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "NIÑA SAMANTHA SÁNCHEZ",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "NIÑO ELIÁN SÁNCHEZ",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 1
     }
   ]
 }
