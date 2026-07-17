@@ -1,35 +1,53 @@
 {
-  "fecha": "2026-07-16",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 16 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-16-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-17",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 68,
+  "n_preguntas": 32,
   "temas": [
-    "Brenda quevedo",
-    "Ríos",
     "Sargazo",
-    "Plantas tratamiento",
-    "Ángela buitrago",
-    "Atoyac"
+    "Tulum",
+    "Quintana roo",
+    "Sitio arqueológico",
+    "Playas",
+    "Entrada tradicional"
   ],
   "participantes": [
     {
-      "nombre": "ALICIA BÁRCENA IBARRA",
-      "cargo": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
-      "categoria": "secretarios",
-      "intervenciones": 49
+      "nombre": "MARÍA ELENA LEZAMA ESPINOSA",
+      "cargo": "GOBERNADORA DE QUINTANA ROO",
+      "categoria": "gobernadores",
+      "intervenciones": 9
     },
     {
-      "nombre": "EFRAÍN MORALES LÓPEZ",
-      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA)",
-      "categoria": "directores",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
+      "cargo": "SECRETARIA DE TURISMO",
       "categoria": "secretarios",
       "intervenciones": 4
+    },
+    {
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "JOEL OMAR VÁZQUEZ HERRERA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA (INAH)",
+      "categoria": "directores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
     }
   ]
 }
