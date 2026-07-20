@@ -1,51 +1,39 @@
 {
-  "fecha": "2026-07-17",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-20",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 32,
+  "n_preguntas": 36,
   "temas": [
+    "Cimenna",
+    "Unesco",
+    "Artificial generativa",
+    "Chao rebolledo",
     "Sargazo",
-    "Tulum",
-    "Quintana roo",
-    "Sitio arqueológico",
-    "Playas",
-    "Entrada tradicional"
+    "Juegos tradicionales"
   ],
   "participantes": [
     {
-      "nombre": "MARÍA ELENA LEZAMA ESPINOSA",
-      "cargo": "GOBERNADORA DE QUINTANA ROO",
-      "categoria": "gobernadores",
+      "nombre": "RICARDO VILLANUEVA LOMELÍ",
+      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR",
+      "categoria": "secretarios",
       "intervenciones": 9
     },
     {
-      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
-      "cargo": "SECRETARIA DE TURISMO",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "JOEL OMAR VÁZQUEZ HERRERA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA (INAH)",
-      "categoria": "directores",
+      "nombre": "ANDRÉS MORALES ARCINIEGAS",
+      "cargo": "REPRESENTANTE DE LA ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA EDUCACIÓN, LA CIENCIA Y LA CULTURA (UNESCO) EN MÉXICO",
+      "categoria": "otros",
       "intervenciones": 1
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
       "intervenciones": 1
     }
