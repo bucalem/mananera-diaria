@@ -1,39 +1,45 @@
 {
-  "fecha": "2026-07-20",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-21",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 36,
+  "n_preguntas": 43,
   "temas": [
-    "Cimenna",
-    "Unesco",
-    "Artificial generativa",
-    "Chao rebolledo",
-    "Sargazo",
-    "Juegos tradicionales"
+    "Censables",
+    "Camas",
+    "Hospital",
+    "Especialidades quirófanos",
+    "Resonador magnético",
+    "Hemodiálisis terapias"
   ],
   "participantes": [
     {
-      "nombre": "RICARDO VILLANUEVA LOMELÍ",
-      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR",
-      "categoria": "secretarios",
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
+      "intervenciones": 50
+    },
+    {
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "categoria": "directores",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "ANDRÉS MORALES ARCINIEGAS",
-      "cargo": "REPRESENTANTE DE LA ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA EDUCACIÓN, LA CIENCIA Y LA CULTURA (UNESCO) EN MÉXICO",
-      "categoria": "otros",
-      "intervenciones": 1
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
+      "categoria": "secretarios",
+      "intervenciones": 4
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "EDUARDO CLARK DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y DESARROLLO DE LA SECRETARIA DE SALUD",
       "categoria": "secretarios",
       "intervenciones": 1
     }
