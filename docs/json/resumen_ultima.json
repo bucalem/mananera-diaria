@@ -1,46 +1,100 @@
 {
-  "fecha": "2026-07-21",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-22",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 22 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-22-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 43,
+  "n_preguntas": 45,
   "temas": [
-    "Censables",
-    "Camas",
-    "Hospital",
-    "Especialidades quirófanos",
-    "Resonador magnético",
-    "Hemodiálisis terapias"
+    "Zona oriente",
+    "Plan oriente",
+    "Mexiquenses",
+    "Mando unificado",
+    "Subdirector agua",
+    "Nezahualcóyotl"
   ],
   "participantes": [
+    {
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 81
+    },
+    {
+      "nombre": "DELFINA GÓMEZ ÁLVAREZ",
+      "cargo": "GOBERNADORA DEL ESTADO DE MÉXICO",
+      "categoria": "gobernadores",
+      "intervenciones": 64
+    },
+    {
+      "nombre": "EFRAÍN MORALES LÓPEZ",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA)",
+      "categoria": "directores",
+      "intervenciones": 49
+    },
+    {
+      "nombre": "LUIS ISMAEL TORRES HERNÁNDEZ",
+      "cargo": "BENEFICIARIO DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "categoria": "secretarios",
+      "intervenciones": 17
+    },
+    {
+      "nombre": "FELIPE ZATARÁIN MENDOZA",
+      "cargo": "SUBDIRECTOR DE AGUA POTABLE, DRENAJE Y SANEAMIENTO",
+      "categoria": "directores",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "RODRIGO CHÁVEZ CONTRERAS",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE VIVIENDA (CONAVI)",
+      "categoria": "directores",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "FRIDA",
+      "cargo": "BENEFICIARIO DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "JESÚS ANTONIO ESTEVA MEDINA",
+      "cargo": "SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "ADOLFO CERQUEDA REBOLLO",
+      "cargo": "PRESIDENTE MUNICIPAL DE NEZAHUALCÓYOTL",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "JOSÉ LUIS CERVANTES MARTÍNEZ",
+      "cargo": "FISCAL GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
     {
       "nombre": "ZOÉ ROBLEDO ABURTO",
       "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
       "categoria": "directores",
-      "intervenciones": 50
-    },
-    {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
-      "categoria": "directores",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "EDUARDO CLARK DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y DESARROLLO DE LA SECRETARIA DE SALUD",
-      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
