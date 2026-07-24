@@ -1,23 +1,41 @@
 {
-  "fecha": "2026-07-23",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-24",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 24 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-24-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 40,
+  "n_preguntas": 67,
   "temas": [
-    "Concursante",
-    "Canta",
-    "Grecia marín",
-    "Rosalba valdez",
-    "Música",
-    "Miranda gonzález"
+    "Temoac",
+    "Morelos",
+    "Nuevo arancel",
+    "Fabrica",
+    "Línea investigación",
+    "Seguridad protección"
   ],
   "participantes": [
     {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
       "categoria": "secretarios",
-      "intervenciones": 144
+      "intervenciones": 225
+    },
+    {
+      "nombre": "MARGARITA GONZÁLEZ SARAVIA",
+      "cargo": "GOBERNADORA DE MORELOS",
+      "categoria": "gobernadores",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
     }
   ]
 }
