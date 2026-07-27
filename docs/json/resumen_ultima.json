@@ -1,39 +1,39 @@
 {
-  "fecha": "2026-07-24",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 24 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-24-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-27",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 67,
+  "n_preguntas": 62,
   "temas": [
-    "Temoac",
-    "Morelos",
-    "Nuevo arancel",
-    "Fabrica",
-    "Línea investigación",
-    "Seguridad protección"
+    "Cerebro",
+    "Dopamina",
+    "Psicológica especialista",
+    "Especialista prevención",
+    "Maestra orientación",
+    "Orientación psicológica"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 225
+      "intervenciones": 144
     },
     {
-      "nombre": "MARGARITA GONZÁLEZ SARAVIA",
-      "cargo": "GOBERNADORA DE MORELOS",
-      "categoria": "gobernadores",
-      "intervenciones": 36
+      "nombre": "TANIA JIMÉNEZ GARCÍA",
+      "cargo": "MAESTRA EN ORIENTACIÓN PSICOLÓGICA Y ESPECIALISTA EN PREVENCIÓN DE ADICCIONES Y DIRECTORA GENERAL DE CONCIEO",
+      "categoria": "directores",
+      "intervenciones": 49
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 4
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 1
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "nombre": "RICARDO VILLANUEVA LOMELÍ",
+      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR",
       "categoria": "secretarios",
       "intervenciones": 1
     }
