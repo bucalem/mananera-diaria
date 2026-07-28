@@ -1,41 +1,23 @@
 {
-  "fecha": "2026-07-27",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-28",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 62,
+  "n_preguntas": 60,
   "temas": [
-    "Cerebro",
-    "Dopamina",
-    "Psicológica especialista",
-    "Especialista prevención",
-    "Maestra orientación",
-    "Orientación psicológica"
+    "Audiencias",
+    "Vulcan",
+    "Código ética",
+    "Lineamientos",
+    "Personas defensoras",
+    "Reguladora telecomunicaciones"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 144
-    },
-    {
-      "nombre": "TANIA JIMÉNEZ GARCÍA",
-      "cargo": "MAESTRA EN ORIENTACIÓN PSICOLÓGICA Y ESPECIALISTA EN PREVENCIÓN DE ADICCIONES Y DIRECTORA GENERAL DE CONCIEO",
-      "categoria": "directores",
-      "intervenciones": 49
-    },
-    {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "nombre": "JOSÉ ANTONIO PEÑA MERINO",
+      "cargo": "TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES",
       "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "RICARDO VILLANUEVA LOMELÍ",
-      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 100
     }
   ]
 }
