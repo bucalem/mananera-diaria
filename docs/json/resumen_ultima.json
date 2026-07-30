@@ -1,65 +1,59 @@
 {
-  "fecha": "2026-07-29",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-julio-de-2026?idiom=es",
+  "fecha": "2026-07-30",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 30 de julio de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-30-de-julio-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 77,
+  "n_preguntas": 69,
   "temas": [
-    "Kia",
-    "Movilidad eléctrica",
-    "Inseguridad alimentaria",
-    "Producción vehículo",
-    "Línea producción",
-    "Jabnely"
+    "Sargazo",
+    "Sargaceros",
+    "Recolección",
+    "Barcos",
+    "Playas",
+    "Barreras dinámicas"
   ],
   "participantes": [
     {
-      "nombre": "MARCELO EBRARD CASAUBON",
-      "cargo": "SECRETARIO DE ECONOMÍA",
+      "nombre": "ALICIA BÁRCENA IBARRA",
+      "cargo": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
       "categoria": "secretarios",
-      "intervenciones": 289
+      "intervenciones": 100
     },
     {
-      "nombre": "HORACIO CHÁVEZ",
-      "cargo": "DIRECTOR COMERCIAL DE KIA MÉXICO",
+      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
+      "cargo": "SECRETARIA DE TURISMO",
+      "categoria": "secretarios",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
+      "categoria": "secretarios",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "MARÍA ELENA LEZAMA ESPINOSA",
+      "cargo": "GOBERNADORA DE QUINTANA ROO",
+      "categoria": "gobernadores",
+      "intervenciones": 17
+    },
+    {
+      "nombre": "EDITH CALIXTO PÉREZ",
+      "cargo": "DIRECTORA DE DESARROLLO TECNOLÓGICO DE LA SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
       "categoria": "directores",
-      "intervenciones": 81
-    },
-    {
-      "nombre": "MARIANELA CALDERÓN",
-      "cargo": "DIRECTORA DE ADMINISTRACIÓN DE KIA MÉXICO",
-      "categoria": "directores",
-      "intervenciones": 64
-    },
-    {
-      "nombre": "XIMENA ESCOBEDO JUÁREZ",
-      "cargo": "SUBSECRETARIA DE INDUSTRIA Y COMERCIO DE LA SECRETARÍA DE ECONOMÍA",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "categoria": "secretarios",
-      "intervenciones": 5
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "ALEJANDRO ARMENTA MIER",
-      "cargo": "GOBERNADOR DE PUEBLA",
-      "categoria": "gobernadores",
-      "intervenciones": 1
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 4
     },
     {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "nombre": "SEBASTIÁN RAMÍREZ MENDOZA",
+      "cargo": "DIRECTOR GENERAL DEL FONDO NACIONAL DE FOMENTO AL TURISMO (FONATUR)",
       "categoria": "directores",
-      "intervenciones": 1
+      "intervenciones": 4
     }
   ]
 }
