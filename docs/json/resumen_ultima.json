@@ -1,35 +1,29 @@
 {
-  "fecha": "2026-07-31",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 31 de julio de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-31-de-julio-de-2026?idiom=es",
+  "fecha": "2026-08-03",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 77,
+  "n_preguntas": 39,
   "temas": [
-    "Seguridad protección",
-    "Protección ciudadana",
-    "Ramón ángel",
-    "Carlos manzo",
-    "Célula",
-    "Permitieron establecer"
+    "Jonathan haidt",
+    "Arturo béjar",
+    "Gente joven",
+    "Adicción",
+    "Canal once",
+    "Padres familia"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 3136
+      "intervenciones": 16
     },
     {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "nombre": "RICARDO VILLANUEVA LOMELÍ",
+      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA (SEP)",
       "categoria": "secretarios",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
-      "intervenciones": 9
+      "intervenciones": 1
     }
   ]
 }

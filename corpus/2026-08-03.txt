@@ -1,0 +1,565 @@
+URL: https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-agosto-de-2026?idiom=es
+Fecha: 2026-08-03
+Título: Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de agosto de 2026
+
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Buenos días.
+PREGUNTA: Buenos días, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Cómo están?
+PREGUNTA: Bien. ¿Y usted?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bien, también muy bien. Nos fue muy bien en Oaxaca, una gira muy amplia.
+Y ayer anunciamos —ya lo vamos a presentar aquí la próxima semana— un espacio, una ciudad, así; en mixteco le pusieron “Ñuu Tata”, que es “pueblo que cuida”, porque allí se van a construir: un hospital, o ya se está construyendo un hospital del ISSSTE; ayer se puso la primera piedra para un hospital del IMSS y se va a construir también un hospital del IMSS Bienestar en el mismo lugar.
+Van a compartir algunos servicios; son más de 700 camas censables, e importantísimo para Oaxaca. Va a tener la última tecnología; de hecho, va a ser el centro de la salud. Es como un Hospital General, pero con todas las especialidades y todos los equipos, o “La Raza”, más o menos así, pero de última generación.
+Entonces, un espacio muy muy importante para la ciudad de Oaxaca que, en realidad, va a ser regional, no solamente para todo el estado de Oaxaca, sino incluso para una parte de Puebla, esta Ciudad Salud, con tres hospitales y, por primera vez, constituido, pensado como el Servicio Universal de Salud.
+Bueno, ese fue el evento de ayer; estuvimos en la Mixteca y en distintos lugares.
+Bueno, hoy no está Iván Escalante, pero nos dejó un video —no pudo llegar el día de hoy— sobre “Quién es quién en los precios”.
+Después, Julio León, el director de Becas de la Secretaría de Educación Pública, nos va a platicar, porque a partir de hoy comienza la dispersión de la Beca “Rita Cetina” para útiles y uniformes escolares en primaria. Nos va a platicar cómo van a ser estos depósitos. Ya son millones de familias que tienen su tarjeta del Bienestar para recibir este apoyo.
+Y también vamos a seguir con el debate sobre el impacto de las plataformas digitales. Hemos hablado del impacto que tienen en las niñas, los niños, los jóvenes, cómo se generan adicciones, desde la perspectiva de la psicología, de la neurología.
+Y ahora vamos a hablar sobre cómo están diseñadas las plataformas. Y tenemos a dos grandes invitados: a distancia está el doctor Jonathan Haidt, psicólogo social de la Universidad de Nueva York; y está aquí con nosotros el ingeniero Arturo Béjar, él es exdirector de Ingeniería de Facebook, experto en seguridad digital.
+Entonces, después de “Quién es quién en los precios” y de Julio León, vamos a escuchar a Mario Delgado, después a Jonathan Haidt —no sé si lo estoy pronunciando bien— y después al ingeniero Arturo Béjar, un mexicano que nos da mucho orgullo que esté el día de hoy en “La mañanera”.
+Bueno, vamos con “Quién es quién” en video.
+(INICIA VIDEO)
+VOZ MUJER: Presentamos el “Quién es quién en los precios”, el monitoreo que realiza la Profeco sobre productos y servicios esenciales para las familias mexicanas.
+VOZ HOMBRE: Iniciamos con el “Quién es quién en el envío de dinero”:
+VOZ MUJER: Realizamos un ejercicio simulando el envío de 400 dólares desde Estados Unidos. Y en la modalidad de depósito a cuenta o transferencia, la remesadora que más pesos da es Finabien, con 7 mil 94 pesos con 57 centavos.
+VOZ HOMBRE: Con esto, Finabien se posiciona como la remesadora que más pesos da por tus dólares, acumulando 51 semanas, es decir, casi un año como la mejor opción.
+VOZ MUJER: Y la que menos da en esta modalidad es WorldRemit con 6 mil 746 pesos con 27 centavos.
+VOZ HOMBRE: En la modalidad de envío en efectivo, la que más da es Pangea Money Transfer, con 7 mil 268 pesos.
+VOZ MUJER: Y la que menos da es WorldRemit con 6 mil 737 pesos con 26 centavos.
+VOZ HOMBRE: Cada semana monitoreamos 18 remesadoras para que consultes quién tiene el mejor promedio de comisión y de tipo de cambio.
+Continuamos con el seguimiento a la Estrategia para la Estabilización del Precio del Diésel:
+VOZ MUJER: Desde mayo pasado, la Presidenta de México, Doctora Claudia Sheinbaum Pardo, realizó con empresarios gasolineros un acuerdo voluntario para que el diésel se venda en menos de 27 pesos por litro.
+VOZ HOMBRE: Ya tenemos un 85.2 por ciento de cumplimiento entre las estaciones, y el precio promedio nacional al 31 de julio es de 27 pesos con 3 centavos.
+VOZ MUJER: Esta semana identificamos con precios justos a Pemex Combustibles Vialva, en Tuxtla Gutiérrez, Chiapas, que vende el litro en 26 pesos con 97 centavos, con un margen de ganancia de 1 peso con 42 centavos.
+VOZ HOMBRE: Pero también están las que “se vuelan la barda con los precios”, como BP estación Osiris, en Amozoc, Puebla, con 29 pesos con 99 centavos y un margen de ganancia de 3 pesos con 83 centavos.
+Y ahora “Quién es quién en primera necesidad” con el seguimiento a los 24 productos de la canasta PACIC:
+VOZ MUJER: La canasta más barata la encontramos en Bodega Aurrera Camino del Seri, en Hermosillo, Sonora, en 715 pesos con 31 centavos.
+VOZ HOMBRE: Y la más cara en Walmart Taxqueña, en Coyoacán, Ciudad de México, con 921 pesos con 50 centavos.
+VOZ MUJER: Y en el comparativo de tres ciudades presentamos:
+VOZ HOMBRE: En Ecatepec de Morelos, Estado de México. La más barata se encuentra en Bodega Aurrera Plaza Aragón en 748 pesos con 50 centavos.
+VOZ MUJER: Y la más cara, pero también por debajo de 910 pesos, en Mercado Soriana, Ciudad Azteca, en 840 pesos con 30 centavos.
+VOZ HOMBRE: En Tuxtla Gutiérrez, Chiapas. Chedraui Tuxtla Crystal fue la más barata con 787 pesos con 20 centavos.
+VOZ MUJER: Y la más cara, pero también por debajo de 910 pesos, fue en Soriana Híper Poliforum, en 850 pesos.
+VOZ HOMBRE: En Acapulco Guerrero. La más barata la encontramos en Soriana Híper Acapulco Costera, en 800 pesos con 50 centavos.
+VOZ MUJER: Y la más cara, pero también por debajo de 910 pesos, en Walmart Acapulco, en 835 pesos con 50 centavos.
+Y ya salió la Revista del Consumidor del mes de agosto, la 594, un número dedicado al regreso a clases.
+VOZ HOMBRE: En esta nueva edición encontrarás, en nuestros estudios de calidad, útiles escolares y alimento húmedo para gato para que elijas con información.
+VOZ MUJER: En “Caminito de la escuela sin deudas” te decimos cómo surtir la lista escolar sin afectar la economía familiar.
+VOZ HOMBRE: Y en “Niñez conectada y protegida” te enseñamos a cuidar a niñas y niños con controles parentales y filtros digitales.
+VOZ MUJER: Y para el próximo 15 y 16 de agosto te invitamos a asistir a la Feria de Regreso a Clases Profeco, en la que encontrarás grandes descuentos y precios justos. Porque tus derechos también van a la escuela.
+VOZ HOMBRE: Toda esta información la puedes encontrar en Revista del Consumidor. Escanea el código QR y descárgala gratis, o consíguela empresa en las librerías de Fondo de Cultura Económica.
+VOZ MUJER: Compartimos nuestros canales de comunicación. Estas son nuestras redes sociales, sitio web y el Teléfono del Consumidor.
+(FINALIZA VIDEO)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Muchas gracias—.
+Julio.
+TITULAR DE LA COORDINACIÓN NACIONAL DE BECAS PARA EL BIENESTAR “BENITO JUÁREZ”, JULIO LEÓN TRUJILLO: Con su permiso, Presidenta. Buenos días a todas y a todos.
+Si bien, el ciclo escolar ya ha concluido, pues ahora se encuentran las y los estudiantes en un periodo vacacional; las mamás, los papás, los tutores, en este momento también se alistan con los útiles, los uniformes, las mochilas, para el siguiente ciclo escolar.
+Y hoy, para mí es un gusto poderles contar la materialización de un compromiso que hizo la Presidenta: del fortalecimiento del Sistema de Becas de nuestro país.
+Hoy las y los estudiantes de primaria reciben la beca para útiles uniformes, este apoyo anual de 2 mil 500 pesos para la compra de esto.
+Hoy también todos los estudiantes de secundaria públicas reciben la Beca “Rita Cetina” de secundaria, donde se reciben mil 900 pesos bimestrales si existe solo un hijo al interior de la familia; si hay hijos adicionales, reciben 700 pesos adicionales también por cada hijo.
+Hoy todos los estudiantes de preparatoria reciben la Beca “Benito Juárez”, donde de forma bimestral también reciben mil 900 pesos.
+Y cada día se fortalece más también las becas de educación superior en “Gertrudis Bocanegra” y Jóvenes Escribiendo el Futuro.
+Vamos al informe.
+Por lo que obedece a educación básica, a este cierre de ciclo escolar ya se atendieron en preescolar a 176 mil 761 estudiantes, en primaria ya son 9 millones 502 mil 322, en secundaria 5 millones 281 mil 672; dando un total de una cobertura de 14 millones 960 mil 755 becarios en educación básica, con una inversión, al cierre de este primer semestre, de 62 mil 445 millones 912 mil 700 pesos.
+En educación media superior ya hemos alcanzado una cobertura de 4 millones 162 mil 377 becarios. Y la inversión al cierre de agosto, 23 mil 731 millones 481 mil 650 pesos.
+Para Educación Superior son 2 modalidades: Jóvenes Escribiendo el Futuro y “Gertrudis Bocanegra”.
+Para Jóvenes Escribiendo el Futuro ya atendemos a 414 mil 100 estudiantes con una inversión al cierre de agosto de 7 mil 256 millones 15 mil 100 pesos.
+Y “Gertrudis Bocanegra”, como en este momento solo ha sido para Michoacán, hemos atendido a 55 mil 924 becarios, con una inversión de 318 millones 766 mil 800 pesos.
+Cabe hacer mención acá que la Presidenta ya ha anunciado que este próximo ciclo escolar también se estará atendiendo con la beca para transporte “Gertrudis Bocanegra” al estado de Zacatecas y al estado de Chiapas. Y así, poco a poco, la Presidenta nos ha dicho que esta beca estará creciendo para tener una cobertura y un alcance mayor para los estudiantes de educación superior.
+Si ya lo vemos todo en su conjunto, el Sistema de Becas hoy en día ya alcanzó esta gran cobertura de 19 millones 593 mil 156; nosotros esperábamos terminar el ciclo escolar con 20 millones, nos quedamos a nada, pero este año 2026 esperamos alcanzar una cobertura de 22 millones de estudiantes. Y al cierre de este primer semestre son 93 mil 752 millones 176 mil 250 [pesos], con lo que cerramos el recurso ejercido al mes de agosto.
+Y esto es lo que acabamos de cerrar —¿podemos darle para que inicie el video?— esto es lo que acabamos de cerrar para la atención en educación primaria:
+Tuvimos 73 mil asambleas que se realizaron a lo largo y ancho del país.
+La meta de entrega de tarjetas era de 5 millones de tarjetas; ya se han entregado 4.7 millones, que representa el 95.1 de avance. Como pueden ver, nos falta un piquito de tarjetas por entregar que ahora se siguen entregando.
+La Presidenta nos ha instruido que tenemos que ir hasta el último rincón y tenemos que entregar el 100 por ciento de las tarjetas de quienes hicieron registro, solicitud a la Beca “Rita Cetina” de primaria.
+—Si quieres, dale siguiente para que siga el video, por favor—.
+Ahí podemos apreciar cómo se están entregando las tarjetas ahora en oficina. Ya hicimos el operativo regular en donde hacemos una convocatoria-asamblea.
+Ya hicimos también el operativo de rezago donde, a todos aquellos que no fueron a su asamblea, los invitamos a que acudan a un segundo momento.
+Todos aquellos que no han ido al operativo de rezago, hoy en día les estamos llamando para que vayan a un Centro de Atención de Becas para el Bienestar y ahí un servidor de la educación está realizando la entrega de la tarjeta.
+También hay papás, mamás, tutores que por alguna razón u otra no pueden asistir a la oficina, algunos por enfermedad o algunos por otra causal. Entonces, también se están realizando las entregas casa por casa, como se puede apreciar en el video. Las servidoras y los servidores están acudiendo a los domicilios para quienes no contestan la llamada o quienes no pueden asistir al Centro de Atención de Becas para el Bienestar, la tarjeta la puedan tener muy pronto con ellos.
+Yo recuerdo dos casos en los que fui a entregar tarjeta casa por casa:
+Una persona por su tratamiento de cáncer no pudo ir a recibir su tarjeta, se la llevamos a su casa y se puso muy contenta.
+Otra persona justo en la entrega de tarjetas estaba dando a luz a su bebé; entonces, tampoco pudo acudir, y le llevamos la tarjeta a su domicilio.
+Esa es la instrucción de la Presidenta y así la estamos atendiendo.
+Y lo prometido es deuda:
+La Presidenta dijo que “en el mes de agosto se realizaba la dispersión de los recursos para útiles y uniformes”, justo en este momento crucial en el que se empiezan a adquirir todo lo que se requiere para ir a la escuela. Entonces, hoy arranca la dispersión de los 2 mil 500 pesos.
+Hoy lunes se atiende a quienes… o se les deposita a quienes su primer letra de su primer apellido inicia con la letra “A” y “B”.
+El martes 4: a quien inicia con la letra “C”.
+El miércoles 5: “D”, “E” y “F”.
+El jueves 6: la letra “G”.
+El viernes 7: “H”, “I”, “J”, “K”, y “L”.
+El lunes 10: la letra “M”.
+El martes 11: la “N”, “Ñ”, “Q”, “P" y “Q”.
+El miércoles 12: la letra “R".
+El jueves 13: la letra “S”.
+Y el viernes estaremos… el viernes 14 estaremos concluyendo con el resto de las letras [“T”, “U”, “V”, “W”, “X”, “Y”, “Z”].
+Así que atentas mamás y papás de su dispersión de recursos.
+Ahí viene la cantidad de becarios, 6 mil 694 mil 988 son quienes están recibiendo esta dispersión.
+La inversión social es de 16 mil 700 millones de pesos.
+Y, por último, Presidenta, solamente una recomendación adicional que ya le hemos hecho en otros momentos, pero creo que vale la pena que lo hagamos nuevamente, son nuevos becarios que están recibiendo por primera vez esta beca.
+Le recomendamos instalar la aplicación del Banco del Bienestar en su celular, es gratuita, está disponible para iOS y también para Android.
+Y si alguien no quiere instalar la aplicación, pero quiere consultar su saldo, también lo puede hacer en la línea del Banco del Bienestar, 800 900 2000, marcando el número 1, los 16 dígitos de la tarjeta y la fecha de nacimiento, y con eso estarán teniendo el saldo de su tarjeta.
+Continuaremos trabajando arduamente, por instrucciones de la Presidenta, para seguir instalando el Sistema de Becas de nuestro país eficientemente.
+Creemos firmemente en este gobierno que, si un estudiante se mantiene en la escuela, una familia gana; pero si millones de estudiantes se mantienen estudiando, ahí gana la nación entera.
+Así que seguiremos trabajando en ello.
+Por lo que corresponde a becas, Presidenta, es cuanto.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+Ahora sí, Mario.
+SECRETARIO DE EDUCACIÓN PÚBLICA, MARIO DELGADO CARRILLO: Buenos días a todas y a todos. Con su permiso, Presidenta.
+Continuamos este lunes con este debate que ha convocado la Presidenta de México sobre el uso de los dispositivos digitales y el impacto en el bienestar de los niños, las niñas y adolescentes.
+Como ya lo planteó la Presidenta: nunca nos hemos preguntado sobre el diseño de las plataformas digitales.
+Y hoy se va a hablar de eso porque las plataformas, si bien nos permiten comunicarnos, aprender, compartir información, mantenernos conectados, también incorporan mecanismos para atraer nuestra atención y prolongar el tiempo que permanecemos en ellas. El scroll infinito, las notificaciones, la reproducción automática, los algoritmos de recomendación, pues van haciendo que estemos pegados a la pantalla y el uso se puede volver compulsivo.
+Ante esto —como conversábamos la semana pasada— quienes quedan más expuestos son los niños, las niñas y los adolescentes.
+Para hablarnos de ello —ya lo comentó la Presidenta— tenemos dos expertos de talla internacional que se han atrevido a hacer un cuestionamiento ético del diseño de las redes sociales y conocen muy bien su funcionamiento.
+El primero es Jonathan Haidt. Quiero hablarles un poco de él, es una de las voces con mayor impacto en el debate global sobre redes sociales:
+Es profesor en Psicología por la Universidad de Nueva York.
+Investiga el impacto de las redes sociales en la salud mental de adolescentes y también en el desarrollo democrático.
+Tiene 4 libros muy conocidos a nivel internacional, creo que el más conocido es este: La generación ansiosa. Jonathan Haidt tiene más de 2 millones de copias vendidas de este libro y ya es una referencia internacional en el debate de la regulación de celulares en las escuelas y cómo retrasar el acceso a redes sociales en países como Inglaterra, Australia o Francia puede tener resultados favorables.
+Tiene, además, un movimiento internacional, sería en español “El movimiento de la generación ansiosa”, que es el movimiento internacional para infancias que busca: tengan menos pantallas, escuelas sin celulares y tengan las infancias juegos más libres.
+También, viajó directamente desde San Francisco para estar el día de hoy con nosotros, cosa que le agradecemos profundamente, el ingeniero Arturo Béjar.
+Él es mexicano.
+Es el ingeniero que Meta eligió para diseñar sus sistemas de protección de usuarios.
+Tiene muchísima experiencia. Estudió Matemáticas en King's College con Steve Wozniak, es cofundador de Apple con Steve Jobs, comenzó a trabajar en IBM México a los 15 años y fue el primer ingeniero de seguridad en Yahoo!, para los que se acuerdan todavía de Yahoo!
+Fue director de Ingeniería de Protección y Cuidado en Facebook, responsable de equipos dedicados a la seguridad, bienestar y protección de los usuarios.
+Su trabajo y testimonios han colocado en el centro del debate público: las responsabilidades de las plataformas en el diseño de algoritmos adictivos y por los daños que enfrentan niñas, niños y adolescentes por estos algoritmos.
+¿En qué se basa la discusión? ¿Cuáles son algunos de los puntos de los que hay que hablar?
+Primero. Que existen algoritmos, este diseño que hacen las plataformas, porque miden toda nuestra actividad en las redes y a partir de lo que miden genera ese algoritmo para mantenernos atrapados; y no son neutrales estos algoritmos, tienen cierta orientación.
+2. Los dispositivos digitales ya no son herramientas pasivas, son herramientas que van orientando, toman decisiones y van moldeando nuestras conductas.
+Y tercero. Que el impacto no termina en el mundo digital. Como nos nutren de información, nos muestran contenidos, influyen en la manera en que nos percibimos a nosotros mismos, cómo percibimos la realidad y cómo nos relacionamos con la vida democrática.
+Y por último decir que estamos frente a una relación muy desigual, porque las familias, pues tienen que enfrentar a las grandes empresas que tienen todos los datos, tienen todos los especialistas y tienen el diseño de los algoritmos.
+Por lo tanto, estamos frente a un problema de salud pública, no es una cuestión nada más de autorregulación de las personas o de las familias. Se requieren acciones colectivas que antepongan el bienestar de las infancias y las juventudes antes que los intereses comerciales.
+Entonces, vamos a hacer la conexión a Nueva York con el doctor Jonathan Haidt.
+—Adelante, doctor. Además, va a ser el esfuerzo de hablarnos en español. Gracias—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA): Buenos días a todos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Buenos días.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA): Quisiera agradecer a la Presidente Sheinbaum por iniciar esta conversación nacional sobre los efectos de la tecnología en la juventud mexicana.
+También deseo agradecer al secretario Delgado y subsecretario Villanueva por su dedicación y su colaboración.
+Por favor, disculpen mi español de nivel de bachillerato.
+Me llamo Jonathan Haidt. Soy el autor de La generación ansiosa, libro que documenta los numerosos efectos nocivos que los teléfonos inteligentes y las redes sociales han tenido en los niños y jóvenes de todo el mundo en los últimos 15 años.
+Entre 2010 y 2015, la infancia pasó de su forma tradicional basada en el juego a lo que tenemos hoy, que podría denominarse “una infancia basada en el teléfono”.
+En aquel entonces pensábamos que nuestros hijos eran nativos digitales: crecían rodeados de teléfonos inteligentes y computadoras, y creíamos que eso los haría sumamente inteligentes y hábiles. Pero estábamos equivocados.
+Ahora, sabemos que la infancia basada en el teléfono provoca depresión, ansiedad, trastornos alimentarios, adicción, distracción, menor capacidad de atención y aprendizaje, acoso sexual y una serie de otros daños para los adolescentes.
+Las empresas que controlan la atención de nuestros hijos utilizaron algoritmos e Inteligencia Artificial para enganchar al máximo a cada niño con el fin de vender su atención. Luego, mintieron al respecto.
+Pero ahora ha salido a la luz la verdad:
+Salió a la luz gracias al valiente testimonio de denunciantes como Arturo Béjar y Frances Haugen.
+Salió a la luz en el histórico caso judicial de Los Ángeles el pasado mes de marzo.
+Salió en cientos de estudios científicos, los cuales mi equipo de investigación ha recopilado en nuestro boletín Afterbabel.com.
+Y salió cada vez que los padres conversamos entre nosotros y descubrimos que todos enfrentamos las mismas dificultades en nuestros hogares.
+Por eso, ahora en 2026 las democracias del mundo empiezan a decir: “basta, no con nuestros hijos”.
+Las democracias del mundo están quitando los teléfonos inteligentes durante la escuela y están elevando a 16 años la edad mínima para abrir cuentas en redes sociales.
+Le animo a usted, Presidenta Sheinbaum, a implementar ambas medidas en México.
+Imagínese si, cuando nosotros íbamos a la escuela, hubiéramos podido llevar nuestros televisores y radios para usarlos durante la clase. Imagínese ser maestro en una situación tan imposible.
+La enorme distracción que provocan los teléfonos, así como las tabletas y los computadores es una de las razones por las que los resultados de los exámenes y la capacidad lectora están disminuyendo en todo el mundo.
+Mi equipo de investigación ha constatado que en ambos países las calificaciones en los exámenes han caído desde 2012, mientras que ha aumentado el sentimiento de soledad en la escuela.
+Las escuelas libres de teléfonos representan una medida sencilla, económica y eficaz para lograr que los centros educativos sean más eficientes y divertidos.
+Ya son 25 los estados de Estados Unidos que han implementado esta medida; los resultados son espectaculares.
+Esto es lo que siempre escuchamos: “recuperaré a mis alumnos” y “el comedor está lleno de vida”.
+Aquí está la clave del éxito: deben separar a los alumnos de sus teléfonos durante toda la jornada escolar. No exentan políticas que solo se apliquen al tiempo de clase, esas políticas no aportan beneficios sociales.
+Además, deberían aplicar la norma a todos los cursos, los alumnos mayores la necesitan incluso más que los más pequeños.
+La segunda medida que están adoptando líderes de todo el mundo es elevar a 16 años la edad mínima para tener cuentas en redes sociales. Las redes sociales son totalmente inapropiadas para los niños.
+Hablar con desconocidos es una actividad para adultos.
+La pornografía es cosa de adultos.
+Comprar drogas en línea es cosa de adultos.
+Sin embargo, todos nuestros hijos están expuestos regularmente a estos peligros cuando abren cuentas en Instagram, TikTok o Snapchat.
+Por eso, les recomiendo a ustedes proteger a los niños de México contra productos de consumo defectuosos, productos diseñados para crear adicción en los niños, no para ayudarles.
+Sigan ustedes el valiente ejemplo de Australia. No crean ustedes a quienes dicen que “la medida fracasó porque solo redujo el uso y un 30 por ciento”. Lograr cualquier cambio en el comportamiento de los adolescentes en solo 6 meses es un gran logro.
+Y ahora que existe un mercado de verificación de edad que respeta la privacidad, será mucho más fácil actuar para cualquier país que siga los pasos de Australia.
+Mi consejo es el siguiente: que se centren en el diseño de las plataformas, no en regular o prohibir contenidos. Podríamos aprovechar del ejemplo de Indonesia, que enumera las funcionalidades inapropiadas para los niños, como hablar con desconocidos.
+Para terminar, el antiguo filósofo chino Lao-Tse dijo: “un viaje de mil millas comienza con un solo paso”.
+Presidenta Sheinbaum, usted ya ha dado ese primer paso al consultar a maestros, padres, niños y otras partes interesadas. Siga adelante.
+Mi equipo está aquí para ayudarle. Encontrará nuestros recursos en anxiousgeneration.com.
+Este camino se vuelve más fácil a medida que se avanza porque usted descubrirá que el mundo entero se está uniendo a esta travesía y el viaje también se vuelve más divertido porque usted verá a los niños mexicanos inventando sus propios juegos, riendo juntos y leyendo libros por placer.
+Porque este viaje no se trata de quitarles los teléfonos, se trata de recuperar la infancia en el mundo real para todos nuestros hijos.
+Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Muchas gracias, doctor.
+—Vamos, Arturo—.
+Ahora, terminando, vamos a las preguntas.
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR: Gracias, Presidenta, secretario.
+Gracias por la oportunidad de estar aquí.
+Yo le he dedicado mi vida a la seguridad de la gente en línea, llevo más de 30 años trabajando el tema, y creo que es importante que todos podamos entender qué son las cosas en el diseño de estos productos que causan daños.
+El diseño de estas plataformas ha evolucionado a través del tiempo y ahorita está construido con 6 ingredientes, ingredientes que juntos causan adicción y uso compulsivo:
+El primer ingrediente es lo que se llama “el scroll infinito”. Imagínate el bebé que por primera vez puede mover el dedo y hacer así. Podría pasarse toda su vida hasta que se muere haciendo así y no se acaban los videos, y eso puede ser un millón de bebés.
+Luego, la reproducción automática de videos. Cuando nosotros entramos a cualquier lugar y hay una pantalla, pues vemos qué es lo que está pasando en la pantalla, respondemos, investigamos. Y eso está diseñado para capturar la atención, porque cada video empieza automáticamente a ser reproducido y nos captura.
+Luego, combina eso con algo que ve, qué es lo que captura nuestra atención por un momentito y dice: “ah, ok, te voy a dar más de eso”. “Ah, mira, te capturó la atención alguien con ojos azules”; en 2 minutos todos tienen ojos azules.
+Al inicio dices: “pues bueno, sería algo bueno”.
+Pero qué tal cuando eres una niña y estás viendo y te captura por un momento una persona que está flaca, en mal plan, o sea, que uno se preocupa de su bienestar y dices: “¡Ay!”; en minutos eso, el algoritmo de recomendaciones, lo transforma en recomendaciones de otras gentes, de comida, de recetas de perder peso, y genera un bombardeo, un bombardeo que le enseña a la gente joven que hay que dejar de comer.
+Yo he hablado con gente joven que ha sobrevivido a anorexia y a esos temas, y me platican: “me levantaba en la mañana, abría Instagram y veía una foto de una ensalada y yo escogí ese día no comer”.
+Los algoritmos enseñan, las recomendaciones enseñan.
+Y luego, si tienen la capacidad de bajar el teléfono y alejarse, las notificaciones: “oye, hay algo por ahí que tienes que saber, no te voy a decir qué, tienes que ir a ver”.
+Y quién como gente joven, inclusive nosotros como adultos, tiene la capacidad de que si nos tocan así constantemente: “oye, ve esto”, “oye, ve lo otro”.
+Cientos de veces al día, hay niños que cientos y cientos de veces están levantando el teléfono para ver si entran notificaciones, porque esas notificaciones van contra nuestra vulnerabilidad cuando nos estamos desarrollando, de mandarnos.
+Y eso combina, otra vez. Imagínate que cuando vas a la escuela te dan una cachucha con un número y esa cachucha dice qué tan popular eres. Y todos tienen la cachucha y tú ves que alguien que tiene la cachucha, que está muy flaco, lo que sea, dices: “bueno, lo que yo tengo que hacer es dejar de comer para que mi popularidad suba”.
+Esas cosas a la gente joven nunca se las daría, ¿no?
+Y todo eso lo combinas en lo que es la presión social de estar ahí: “todo el mundo está en Instagram ¿cómo no voy a estar yo?”
+¿Por qué las gentes, los niños chiquitos están preguntando a los papás o la mamá: “oye, mamá, ¿cuándo puedo tener mi cuenta en Insta?, ¿cuándo puedo tener mi cuenta en Snapchat?” Porque todo el mundo está ahí. Pero no está ahí para el bien, es un enganche más que nos jala a un producto que en cada faceta está diseñado para capturar, exprimir y vender nuestra atención.
+Ahora, este es un estudio de los que estaba hablando Jonathan Haidt, este yo lo supervisé. Yo regresé a Instagram después de unos años, hicimos un estudio de 240 mil gentes y se les hicieron preguntas como: “oye, ¿has recibido acoso sexual?”, “¿te hemos enseñado algo que te haga sentir mal de tu cuerpo?”, “¿has visto contenido que recomendara suicidio o autolesiones en los últimos siete días?”.
+Entonces, de aquí a “La mañanera”, en una semana, 1 en 5 adolescentes van a recibir contenido que les hace sentir el mal de su cuerpo, a unos más de 10 veces, más de 100 veces, 1 en 8.
+Imagínate que es a nuestros hijos a los que les está pasando esto, un acoso sexual más de una vez, 98 por ciento de las veces de una persona desconocida.
+1 en 11, contenido que tiene que ver con autolesiones y suicidios más de una vez de aquí en una semana.
+Y estas son cuestiones de diseño, esto es un algoritmo que captura la atención. Y mientras más tiempo pasas ahí, más daños te causa.
+Estos productos, las redes sociales como las conocemos hoy, están construidas en dos partes:
+Una parte es captar la atención el mayor tiempo posible, el uso compulsivo.
+Y la segunda parte es generar conexiones con desconocidos.
+Y estas son dos cosas que una madre o un padre nunca les daría a sus hijos.
+Ahora, ¿cuál es la respuesta de la industria en estos temas? Niegan adicción.
+En el caso de Los Ángeles, en el cual yo estuve, le preguntaron a la persona que está a cargo de Instagram: “oye, esta niña que ha tenido problemas de cuerpo, problemas de otros temas, 16 horas en un día”.
+El ejecutivo contesta: “no, eso no es adicción, eso es elección personal”.
+Dicen: “es la responsabilidad de los padres hacer que estas cosas sean seguras”.
+Pero no es cierto, cuando uno compra un juguete para un niño, uno tiene que tener la confianza que el juguete es seguro.
+Cuando uno compra un coche para un adolescente o le pasa el coche que uno tiene, el diseño del coche no es la responsabilidad de los padres; uno no debería tener que estar en el coche todo el tiempo para ver que funcionara, las madres que trabajan, los padres que trabajan, no tenemos el tiempo para hacer eso.
+Y luego la compañía dice: “tenemos herramientas que demuestran que está seguro el producto”.
+Yo, con ayuda de universidades en Estados Unidos, he estudiado esas herramientas.
+Te prometen: “no vas a poder buscar contenido de flaquez y de cosas”.
+Y si las empiezas a buscar en español, te recomienda. “Quiero ser flaca”, y ves, y te recomienda contenido, ensaladas, todo, y luego te empieza a bombardear con eso. Es el diseño de los problemas que causan eso.
+Entonces, ¿a dónde acabamos? Al gobierno le corresponde proteger.
+Cuando una compañía como el tabaco, como el alcohol o lo que sea, no está actuando en el interés de la gente joven, sabe de los daños, los niega, dice que sus productos son seguros, es la responsabilidad de tomar los pasos para proteger a nuestra gente joven a través de estudios, de los daños, a través de medidas de protección que demuestren la mejora del impacto y, sobre todo, asegurar que lo que le damos a la gente joven está diseñado para el bienestar y no para perjudicar.
+Cuando se trata de la gente joven, más vale prevenir que lamentar.
+Muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+Bueno, pues como ven, la opinión de dos grandes expertos que han estudiado el impacto que tiene —vamos a decir— el uso excesivo de las plataformas, las redes sociales, en las niñas, los niños, y las y los jóvenes.
+Y por eso esta discusión nacional, por eso “La mañanera” de los lunes la estamos dedicando a este tema, para que madres, padres de familia conozcan, niñas, niños, jóvenes, ustedes, y que se discuta qué hacer en México para proteger a las y los niños, a los adolescentes de esta adicción que provoca las redes sociales y las plataformas.
+Si tienen preguntas para los expertos… Vamos.
+—A ver, el compañero de la segunda fila—.
+PREGUNTA: Gracias, Presidenta. Carlos Padilla, de la revista Zócalo.
+Presidenta, en junio el Inegi dio a conocer su Encuesta sobre Disponibilidad y Uso de Tecnologías de la Información, donde se consigna el crecimiento de los usuarios en celulares y pantallas entre segmentos de población a partir de los 6 años y por regiones.
+Pero esa Encuesta no incluye a las infancias menores de 6 años. Y vemos que los padres entregan celulares a los niños menores de 6 años.
+Comentamos este vacío de la Encuesta a la presidenta del Inegi, Graciela Márquez, quien mostró su disposición para que en una futura evaluación —permítame— en una futura evaluación, el Inegi mida criterios estadísticos de uso para esa población menor de 6 años.
+Tal vez esto sirva y se agregue para una política pública de su gobierno, y ser tomada en cuenta, porque sabemos que los niños menores de 6 años utilizan, sus padres les dan los celulares.
+También le quiero preguntar que en la misma Encuesta sobre Disponibilidad y Uso de Tecnologías de la Información se reveló datos inquietantes para la televisión y la radio abiertas, particularmente para los medios públicos.
+Esta Encuesta reveló que, entre 2020 y 2025, 6 años, la televisión abierta y la televisión privada perdieron 10 millones de usuarios, y 4 millones la radio. Esto podría ser una llamada de atención para los medios públicos por esas caídas en las audiencias.
+Comento esto porque quizá sea conveniente aumentar, intentar incrementar las audiencias de los medios públicos.
+Y es que considero que aquí todos los días, bueno, de lunes a viernes vienen funcionarios federales a exponer las políticas públicas, pero no vemos a los directivos de los medios públicos venir a informar, por ejemplo, de su nueva programación.
+Dos veces al año los medios públicos anuncian su nueva programación, pero no vienen aquí a informarnos de cuáles son los contenidos. Y los contenidos de los medios públicos tienen una orientación muy social, muy educativa, que tal vez con esas medidas, de que vengan a informar, de su nueva programación se incrementen las audiencias porque vienen por ese contenido más social.
+Vemos, por ejemplo, los noticieros, “Punto de referencia”, un excelente noticiero que se transmite en los canales públicos; Canal 14, que las entrevistas que conduce Jenaro Villamil también son muy importantes.
+Y, bueno, pues es una sugerencia que hacemos, ojalá vengan esos funcionarios a decirnos su nueva programación.
+Y por último… Bueno, pues es eso. No sé si tenga algún comentario.
+Tengo otra pregunta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —No sé si quieran comentar algo de los niños más pequeñitos, de cero a 6 años. Jonathan, si pudieras comentar algo del impacto en niños de cero…—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA) (Interpretación del inglés al español): Sí, es la generación ansiosa, me enfoco en la adolescencia...
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —A ver, no se escucha, un momento, por favor—.
+—A ver si la traductora puede venir aquí adelante, por favor, porque no se alcanza a escuchar bien. Muy relevante para que no quede…—.
+INTERVENCIÓN TRADUCTORA: Buenos días.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Buenos días.
+—Yo creo que, si usa el otro micrófono, Belmont…—.
+INTERVENCIÓN TRADUCTORA: —¿Para dónde?—
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Te damos otro micrófono para que…—
+INTERVENCIÓN TRADUCTORA: —¿Aquí?—
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —para que se pueda escuchar mejor—.
+—Adelante, Jonathan. Jonathan—.
+INTERVENCIÓN TRADUCTORA: Profesor, Jonathan. Can you hear me, professor?
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA) (Interpretación del inglés al español): La pregunta es excelente.
+Cuando mi hijo tenía dos años de edad, mi esposa y yo nos dimos cuenta que si le dábamos su teléfono…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Si quieres, le damos… A ver, vamos a… —
+—Jonathan—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA) (Interpretación del inglés al español): Cuando nuestro hijo tenía dos años de edad, nos dimos cuenta que al darle el teléfono celular a él, se entretenía, quedaba absorto y ya no nos hacía caso.
+Entonces nosotros usábamos ese dispositivo para que, cuando salíamos a comer, él estuviera entretenido.
+Pero ahora sabemos que eso es algo muy peligroso, porque cuando nuestro hijo recibe una pantalla y la está tocando, está recibiendo instantáneamente dopamina, lo cual es muy dañino para su cerebro. Entonces, hemos dejado de hacerlo.
+Y ahora en los Estados Unidos lo que está ocurriendo es que el 40 por ciento de los niños menores de 2 años ya tienen una pantalla, lo cual sabemos que es algo muy dañino para ellos. Hay que hacer cambios.
+Bueno, lo que nos hemos dado cuenta, es que estas pantallas son un chupón, o un chupón digital. Por eso, no se los debemos a dar. Nuestra recomendación —tal y como su secretario lo ha dicho también— es evitar que los niños menores de 2 años reciban este acceso a las pantallas; la recomendación es que sea por lo menos a más de 6 años, y que no se convierta en este chupón…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, no dijo eso… Dijo que es un asunto de salud pública.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA) (Interpretación del inglés al español): Y tal como lo dijo su secretario, este es todo un tema de salud pública, nuestra recomendación.
+Y lo que yo hago, cada vez que tengo la oportunidad de hablar entre diferentes gobiernos, es pedirles que traten este tema como algo de salud pública.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+—¿Algo que quieras comentar?—.
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR: La efectividad de… Inclusive YouTube Kids, que es algo que se promovió a menores, durante los juicios salió que YouTube Kids estaba diseñado bajo la teoría del pasajero, que lo que estaba por diseño era enseñarle a los niños más chiquitos que estaba bien pasar todo el día viendo videos, porque saben que ese niño se va a graduar a YouTube y que va a pasar toda su vida viendo videos.
+Entonces, estas cosas, inclusive las que están diseñadas para niños, están diseñadas para explotar.
+Entonces, como papás, aunque es importante tener un poquito de tranquilidad que da la pantalla cuando uno le da a los niños. Es muy importante saber que les estamos enseñando algo que les va a hacer daño a corto y a largo plazo.
+PREGUNTA: Si me permite otra pregunta, Presidenta, paralela: las televisores públicas son instalaciones federales que cumplen con el derecho a la información, informan de manera diametralmente distinta a como lo hacen las empresas privadas, como Televisa, TV Azteca, Latinus, Imagen, MVS, quienes desinforman o mienten a sus audiencias la mayoría de las veces.
+Después de más de 2 meses, por fin los trabajadores de Canal Once regresaron ayer a sus instalaciones. Ojalá su acervo de video no se haya dañado.
+Pero esa toma fue también política, porque viene a… vino a trastocar el derecho a la información de esas audiencias.
+Puede ocurrir que en otro escenario paralelo, parecido, se tome Canal Once, el Sistema Público de Radiodifusión, y México quedaría sin sus dos cadenas nacionales. Tal parece que las instalaciones federales de la televisión son vulnerables a este tipo de presiones.
+Quisiera su opinión al respecto, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, hace unos meses… —¿Por qué no lo platicas tú, Mario?—
+SECRETARIO DE EDUCACIÓN PÚBLICA, MARIO DELGADO CARRILLO: Gracias, Presidenta.
+Sí, desde el 20 de mayo un grupo de jóvenes del Politécnico Nacional decidió quedarse en las instalaciones del Canal Once.
+Hicimos muchos intentos de establecer diálogo con ellos, cuál era su pliego petitorio. Se negaron durante mucho tiempo a tener diálogo.
+Finalmente, iniciamos mesas de trabajo, encabezadas por el subsecretario Ricardo Villanueva y las autoridades del Politécnico, para ir analizando su pliego petitorio, pero ningún punto tiene que ver con el Canal Once.
+Entonces, desde un principio les pedimos que se devolvieran las instalaciones del Canal Once, porque hay mucha tecnología, aparatos y, sobre todo, la videoteca histórica del Canal Once, con más de 70 años de contenidos ahí resguardados que deben de estar bajo ciertas condiciones, y ya empezaba a preocupar mucho el estado de ese archivo y de todas las instalaciones del Canal Once.
+De manera reiterada se negaron, se negaron a tener… a que nos dieran acceso al Canal Once.
+Los trabajadores del Canal Once también tienen derecho a estar en sus instalaciones y decidieron el día de ayer organizarse para, de manera pacífica, encabezados por la directora del Canal, por Renata, y tomaron pacíficamente el Canal.
+Había 6 jóvenes nada más. Se les invitó a salir. Ellos, pues ya están afuera, se tomó el control de las puertas. Y se llamó al Ministerio Público y a un notario público para certificar las condiciones en las que están las instalaciones.
+Entonces, se va a hacer una evaluación por parte de las autoridades correspondientes.
+Desafortunadamente, a simple vista, sí hay daños al archivo, hay material roto, desordenado, en el piso, pero, bueno, vamos a esperar qué tan graves son esos daños.
+Y vamos —les dijimos a los jóvenes— vamos a continuar con las mesas de diálogo, pero no es posible que un canal que le pertenece al pueblo de México hubiera seguido secuestrado por un grupo de jóvenes.
+PREGUNTA: ¿Daño solo en el material audiovisual?
+SECRETARIO DE EDUCACIÓN PÚBLICA, MARIO DELGADO CARRILLO: De la primera revisión que se hizo del archivo, sí hay material roto, en el suelo, todo desordenado. No sabemos qué tan grave es todavía el daño que se hizo al archivo histórico del Canal Once
+PREGUNTA: Gracias. Presidenta, por último, si me permite…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sobre esto…
+PREGUNTA: Perdón.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Aquí presentamos en alguna ocasión cómo estos jóvenes recibían recursos, dinero, de… no sabemos, de acuerdo con las investigaciones que pudiera tener la Fiscalía, quién les daba dinero para estar ahí.
+Entonces, no tiene lógica que un movimiento estudiantil que solicita mejoras en el Politécnico tome Canal Once por tanto tiempo. Al final quedaban 6 estudiantes o 6 jóvenes que tenían tomadas las instalaciones, cuando su objetivo, en realidad, era evitar que Canal Once pudiera transmitir.
+Afortunadamente, Canal Once nunca dejó de transmitir, se le prestaron las instalaciones de Educar —es, ¿no?—, Aprende, de la Secretaría de Educación Pública, y nunca dejó de transmitir, continuó su transmisión.
+Y a partir de hoy se va a hacer un levantamiento de cuáles son las afectaciones.
+¿Qué sentido tiene que hubieran afectado el material videográfico de Canal Once?
+Entonces, afortunadamente ya se retoma la transmisión de Canal Once desde sus propias instalaciones. Y se va a hacer un análisis del inventario de qué ocurrió en esta toma. Y hay también carpetas de investigación sobre este tema, sobre todo, si dañaron patrimonio de la nación.
+Quisiera… ¿Por qué no nos concentramos en plataformas, en el tema de los expertos que están aquí con nosotros, terminamos esto y después abrimos para otros temas, si les parece? ¿Sí? Bueno.
+¿O quieres hacer tu pregunta y le dejamos para al rato?
+PREGUNTA: Sí, si me permite, porque tiene relación: en los últimos… Acerca del tema de los lineamientos que dio a conocer la Comisión Reguladora de Telecomunicaciones, los empresarios y sus empleados insisten en que “hay censura” en esta consulta que convocó la Comisión para definir el contenido de los lineamientos de las defensorías de las audiencias.
+Tal vez sería necesario que algunos miembros de esa Comisión vengan para explicar de que no se trata de censura, se trata de derechos humanos.
+Nada más, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Si quieren, después tocamos el tema de las audiencias. Y vamos sobre plataformas para...
+—A ver la compañera allá atrás. Sí—.
+PREGUNTA: ¿Qué tal? Muy buenos días. Bertha Alicia Galindo, Alcanzando el conocimiento, Canal 13 y Luces Mañaneras.
+Bueno, yo quisiera preguntarle, Presidenta. Me parece muy interesante que tomen este camino de concientizar. Usted lo ha dicho ya desde un principio, “lo importante es hacer conciencia”.
+Pero, ¿qué va a pasar como política pública? Quisiera también preguntarle al secretario de Educación Pública: ¿qué política pública van a emplear? Porque —como ya lo dijeron los expertos— es un asunto en donde están hechos los algoritmos así y el consumo de estos algoritmos está en el mercado.
+Entonces, si ¿la Secretaría de Educación Pública va a prohibir o va a decirle a todos los maestros de todo el país que los alumnos no pueden usar los teléfonos desde que entran a clase hasta el final? Lo que me parece muy bueno, sobre todo en educación básica, está muy bien.
+Pero ¿qué pasa también cuando los chicos van a llegar a casa, cuando muchas madres ocupan a veces los teléfonos como niñeras?
+En reciente entrevista con Noemí Juárez sobre este tema, en Alcanzado el conocimiento, justamente nos hablaba de eso, de los mil días y la preocupación.
+Y me puse a buscar en los supermercados, en el fin de semana, y encontré a muchos bebés que tienen los teléfonos.
+¿Qué va a pasar con todo eso?
+¿Y qué le van a pedir también a los desarrolladores, a todas estas empresas que ya están? Porque, al igual que con los productos chatarra, los refrescos, las papitas, pues es un asunto como de todos, ¿no?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: La idea es poder tener en agosto, continuar con esta discusión y debate público, y conocimiento por parte de madres y padres de familia de los impactos que tiene el uso de las plataformas desde los bebés hasta los jóvenes.
+Eso es lo primero, hacer conciencia, reconocer, porque difícilmente podemos estar vinculados en una casa con una persona diciéndole: “no puedes hacer esto”.
+Entonces, tiene que haber conciencia de madres y padres de familia para evitar que los bebés desde muy temprana edad estén con el teléfono celular viendo.
+Porque como decía el doctor Jonathan, pues a lo mejor te pacifica al bebé porque deja de llorar porque está viendo la pantalla, y para los madres y padres es una herramienta muy sencilla decir: “a ver, toma el celular en lo que yo estoy haciendo esta actividad”. Pero eso puede tener un impacto a largo plazo en las niñas y en los niños, en el crecimiento de esa persona.
+Entonces, lo primero es conocer qué dicen los expertos sobre el uso, qué ha pasado en otros países sobre la regulación.
+Y hacia finales de agosto nuestro objetivo es presentar una propuesta a partir de los foros que se están haciendo en distintos lugares del país, por lo pronto para las escuelas y después seguir debatiendo para ver si regulamos y cómo regulamos las plataformas digitales, o cómo evitamos que las niñas y los niños puedan acceder a este uso infinito del scrolling o de distintas formas, que lo que hacen es generar adicción y problemas en el crecimiento.
+Pero no queremos, desde mi perspectiva…. No es un asunto solo de la Presidenta. No es mi opinión a partir de leer los documentos de los distintos expertos o los libros, sino tiene que ser algo colectivo en la medida de lo posible.
+Habrá quien no esté de acuerdo, pero el objetivo es que se haga una discusión nacional sobre este tema y que haya conciencia de los impactos que puede tener.
+Porque en la casa son madres y padres de familia, o quienes cuidan a las niñas y los niños, quienes deberían decir: “bueno, puedes usar el teléfono cierto tiempo”, por ejemplo.
+Entonces, tanto como recomendaciones como regulaciones que permitan proteger a la niñez y a la juventud.
+Y también que lo conozcan los jóvenes, para que no sientan que es una imposición, sino que ellos mismos conozcan cuál es el impacto del uso excesivo de las plataformas digitales en su crecimiento y su comportamiento.
+PREGUNTA: Y aquí preguntarle a los expertos: ¿qué es lo que ha pasado en el caso, por ejemplo, ya de los jóvenes en Estados Unidos y también en este uso que, pues es que ya los teléfonos se usan también para pasar información, trabajos. Porque luego a partir de los 15 años te dicen: “bueno ¿cómo me voy a quedar sin teléfono si aquí me dejan las tareas?”.
+Y entonces se va haciendo un uso consciente. Se ponen a hacer una tarea que les puede llevar una hora, pero la terminan en 3 horas porque estuvieron scrolleando.
+Entonces, si pudiera preguntarle a los expertos si ¿han tenido una respuesta o tienen alguna observación respecto a eso?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Jonathan, doctor Haidt—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA): (Inaudible)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Adelante—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT (ENLACE VIDEOLLAMADA) (Interpretación del inglés al español): (Inaudible) los países democráticos es cambiar las normas sociales...
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT: Lo que tenemos que hacer ahora es cambiar las normas sociales y en una democracia es difícil hacer eso.
+Entonces, yo creo que la Presidenta Sheinbaum está haciéndolo perfectamente. Hay que comenzar con discusión, hay que comenzar con policías que dicen al mundo que “esta práctica no está bien” y el mejor lugar para empezar es en las escuelas. Y eso manda la idea de que hay un problema aquí.
+Entonces, sí, los niños van a usar sus teléfonos después de la escuela en este año, pero en esas policías comienza el cambio grande de las normas, es difícil cambiar normas, pero yo creo que la Presidenta Sheinbaum está haciéndolo de una manera muy sensible.
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR: Lo que todas las madres y todos los padres deberían saber, que yo quisiera haber sabido cuando mi hija tenía 14 años y me estaba pidiendo entrar a Instagram, es la conciencia de que está diseñado para crear uso compulsivo, que va a haber daños que van a vivir. Es la realidad que están viviendo ellos ahorita.
+Y el primer paso es generar conciencia, saber que se pueden tener esas conversaciones.
+Saber que, lo mismo, cuando el niño chiquito está tranquilo con la pantalla, que eso no es lo mejor para ellos, y empezar el trabajo de la conciencia.
+Solamente como una sociedad que combina conciencia de los padres, regulación, que hace cambie el comportamiento de las plataformas, con los maestros, con la gente joven. Que, yo he hablado mucho con gente joven, y ellos saben y están conscientes de los daños, de cómo se sienten después de estar 2 o 3 horas dándole vueltas a los videos; y el primer paso es una conciencia.
+Pero yo sí le diría a los padres: sepan que eso está pasando. No hagan sentirse mal a los hijos, porque eso… sino trabajen con ellos de límites, de horas, de lo que pueden ahorita. Pero también sabe que el diseño ahorita es un proceso de pelea y de contención.
+Que las plataformas están diseñadas para que el niño diga: “oye, es que tengo que hacer mi tarea, es que tengo que hablar con mis amigos”. Y ese es un argumento que como padre o como madre es muy difícil.
+Y hay que encontrar las maneras de decir: “Ok, cambia la tarea, cambia el mensaje, pero no tiempo en redes sociales”.
+PREGUNTA: Gracias, muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: En muchos lugares del mundo la entrada de la digitalización generó un esquema de uso de los dispositivos digitales para enviar tareas, para enviar las calificaciones, para enseñar, en fin, distintos mecanismos.
+Obviamente no se trata de prohibir todo, ¿verdad?, porque también el uso del teléfono celular es muy benéfico para muchos temas.
+El problema de lo que estamos hablando es esencialmente: las redes sociales, que han generado un esquema de adicción, porque están diseñadas de esa forma, porque el objetivo es seguir vendiendo, porque finalmente son empresas privadas.
+¿Hay contenidos educativos en las redes? Sí, hay muchos contenidos educativos en las redes. El problema, son mecanismos que hacen o que generan adicción.
+Por eso no es tan sencillo la regulación, decir “no” o “sí”, sino —desde mi perspectiva— regular en las escuelas, pero eso tenemos que definirlo en estos días.
+Colectivamente hay 15 estados de la República que ya lo tienen, hay muchas escuelas que ya lo tienen por una definición de los propios directores o maestros, y tiene que ser una definición colectiva y seguir discutiendo cómo hacer uso.
+Muchos de estos países que dijeron “hay que entrar a la modernidad y hay que usar todo lo digital para enseñar”, ahora están regresando, a regresar a escribir en papel, porque escribir en papel te genera un desarrollo cognitivo completamente distinto al estar solamente tecleando en la pantalla.
+O a leer, a tomar un libro y leer nuevamente y discutir sobre la lectura, en vez de enviar un video para poder aprender, que pudiera parecer un esquema muy ágil de aprendizaje, pero que no necesariamente desarrolla las neuronas y todo lo que tiene que ver con el desarrollo del conocimiento y el cerebro, como leer un libro.
+Entonces, todo esto que está ocurriendo en el mundo, México no puede hacerse a un lado y decir: “bueno, pues no, porque no vaya a ser que alguien diga que estamos prohibiendo”. No.
+Es una discusión colectiva: madres, padres de familia, jóvenes, niñas y niños, porque también tienen conciencia de, también, los efectos que está teniendo el uso excesivo de las plataformas en su vida: depresión, ansiedad, en fin, todo esto que está provocando en el desarrollo de los jóvenes.
+Hay mucha discusión, incluso, de qué pasó en la pandemia, porque la pandemia en algunos casos fue un año o fueron dos años de encierro y el único contacto con la sociedad fueron la familia y las pantallas.
+Y entonces hay discusión de, bueno, si hubo disminución del aprendizaje porque no iban a la escuela, pero también hay estudios que dicen qué pasó con estos niños que durante un año su relación con el mundo fue a través de la pantalla”, y todo lo nuevo que está ocurriendo a través de las redes sociales.
+Entonces, es muy pertinente.
+Y agradezco además la presencia de los expertos. Llevamos ya 3 semanas con este tema.
+Y lo que queremos es que en la mesa, cuando se siente a comer la familia, en la cena, cuando se sienten con los hijos, cuando van por los niños a la escuela, cuando regresan, entre ellos, entre mamás, papás, hermanas, hermanos, se hable de esto: cuántas horas al día está el joven con el teléfono, qué impactos tienen, qué se aprende, qué ven. Es indispensable que esto lo hablemos entre todas y entre todos.
+Y entre todas y todos también tomemos conciencia de los impactos que está teniendo en una juventud que después serán los gobernantes del futuro.
+PREGUNTA: Gracias. Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Bueno, vamos de este lado. A ver, la compañera—.
+PREGUNTA: Gracias, Presidenta. Muy buenos días a todas, a todos, a todes. Liliana Noble, de Pulso Saludable.
+El lunes pasado, el secretario de Educación Pública, Mario Delgado, nos relataba de la forma en la que usted cuando se va a las giras le pregunta a las niñas, a los niños: “¿quiénes tienen equipos celulares?”.
+Y yo le quisiera preguntar, Presidenta, si en estas conversaciones breves que ha tenido con las y los niños, y los jóvenes tal vez, les ha preguntado: ¿cuáles son las causas, las motivaciones que ellos tienen que los hace estar tanto tiempo viendo las redes sociales?, ¿les ha preguntado esto, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es que ese es el tema que estamos discutiendo hoy. No es una decisión del niño o la niña, sino es el diseño de las plataformas que genera adicción, y esa adicción genera ansiedad.
+Eso es justo lo que nos están platicando el día de hoy. Porque no es que es un niño deprimido que… puede ocurrir un caso así o que tiene problemas en la familia y que se aísla a ver su teléfono. No. El problema es que damos los teléfonos.
+En los lugares más apartados del país, las zonas que uno pudiera pensar que no hay acceso al celular, la mayoría de las niñas y los niños tienen acceso al celular.
+O sea, cuando voy a la Sierra Tarahumara, en la Sierra Tarahumara las y los niños, jóvenes, tienen un celular; no todos, obviamente, pero un porcentaje muy alto lo tiene. O lo tiene la mamá, el papá, y se lo deja a la niña o al niño.
+Entonces, parte de lo que discutimos hoy es que no solo es… Es decir, no es producto de un problema personal, es un diseño que provoca adicción. En algunos niños podrá ser más, en otros menos, evidentemente cada persona es distinta, pero es un diseño que está provocando esto.
+Entonces, hay una parte que es regulación, que tenemos que hablar de ello; y otra parte que tiene que ver con la conciencia de las y los mexicanos sobre lo que significa el uso excesivo de las redes.
+PREGUNTA: Le pregunto esto, Presidenta, porque nosotros sí lo hicimos o, bueno, yo sí lo hice, en Pulso Saludable, entrevisté a algunos niños, empecé con los más cercanos y me fui alejando.
+Algunos de los niños me comentan que uno de los intereses prioritarios que tienen, es que papá y mamá están fuera, tienen que trabajar horas largas para poder llevar el sustento a casa.
+Entonces, de pronto no tienen ahí un líder, alguien que les diga por cuánto tiempo, cuántas veces, por qué sí esto y por qué no.
+Otra de las cosas, me decían: “pues es que mi papá me compró un teléfono celular, porque hoy no puedo estar sin un teléfono celular, porque todos mis compañeros lo tienen”. Necesitan este sentido de pertenencia, que seguramente el psicólogo en Estados Unidos nos dirá más al respecto.
+Entonces, en ese sentido ustedes siempre hablan de las causas, trabajar sobre las causas.
+¿Estarían pensando en establecer cuáles serían estos motivadores que pudieran ustedes atacar a través, no solamente de los pequeños, sino también de los padres de familia?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es principalmente la información que estamos abriendo.
+Si en la escuela se permite el celular en cualquier momento y vas al recreo, en vez de que estén jugando resorte, pelota, platicando, comiendo juntos, están todos en el celular, o incluso su conversación tiene que ver sobre el celular.
+Entonces, si en la escuela evitamos este uso masivo, pues ya también va a ser las mamás y papás: “¿y por qué?”.
+Entonces, la discusión… —Por ejemplo, ¿cuántas asambleas hiciste, Julio, para la beca?—.
+TITULAR DE LA COORDINACIÓN NACIONAL DE BECAS PARA EL BIENESTAR “BENITO JUÁREZ”, JULIO LEÓN TRUJILLO: —70 mil—
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: 70 mil.
+En todas las primarias del país se hicieron asambleas y en todas las secundarias cuando dimos la beca de secundaria.
+Recuerden que, además, ahora que entremos a clase, lo anunciamos hace tiempo, lo vamos a recuperar en “La mañanera”, anunciamos este programa integral que se llama “El ABC de las emociones” para promover la salud mental, principalmente entre las y los adolescentes y los jóvenes.
+Con estas guías que se van a publicar por millones y, además, vamos a hacer nuevamente asambleas.
+Si en las asambleas en las escuelas hablamos de esto, pues entonces por lo menos las madres y padres de familia van a tener información de qué es lo que provoca el uso excesivo de las redes, y hablarlo con las y los hijos.
+PREGUNTA: Presidenta, y si me permite hacerle una pregunta al doctor Jonathan Haidt.
+A mí me gustaría si nos podría explicar, con base a los conocimientos que tiene, doctor: ¿cuál sería el tiempo ideal en horas que un niño, una niña, un joven pudiera o sería recomendable que utilice estos dispositivos? Porque tampoco los puedes aislar completamente.
+¿Y a partir de qué edad es recomendable que un niño comience a utilizar, sobre todo, en este periodo tan… tan complejo de las y de los niños, que son como esponjas y absorben todo, en qué momento sería recomendable que mamá o papá pues ya les den abiertamente un teléfono inteligente?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Adelante—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT: Puedo contestar en español.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Adelante—.
+PSICÓLOGO SOCIAL Y PROFESOR DE LIDERAZGO EN LA UNIVERSIDAD DE NUEVA YORK, JONATHAN HAIDT: La edad correcta para dar un teléfono inteligente es la edad en que usted quiere que sus niños paran de leer libros.
+Cuando da un teléfono inteligente, este va a mover al centro de su vida y ellos van a descansar menos, leer menos, ver amigos menos.
+Pero quiero que ustedes no piensen solamente en horas en la pantalla. Algunos usos de pantalla son buenos, las historias son buenas si sus niños quieren ver una película, una película de una hora, hora y media, este es bueno, no hay un problema con películas, hay que prestar atención por 90 minutos.
+Lo que es terrible, lo que hay que hacer cero, es los videos cortos: TikTok, Instagram Reels, este: cero, por toda la juventud, esto es horrible; por adultos también, pero no voy a decir a los adultos que no pueden ver TikTok.
+Por eso yo digo que lo más importante es decir algunas cosas: pornografía, 18 o 21; social media, a 16. Antes de esto, yo creo que la correcta, la cantidad correcta es cero de Instagram, TikTok y esas cosas.
+PREGUNTA: Y finalmente, Presidenta, la semana pasada también hablaban de este proceso de plasticidad cerebral, que es más determinante en estas edades de las y los niños.
+Los creadores de las plataformas digitales no fueron… fueron muy hábiles —iba a decir una palabra, pero mejor… — fueron muy hábiles: sus hijos —y seguramente lo sabe el experto— no ven redes sociales, no tienen acceso ni siquiera a tabletas ni a teléfonos, saben perfectamente bien lo que hicieron.
+En ese sentido, yo quisiera preguntarle, Presidenta: ¿qué se podría hacer también para generar esta conciencia?
+Hoy hay niños que son tiktokeros y ganan muchísimo dinero, youtuberos, facebookeros. Y esa es su idea de la vida ¿no?: “yo quiero ser en el futuro youtubero como…” o “facebookero como…” porque saben que hay mucha retribución económica.
+¿Se estaría pensando en este esquema de poder sanar y regresar al aprendizaje empírico y no tan tecnológico?
+¿Se estaría pensando también en regular a estas niñas y niños mexicanos que son muy talentosos, que ganan mucho dinero, pero que de alguna manera también influyen en la decisión de estar viendo estas redes sociales de las niñas y los niños mexicanos?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No tengo yo una opinión acabada.
+Yo creo que en las escuelas sí hay que tener una decisión muy clara, y ya han avanzado muchos estados de la República. Es el espacio público por excelencia la educación, la escuela, evidentemente el espacio público es la calle, pero donde el objetivo es aprender y socializar es la escuela.
+Y ahí, el Estado tiene una responsabilidad con las escuelas públicas, evidentemente, y también en la regulación de las escuelas particulares y ahí creo que hay más consenso en el país, de cómo evitar el uso de los celulares en las escuelas.
+Ese, digamos, es un primer paso.
+Lo que sigue, ya la regulación de las redes sociales, cómo hacerlo, me parece que es algo que tenemos que discutir entre todos; para que no se vea como que el gobierno está prohibiendo de tajo algo, sino una discusión colectiva sobre un tema que nos incumbe a todas y a todos, y que tiene que ver con la regulación a empresas.
+Aquí lo decía Arturo, regulamos que no se puede anunciar el tabaco, que no se puede anunciar la comida chatarra; regulamos el uso del alcohol a través de impuestos.
+En las escuelas ahora está regulado que no se pueda vender comida chatarra y el exceso de azúcares, porque se ha comprobado científicamente que tiene un impacto en la salud de las niñas y los niños.
+Pero quedémonos con el cigarro, ya tiene muchos años que en México se decidió regular que no se fume en los restaurantes, que no se anuncie, en fin, todo lo que es relacionado con el uso del tabaco, porque se conoció que tenía impactos en la salud; e incluso que en el desarrollo del cigarro o del tabaco, del cigarro como se vende, pues también hay adicción. Hay incluso películas relacionadas con esto.
+Hoy nos estamos enfrentando a algo similar: empresas, muy poquitas en el mundo, a nivel global que generaron las redes sociales, que tienen cosas muy buenas, contactaron familias —yo hablo con mi nieto por el WhatsApp— tienen cosas que nos permiten estar en contacto.
+Pero hay otras que tienen que ver con esta adicción que se promueve, que tenemos que conocer todos y tenemos que decidir conjuntamente qué hacemos con esto que puede dañar el desarrollo no solamente de las niñas y los niños, sino del país a futuro.
+—No sé si quieras comentar algo, Arturo—.
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR: La gente que lleva estas compañías sabe, y sus hijos tienen sus propias escuelas, no tienen acceso a este tipo de pantallas y están conscientes de los daños, ellos saben de los daños que el mundo está viviendo.
+Parte de la importancia de esta discusión y del trabajo es separar los usos necesarios y buenos, poder contactar con padres o familia, la gente que conocemos generalmente de —sobre todo, con gente joven— la conexión con desconocidos. Si quitas la conexión con desconocidos, es un mundo completamente diferente.
+Si tomas algo —como estaba diciendo Jonathan muy bien— como una película, un programa largo que educa, que captura la atención y todo eso, ese es un buen uso de una pantalla.
+Los videos enajenantes uno tras otro tras otro es ahorita el equivalente a poner en cualquier lugar del mundo una cantidad infinita de cigarros. Y pues tanto puedan fumar, podrán hacer.
+Pero la regulación funciona, la regulación hace difícil que se puedan comprar. Se anuncian, hay conciencia de los daños de los cigarros, a través del tiempo hace muchísima diferencia.
+Y este es el proceso que tenemos que hacer ahorita en el cual, si quitas el aspecto adictivo, las cosas de las que estamos hablando, y tienes un medio con el cual puedes comunicarte con familia que no está diseñado para capturar tu atención y el uso compulsivo, es un mundo completamente diferente.
+Idealmente a través del tiempo y el trabajo del gobierno, y de los padres y las madres de familia, podemos tomar ese camino en el cual tomamos control del rol que tienen esas tecnologías en nuestra vida y la de nuestros hijos.
+PREGUNTA: Gracias.Y, finalmente, Presidenta…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Y hay mucha regulación:
+Hay países que han optado por que los jóvenes no puedan tener cuenta hasta después de los 16 años.
+Hay países que han optado por regular el scrolling infinito.
+Hay otros países que han optado por otro tipo de regulaciones.
+Por eso, es importante que conozcamos qué es lo que ha habido y que tomemos una decisión en México de hacia dónde nos orientamos.
+PREGUNTA: Presidenta, y, finalmente, estos foros, ¿las personas tendríamos acceso a estos foros de debate?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí. —¿Por qué no platicas de los foros?—.
+PREGUNTA: No sé si ¿nos podían compartir fechas, lugares, etcétera?
+¿Y cuándo es el deadline? ¿Cuándo van a tomar esta decisión de qué es lo que se va a hacer?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Adelante, Ricardo—.
+SUBSECRETARIO DE EDUCACIÓN SUPERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA (SEP), RICARDO VILLANUEVA LOMELÍ: Sí, Presidenta.
+Bueno, el siguiente foro ya lo tenemos el 20 de agosto, vamos a estar en Nuevo León, es el siguiente foro con toda la región del noroeste.
+Vamos a Oaxaca, vamos a tener otro foro en Oaxaca.
+Y, efectivamente, aunque el foro está convocado con académicos, digamos que es en universidades, invitamos a todas las comunidades universitarias, a que expertos, como lo estamos haciendo aquí en “La mañanera”, platiquen y se abra el debate a comunidades universitarias, pero evidentemente está abierto para todos.
+Yo, en estos foros, he platicado con muchísimos padres de familia que asisten y que terminando las conferencias, a veces me quieren agarrar a mí como experto, y les digo: “no, yo no soy el experto, permítanme”.
+Pero está abierto, son transmitidos todos.
+Tenemos algunas dinámicas de participación donde el público contesta preguntas. Es un foro interactivo, digamos, los que tratamos de hacer para que el público que asiste también conteste preguntas y eso nos está dando insumos que al final vamos a tratar de —como lo dijimos con la Unesco— de hacer un documento de toda la información que hemos venido recabando; o sea, digamos, también estamos haciendo estudios cualitativos a partir de estos foros.
+Pero también la Presidenta nos pidió —y estamos trabajando— ver cómo tener encuentros con padres de familia en las escuelas y ahí ya, con la subsecretaria de Educación Básica y de Media Superior, estamos haciendo un plan para no solo tener foros con expertos, digamos, sino también interactuar con padres de familia, y eso ya… La idea es tener foros más masivos y una comunicación más directa con los padres e irnos acercando en las escuelas a un diálogo de la comunidad, con la propia comunidad.
+Nosotros hemos invitado a las universidades a que estos foros que estamos haciendo por región lo hagan ellos mismos con sus propios académicos e inviten… que no sean foros nada más los que organizamos desde la SEP, sino que todas las escuelas abran estos debates a sus comunidades.
+Entonces, ya les estaremos informando las fechas con padres de familia. Estamos ya haciendo un diseño para anunciar estos debates.
+Queremos ir a dialogar con los padres de familia y ahí ya estoy en comunicación con la subsecretaria de Educación Básica y de Media Superior para ver no solo en universidades, sino en escuelas primarias, secundarias y preparatorias, podamos tener encuentros convocados por cada autoridad.
+Entonces, ya les estaremos informando de eso.
+PREGUNTA: ¿Y hay una fecha en donde se termine todo, ya tengan el compendio y tomar la decisión?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A ver, la idea es que para este ciclo escolar podamos hacer un planteamiento para el nuevo ciclo escolar en las escuelas y sigamos con foros abiertos. Ahora es con académicos, pero les he pedido que abramos.
+En las asambleas de “El ABC de las emociones” vamos a hablar de redes sociales, y que esas son en las escuelas, en todas las… es principalmente 3º de secundaria y educación media superior, pero podemos abrirlo a primarias y secundarias.
+Y foros más colectivos donde cualquier persona pueda participar también los estamos planteando.
+Entonces, para escuelas: la idea es que podamos tomar una decisión este mismo mes, hacia finales de agosto, para el inicio del ciclo escolar.
+Y sobre otras regulaciones mantener la discusión.
+PREGUNTA: ¿Entonces, se implementará…?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Y también está el tema de la Inteligencia Artificial, que también es un tema adicional que estamos discutiendo.
+PREGUNTA: ¿Entonces, se implementaría ya para este inicio de ciclo en septiembre?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ese es el objetivo, y poder hablarlo con las maestras, los maestros, para que podamos ya ir avanzando en algo que ya es prácticamente un consenso, 70 por ciento de madres y padres de familia en el país están de acuerdo en que no se utilicen los celulares durante todo el tiempo de la escuela.
+PREGUNTA: Pues qué bueno, Presidenta, felicidades por esto.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+—Bueno, vamos sobre esto. Ya son 9:10, yo creo que vamos a tomar dos preguntas más—.
+Mañana vamos a hablar de dos temas:
+1. Sobre las audiencias. Si quieren, mañana tocamos ese tema. Va a venir Luisa María Alcalde.
+Y Raquel Buenrostro viene a platicar —era para el viernes, pero ya no pudimos hacerlo— sobre el tema de la transparencia, un Decreto que voy a emitir y un planteamiento también para que sea parte de la ley.
+El objetivo es que solo aquello que realmente es de seguridad nacional o que esté en proceso judicial no pueda darse a conocer; pero las plataformas de transparencia tienen que garantizar el acceso de todos los datos del gobierno, obviamente, resguardando los datos personales.
+Bueno, pero de eso ya hablamos mañana.
+—Vamos. A ver, acá, y luego allá el compañero, y cerramos—.
+PREGUNTA: Gracias, Presidenta. Buenos días. Karina Vargas, de Reporte Índigo.
+Sobre este tema, saber si ¿ya ha habido diálogo con las plataformas digitales para que se implementen medidas o campañas para alertar justo sobre estos temas que han presentado?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Hemos hablado sobre varios temas, se tiene una comunicación permanente en el área de Seguridad de la Secretaría de Seguridad y Protección Ciudadana de páginas o espacios en donde claramente hay algún anuncio de la delincuencia organizada vinculado con la atracción de jóvenes a estos grupos.
+Esas… Hay un diálogo permanente para que todas esas páginas se bajen de inmediato, o esas redes.
+Hay diálogo en relación a la violencia contra las mujeres. Aquí incluso lo presentamos, de que haya un código en donde la violencia contra las mujeres no sea expuesta en las plataformas.
+Y Pepe Merino tiene el área de la Agencia Digital, tiene muchísima colaboración con las plataformas.
+Sobre este tema en particular, no hemos abierto un diálogo directo; queremos que sea parte del diálogo nacional que se establezca.
+PREGUNTA: Gracias.
+¿Habría la posibilidad de que se firme algún convenio, como ocurrió justo con la atención a la violencia digital?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pues hay que seguir platicando para ver qué regulamos, qué no regulamos. Por lo pronto, vamos a las escuelas y luego ya abrimos otros espacios.
+PREGUNTA: Gracias, Presidenta.
+¿Se tiene previsto el despliegue de personal de salud mental para atender aquellos casos donde ya hay alguna adicción o algún trastorno por este uso prolongado de las redes sociales?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Recuerden que tenemos el programa de “El ABC de las emociones”, es un programa muy intensivo, son… —¿Por qué no platicas cuántos millones de guías vamos a sacar para padres de familia, padres y madres de familia, para maestros y maestras, e incluso para las y los jóvenes, la Línea de la Vida, pláticas, etcétera? Adelante—.
+SECRETARIO DE EDUCACIÓN PÚBLICA, MARIO DELGADO CARRILLO: Con su permiso, Presidenta.
+Sí, informamos aquí sobre la estrategia que nos pidió la Presidenta, integral, “El ABC de las emociones”. Gran parte ocurre en las escuelas. Se ha diseñado material para los padres de familia y madres de familia, para las y los jóvenes y para los maestros.
+Y lo mismo como se hizo en el tema de las adicciones, lo vamos a iniciar en este ciclo escolar. Que los maestros hablen del tema de las emociones en clase, que los jóvenes tengan la información con estas guías, pero también los padres y madres de familia.
+Tenemos más de 15 millones de guías que van a ser para padres, madres, jóvenes y maestros. Son diferentes los contenidos.
+Y nos ha pedido la Presidenta que se hagan asambleas para que se hable de esto en todas las escuelas.
+Es una estrategia integral.
+Tenemos el acompañamiento también de la Secretaría de Salud con la Línea de la Vida.
+Y esto tiene que ser visible, ¿no? Es un problema que tenemos de salud mental en las y los jóvenes, y no podemos ser omisos o hacer como que no pasa nada, es un problema que está ahí. Lo primero es empezar a hablarlo y dar información.
+Es parte de la estrategia integral que se tiene que arrancará a partir del siguiente ciclo escolar.
+Ya están en imprenta, Presidenta, las guías están y están a punto, ya, de entregarnos para iniciar la distribución en todas las secundarias y preparatorias del país.
+PREGUNTA: Gracias. ¿Hay algún número de especialistas designados para atender estos temas en particular?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Si quieren, presentamos nuevamente “El ABC de las emociones”, ahora que ya va a iniciar, lo traemos a “La mañanera” a todas y a todos para que volvamos a informar qué es lo que vamos a hacer.
+PREGUNTA: Gracias.
+Y preguntarle a los especialistas, ¿cuáles son los elementos que son imprescindibles que deben de incluirse en esta iniciativa que se va a presentar al Congreso?
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR: Yo creo que las áreas más importantes de atacar son:
+El diseño adictivo compulsivo, los temas que tocamos.
+Los daños directos, o sea, los acosos, sobre todo, cuando están relacionados con la gente desconocida.
+Entonces, estas cosas se pueden atacar de diseño, un proceso de conciencia de los padres y de familia que se puedan tener guías para tomar en la escena.
+Y luego también, un proceso académico de continuar el estudio y el aprendizaje acerca de, conforme avanzan estos temas de tecnología, cómo podemos saber de los daños por adelantado para poder estar adelante de ellos en lugar de tener que responder, ya que son parte del mundo.
+PREGUNTA: Gracias.
+Finalmente, Presidenta, sobre temas de educación: durante su gira en Oaxaca abordó, con la representación de la sección estatal de la CNTE, recibirles aquí en los próximos días.
+Saber ¿qué fue lo que consideró para abrir nuevamente este canal de diálogo y qué es lo que espera su administración de lo que pueda negociar?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Vamos a hablar sobre los acuerdos que se tomaron con la secretaria de Gobernación y el secretario de Educación con la Sección 22, ese es el tema que vamos a tocar.
+No es, digamos, con “la CNTE”. La CNTE tiene la Sección 22 y tiene demandas específicas sobre Oaxaca, sobre acuerdos que se tomaron para nuevas plazas en Oaxaca y algunos otros temas relevantes.
+Entonces, sobre esos temas, el cumplimiento de esos temas y algún tema más relacionado con Oaxaca, y la educación de las niñas y los niños en Oaxaca, eso es lo que vamos a platicar.
+Ahí acepté, y quedó muy claro ese día, con la dirigencia de la 22, que esos son los temas que vamos a tratar, de ésta a la próxima semana, vienen el jueves.
+PREGUNTA: ¿Esto abriría la posibilidad de que se reúna con otras secciones o solamente va a ser con la 22?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Me reuní —recuerden— con la Sección 7, de Chiapas, hace… ya va a ser yo creo que dos meses, y con la Sección 22 me había reunido hace tiempo.
+Se han estado reuniendo los secretarios. Y ahora se acercaron y dijeron: “¿podemos hablar sobre la 22?”. Vamos a hablar sobre las demandas de la 22.
+PREGUNTA: ¿Se mantienen las consultas escuela por escuela?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Van a iniciar las consultas escuela por escuela. Ya lo vamos a informar también, cómo van a ser esas consultas.
+Va a haber una primera consulta-encuesta, sobre lo más relevante. Y después, ya se haría este mismo año la consulta escuela por escuela, relacionado con el cambio de Usicamm. Eso es lo que estaría a discusión.
+PREGUNTA: Muchas gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+—Vamos acá—.
+PREGUNTA: (Inaudible)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí.
+PREGUNTA: Buenos días. Julián Mazoy, de SDP Noticias.
+Presidenta, yo empecé a usar redes sociales por ahí del 2010. Estaba yo en 5º o 6º de primaria, lo recuerdo, cuando me creé mi primera cuenta de Facebook, era un niño, y ya tenía algunas características que hoy podremos identificar como de adicción.
+No son nuevas las redes sociales, apenas estamos conversando acerca de ellas, me parece bueno que así se haga.
+Pero sí hay algo nuevo que ahora está surgiendo, ya usted lo mencionó: la Inteligencia Artificial.
+Preguntarle a usted un poco su opinión al respecto, pero más bien a los expertos también: ¿qué hacer con esto? Esto apenas va surgiendo, no sé si haya información suficiente.
+¿Y cómo abordarlo desde las escuelas, desde la pedagogía también?
+EXPERTO EN SEGURIDAD DIGITAL, ARTURO BÉJAR: Una de las cosas que es fundamental de los últimos 20 años al respecto es que inicialmente cuando entraba una tecnología nueva el sentimiento era: “oh, ¡qué padre, esperanza!, ¡mira qué bonito me conecta con otras gentes!”.
+Y en consecuencia, no había tanta atención a la regulación, a los daños, en parte porque la industria prometió constantemente que se iban a autorregular y que no había que preocuparse porque ellos iban a proteger el tema.
+Lo tenemos, ya sabemos ahorita que la industria de tecnología no cree en la regulación y no cree en la autorregulación. O sea, como responden a todos estos temas en todo el mundo es: “nosotros sabemos qué es lo correcto”.
+Y es muy difícil tener unos diálogos íntegros acerca de estos daños, pero la sociedad sabe cómo proteger.
+Entonces, con cosas como Inteligencia Artificial o nuevas tecnologías, en mi opinión el estándar tiene que cambiar de “vamos a armarlo y vamos a dárselo a todo el mundo a ver qué pasa y luego ya quitamos lo que sabemos que está mal” a unos estudios por adelantado para entender cuáles son los daños, cuál es el impacto en la gente joven.
+En la Inteligencia Artificial hay el riesgo de que se reemplacen las relaciones entre gentes. Porque imagínate que tú tienes en tu teléfono un amigo que, lo que le digas, te dice: “tienes toda la razón del mundo”, “estás bien”,  “hoy no, no entiendo”, aunque sean cosas que un amigo de a de veras nos dijera: “no, ¿sabes qué?, piénsalo dos veces”.
+Entonces, eso se tiene y se puede estudiar por adelantado para poder adelantarse a los daños en lugar de, como estamos todo el mundo ahorita: respondiendo a algo que acabó así.
+PREGUNTA: Presidenta, recuerdo una… Bueno, no recuerdo, pero recuerdo haber leído acerca de una manifestación en los ´80, en Washington, de profesores de primaria en contra de las calculadoras.
+Siempre ha habido resistencia a adoptar nuevas tecnologías en la pedagogía.
+¿Esto no es similar a eso? ¿No sería mejor?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Las calculadoras son de antes de los ´80.
+PREGUNTA: Sí, habían pasado en Estados Unidos una nueva política para adoptar las calculadoras de forma masiva en las escuelas primarias, y por eso salen a protestar en contra de esta política específica, esta recomendación de la Secretaría de Educación de Estados Unidos.
+No tengo yo una opinión al respecto, pero nada más como para comprender: ¿cuál es la diferencia en esta tecnología con el resto que sí han avanzado la forma en que aprenden los niños?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Lo que estamos planteando aquí es distintos estudios que muestran que el uso excesivo de las redes sociales, particularmente vinculado con el scrolling infinito o —como bien lo mencionó el doctor— los videos cortos, generan en las personas adicción, de eso estamos hablando.
+Que ¿tiene la tecnología de usos extraordinarios? Pues nadie lo puede negar.
+Que ¿podemos comunicarnos con personas del otro lado del mundo y no nos cuesta más que el plan que pagamos o los datos que consumimos.
+Que podemos establecer relación con personas que hace años no veíamos.
+Que podemos tener un diálogo.
+Que podemos aprender.
+Que podemos tener acceso a visitar los mejores museos del mundo, aunque no estemos en el lugar.
+Obviamente tienen oportunidades extraordinarias para cualquier ser humano. El asunto es en particular ciertos mecanismos de las plataformas que están generando problemas de aprendizaje, de desarrollo cognitivo y de adicción.
+Entonces, si un bebé de 2 años tiene 7 horas al día la plataforma en sus manos, 8 horas, 10 horas, puede tener problemas en su desarrollo posterior.
+Si los jóvenes, a partir de los esquemas, de los algoritmos vinculados con este scrolling infinito, les están diciendo: “tú eres feo porque no tienes este estilo”.
+Si les están diciendo: “está muy mal que hagas esto, está bien que hagas esto”, con códigos.
+Yo no sabía lo que acaban de decir: que te quedaste viendo a alguien de ojos azules, y te está presentando permanentemente a alguien de ojos azules, muy distinto a como tú eres, pues evidentemente genera problemas en las personas, incluso de problemas de inseguridad.
+Entonces, todo esto que está provocando y que recientemente se está dando a conocer, es algo en lo que México las y los mexicanos no podemos decir: “no pasa nada”.
+Es algo que tenemos que revisar. Y, sobre todo, por nuestras hijas y nuestros hijos, nuestras nietas, nuestros nietos, que cada vez están más expuestos a estas formas de comunicación y de aprendizaje.
+Por eso lo abrimos, por eso abrimos la discusión.
+Yo podría haber dicho: “a ver, Arturo, Jonathan, platíquenme qué pasa”, y yo decidir en mi escritorio una regulación y ponerla al Congreso, pero es un asunto que tiene que ver con la educación de millones y millones de niñas y niños en nuestro país. Entonces, es algo que tenemos que estar hablando colectivamente.
+Entonces, por eso es la discusión que tenemos que hacer y seguir con las investigaciones científicas de qué es lo que está provocando este uso excesivo y estos mecanismos que han diseñado las propias plataformas para generar adicción, como los cigarros, en su momento, que generaron esquemas de diseño del cigarro con ciertas sustancias químicas que lo que provocan son adicción, igual.
+PREGUNTA: Hay una última cosa, Presidenta…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es mi punto de vista.
+PREGUNTA: Hace un par de meses, en Reino Unido se empezó a tener esta misma discusión, ya se anunció que el plan es pasar legislación en este otoño para que el próximo año menores de 16 tengan el tipo de restricciones de las cuales nos comentaron los expertos.
+El 5 de junio de este año saca un comunicado la Embajada de Estados Unidos en Reino Unido pronunciándose en contra de estas medidas y más bien diciendo que debe de quedar en una recomendación hacia los padres.
+¿Es un factor que van a considerar en esta decisión que Estados Unidos quiera proteger a su industria digital —la gran mayoría de las redes sociales que utilizamos aquí son americanas— dentro de la acción de política pública?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No creo que tengamos… Que esa sea la definición. El problema, como bien dijo Jonathan Haidt —así se pronuncia— es un asunto de salud pública.
+Es como las drogas: si el asunto de las drogas lo vemos exclusivamente como el tema de la comercialización, la distribución y la producción, se vuelve un asunto solamente de seguridad nacional y pública. Si no vemos la parte del consumo, que es un asunto de salud pública, pues entonces nos está faltando una parte.
+En este caso es lo mismo, este es un tema que tiene que ver con la salud de las niñas y los niños de México, de las y los adolescentes.
+Y por eso es muy pertinente que hagamos esta discusión, este debate y normemos, cómo decidamos, el uso o la aplicación, o a las propias plataformas.
+PREGUNTA: Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, vamos con “Humanismo Mexicano”, toca hoy.
+ASESOR POLÍTICO DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA: Muchas gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Déjame agradecer de nuevo al doctor Jonathan Haidt, que creo que ya tenía cosas que hacer, y al doctor Arturo Béjar. Muchas gracias, de verdad, por su presencia. Gracias.
+ASESOR POLÍTICO DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA: Gracias, Presidenta. Muy buenos días. Buenos días, secretarios, subsecretarios, invitados.
+Hace 180 años, nuestro país estaba en una situación realmente complicada: imagínense ustedes que Mariano Paredes se levantó en armas en un gobierno centralista para exigir una monarquía española en México. Y a esto había amenazas de Estados Unidos por invadir el país. Estamos hablando de 1846.
+Pero hubo un hombre que recuperó la soberanía popular, la fortaleza y la ideología de los insurgentes. Ese hombre es, ni más ni menos, que Valentín Gómez Farías, que fue desde 1812 un férreo defensor de la insurgencia, que fue diputado en Cádiz, que fue diputado en el Constituyente de 1824, cinco veces presidente de México; en una de ellas, en 1833, creó las las condiciones para separar por vez primera la Iglesia del Estado.
+Gómez Farías, un 4 de agosto de 1846, junto con Mariano Salas, convocan al pueblo de México a recuperar la República Federal y la Constitución de 1824 para prepararnos como soberanía a la defensa del Estado mexicano.
+Veamos la cápsula que hemos preparado en ocasión de esta efeméride.
+(PROYECCIÓN DE VIDEO DE LA SECCIÓN “HUMANISMO MEXICANO”: VALENTÍN GÓMEZ FARÍAS)
+ASESOR POLÍTICO DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA: Gracias, buen día.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias. Buen día.
+—000—
