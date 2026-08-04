@@ -1,29 +1,35 @@
 {
-  "fecha": "2026-08-03",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-04",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 04 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-04-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 39,
+  "n_preguntas": 75,
   "temas": [
-    "Jonathan haidt",
-    "Arturo béjar",
-    "Gente joven",
-    "Adicción",
-    "Canal once",
-    "Padres familia"
+    "Código ética",
+    "Lineamientos",
+    "Información plural",
+    "Códigos ética",
+    "Audiencias",
+    "Portal transparencia"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "RAQUEL BUENROSTRO SÁNCHEZ",
+      "cargo": "SECRETARIA ANTICORRUPCIÓN Y BUEN GOBIERNO",
       "categoria": "secretarios",
-      "intervenciones": 16
+      "intervenciones": 25
     },
     {
-      "nombre": "RICARDO VILLANUEVA LOMELÍ",
-      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA (SEP)",
+      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
+      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
       "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 5
+    },
+    {
+      "nombre": "GOBERNADORA INTERINA DE SINALOA YERALDINE BONILLA VALVERDE",
+      "cargo": "GOBERNADORA INTERINA DE SINALOA YERALDINE BONILLA VALVERDE",
+      "categoria": "gobernadores",
+      "intervenciones": 2
     }
   ]
 }
