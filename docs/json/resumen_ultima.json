@@ -1,35 +1,125 @@
 {
-  "fecha": "2026-08-04",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 04 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-04-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-05",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 05 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-05-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 75,
+  "n_preguntas": 36,
   "temas": [
     "Código ética",
-    "Lineamientos",
-    "Información plural",
-    "Códigos ética",
-    "Audiencias",
-    "Portal transparencia"
+    "Reforestación",
+    "Calumnia",
+    "Millones plantas",
+    "Forestal",
+    "Medios mienten"
   ],
   "participantes": [
-    {
-      "nombre": "RAQUEL BUENROSTRO SÁNCHEZ",
-      "cargo": "SECRETARIA ANTICORRUPCIÓN Y BUEN GOBIERNO",
-      "categoria": "secretarios",
-      "intervenciones": 25
-    },
     {
       "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
       "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
       "categoria": "secretarios",
-      "intervenciones": 5
+      "intervenciones": 10
     },
     {
-      "nombre": "GOBERNADORA INTERINA DE SINALOA YERALDINE BONILLA VALVERDE",
-      "cargo": "GOBERNADORA INTERINA DE SINALOA YERALDINE BONILLA VALVERDE",
+      "nombre": "ALICIA BÁRCENA IBARRA",
+      "cargo": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "MAURICIO KURI GONZÁLEZ",
+      "cargo": "GOBERNADOR DE QUERÉTARO",
       "categoria": "gobernadores",
-      "intervenciones": 2
+      "intervenciones": 9
+    },
+    {
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "MARGARITA GONZÁLEZ SARAVIA",
+      "cargo": "GOBERNADORA DE MORELOS",
+      "categoria": "gobernadores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "SALOMÓN JARA CRUZ",
+      "cargo": "GOBERNADOR DE OAXACA",
+      "categoria": "gobernadores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "TATIANA ESMERALDA VEGA",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "TATIANA ESMERALDA VEGA ROMERO",
+      "cargo": "BENEFICIARIA INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "ALFONSO DURAZO MONTAÑO",
+      "cargo": "GOBERNADOR DE SONORA",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "DELFINA GÓMEZ ÁLVAREZ",
+      "cargo": "GOBERNADORA DEL ESTADO DE MÉXICO",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ESTEBAN VILLEGAS VILLARREAL",
+      "cargo": "GOBERNADOR DE DURANGO",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "INDIRA VIZCAÍNO SILVA",
+      "cargo": "GOBERNADORA DE COLIMA",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "JESÚS PABLO LEMUS NAVARRO",
+      "cargo": "GOBERNADOR DE JALISCO",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "LETICIA RAMÍREZ AMAYA",
+      "cargo": "SECRETARIA DE BIENESTAR",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "LIBIA DENNISE GARCÍA MUÑOZ LEDO",
+      "cargo": "GOBERNADORA DE GUANAJUATO",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARÍA TERESA JIMÉNEZ ESQUIVEL",
+      "cargo": "GOBERNADORA DE AGUASCALIENTES",
+      "categoria": "gobernadores",
+      "intervenciones": 1
     }
   ]
 }
