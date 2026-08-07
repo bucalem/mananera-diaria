@@ -1,35 +1,35 @@
 {
-  "fecha": "2026-08-06",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-07",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 50,
+  "n_preguntas": 63,
   "temas": [
-    "Salada",
-    "Gas convencional",
-    "Yacimientos convencionales",
-    "Acuíferos",
-    "Alma américa",
-    "Gas natural"
+    "Canta",
+    "Participante",
+    "Grecia delgado",
+    "Isabel piñeyro",
+    "Fátima cuevas",
+    "Concurso"
   ],
   "participantes": [
     {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
       "categoria": "secretarios",
-      "intervenciones": 9
+      "intervenciones": 36
     },
     {
-      "nombre": "JUAN JOSÉ VIDAL",
-      "cargo": "SUBSECRETARIO DE HIDROCARBUROS",
+      "nombre": "CLAUDIA CURIEL DE ICAZA",
+      "cargo": "SECRETARIA DE CULTURA",
       "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 25
     },
     {
-      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "VÍCTOR HUGO BORJA ABURTO",
+      "cargo": "TITULAR DE LA COMISIÓN FEDERAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS (COFEPRIS)",
+      "categoria": "otros",
+      "intervenciones": 4
     }
   ]
 }
