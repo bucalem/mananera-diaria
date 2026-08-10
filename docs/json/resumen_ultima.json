@@ -1,35 +1,29 @@
 {
-  "fecha": "2026-08-07",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-10",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 63,
+  "n_preguntas": 52,
   "temas": [
-    "Canta",
-    "Participante",
-    "Grecia delgado",
-    "Isabel piñeyro",
-    "Fátima cuevas",
-    "Concurso"
+    "Annalie domínguez",
+    "Yareni annalie",
+    "Paso cortés",
+    "Uso excesivo",
+    "Sandra ortega",
+    "Pantallas"
   ],
   "participantes": [
     {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 36
+      "intervenciones": 169
     },
     {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
-      "categoria": "secretarios",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "VÍCTOR HUGO BORJA ABURTO",
-      "cargo": "TITULAR DE LA COMISIÓN FEDERAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS (COFEPRIS)",
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
       "categoria": "otros",
-      "intervenciones": 4
+      "intervenciones": 1
     }
   ]
 }
