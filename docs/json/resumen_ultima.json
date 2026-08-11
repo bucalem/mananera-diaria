@@ -1,28 +1,58 @@
 {
-  "fecha": "2026-08-10",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-11",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 11 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-11-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 52,
+  "n_preguntas": 67,
   "temas": [
-    "Annalie domínguez",
-    "Yareni annalie",
-    "Paso cortés",
-    "Uso excesivo",
-    "Sandra ortega",
-    "Pantallas"
+    "Seguridad protección",
+    "Protección ciudadana",
+    "Mil robos",
+    "Promedio diario",
+    "Homicidios",
+    "Aguacate"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
       "categoria": "secretarios",
-      "intervenciones": 169
+      "intervenciones": 784
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "JESÚS ANTONIO ESTEVA MEDINA",
+      "cargo": "SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "JUAN MANUEL GARCÍA ORTEGÓN",
+      "cargo": "TITULAR DE LA UNIDAD DE INFRAESTRUCTURA, INFORMÁTICA Y VINCULACIÓN TECNOLÓGICA",
       "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
