@@ -1,57 +1,45 @@
 {
-  "fecha": "2026-08-11",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 11 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-11-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-12",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 12 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-12-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 67,
+  "n_preguntas": 44,
   "temas": [
-    "Seguridad protección",
-    "Protección ciudadana",
-    "Mil robos",
-    "Promedio diario",
-    "Homicidios",
-    "Aguacate"
+    "Juegos centroamericanos",
+    "Medallas",
+    "Atletas",
+    "Deporte",
+    "Conade",
+    "Cultura física"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 784
+      "nombre": "ROMMEL PACHECO MARRUFO",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE CULTURA FÍSICA Y DEPORTE (CONADE)",
+      "categoria": "directores",
+      "intervenciones": 289
     },
     {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
-      "categoria": "secretarios",
+      "nombre": "ANA CAROLINA KIM FLORES",
+      "cargo": "BENEFICIARIA INFONAVIT DEL PROGRAMA NACIONAL DE VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 17
+    },
+    {
+      "nombre": "JOAQUÍN DÍAZ MENA",
+      "cargo": "GOBERNADOR DE YUCATÁN",
+      "categoria": "gobernadores",
       "intervenciones": 9
     },
     {
-      "nombre": "JESÚS ANTONIO ESTEVA MEDINA",
-      "cargo": "SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 9
     },
     {
-      "nombre": "JUAN MANUEL GARCÍA ORTEGÓN",
-      "cargo": "TITULAR DE LA UNIDAD DE INFRAESTRUCTURA, INFORMÁTICA Y VINCULACIÓN TECNOLÓGICA",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
       "categoria": "secretarios",
       "intervenciones": 1
     }
