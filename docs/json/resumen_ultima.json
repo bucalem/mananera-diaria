@@ -1,28 +1,40 @@
 {
-  "fecha": "2026-08-14",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-17",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 57,
+  "n_preguntas": 39,
   "temas": [
-    "Migración inm",
-    "Tigres",
-    "Herederos",
-    "Comisionado",
-    "Visa",
-    "Abraza"
+    "Psicología tecnología",
+    "Instituto psicología",
+    "Neely universidad",
+    "Centro neely",
+    "Sur california",
+    "Uso excesivo"
   ],
   "participantes": [
     {
-      "nombre": "SERGIO SALOMÓN CÉSPEDES PEREGRINA",
-      "cargo": "COMISIONADO DEL INSTITUTO NACIONAL DE MIGRACIÓN (INM)",
-      "categoria": "otros",
-      "intervenciones": 324
+      "nombre": "RAVI IYER",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE PSICOLOGÍA DE TECNOLOGÍA Y DEL CENTRO NEELY DE LA UNIVERSIDAD DEL SUR DE CALIFORNIA",
+      "categoria": "directores",
+      "intervenciones": 81
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "TANIA RODRÍGUEZ MORA",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN MEDIA SUPERIOR",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
       "intervenciones": 1
     }
   ]
