@@ -1,40 +1,40 @@
 {
-  "fecha": "2026-08-17",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-18",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 39,
+  "n_preguntas": 65,
   "temas": [
-    "Psicología tecnología",
-    "Instituto psicología",
-    "Neely universidad",
-    "Centro neely",
-    "Sur california",
-    "Uso excesivo"
+    "Enero julio",
+    "Visa",
+    "Consultas",
+    "Cirugías",
+    "Validación",
+    "Lapso enero"
   ],
   "participantes": [
     {
-      "nombre": "RAVI IYER",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE PSICOLOGÍA DE TECNOLOGÍA Y DEL CENTRO NEELY DE LA UNIVERSIDAD DEL SUR DE CALIFORNIA",
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
       "categoria": "directores",
-      "intervenciones": 81
-    },
-    {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
       "intervenciones": 36
     },
     {
-      "nombre": "TANIA RODRÍGUEZ MORA",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN MEDIA SUPERIOR",
-      "categoria": "secretarios",
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "categoria": "directores",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
       "intervenciones": 4
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
+      "nombre": "EDUARDO CLARK DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y DESARROLLO DE LA SECRETARIA DE SALUD",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
