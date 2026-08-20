@@ -1,76 +1,40 @@
 {
-  "fecha": "2026-08-19",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 19 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-19-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-20",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 52,
+  "n_preguntas": 61,
   "temas": [
-    "Derecha diario",
-    "Dewa",
-    "Cruz azul",
-    "Examen admisión",
-    "Polo",
-    "Industria comercio"
+    "Olinia",
+    "Vehículo",
+    "Puntos carga",
+    "Combustión interna",
+    "Dolores",
+    "Aliados estratégicos"
   ],
   "participantes": [
     {
-      "nombre": "JULIO RAMÓN MENCHACA SALAZAR",
-      "cargo": "GOBERNADOR DE HIDALGO",
-      "categoria": "gobernadores",
-      "intervenciones": 68
-    },
-    {
-      "nombre": "ROBERTO VELASCO ÁLVAREZ",
-      "cargo": "SECRETARIO DE RELACIONES EXTERIORES",
-      "categoria": "secretarios",
-      "intervenciones": 49
-    },
-    {
-      "nombre": "VÍCTOR ESPINOSA PÉREZ",
-      "cargo": "BENEFICIARIO INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "nombre": "ROBERTO CAPUANO TRIPP",
+      "cargo": "DIRECTOR DE PROYECTO OLINIA",
       "categoria": "directores",
-      "intervenciones": 9
+      "intervenciones": 196
     },
     {
-      "nombre": "XIMENA ESCOBEDO JUÁREZ",
-      "cargo": "SUBSECRETARIA DE INDUSTRIA Y COMERCIO DE LA SECRETARÍA DE ECONOMÍA",
+      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
+      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
       "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "GUILLERMINA HERNÁNDEZ OSORNO",
-      "cargo": "ESPOSA DE BENEFICIARIO DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
       "intervenciones": 5
     },
     {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "categoria": "secretarios",
-      "intervenciones": 2
-    },
-    {
-      "nombre": "GERMÁN AHUMADA ALDUNCIN",
-      "cargo": "FUNDADOR Y DIRECTOR EJECUTIVO DE DEWA CAPITAL",
+      "nombre": "CARLOS TORRES ROSAS",
+      "cargo": "DIRECTOR GENERAL DE NACIONAL FINANCIERA (NAFIN), Y DEL BANCO NACIONAL DE COMERCIO EXTERIOR (BANCOMEXT)",
       "categoria": "directores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "LORENA CUÉLLAR CISNEROS",
-      "cargo": "GOBERNADORA DE TLAXCALA",
-      "categoria": "gobernadores",
       "intervenciones": 1
     }
   ]
