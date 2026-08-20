@@ -1,40 +1,76 @@
 {
-  "fecha": "2026-08-18",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-19",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 19 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-19-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 65,
+  "n_preguntas": 52,
   "temas": [
-    "Enero julio",
-    "Visa",
-    "Consultas",
-    "Cirugías",
-    "Validación",
-    "Lapso enero"
+    "Derecha diario",
+    "Dewa",
+    "Cruz azul",
+    "Examen admisión",
+    "Polo",
+    "Industria comercio"
   ],
   "participantes": [
     {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 36
+      "nombre": "JULIO RAMÓN MENCHACA SALAZAR",
+      "cargo": "GOBERNADOR DE HIDALGO",
+      "categoria": "gobernadores",
+      "intervenciones": 68
     },
     {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "nombre": "ROBERTO VELASCO ÁLVAREZ",
+      "cargo": "SECRETARIO DE RELACIONES EXTERIORES",
+      "categoria": "secretarios",
+      "intervenciones": 49
+    },
+    {
+      "nombre": "VÍCTOR ESPINOSA PÉREZ",
+      "cargo": "BENEFICIARIO INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
       "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
+      "nombre": "XIMENA ESCOBEDO JUÁREZ",
+      "cargo": "SUBSECRETARIA DE INDUSTRIA Y COMERCIO DE LA SECRETARÍA DE ECONOMÍA",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "GUILLERMINA HERNÁNDEZ OSORNO",
+      "cargo": "ESPOSA DE BENEFICIARIO DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 5
+    },
+    {
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "EDUARDO CLARK DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y DESARROLLO DE LA SECRETARIA DE SALUD",
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
       "categoria": "secretarios",
+      "intervenciones": 2
+    },
+    {
+      "nombre": "GERMÁN AHUMADA ALDUNCIN",
+      "cargo": "FUNDADOR Y DIRECTOR EJECUTIVO DE DEWA CAPITAL",
+      "categoria": "directores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "LORENA CUÉLLAR CISNEROS",
+      "cargo": "GOBERNADORA DE TLAXCALA",
+      "categoria": "gobernadores",
       "intervenciones": 1
     }
   ]
