@@ -1,41 +1,29 @@
 {
-  "fecha": "2026-08-20",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-21",
+  "titulo": "Versión estenográfica. Conferencia de prensa matutina del 21 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-matutina-del-21-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 61,
+  "n_preguntas": 50,
   "temas": [
-    "Olinia",
-    "Vehículo",
-    "Puntos carga",
-    "Combustión interna",
-    "Dolores",
-    "Aliados estratégicos"
+    "Cueva",
+    "Historia inah",
+    "Antropología historia",
+    "Piezas arqueológicas",
+    "Zoque",
+    "Exposición"
   ],
   "participantes": [
     {
-      "nombre": "ROBERTO CAPUANO TRIPP",
-      "cargo": "DIRECTOR DE PROYECTO OLINIA",
-      "categoria": "directores",
-      "intervenciones": 196
-    },
-    {
-      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
       "categoria": "secretarios",
-      "intervenciones": 5
+      "intervenciones": 2704
     },
     {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "CARLOS TORRES ROSAS",
-      "cargo": "DIRECTOR GENERAL DE NACIONAL FINANCIERA (NAFIN), Y DEL BANCO NACIONAL DE COMERCIO EXTERIOR (BANCOMEXT)",
+      "nombre": "JOEL OMAR VÁZQUEZ HERRERA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA (INAH)",
       "categoria": "directores",
-      "intervenciones": 1
+      "intervenciones": 121
     }
   ]
 }
