@@ -1,40 +1,64 @@
 {
-  "fecha": "2026-08-24",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 24 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-24-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-25",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 25 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-25-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 56,
+  "n_preguntas": 40,
   "temas": [
-    "Examen",
-    "Educación superior",
-    "Derecho lugar",
-    "Unión ganadera",
-    "Elvira salazar",
-    "Instituciones educación"
+    "Atención primaria",
+    "Consultorios",
+    "Servicio universal",
+    "Doble nacionalidad",
+    "Imss bienestar",
+    "Opera imss"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
       "categoria": "secretarios",
-      "intervenciones": 81
+      "intervenciones": 40
     },
     {
-      "nombre": "ALFONSO DURAZO MONTAÑO",
-      "cargo": "GOBERNADOR DE SONORA",
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "AMÉRICO VILLARREAL ANAYA",
+      "cargo": "GOBERNADOR DE TAMAULIPAS",
+      "categoria": "gobernadores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "LETICIA RAMÍREZ AMAYA",
+      "cargo": "SECRETARIA DE BIENESTAR",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "CLARA BRUGADA MOLINA",
+      "cargo": "JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO",
       "categoria": "gobernadores",
       "intervenciones": 1
     },
     {
-      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
-      "categoria": "secretarios",
+      "nombre": "DELFINA GÓMEZ ÁLVAREZ",
+      "cargo": "GOBERNADORA DEL ESTADO DE MÉXICO",
+      "categoria": "gobernadores",
       "intervenciones": 1
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
+      "nombre": "MIGUEL ÁNGEL NAVARRO QUINTERO",
+      "cargo": "GOBERNADOR DE NAYARIT",
+      "categoria": "gobernadores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ROCÍO NAHLE GARCÍA",
+      "cargo": "GOBERNADORA DE VERACRUZ",
+      "categoria": "gobernadores",
       "intervenciones": 1
     }
   ]
