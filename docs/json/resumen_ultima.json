@@ -1,64 +1,70 @@
 {
-  "fecha": "2026-08-25",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 25 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-25-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-26",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 26 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-26-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 40,
+  "n_preguntas": 74,
   "temas": [
-    "Atención primaria",
-    "Consultorios",
-    "Servicio universal",
-    "Doble nacionalidad",
-    "Imss bienestar",
-    "Opera imss"
+    "Ambiente recursos",
+    "Recursos naturales",
+    "Medidas correctivas",
+    "Medio ambiente",
+    "Justicia ambiental",
+    "Buena alimentación"
   ],
   "participantes": [
     {
-      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
+      "nombre": "ALICIA BÁRCENA IBARRA",
+      "cargo": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
       "categoria": "secretarios",
-      "intervenciones": 40
+      "intervenciones": 324
     },
     {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
-      "categoria": "secretarios",
+      "nombre": "TAYLIN",
+      "cargo": "HIJA DE BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "RODRIGO CHÁVEZ CONTRERAS",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE VIVIENDA (CONAVI)",
+      "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "AMÉRICO VILLARREAL ANAYA",
-      "cargo": "GOBERNADOR DE TAMAULIPAS",
-      "categoria": "gobernadores",
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "LETICIA RAMÍREZ AMAYA",
-      "cargo": "SECRETARIA DE BIENESTAR",
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
       "categoria": "secretarios",
-      "intervenciones": 4
+      "intervenciones": 1
     },
     {
-      "nombre": "CLARA BRUGADA MOLINA",
-      "cargo": "JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO",
+      "nombre": "JAZMÍN",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "JAZMÍN CHI",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "JOAQUÍN DÍAZ MENA",
+      "cargo": "GOBERNADOR DE YUCATÁN",
       "categoria": "gobernadores",
       "intervenciones": 1
     },
     {
-      "nombre": "DELFINA GÓMEZ ÁLVAREZ",
-      "cargo": "GOBERNADORA DEL ESTADO DE MÉXICO",
-      "categoria": "gobernadores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL NAVARRO QUINTERO",
-      "cargo": "GOBERNADOR DE NAYARIT",
-      "categoria": "gobernadores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "ROCÍO NAHLE GARCÍA",
-      "cargo": "GOBERNADORA DE VERACRUZ",
-      "categoria": "gobernadores",
+      "nombre": "TERRITORIAL Y URBANO",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
