@@ -1,71 +1,29 @@
 {
-  "fecha": "2026-08-26",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 26 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-26-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-27",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 74,
+  "n_preguntas": 46,
   "temas": [
-    "Ambiente recursos",
-    "Recursos naturales",
-    "Medidas correctivas",
-    "Medio ambiente",
-    "Justicia ambiental",
-    "Buena alimentación"
+    "Cerimedo",
+    "Derecha diario",
+    "Audiencias",
+    "Doble nacionalidad",
+    "Defensor",
+    "Mecanismo eficaz"
   ],
   "participantes": [
     {
-      "nombre": "ALICIA BÁRCENA IBARRA",
-      "cargo": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "nombre": "ARTURO ZALDÍVAR LELO DE LARREA",
+      "cargo": "COORDINADOR GENERAL DE POLÍTICA Y GOBIERNO",
+      "categoria": "otros",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 324
-    },
-    {
-      "nombre": "TAYLIN",
-      "cargo": "HIJA DE BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "RODRIGO CHÁVEZ CONTRERAS",
-      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE VIVIENDA (CONAVI)",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
       "intervenciones": 4
-    },
-    {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "JAZMÍN",
-      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "JAZMÍN CHI",
-      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "JOAQUÍN DÍAZ MENA",
-      "cargo": "GOBERNADOR DE YUCATÁN",
-      "categoria": "gobernadores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "TERRITORIAL Y URBANO",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO",
-      "categoria": "secretarios",
-      "intervenciones": 1
     }
   ]
 }
