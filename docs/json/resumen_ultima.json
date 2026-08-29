@@ -1,28 +1,28 @@
 {
-  "fecha": "2026-08-27",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-28",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 46,
+  "n_preguntas": 45,
   "temas": [
-    "Cerimedo",
-    "Derecha diario",
-    "Audiencias",
-    "Doble nacionalidad",
-    "Defensor",
-    "Mecanismo eficaz"
+    "Inteligencia financiera",
+    "Unidad inteligencia",
+    "Familia weinberg",
+    "Político electorales",
+    "Derechos político",
+    "Cuentas inmovilizadas"
   ],
   "participantes": [
     {
-      "nombre": "ARTURO ZALDÍVAR LELO DE LARREA",
-      "cargo": "COORDINADOR GENERAL DE POLÍTICA Y GOBIERNO",
+      "nombre": "OMAR REYES COLMENARES",
+      "cargo": "TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA",
       "categoria": "otros",
-      "intervenciones": 36
+      "intervenciones": 49
     },
     {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
+      "nombre": "ARTURO ZALDÍVAR LELO DE LARREA",
+      "cargo": "COORDINADOR GENERAL DE POLÍTICA Y GOBIERNO DE LA OFICINA DE LA PRESIDENCIA",
+      "categoria": "otros",
       "intervenciones": 4
     }
   ]
