@@ -1,28 +1,34 @@
 {
-  "fecha": "2026-08-28",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de agosto de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-agosto-de-2026?idiom=es",
+  "fecha": "2026-08-31",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 31 de agosto de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-31-de-agosto-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 45,
+  "n_preguntas": 12,
   "temas": [
-    "Inteligencia financiera",
-    "Unidad inteligencia",
-    "Familia weinberg",
-    "Político electorales",
-    "Derechos político",
-    "Cuentas inmovilizadas"
+    "Artes gráficas",
+    "Número artes",
+    "Secundaria número",
+    "Escuela secundaria",
+    "Emociones",
+    "Guías"
   ],
   "participantes": [
     {
-      "nombre": "OMAR REYES COLMENARES",
-      "cargo": "TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA",
-      "categoria": "otros",
-      "intervenciones": 49
+      "nombre": "TANIA RODRÍGUEZ MORA",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN MEDIA SUPERIOR",
+      "categoria": "secretarios",
+      "intervenciones": 16
     },
     {
-      "nombre": "ARTURO ZALDÍVAR LELO DE LARREA",
-      "cargo": "COORDINADOR GENERAL DE POLÍTICA Y GOBIERNO DE LA OFICINA DE LA PRESIDENCIA",
-      "categoria": "otros",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "CLARA BRUGADA MOLINA",
+      "cargo": "JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO",
+      "categoria": "gobernadores",
       "intervenciones": 4
     }
   ]
