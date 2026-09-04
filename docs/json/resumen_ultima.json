@@ -1,23 +1,47 @@
 {
-  "fecha": "2026-09-02",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 02 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-03",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 63,
+  "n_preguntas": 74,
   "temas": [
-    "Segundo informe",
-    "Social constitución",
-    "Divisiones interior",
-    "Informando informando",
-    "Fila carlos",
-    "Reformas"
+    "Migración inm",
+    "Familias desplazadas",
+    "Testamento",
+    "Búsqueda",
+    "Familias colectivos",
+    "Juras lealtad"
   ],
   "participantes": [
     {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
+      "nombre": "SERGIO SALOMÓN CÉSPEDES PEREGRINA",
+      "cargo": "COMISIONADO DEL INSTITUTO NACIONAL DE MIGRACIÓN (INM)",
       "categoria": "otros",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "ARTURO MEDINA PADILLA",
+      "cargo": "SUBSECRETARIO DE DERECHOS HUMANOS, POBLACIÓN Y MIGRACIÓN",
+      "categoria": "secretarios",
       "intervenciones": 4
+    },
+    {
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "ARMANDO QUINTERO MARTÍNEZ",
+      "cargo": "COORDINADOR GENERAL DEL INSTITUTO NACIONAL PARA EL FEDERALISMO Y EL DESARROLLO MUNICIPAL (INAFED)",
+      "categoria": "otros",
+      "intervenciones": 1
     }
   ]
 }
