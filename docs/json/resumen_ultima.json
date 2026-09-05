@@ -1,46 +1,70 @@
 {
-  "fecha": "2026-09-03",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-04",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 04 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-04-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 74,
+  "n_preguntas": 52,
   "temas": [
-    "Migración inm",
-    "Familias desplazadas",
-    "Testamento",
-    "Búsqueda",
-    "Familias colectivos",
-    "Juras lealtad"
+    "Frijol",
+    "Agricultura desarrollo",
+    "Explosivo",
+    "Desarrollo rural",
+    "Ojocaliente",
+    "Promedio diario"
   ],
   "participantes": [
     {
-      "nombre": "SERGIO SALOMÓN CÉSPEDES PEREGRINA",
-      "cargo": "COMISIONADO DEL INSTITUTO NACIONAL DE MIGRACIÓN (INM)",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 225
+    },
+    {
+      "nombre": "DAVID MONREAL ÁVILA",
+      "cargo": "GOBERNADOR DE ZACATECAS",
+      "categoria": "gobernadores",
+      "intervenciones": 26
+    },
+    {
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
+      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "CRISTIAN PAUL CAMACHO OSNAYA",
+      "cargo": "FISCAL GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS",
       "categoria": "otros",
-      "intervenciones": 36
+      "intervenciones": 4
+    },
+    {
+      "nombre": "RIGOBERTO SALGADO VÁZQUEZ",
+      "cargo": "COMISIONADO NACIONAL DE ACUACULTURA Y PESCA",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
+      "categoria": "secretarios",
+      "intervenciones": 1
     },
     {
       "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
       "cargo": "SECRETARIA DE GOBERNACIÓN",
       "categoria": "secretarios",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "ARTURO MEDINA PADILLA",
-      "cargo": "SUBSECRETARIO DE DERECHOS HUMANOS, POBLACIÓN Y MIGRACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "ARMANDO QUINTERO MARTÍNEZ",
-      "cargo": "COORDINADOR GENERAL DEL INSTITUTO NACIONAL PARA EL FEDERALISMO Y EL DESARROLLO MUNICIPAL (INAFED)",
-      "categoria": "otros",
       "intervenciones": 1
     }
   ]
