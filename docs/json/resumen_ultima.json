@@ -1,70 +1,34 @@
 {
-  "fecha": "2026-09-04",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 04 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-04-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-07",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 52,
+  "n_preguntas": 40,
   "temas": [
-    "Frijol",
-    "Agricultura desarrollo",
-    "Explosivo",
-    "Desarrollo rural",
-    "Ojocaliente",
-    "Promedio diario"
+    "Votaron juntos",
+    "Sacar material",
+    "Centavos",
+    "Tenencia tierra",
+    "Palomita",
+    "Módulo atención"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 225
-    },
-    {
-      "nombre": "DAVID MONREAL ÁVILA",
-      "cargo": "GOBERNADOR DE ZACATECAS",
-      "categoria": "gobernadores",
-      "intervenciones": 26
-    },
-    {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
+      "nombre": "LETICIA RAMÍREZ AMAYA",
+      "cargo": "SECRETARIA DE BIENESTAR",
       "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "CRISTIAN PAUL CAMACHO OSNAYA",
-      "cargo": "FISCAL GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "RIGOBERTO SALGADO VÁZQUEZ",
-      "cargo": "COMISIONADO NACIONAL DE ACUACULTURA Y PESCA",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
+      "nombre": "ADRIANA CONTRERAS VERA",
+      "cargo": "DIRECTORA DE ATENCIÓN CIUDADANA DE PRESIDENCIA DE LA REPÚBLICA",
+      "categoria": "directores",
       "intervenciones": 1
     },
     {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
       "intervenciones": 1
     }
   ]
