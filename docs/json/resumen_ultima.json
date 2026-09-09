@@ -1,34 +1,40 @@
 {
-  "fecha": "2026-09-07",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-08",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 08 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 40,
+  "n_preguntas": 31,
   "temas": [
-    "Votaron juntos",
-    "Sacar material",
-    "Centavos",
-    "Tenencia tierra",
-    "Palomita",
-    "Módulo atención"
+    "Homicidios",
+    "Pisa",
+    "Protección ciudadana",
+    "Seguridad protección",
+    "Publicaciones publicaciones",
+    "Cada mil"
   ],
   "participantes": [
     {
-      "nombre": "LETICIA RAMÍREZ AMAYA",
-      "cargo": "SECRETARIA DE BIENESTAR",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 49
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
       "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "ADRIANA CONTRERAS VERA",
-      "cargo": "DIRECTORA DE ATENCIÓN CIUDADANA DE PRESIDENCIA DE LA REPÚBLICA",
-      "categoria": "directores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
