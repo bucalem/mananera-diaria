@@ -1,39 +1,45 @@
 {
-  "fecha": "2026-09-08",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 08 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-09",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 31,
+  "n_preguntas": 47,
   "temas": [
-    "Homicidios",
-    "Pisa",
-    "Protección ciudadana",
-    "Seguridad protección",
-    "Publicaciones publicaciones",
-    "Cada mil"
+    "Paquete económico",
+    "Ingresos tributarios",
+    "Crédito público",
+    "Finanzas públicas",
+    "Hacienda crédito",
+    "Evasión"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "nombre": "ÉDGAR AMADOR ZAMORA",
+      "cargo": "SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO",
       "categoria": "secretarios",
-      "intervenciones": 49
+      "intervenciones": 25
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 9
+      "nombre": "JORGE MENDOZA SÁNCHEZ",
+      "cargo": "DIRECTOR GENERAL DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS (BANOBRAS)",
+      "categoria": "directores",
+      "intervenciones": 17
     },
     {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
-      "categoria": "secretarios",
+      "nombre": "ANTONIO MARTÍNEZ DAGNINO",
+      "cargo": "TITULAR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA (SAT)",
+      "categoria": "otros",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "nombre": "MARÍA DEL CARMEN BONILLA RODRÍGUEZ",
+      "cargo": "TITULAR DE LA UNIDAD DE CRÉDITO PÚBLICO Y ASUNTOS INTERNACIONALES DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
       "categoria": "secretarios",
       "intervenciones": 1
     }
