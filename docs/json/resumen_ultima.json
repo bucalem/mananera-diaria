@@ -1,46 +1,46 @@
 {
-  "fecha": "2026-09-09",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-10",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 47,
+  "n_preguntas": 49,
   "temas": [
-    "Paquete económico",
-    "Ingresos tributarios",
-    "Crédito público",
-    "Finanzas públicas",
-    "Hacienda crédito",
-    "Evasión"
+    "Promedio ocde",
+    "Micro pequeñas",
+    "Tributaria sat",
+    "Prueba pisa",
+    "Microempresas",
+    "Pequeñas empresas"
   ],
   "participantes": [
-    {
-      "nombre": "ÉDGAR AMADOR ZAMORA",
-      "cargo": "SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO",
-      "categoria": "secretarios",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "JORGE MENDOZA SÁNCHEZ",
-      "cargo": "DIRECTOR GENERAL DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS (BANOBRAS)",
-      "categoria": "directores",
-      "intervenciones": 17
-    },
     {
       "nombre": "ANTONIO MARTÍNEZ DAGNINO",
       "cargo": "TITULAR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA (SAT)",
       "categoria": "otros",
-      "intervenciones": 16
+      "intervenciones": 81
     },
     {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "MARÍA DEL CARMEN BONILLA RODRÍGUEZ",
-      "cargo": "TITULAR DE LA UNIDAD DE CRÉDITO PÚBLICO Y ASUNTOS INTERNACIONALES DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "nombre": "DIRECTOR GENERAL DE NACIONAL FINANCIERA (NAFIN) Y DEL BANCO NACIONAL DE COMERCIO EXTERIOR (BANCOMEXT) CARLOS TORRES ROSAS",
+      "cargo": "DIRECTOR GENERAL DE NACIONAL FINANCIERA (NAFIN) Y DEL BANCO NACIONAL DE COMERCIO EXTERIOR (BANCOMEXT) CARLOS TORRES ROSAS",
+      "categoria": "directores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARATH BOLAÑOS LÓPEZ",
+      "cargo": "SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL",
       "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
       "intervenciones": 1
     }
   ]
