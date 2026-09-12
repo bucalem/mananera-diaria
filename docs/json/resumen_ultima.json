@@ -1,46 +1,46 @@
 {
-  "fecha": "2026-09-10",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-11",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 11 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-11-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 49,
+  "n_preguntas": 72,
   "temas": [
-    "Promedio ocde",
-    "Micro pequeñas",
-    "Tributaria sat",
-    "Prueba pisa",
-    "Microempresas",
-    "Pequeñas empresas"
+    "Chiapas",
+    "Leer escribir",
+    "Alfabetización",
+    "Rizo oro",
+    "Buen vivir",
+    "Alfabetizar amar"
   ],
   "participantes": [
     {
-      "nombre": "ANTONIO MARTÍNEZ DAGNINO",
-      "cargo": "TITULAR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA (SAT)",
-      "categoria": "otros",
-      "intervenciones": 81
+      "nombre": "EDUARDO RAMÍREZ AGUILAR",
+      "cargo": "GOBERNADOR DE CHIAPAS",
+      "categoria": "gobernadores",
+      "intervenciones": 324
     },
     {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
       "categoria": "secretarios",
-      "intervenciones": 4
+      "intervenciones": 9
     },
     {
-      "nombre": "DIRECTOR GENERAL DE NACIONAL FINANCIERA (NAFIN) Y DEL BANCO NACIONAL DE COMERCIO EXTERIOR (BANCOMEXT) CARLOS TORRES ROSAS",
-      "cargo": "DIRECTOR GENERAL DE NACIONAL FINANCIERA (NAFIN) Y DEL BANCO NACIONAL DE COMERCIO EXTERIOR (BANCOMEXT) CARLOS TORRES ROSAS",
-      "categoria": "directores",
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 1
     },
     {
-      "nombre": "MARATH BOLAÑOS LÓPEZ",
-      "cargo": "SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL",
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
       "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
       "intervenciones": 1
     }
   ]
