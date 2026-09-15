@@ -1,47 +1,53 @@
 {
-  "fecha": "2026-09-11",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 11 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-11-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-14",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 72,
+  "n_preguntas": 45,
   "temas": [
-    "Chiapas",
-    "Leer escribir",
-    "Alfabetización",
-    "Rizo oro",
-    "Buen vivir",
-    "Alfabetizar amar"
+    "Infonavit",
+    "Créditos",
+    "Prueba pisa",
+    "Adquirí",
+    "Cartera vencida",
+    "Mil viviendas"
   ],
   "participantes": [
     {
-      "nombre": "EDUARDO RAMÍREZ AGUILAR",
-      "cargo": "GOBERNADOR DE CHIAPAS",
-      "categoria": "gobernadores",
-      "intervenciones": 324
+      "nombre": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 37
     },
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 9
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 36
     },
     {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
       "categoria": "secretarios",
-      "intervenciones": 9
+      "intervenciones": 17
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 16
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "AURORA DEL CARMEN MORENO SARMIENTO",
+      "cargo": "BENEFICIARIA",
+      "categoria": "otros",
+      "intervenciones": 10
+    },
+    {
+      "nombre": "MARTÍN CASTRO NORIEGA",
+      "cargo": "BENEFICIARIO DEL PROGRAMA SOLUCIÓN INTEGRAL",
+      "categoria": "otros",
+      "intervenciones": 3
     }
   ]
 }
