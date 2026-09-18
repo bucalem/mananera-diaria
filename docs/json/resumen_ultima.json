@@ -1,53 +1,41 @@
 {
-  "fecha": "2026-09-14",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-17",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 45,
+  "n_preguntas": 34,
   "temas": [
-    "Infonavit",
-    "Créditos",
-    "Prueba pisa",
-    "Adquirí",
-    "Cartera vencida",
-    "Mil viviendas"
+    "Carriles",
+    "Puente",
+    "Grito",
+    "Sábado septiembre",
+    "Banobras",
+    "Kilómetros"
   ],
   "participantes": [
     {
-      "nombre": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 37
-    },
-    {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
+      "nombre": "JESÚS ANTONIO ESTEVA MEDINA",
+      "cargo": "SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
       "categoria": "secretarios",
-      "intervenciones": 17
+      "intervenciones": 64
     },
     {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "nombre": "JORGE MENDOZA SÁNCHEZ",
+      "cargo": "DIRECTOR GENERAL DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS (BANOBRAS)",
       "categoria": "directores",
-      "intervenciones": 16
+      "intervenciones": 25
     },
     {
-      "nombre": "AURORA DEL CARMEN MORENO SARMIENTO",
-      "cargo": "BENEFICIARIA",
+      "nombre": "LAURA VELÁZQUEZ ALZÚA",
+      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
       "categoria": "otros",
-      "intervenciones": 10
+      "intervenciones": 25
     },
     {
-      "nombre": "MARTÍN CASTRO NORIEGA",
-      "cargo": "BENEFICIARIO DEL PROGRAMA SOLUCIÓN INTEGRAL",
-      "categoria": "otros",
-      "intervenciones": 3
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 4
     }
   ]
 }
