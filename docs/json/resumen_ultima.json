@@ -1,41 +1,59 @@
 {
-  "fecha": "2026-09-17",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-18",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 34,
+  "n_preguntas": 83,
   "temas": [
-    "Carriles",
-    "Puente",
-    "Grito",
-    "Sábado septiembre",
-    "Banobras",
-    "Kilómetros"
+    "Guanajuato",
+    "Irapuato",
+    "Campo golf",
+    "Base operaciones",
+    "Agua león",
+    "Celaya"
   ],
   "participantes": [
     {
-      "nombre": "JESÚS ANTONIO ESTEVA MEDINA",
-      "cargo": "SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
       "categoria": "secretarios",
+      "intervenciones": 121
+    },
+    {
+      "nombre": "LIBIA DENNISE GARCÍA MUÑOZ LEDO",
+      "cargo": "GOBERNADORA DE GUANAJUATO",
+      "categoria": "gobernadores",
       "intervenciones": 64
     },
     {
-      "nombre": "JORGE MENDOZA SÁNCHEZ",
-      "cargo": "DIRECTOR GENERAL DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS (BANOBRAS)",
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
       "categoria": "directores",
-      "intervenciones": 25
+      "intervenciones": 16
     },
     {
-      "nombre": "LAURA VELÁZQUEZ ALZÚA",
-      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
-      "categoria": "otros",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
       "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "LETICIA RODRÍGUEZ SERRANO",
+      "cargo": "DIRECTORA DEL CENTRO DE EXCELENCIA EN PARTERÍA Y BIENESTAR EN SAN MIGUEL DE ALLENDE, GUANAJUATO",
+      "categoria": "directores",
       "intervenciones": 4
+    },
+    {
+      "nombre": "CLAUDIA CURIEL DE ICAZA",
+      "cargo": "SECRETARIA DE CULTURA",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
     }
   ]
 }
