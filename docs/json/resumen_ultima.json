@@ -1,58 +1,34 @@
 {
-  "fecha": "2026-09-18",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-21",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 83,
+  "n_preguntas": 64,
   "temas": [
-    "Guanajuato",
-    "Irapuato",
-    "Campo golf",
-    "Base operaciones",
-    "Agua león",
-    "Celaya"
+    "Rosario castellanos",
+    "Educación superior",
+    "Códice",
+    "Celulares",
+    "Kilo plátano",
+    "Pantallas"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 121
+      "intervenciones": 144
     },
     {
-      "nombre": "LIBIA DENNISE GARCÍA MUÑOZ LEDO",
-      "cargo": "GOBERNADORA DE GUANAJUATO",
-      "categoria": "gobernadores",
-      "intervenciones": 64
-    },
-    {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "nombre": "RICARDO VILLANUEVA LOMELÍ",
+      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR",
       "categoria": "secretarios",
       "intervenciones": 9
     },
     {
-      "nombre": "LETICIA RODRÍGUEZ SERRANO",
-      "cargo": "DIRECTORA DEL CENTRO DE EXCELENCIA EN PARTERÍA Y BIENESTAR EN SAN MIGUEL DE ALLENDE, GUANAJUATO",
-      "categoria": "directores",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
       "intervenciones": 1
     }
   ]
