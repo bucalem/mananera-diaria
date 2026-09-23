@@ -1,35 +1,23 @@
 {
-  "fecha": "2026-09-21",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-22",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 22 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-22-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 64,
+  "n_preguntas": 49,
   "temas": [
-    "Rosario castellanos",
-    "Educación superior",
-    "Códice",
-    "Celulares",
-    "Kilo plátano",
-    "Pantallas"
+    "Faltas graves",
+    "Anticorrupción buen",
+    "Usted construyó",
+    "Servidores públicos",
+    "Cooperativas",
+    "Puedes representar"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "RAQUEL BUENROSTRO SÁNCHEZ",
+      "cargo": "SECRETARIA ANTICORRUPCIÓN Y BUEN GOBIERNO",
       "categoria": "secretarios",
-      "intervenciones": 144
-    },
-    {
-      "nombre": "RICARDO VILLANUEVA LOMELÍ",
-      "cargo": "SUBSECRETARIO DE EDUCACIÓN SUPERIOR",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 1
+      "intervenciones": 65
     }
   ]
 }
