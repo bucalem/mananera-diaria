@@ -1,33 +1,45 @@
 {
-  "fecha": "2026-09-23",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-24",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 24 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-24-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 53,
+  "n_preguntas": 54,
   "temas": [
-    "Derecho vía",
-    "Agrupamiento ingenieros",
-    "Trenes",
-    "Ingenieros felipe",
-    "Ciento propiedad",
-    "Gustavo ricardo"
+    "Lego",
+    "Vicepresidenta senior",
+    "Senior manufactura",
+    "Digital telecomunicaciones",
+    "Economía digital",
+    "Pagos digitales"
   ],
   "participantes": [
     {
-      "nombre": "ANDRÉS LAJOUS LOAEZA",
-      "cargo": "DIRECTOR GENERAL DE LA AGENCIA DE TRENES Y TRANSPORTE PÚBLICO INTEGRADO (ATTRAPI)",
-      "categoria": "directores",
-      "intervenciones": 50
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
+      "nombre": "JOSÉ ANTONIO PEÑA MERINO",
+      "cargo": "TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES",
       "categoria": "otros",
-      "intervenciones": 4
+      "intervenciones": 169
     },
     {
-      "nombre": "NÉSTOR NÚÑEZ LÓPEZ",
-      "cargo": "TITULAR DE LA UNIDAD DE VINCULACIÓN INSTITUCIONAL Y PATRIMONIO DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES (SICT)",
+      "nombre": "NANCY SÁNCHEZ MOYA",
+      "cargo": "DIRECTORA GENERAL Y VICEPRESIDENTA SENIOR DE MANUFACTURA PARA AMÉRICA DE LEGO",
+      "categoria": "directores",
+      "intervenciones": 81
+    },
+    {
+      "nombre": "MARCELO EBRARD CASAUBON",
+      "cargo": "SECRETARIO DE ECONOMÍA",
+      "categoria": "secretarios",
+      "intervenciones": 16
+    },
+    {
+      "nombre": "JORGE LUIS PÉREZ HERNÁNDEZ",
+      "cargo": "COORDINADOR NACIONAL DE INFRAESTRUCTURA DIGITAL DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES",
+      "categoria": "otros",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
       "intervenciones": 4
     }
