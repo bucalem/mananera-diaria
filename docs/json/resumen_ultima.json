@@ -1,59 +1,41 @@
 {
-  "fecha": "2026-09-25",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 25 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-25-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-28",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 67,
+  "n_preguntas": 49,
   "temas": [
-    "Cacao",
-    "Vida tabasco",
-    "Pequeñas pequeños",
-    "Sindicatos",
-    "Sindicato mayoritario",
-    "Protección ciudadana"
+    "Comondú",
+    "Agroexportación",
+    "Posiciones trabajo",
+    "Certificado laboral",
+    "Giei",
+    "Protección civil"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 324
+      "nombre": "LAURA VELÁZQUEZ ALZÚA",
+      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
+      "categoria": "otros",
+      "intervenciones": 64
     },
     {
-      "nombre": "JAVIER MAY RODRÍGUEZ",
-      "cargo": "GOBERNADOR DE TABASCO",
+      "nombre": "MARATH BOLAÑOS LÓPEZ",
+      "cargo": "SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL",
+      "categoria": "secretarios",
+      "intervenciones": 37
+    },
+    {
+      "nombre": "VÍCTOR MANUEL CASTRO COSÍO",
+      "cargo": "GOBERNADOR DE BAJA CALIFORNIA SUR",
       "categoria": "gobernadores",
       "intervenciones": 16
     },
     {
-      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
-      "cargo": "SECRETARIA DE TURISMO",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "MARÍA LUISA ALBORES GONZÁLEZ",
-      "cargo": "DIRECTORA GENERAL DE ALIMENTACIÓN PARA EL BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 4
     }
   ]
 }
