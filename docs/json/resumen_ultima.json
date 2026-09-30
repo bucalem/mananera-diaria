@@ -1,41 +1,65 @@
 {
-  "fecha": "2026-09-28",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-29",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 49,
+  "n_preguntas": 33,
   "temas": [
-    "Comondú",
-    "Agroexportación",
-    "Posiciones trabajo",
-    "Certificado laboral",
-    "Giei",
-    "Protección civil"
+    "Mil camas",
+    "Funeraria",
+    "Migración secretaría",
+    "Población migración",
+    "Humanos población",
+    "Millones consultas"
   ],
   "participantes": [
+    {
+      "nombre": "FÉLIX ARTURO MEDINA PADILLA",
+      "cargo": "SUBSECRETARIO DE DERECHOS HUMANOS, POBLACIÓN Y MIGRACIÓN DE LA SECRETARÍA DE GOBERNACIÓN",
+      "categoria": "secretarios",
+      "intervenciones": 100
+    },
     {
       "nombre": "LAURA VELÁZQUEZ ALZÚA",
       "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
       "categoria": "otros",
-      "intervenciones": 64
+      "intervenciones": 25
     },
     {
-      "nombre": "MARATH BOLAÑOS LÓPEZ",
-      "cargo": "SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL",
+      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
       "categoria": "secretarios",
-      "intervenciones": 37
+      "intervenciones": 10
+    },
+    {
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
+      "intervenciones": 8
+    },
+    {
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "categoria": "directores",
+      "intervenciones": 4
     },
     {
       "nombre": "VÍCTOR MANUEL CASTRO COSÍO",
       "cargo": "GOBERNADOR DE BAJA CALIFORNIA SUR",
       "categoria": "gobernadores",
-      "intervenciones": 16
+      "intervenciones": 4
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 4
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
+      "categoria": "secretarios",
+      "intervenciones": 1
     }
   ]
 }
