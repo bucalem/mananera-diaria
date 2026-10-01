@@ -1,64 +1,58 @@
 {
-  "fecha": "2026-09-29",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de septiembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-septiembre-de-2026?idiom=es",
+  "fecha": "2026-09-30",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 30 de septiembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-30-de-septiembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 33,
+  "n_preguntas": 64,
   "temas": [
-    "Mil camas",
-    "Funeraria",
-    "Migración secretaría",
-    "Población migración",
-    "Humanos población",
-    "Millones consultas"
+    "Nacionalidad",
+    "Constitución nayarit",
+    "Sector ambiental",
+    "Quieres ser",
+    "Ambientalismo humanista",
+    "Agua entubada"
   ],
   "participantes": [
     {
-      "nombre": "FÉLIX ARTURO MEDINA PADILLA",
-      "cargo": "SUBSECRETARIO DE DERECHOS HUMANOS, POBLACIÓN Y MIGRACIÓN DE LA SECRETARÍA DE GOBERNACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 100
-    },
-    {
-      "nombre": "LAURA VELÁZQUEZ ALZÚA",
-      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
+      "nombre": "SARAHÍ ESMERALDA ARELLANO RODRÍGUEZ",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
       "categoria": "otros",
-      "intervenciones": 25
+      "intervenciones": 36
     },
     {
-      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
+      "nombre": "ALICIA BÁRCENA IBARRA",
+      "cargo": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
       "categoria": "secretarios",
-      "intervenciones": 10
+      "intervenciones": 16
     },
     {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
-      "intervenciones": 8
-    },
-    {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
-      "categoria": "directores",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "VÍCTOR MANUEL CASTRO COSÍO",
-      "cargo": "GOBERNADOR DE BAJA CALIFORNIA SUR",
+      "nombre": "DAVID MONREAL ÁVILA",
+      "cargo": "GOBERNADOR DE ZACATECAS",
       "categoria": "gobernadores",
       "intervenciones": 4
     },
     {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 1
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
+      "categoria": "secretarios",
+      "intervenciones": 4
     },
     {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
-      "categoria": "secretarios",
+      "nombre": "EFRAÍN MORALES LÓPEZ",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DEL AGUA (CONAGUA)",
+      "categoria": "directores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "RODRIGO CHÁVEZ CONTRERAS",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE VIVIENDA (CONAVI)",
+      "categoria": "directores",
       "intervenciones": 1
     }
   ]
