@@ -1,33 +1,45 @@
 {
-  "fecha": "2026-10-02",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 02 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-05",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 05 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-05-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 19,
+  "n_preguntas": 63,
   "temas": [
-    "Carlos chávez",
-    "Emociones",
-    "Grupo trabajo",
-    "Plataformas digitales",
-    "Abc",
-    "Contenidos"
+    "Academia internacional",
+    "Tejedoras",
+    "Violencias",
+    "Reyes evangelista",
+    "Operativo espejo",
+    "Lorena alcaide"
   ],
   "participantes": [
     {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
-      "categoria": "secretarios",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "LAURA ITZEL CASTILLO",
+      "cargo": "SECRETARIA DE LAS MUJERES",
       "categoria": "secretarios",
       "intervenciones": 9
     },
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "nombre": "INGRID GÓMEZ SARACIBAR",
+      "cargo": "SUBSECRETARIA DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIAS DE LA SECRETARÍA DE LAS MUJERES",
+      "categoria": "secretarios",
+      "intervenciones": 8
+    },
+    {
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "MARÍA ELVIRA CONCHEIRO BÓRQUEZ",
+      "cargo": "SUBSECRETARIA DE IGUALDAD SUSTANTIVA",
+      "categoria": "secretarios",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "LAURA ITZEL CASTILLO JUÁREZ",
+      "cargo": "SECRETARIA DE LAS MUJERES",
       "categoria": "secretarios",
       "intervenciones": 1
     }
