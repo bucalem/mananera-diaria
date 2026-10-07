@@ -1,45 +1,81 @@
 {
-  "fecha": "2026-10-05",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 05 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-05-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-06",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 63,
+  "n_preguntas": 64,
   "temas": [
-    "Academia internacional",
-    "Tejedoras",
-    "Violencias",
-    "Reyes evangelista",
-    "Operativo espejo",
-    "Lorena alcaide"
+    "Grupo alto",
+    "Consultorios",
+    "Primaria salud",
+    "Menopausia",
+    "Cardio renal",
+    "Atención primaria"
   ],
   "participantes": [
     {
-      "nombre": "LAURA ITZEL CASTILLO",
-      "cargo": "SECRETARIA DE LAS MUJERES",
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
       "categoria": "secretarios",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "OLGA LIDIA RODRÍGUEZ VALLES",
+      "cargo": "BENEFICIARIA INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 25
+    },
+    {
+      "nombre": "ESTEBAN VILLEGAS VILLARREAL",
+      "cargo": "GOBERNADOR DE DURANGO",
+      "categoria": "gobernadores",
+      "intervenciones": 17
+    },
+    {
+      "nombre": "ZOÉ ROBLEDO ABURTO",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
+      "intervenciones": 17
+    },
+    {
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "INGRID GÓMEZ SARACIBAR",
-      "cargo": "SUBSECRETARIA DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIAS DE LA SECRETARÍA DE LAS MUJERES",
+      "nombre": "JESÚS SALVADOR VALENCIA GUZMÁN",
+      "cargo": "SUBSECRETARIO DE BIENESTAR",
       "categoria": "secretarios",
-      "intervenciones": 8
+      "intervenciones": 4
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "categoria": "directores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "IOVÁN ELÍAS PÉREZ HERNÁNDEZ",
+      "cargo": "SECRETARIO DE SEGURIDAD CIUDADANA DE QUERÉTARO",
       "categoria": "otros",
-      "intervenciones": 4
+      "intervenciones": 1
     },
     {
-      "nombre": "MARÍA ELVIRA CONCHEIRO BÓRQUEZ",
-      "cargo": "SUBSECRETARIA DE IGUALDAD SUSTANTIVA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "LAURA ITZEL CASTILLO JUÁREZ",
-      "cargo": "SECRETARIA DE LAS MUJERES",
+      "nombre": "LETICIA RAMÍREZ AMAYA",
+      "cargo": "SECRETARIA DE BIENESTAR",
       "categoria": "secretarios",
       "intervenciones": 1
     }
