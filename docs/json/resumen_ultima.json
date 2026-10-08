@@ -1,83 +1,41 @@
 {
-  "fecha": "2026-10-06",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-07",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 64,
+  "n_preguntas": 47,
   "temas": [
-    "Grupo alto",
-    "Consultorios",
-    "Primaria salud",
-    "Menopausia",
-    "Cardio renal",
-    "Atención primaria"
+    "Torres alta",
+    "Electricidad",
+    "Megawatts",
+    "Sistema eléctrico",
+    "Energía eléctrica",
+    "Ciclo combinado"
   ],
   "participantes": [
     {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
-      "categoria": "secretarios",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "OLGA LIDIA RODRÍGUEZ VALLES",
-      "cargo": "BENEFICIARIA INFONAVIT DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
+      "nombre": "EMILIA ESTHER CALLEJA ALOR",
+      "cargo": "DIRECTORA GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE)",
+      "categoria": "directores",
       "intervenciones": 25
     },
     {
-      "nombre": "ESTEBAN VILLEGAS VILLARREAL",
-      "cargo": "GOBERNADOR DE DURANGO",
-      "categoria": "gobernadores",
-      "intervenciones": 17
-    },
-    {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
-      "intervenciones": 17
-    },
-    {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "JESÚS SALVADOR VALENCIA GUZMÁN",
-      "cargo": "SUBSECRETARIO DE BIENESTAR",
+      "nombre": "LUZ ELENA GONZÁLEZ ESCOBAR",
+      "cargo": "SECRETARIA DE ENERGÍA",
       "categoria": "secretarios",
-      "intervenciones": 4
+      "intervenciones": 16
     },
     {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "nombre": "CUITLÁHUAC GARCÍA JIMÉNEZ",
+      "cargo": "DIRECTOR GENERAL DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL (CENAGAS)",
       "categoria": "directores",
       "intervenciones": 4
     },
     {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
-      "categoria": "directores",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "IOVÁN ELÍAS PÉREZ HERNÁNDEZ",
-      "cargo": "SECRETARIO DE SEGURIDAD CIUDADANA DE QUERÉTARO",
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
       "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "LETICIA RAMÍREZ AMAYA",
-      "cargo": "SECRETARIA DE BIENESTAR",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 4
     }
   ]
 }
