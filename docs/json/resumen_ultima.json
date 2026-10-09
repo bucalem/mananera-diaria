@@ -1,41 +1,41 @@
 {
-  "fecha": "2026-10-07",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 07 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-07-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-08",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 08 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 47,
+  "n_preguntas": 49,
   "temas": [
-    "Torres alta",
-    "Electricidad",
-    "Megawatts",
-    "Sistema eléctrico",
-    "Energía eléctrica",
-    "Ciclo combinado"
+    "Mundo maya",
+    "Pesos tarifa",
+    "Grupo mundo",
+    "Tulum",
+    "Nuevo uxmal",
+    "Tren maya"
   ],
   "participantes": [
     {
-      "nombre": "EMILIA ESTHER CALLEJA ALOR",
-      "cargo": "DIRECTORA GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE)",
+      "nombre": "LEOBARDO ÁVILA BOJÓRQUEZ",
+      "cargo": "DIRECTOR GENERAL DE MEXICANA DE AVIACIÓN",
       "categoria": "directores",
-      "intervenciones": 25
+      "intervenciones": 17
     },
     {
-      "nombre": "LUZ ELENA GONZÁLEZ ESCOBAR",
-      "cargo": "SECRETARIA DE ENERGÍA",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 16
+      "intervenciones": 4
     },
     {
-      "nombre": "CUITLÁHUAC GARCÍA JIMÉNEZ",
-      "cargo": "DIRECTOR GENERAL DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL (CENAGAS)",
+      "nombre": "RICARDO FLORES GONZÁLEZ",
+      "cargo": "DIRECTOR GENERAL DE GRUPO MUNDO MAYA",
       "categoria": "directores",
       "intervenciones": 4
     },
     {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
-      "intervenciones": 4
+      "nombre": "MANUEL JAIME RAMÍREZ CAMACHO",
+      "cargo": "DIRECTOR GENERAL DEL TREN MAYA",
+      "categoria": "directores",
+      "intervenciones": 1
     }
   ]
 }
