@@ -1,40 +1,40 @@
 {
-  "fecha": "2026-10-08",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 08 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-09",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 49,
+  "n_preguntas": 48,
   "temas": [
-    "Mundo maya",
-    "Pesos tarifa",
-    "Grupo mundo",
-    "Tulum",
-    "Nuevo uxmal",
-    "Tren maya"
+    "Niños adolescentes",
+    "Contenidos",
+    "Protección niñas",
+    "Plataformas digitales",
+    "Niñas niños",
+    "Hablar democracia"
   ],
   "participantes": [
     {
-      "nombre": "LEOBARDO ÁVILA BOJÓRQUEZ",
-      "cargo": "DIRECTOR GENERAL DE MEXICANA DE AVIACIÓN",
-      "categoria": "directores",
-      "intervenciones": 17
+      "nombre": "JOSÉ ANTONIO PEÑA MERINO",
+      "cargo": "TITULAR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES",
+      "categoria": "otros",
+      "intervenciones": 9
     },
     {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 4
+      "nombre": "LAURA VELÁZQUEZ ALZÚA",
+      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
+      "categoria": "otros",
+      "intervenciones": 9
     },
     {
-      "nombre": "RICARDO FLORES GONZÁLEZ",
-      "cargo": "DIRECTOR GENERAL DE GRUPO MUNDO MAYA",
+      "nombre": "EMILIA ESTHER CALLEJA ALOR",
+      "cargo": "DIRECTORA GENERAL DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE)",
       "categoria": "directores",
-      "intervenciones": 4
+      "intervenciones": 1
     },
     {
-      "nombre": "MANUEL JAIME RAMÍREZ CAMACHO",
-      "cargo": "DIRECTOR GENERAL DEL TREN MAYA",
-      "categoria": "directores",
+      "nombre": "EVELYN SALGADO PINEDA",
+      "cargo": "GOBERNADORA DE GUERRERO",
+      "categoria": "gobernadores",
       "intervenciones": 1
     }
   ]
