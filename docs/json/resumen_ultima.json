@@ -1,52 +1,58 @@
 {
-  "fecha": "2026-10-12",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 12 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-12-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-13",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 62,
+  "n_preguntas": 55,
   "temas": [
-    "Simon",
-    "Agrupaciones religiosas",
-    "Centavos",
-    "Nayarit sinaloa",
-    "Tipo producciones",
-    "Expareja fernando"
+    "Centros penitenciarios",
+    "Reinserción social",
+    "Unen barrio",
+    "Jóvenes unen",
+    "Desconcentrado prevención",
+    "Centro penitenciario"
   ],
   "participantes": [
     {
-      "nombre": "FABIÁN VÁZQUEZ ROMAÑA",
-      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
-      "categoria": "otros",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 81
+    },
+    {
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "categoria": "secretarios",
+      "intervenciones": 49
+    },
+    {
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 9
     },
     {
-      "nombre": "INDIRA VIZCAÍNO SILVA",
-      "cargo": "GOBERNADORA DE COLIMA",
-      "categoria": "gobernadores",
+      "nombre": "JACOBO OLAF RODRÍGUEZ GARCÍA",
+      "cargo": "TITULAR DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO DE PREVENCIÓN Y REINSERCIÓN SOCIAL",
+      "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "MARINA DEL PILAR ÁVILA OLMEDA",
-      "cargo": "GOBERNADORA DE BAJA CALIFORNIA",
-      "categoria": "gobernadores",
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
+      "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 1
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
+      "intervenciones": 4
     },
     {
-      "nombre": "EVELYN SALGADO PINEDA",
-      "cargo": "GOBERNADORA DE GUERRERO",
-      "categoria": "gobernadores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "LAURA VELÁZQUEZ ALZÚA",
-      "cargo": "COORDINADORA NACIONAL DE PROTECCIÓN CIVIL",
-      "categoria": "otros",
+      "nombre": "BEATRIZ OLIVARES PINAL",
+      "cargo": "TITULAR DEL CENTRO NACIONAL DE PREVENCIÓN DEL DELITO Y PARTICIPACIÓN CIUDADANA DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
