@@ -1,58 +1,52 @@
 {
-  "fecha": "2026-10-13",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-14",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 55,
+  "n_preguntas": 30,
   "temas": [
-    "Centros penitenciarios",
-    "Reinserción social",
-    "Unen barrio",
-    "Jóvenes unen",
-    "Desconcentrado prevención",
-    "Centro penitenciario"
+    "Sembrando vida",
+    "Niños adolescentes",
+    "Desarrollo rural",
+    "Agricultura desarrollo",
+    "Millones árboles",
+    "Programa vivienda"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "nombre": "CATALINA ÁLVAREZ HERNÁNDEZ",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 100
+    },
+    {
+      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
+      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
       "categoria": "secretarios",
       "intervenciones": 81
     },
     {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
-      "categoria": "secretarios",
-      "intervenciones": 49
+      "nombre": "MARÍA ELENA LEZAMA ESPINOSA",
+      "cargo": "GOBERNADORA DE QUINTANA ROO",
+      "categoria": "gobernadores",
+      "intervenciones": 25
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "JACOBO OLAF RODRÍGUEZ GARCÍA",
-      "cargo": "TITULAR DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO DE PREVENCIÓN Y REINSERCIÓN SOCIAL",
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
       "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "BEATRIZ OLIVARES PINAL",
-      "cargo": "TITULAR DEL CENTRO NACIONAL DE PREVENCIÓN DEL DELITO Y PARTICIPACIÓN CIUDADANA DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD",
-      "categoria": "secretarios",
+      "nombre": "ADRIANA",
+      "cargo": "HIJA BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
       "intervenciones": 1
     }
   ]
