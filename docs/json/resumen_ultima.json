@@ -1,53 +1,29 @@
 {
-  "fecha": "2026-10-14",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-15",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 30,
+  "n_preguntas": 48,
   "temas": [
-    "Sembrando vida",
-    "Niños adolescentes",
-    "Desarrollo rural",
-    "Agricultura desarrollo",
-    "Millones árboles",
-    "Programa vivienda"
+    "Enero agosto",
+    "Dialogo",
+    "Derecho residente",
+    "Millones viajeros",
+    "Jose",
+    "Viajeros internacionales"
   ],
   "participantes": [
     {
-      "nombre": "CATALINA ÁLVAREZ HERNÁNDEZ",
-      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 100
-    },
-    {
-      "nombre": "COLUMBA JAZMÍN LÓPEZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
+      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
+      "cargo": "SECRETARIA DE TURISMO",
       "categoria": "secretarios",
-      "intervenciones": 81
+      "intervenciones": 49
     },
     {
-      "nombre": "MARÍA ELENA LEZAMA ESPINOSA",
-      "cargo": "GOBERNADORA DE QUINTANA ROO",
-      "categoria": "gobernadores",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
-      "categoria": "directores",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 9
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "ADRIANA",
-      "cargo": "HIJA BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 1
     }
   ]
 }
