@@ -1,29 +1,47 @@
 {
-  "fecha": "2026-10-15",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-16",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 16 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-16-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 48,
+  "n_preguntas": 95,
   "temas": [
-    "Enero agosto",
-    "Dialogo",
-    "Derecho residente",
-    "Millones viajeros",
-    "Jose",
-    "Viajeros internacionales"
+    "Agave",
+    "Tzanembolom",
+    "Academia mexicana",
+    "Rosario castellanos",
+    "Mexicana ciencias",
+    "Unidades académicas"
   ],
   "participantes": [
     {
-      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
-      "cargo": "SECRETARIA DE TURISMO",
+      "nombre": "MARIO DELGADO CARRILLO",
+      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 49
+      "intervenciones": 25
     },
     {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
+      "nombre": "FABIÁN VÁZQUEZ ROMAÑA",
+      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
+      "categoria": "otros",
       "intervenciones": 9
+    },
+    {
+      "nombre": "ALMA XÓCHITL HERRERA MÁRQUEZ",
+      "cargo": "RECTORA DE LA UNIVERSIDAD NACIONAL ROSARIO CASTELLANOS",
+      "categoria": "otros",
+      "intervenciones": 5
+    },
+    {
+      "nombre": "MÓNICA FERNÁNDEZ BALBOA",
+      "cargo": "DIRECTORA GENERAL DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO",
+      "categoria": "directores",
+      "intervenciones": 5
+    },
+    {
+      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
+      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
+      "categoria": "secretarios",
+      "intervenciones": 4
     }
   ]
 }
