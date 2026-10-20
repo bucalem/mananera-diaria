@@ -1,16 +1,16 @@
 {
-  "fecha": "2026-10-16",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 16 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-16-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-19",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 19 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-19-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 95,
+  "n_preguntas": 73,
   "temas": [
-    "Agave",
-    "Tzanembolom",
-    "Academia mexicana",
-    "Rosario castellanos",
-    "Mexicana ciencias",
-    "Unidades académicas"
+    "Orden intervenir",
+    "Centro alertamiento",
+    "Prepa línea",
+    "Calaveritas",
+    "Beca",
+    "Estudiantes sistema"
   ],
   "participantes": [
     {
@@ -20,28 +20,16 @@
       "intervenciones": 25
     },
     {
-      "nombre": "FABIÁN VÁZQUEZ ROMAÑA",
-      "cargo": "COORDINADOR GENERAL DEL SERVICIO METEOROLÓGICO NACIONAL",
+      "nombre": "JULIO CÉSAR LEÓN TRUJILLO",
+      "cargo": "COORDINADOR NACIONAL DE BECAS PARA EL BIENESTAR",
       "categoria": "otros",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "ALMA XÓCHITL HERRERA MÁRQUEZ",
-      "cargo": "RECTORA DE LA UNIVERSIDAD NACIONAL ROSARIO CASTELLANOS",
-      "categoria": "otros",
-      "intervenciones": 5
-    },
-    {
-      "nombre": "MÓNICA FERNÁNDEZ BALBOA",
-      "cargo": "DIRECTORA GENERAL DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO",
-      "categoria": "directores",
-      "intervenciones": 5
-    },
-    {
-      "nombre": "ROSAURA RUIZ GUTIÉRREZ",
-      "cargo": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (SECIHTI)",
-      "categoria": "secretarios",
       "intervenciones": 4
+    },
+    {
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 1
     }
   ]
 }
