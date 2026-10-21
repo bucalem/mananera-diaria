@@ -1,35 +1,29 @@
 {
-  "fecha": "2026-10-19",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 19 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-19-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-20",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 73,
+  "n_preguntas": 62,
   "temas": [
-    "Orden intervenir",
-    "Centro alertamiento",
-    "Prepa línea",
-    "Calaveritas",
-    "Beca",
-    "Estudiantes sistema"
+    "Cáncer mama",
+    "Sectorial coordinación",
+    "Coordinación servicios",
+    "Integración sectorial",
+    "Pastora",
+    "Servicios atención"
   ],
   "participantes": [
     {
-      "nombre": "MARIO DELGADO CARRILLO",
-      "cargo": "SECRETARIO DE EDUCACIÓN PÚBLICA",
+      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
       "categoria": "secretarios",
-      "intervenciones": 25
+      "intervenciones": 82
     },
     {
-      "nombre": "JULIO CÉSAR LEÓN TRUJILLO",
-      "cargo": "COORDINADOR NACIONAL DE BECAS PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
-      "intervenciones": 1
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
+      "intervenciones": 36
     }
   ]
 }
