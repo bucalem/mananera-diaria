@@ -1,40 +1,52 @@
 {
-  "fecha": "2026-10-21",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-22",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 22 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-22-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 64,
+  "n_preguntas": 41,
   "temas": [
-    "Ieps",
-    "Controles volumétricos",
-    "Combustibles",
-    "Gas",
-    "Mexicanos pemex",
-    "Comercializador"
+    "Parques industriales",
+    "Blanquita",
+    "Industriales privados",
+    "Mexicana parques",
+    "Ampip",
+    "Asociación mexicana"
   ],
   "participantes": [
     {
-      "nombre": "LUZ ELENA GONZÁLEZ ESCOBAR",
-      "cargo": "SECRETARIA DE ENERGÍA",
+      "nombre": "XIMENA ESCOBEDO JUÁREZ",
+      "cargo": "SUBSECRETARIA DE INDUSTRIA Y COMERCIO DE LA SECRETARÍA DE ECONOMÍA",
       "categoria": "secretarios",
-      "intervenciones": 121
+      "intervenciones": 25
     },
     {
-      "nombre": "JUAN CARLOS CARPIO FRAGOSO",
-      "cargo": "DIRECTOR GENERAL DE PETRÓLEOS MEXICANOS (PEMEX)",
-      "categoria": "directores",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
+      "nombre": "BLANCA",
+      "cargo": "BENEFICIARIA DEL PROGRAMA DE VIVIENDA PARA EL BIENESTAR",
       "categoria": "otros",
+      "intervenciones": 17
+    },
+    {
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
+      "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "JUAN JOSÉ VIDAL AMARO",
-      "cargo": "SUBSECRETARIO DE HIDROCARBUROS DE LA SECRETARÍA DE ENERGÍA",
-      "categoria": "secretarios",
+      "nombre": "EVELYN SALGADO PINEDA",
+      "cargo": "GOBERNADORA DE GUERRERO",
+      "categoria": "gobernadores",
       "intervenciones": 1
     }
   ]
