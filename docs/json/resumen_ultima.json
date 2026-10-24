@@ -1,52 +1,40 @@
 {
-  "fecha": "2026-10-22",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 22 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-22-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-23",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 41,
+  "n_preguntas": 77,
   "temas": [
-    "Parques industriales",
-    "Blanquita",
-    "Industriales privados",
-    "Mexicana parques",
-    "Ampip",
-    "Asociación mexicana"
+    "Consejo asesor",
+    "Sector salud",
+    "Fábrica inteligencia",
+    "Público formación",
+    "Expediente médico",
+    "Ninguna sombra"
   ],
   "participantes": [
     {
-      "nombre": "XIMENA ESCOBEDO JUÁREZ",
-      "cargo": "SUBSECRETARIA DE INDUSTRIA Y COMERCIO DE LA SECRETARÍA DE ECONOMÍA",
+      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
+      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
       "categoria": "secretarios",
-      "intervenciones": 25
+      "intervenciones": 49
     },
     {
-      "nombre": "BLANCA",
-      "cargo": "BENEFICIARIA DEL PROGRAMA DE VIVIENDA PARA EL BIENESTAR",
+      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
+      "cargo": "SECRETARIO DE SALUD",
+      "categoria": "secretarios",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ROLANDO MENCHACA MÉNDEZ",
+      "cargo": "PROFESOR TITULAR C EN EL INSTITUTO POLITÉCNICO NACIONAL",
       "categoria": "otros",
-      "intervenciones": 17
+      "intervenciones": 1
     },
     {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "EVELYN SALGADO PINEDA",
-      "cargo": "GOBERNADORA DE GUERRERO",
-      "categoria": "gobernadores",
+      "nombre": "ZAIDA ESTEFANÍA ALARCÓN BERNAL",
+      "cargo": "PROFESORA DE CARRERA Y COORDINADORA DE INGENIERÍA EN SISTEMAS BIOMÉDICOS, FACULTAD DE INGENIERÍA UNAM",
+      "categoria": "otros",
       "intervenciones": 1
     }
   ]

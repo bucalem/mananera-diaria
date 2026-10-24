@@ -1,0 +1,548 @@
+URL: https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-octubre-de-2026?idiom=es
+Fecha: 2026-10-23
+Título: Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de octubre de 2026
+
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Buenos días.
+PREGUNTA: Buenos días, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Cómo están?
+PREGUNTA: Bien, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gusto verlas, verlos.
+Bueno, el día de hoy tenemos invitadas e invitados.
+Está con nosotros el secretario de Salud, David Kershenobich, quien nos va a dar un mensaje, porque hoy es el Día de la Médica y el Médico.
+—Siéntense, por favor—.
+Después, está la secretaria, la doctora Rosaura Ruiz, secretaria de Ciencia, Humanidades, Tecnología e Innovación; José Antonio Merino, titular de la Agencia de Transformación Digital y Telecomunicaciones; Eduardo Clark, subsecretario de Integración y Desarrollo del Sector Salud.
+Y después, tenemos invitadas e invitados: la doctora Zaida Estefanía Alarcón Bernal, profesora de carrera y coordinadora de Ingeniería en Sistemas Biomédicos de la Facultad de Ingeniería de la UNAM; el doctor Cuauhtémoc Sánchez Ramírez, profesor investigador del Instituto Tecnológico de Orizaba del Tecnológico Nacional de México; el doctor Jonás Velasco Álvarez, investigador del CIMAT de Aguascalientes; el doctor Rolando Menchaca Méndez, profesor titular C en el Instituto Politécnico Nacional; y Javier Campos Alvarado, director de la Fábrica de Inteligencia Artificial, de la Agencia de Transformación Digital.
+Son jóvenes brillantes que son parte de este laboratorio de Inteligencia Artificial que presentamos hace casi un año, que han estado trabajando y que se integran a este equipo: Norma Angélica Zavaleta García, directora de Inteligencia Estadística de la Fábrica de Inteligencia Artificial; Jorge Miguel Téllez Torres, subdirector de Procesos Estocásticos e Investigación de Operaciones de la Fábrica de Inteligencia Artificial; Viridiana Guadalupe Viveros, egresada del Centro Público de Formación en Inteligencia Artificial; y Gustavo Pérez Briones, egresado del Centro Público de Formación de Inteligencia Artificial.
+—¿Me faltó alguien? No. ¿Están todos?—.
+Bueno, ¿de qué se trata?
+Bueno, estamos formando el Consejo Asesor para la Transformación Digital del Sector Salud en México.
+Son expertas, expertos de instituciones públicas y jóvenes brillantes egresados, ​​también, de diversas instituciones que han estado trabajando en la Agencia de Transformación Digital. Y hemos consultado con ellos.
+Rosaura nos ayudó a contactarlos junto con el doctor Kershenobich, y Eduardo y Pepe, porque —como les he platicado, de las visitas que hemos estado haciendo y de las reuniones— necesitamos modernizar completamente el Sistema de Salud.
+A veces no necesariamente es un problema de que no se haya comprado un medicamento, porque se compró, pero el proceso de que ese medicamento llegue a las manos de un paciente, de un derechohabiente o incluso del área en donde va a haber un quirófano, o donde hay un quirófano en un hospital público, hay retrasos por diferentes razones.
+Entonces, lo que queremos es modernizar el sistema; que, desde la compra, los almacenes, la llegada a la farmacia del hospital, a las distintas áreas de los hospitales y la entrega a los pacientes sea un proceso automatizado, que sepamos exactamente la trazabilidad de cada medicamento.
+En este momento, hemos avanzado, pero no tenemos ese sistema.
+Podríamos haber contratado una empresa y decir: “a ver, empresa, ayúdanos a hacer esto”. Pero decidimos buscar a los mejores, a las expertas y expertos mexicanos que tienen doctorados en Inteligencia Artificial, en —¿cómo se llama?— operaciones, en investigación de operaciones, incluso en sistemas de distribución y abasto.
+Y por eso, estamos conformando este gran equipo, que queremos que en muy poco tiempo nos haga el sistema para poder ponerlo en marcha y que no haya ningún problema en el abasto, ni de medicamentos ni de insumos médicos para el Sector Salud.
+Estarían trabajando principalmente en el IMSS y en el IMSS Bienestar. Y vamos a ir presentando, aquí en “La mañanera”, los avances.
+Ahora se van a dedicar al diseño y en un mes queremos que nos den un primer resultado para que se presente aquí en “La mañanera” y poderlo implementar a partir de enero del próximo año, ese es el objetivo.
+Mientras tanto, estamos trabajando también para generar mecanismos de distribución, aunque sean manuales de información desde los hospitales, para que en lo que se implemente este sistema no haya ningún problema en el abasto.
+Pero, así como las grandes empresas transnacionales piden uno por la computadora, por el teléfono, un producto y le llega uno al otro día, pues así queremos que funcione el Sistema de Salud de nuestro país, y para eso están los expertos.
+Entonces, primero le doy la palabra al doctor Kershenobich. Es un mensaje de agradecimiento, de admiración a todas y todos los médicos mexicanos que nos ayudan a salvar vidas, y a quienes les tenemos todo el agradecimiento.
+Y después, le damos la palabra a Eduardo Clark para que nos platique de qué se trata.
+Y después, a las y los expertos para que nos platiquen cómo van a trabajar.
+Bueno, vamos con el doctor.
+SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ: Con su permiso, Presidenta. Buenos días a todas y todos.
+Hay una frase que dice: “agradecer es reconocer”. Y hoy, que es Día de la Médica y del Médico, queremos agradecerles a todos los profesionales de la salud de esta rama que en forma cotidiana tienen que ver con la atención de toda la población.
+Y, además, agradecerles el hecho de que estén participando en esta transformación, en donde estamos enfocando muy fundamentalmente la prevención como una de las actividades más importantes.
+Las médicas y los médicos empiezan desde su formación en las universidades, en las aulas. Y ahí empiezan con ese compromiso muy importante que tiene la Presidenta, que es el humanismo.
+La profesión de Medicina es una de las que más tiene que ver con el humanismo. Y después, pasan por su etapa de formación, por la residencia, por la actividad comunitaria, por la especialización.
+Pero tiene un gran significado el ejercicio de la Medicina, y es el poder estar en contacto con la población y poder tener y conocer no nada más sus padecimientos, sino también sus sentimientos, su entorno, etcétera.
+Así es que, aprovechar este Día de la Médica y del Médico para enviarles una felicitación y un agradecimiento —como mencionó la Presidenta— a todos y todos los que ejercen esta profesión.
+Muchas gracias.
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: Gracias, Presidenta. Con su permiso.
+Hola, muy buenos días a todos.
+Hoy estamos muy contentos de poder anunciar este grupo de trabajo para la transformación digital del Sector Salud para el beneficio de todos los mexicanos, de todas las mexicanas, de todo el pueblo de México.
+Y les queremos platicar un poco cómo vamos a trabajar y cuáles son los objetivos centrales, además de muy importantemente platicarles de cada uno de los miembros de este grupo; y un poco, quiénes son, por qué los escogimos; y que puedan ver, un poco, por qué creemos que es un gran equipo para formar el trabajo que debemos llevar a cabo en los siguientes meses para el beneficio de todos.
+Estamos llamando a este grupo —como ya lo anunciaba la Presidenta— “el Consejo Asesor para la Transformación Digital del Sector Salud”, esto para el beneficio del pueblo de México, de todos los mexicanos y las mexicanas que se atienden en el IMSS, el ISSSTE, el IMSS Bienestar, los Institutos Nacionales de Salud, los Servicios de Salud de Pemex, todo el Sector Salud que da servicio en todos los estados del país, en todas las localidades y municipios a los mexicanos.
+Es un proyecto que vamos a coordinar desde la Secretaría de Salud, junto con la Agencia de Transformación Digital y que tiene dos grandes grupos de personas:
+Primero. Es un Consejo de Expertos, que son los doctores y doctora, que ya mencionaba la Presidenta.
+Así como un equipo un poquito más joven, no tanto, solo un poquito, de jóvenes muy muy talentosos que han pasado por la Agencia de Transformación Digital en la fábrica de Inteligencia Artificial y el Centro Público de Formación, para que ayuden a este Consejo de Expertos a poder echar a andar, no solo la parte conceptual de los proyectos, pero ya el desarrollo de los mismos, cómo los implementamos.
+Y no que es vaya a ser lo único que hagamos, pero hay tres grandes proyectos prioritarios que tenemos en mente:
+El primero es cómo generamos mecanismos de solicitud en tiempo real de necesidades, cómo escuchamos a los pacientes, a los médicos, a las enfermeras, a todo el personal de salud para poder, ante la identificación de que algo se necesita, algo hace falta, poder gestionarlo de la manera más urgente posible para atenderlos.
+En segundo lugar, la gestión de nuestros almacenes e inventarios. Ustedes ya saben, porque hemos hablado de la compra, el Sector Salud todos los años utiliza cerca de 3 mil millones de piezas de insumos médicos y medicamentos. Es un mundo, es un universo gigantesco que tenemos que optimizar de la mejor manera, no solo para aprovechar los recursos de todos nosotros, pero también para que estos se muevan de la manera más eficiente posible.
+Y, por último, estos cerca de 3 mil millones de insumos, se mueven a más de mil hospitales, a casi 15 mil Centros de Salud y unidades médicas de primer nivel, y tenemos que optimizar para que lo más rápido posible la necesidad que se identifica en un hospital, en un Centro de Salud, llegue el insumo que requieran de la manera más eficiente posible.
+Y ahora les platico quiénes integran este Consejo Asesor, del cual estamos muy entusiasmados de anunciar el día de hoy:
+En primer lugar, tenemos a la doctora Zaida Estefanía Alarcón Bernal. Ella es doctora en ingeniería con especialización en Investigación de Operaciones por nuestra Universidad Nacional Autónoma de México.
+Y como pueden ver aquí, tiene una experiencia en cadena de suministro, control y distribución de inventarios e insumos clínicos, entonces, solo un poquito relevante para lo que tenemos que hacer; así como flujo de pacientes, modelación de capacidad y eliminación de cuellos de botella. Un sistema que atiende a 130 millones de mexicanos tiene que optimizarse de la mejor manera posible, y creemos que la doctora nos puede ayudar muchísimo.
+En segundo lugar, tenemos al doctor Cuauhtémoc Sánchez Ramírez. Él es doctor en Ciencia y Tecnología con especialidad en Ingeniería Industrial y de Manufactura por la Corporación Mexicana de Investigación en Materiales. Actualmente, es profesor investigador del Instituto Tecnológico de Orizaba, que es parte del Tecnológico Nacional de México, y tiene el Premio Nacional de Logística del 2017.
+Los proyectos en los que ha participado también son de logística y cadena de suministro, utilizando técnicas de modelación y simulación dinámica y análisis de sistemas complejos, además de otros temas como: energía y biocombustibles, industria y comercio exterior y, muy importantemente, también experiencia en salud pública, en modelaje epidemiológico e impacto operativo de gestión hospitalaria.
+Tenemos también al doctor Jonás Velasco Álvarez. Él es doctor en Ingeniería de Sistemas por la Universidad Autónoma de Nuevo León y actualmente, investigador en el CIMAT de Aguascalientes. Su experiencia y su investigación se centran en localización de almacenes y planeación de rutas de transporte, en pronóstico de demanda, inventarios y asignación de recursos públicos, y desarrollo propio de logística humanitaria y plataformas para planear distribución de ayuda y calcular rutas que evitan zonas afectadas por desastres.
+Y tenemos también al doctor Rolando Menchaca Méndez. Él tiene un doctorado en la Universidad de California, en Santa Cruz, en Ingeniería en Computación. Y su experiencia ha sido un híbrido entre el sector público: ha sido director general de Tecnologías de la Información en la Secretaría de la Función Pública, y ha desarrollado múltiples sistemas de información para la Administración Pública Federal; además de tener investigación en optimización combinatoria y uso de técnicas clásicas y basadas en aprendizaje de máquina para abordar problemas de logística, localización de centros de distribución y diseño de redes.
+Estos son los cuatro miembros del Consejo Asesor que van a complementarse con nuestros jóvenes mexicanos de la fábrica de software, que son los siguientes:
+Tenemos a Javier Campos Alvarado. El ingeniero Campos es ingeniero en Sistemas Computacionales con especialidad en Redes. Él estudió en el Instituto Tecnológico de Matamoros. Y su experiencia se ha centrado como programador y analista de datos en el sector público. Dirige actualmente, junto con el equipo de la Agencia de Transformación Digital, el desarrollo de algoritmos de Inteligencia Artificial para medición de riesgos, atención ciudadana, meteorología y optimización de procesos.
+También tenemos a la maestra Norma Angélica Zavaleta García. Ella tiene una licenciatura en Matemáticas y una maestría en Inteligencia Artificial. Estudió en la Universidad Veracruzana. Y actualmente trabaja como directora de Inteligencia Estadística en la Fábrica de Inteligencia Artificial. Su trabajo y experiencia se ha centrado en investigación de operaciones y modelado matemático. Y se desempeñó como docente también en educación media superior y superior. Diseña actualmente modelos de riesgo y sistemas inteligentes enfocados en la toma de decisiones para problemas de interés público.
+Tenemos también a Jorge Miguel Téllez Torres. Él tiene una licenciatura en Física —me recuerda alguien— de la Universidad Nacional Autónoma de México. Y es subdirector de Procesos Estocásticos e Investigación de Operaciones en también la Fábrica de Inteligencia Artificial. Se ha dedicado a la investigación en procesamiento del lenguaje natural mediante modelos de lenguaje extensos orientada al análisis y resolución de problemas sociales y aplicar nuestras técnicas para servicios inteligentes de atención ciudadana.
+Y tenemos dos miembros más:
+Primero. Viridiana Guadalupe Viveros Espinoza, ingeniera industrial con maestría en Sistemas Computacionales por el Instituto Tecnológico Superior de Teziutlán. Ella tiene la distinción de haber sido formada en este último año por este Centro Público de Formación en Inteligencia Artificial que creó nuestra Presidenta de la mano de la Agencia de Transformación Digital y, habiéndose formado ahí, ahora se suma al equipo de lleno para llevar a cabo este proyecto.
+Su experiencia es en análisis de datos, desarrollo de software y aprendizaje de máquinas para optimizar procesos productivos, diseño y despliegue de modelos predictivos, y aplicaciones internas y soporte técnico integral de tecnologías de la información. Es —como les decía— una —espero— muy orgullosa, egresada de la primera generación del Centro Público de Formación en Inteligencia Artificial, donde acreditó el curso que ven en pantalla.
+Otro miembro —y el último miembro del equipo— es Gustavo Pérez Briones, él también se formó en este Centro de Público de Formación en Inteligencia Artificial. Él tiene una maestría en Ciencias de la Comunicación por el Centro de Investigación de Estudios Avanzados del Instituto Politécnico Nacional…Ciencias de la Computación, perdón. Estudió en el CIMAT del Poli y es egresado del Centro Público de Formación de IA también.
+Su experiencia es en desarrollo de herramientas en Java, Java Spring, que son lenguajes computacionales. Y tiene experiencia en integración de sistemas financieros y desarrollo de algunas herramientas que se llaman “APIs REST”, que son unos sistemas muy modernos; integración con bases de datos, implementación de autenticación y otro tipo de herramientas sofisticadas que esperamos traiga todo ese talento a este equipo.
+Este es el grupo, cuatro personas en el Consejo Asesor y estos cinco jóvenes, parte de la fábrica de Inteligencia Artificial.
+Y ya, por último —con esto cierro— la idea de este Consejo Asesor, el objetivo central —como decía ya la Presidenta— es que muy muy rápidamente podamos traer toda su experiencia, toda su expertise, toda su creatividad.
+Y lo más importante, creo que como todos los que estamos de este lado en México, el cariño por el pueblo de México y la necesidad de mejorar nuestro Sector Salud para integrar las distintas fuentes de información que tenemos a disposición para analizar: fuentes de las unidades médicas, de los almacenes que tenemos; los medicamentos que se compran, dónde están, cuánto se consumen; el consumo de estos inventarios y la ubicación de las farmacias y todas las redes que tenemos ya desplegadas, que tenemos que mejorar de abastecimiento logístico y geografía.
+Y con esa información, con su talento, con lo que han aprendido, con lo que desarrollemos juntos, pues hacer la optimización de las rutas logísticas, que nos minimicen los tiempos y costos de distribución para que los insumos lleguen más rápido donde se requieren.
+Optimizar el abastecimiento para que las farmacias, los Centros de Salud, los hospitales, tengan asignados los medicamentos según lo que requieren siempre en el momento que lo necesitan.
+Y de una manera muy importante, predecir las necesidades y anticiparlas para poder atender a todos los mexicanos en el sector público.
+Esto es el proyecto, estamos muy entusiasmados y —como mencionaba la Presidenta— nuestro objetivo es en aproximadamente un mes, por ahí del 23 de noviembre, poder presentarles a todos ustedes, a los que nos escuchan, a todos los interesados, al Sector Salud, cuál es el plan de trabajo y cómo vamos a desarrollar e implementar esto en el IMSS, el ISSSTE y en el Sector Salud en general.
+Muchísimas gracias.
+Pasarían, entonces…No sé quién quiera. Doctora, Zaida, si quiere, adelante.
+PROFESORA DE CARRERA Y COORDINADORA DE INGENIERÍA EN SISTEMAS BIOMÉDICOS, FACULTAD DE INGENIERÍA UNAM, ZAIDA ESTEFANÍA ALARCÓN BERNAL: Gracias, Presidenta. Gracias, subsecretario.
+Bueno, yo soy Zaida Alarcón. Y, bueno, justo como mencionaron, el área en la que yo trabajo es Investigación de Operaciones aplicada a la mejora principalmente del Sector Salud.
+Y, bueno, considero un gran honor y un gran privilegio ser parte de este Consejo para intervenir un sector tan complejo, con tantas aristas y con tantos problemas en nuestro país.
+El trabajo interdisciplinario desde la ciencia, desde la tecnología, la intervención para la transformación digital debe estar soportada desde muchos conocimientos que desarrollamos en las universidades, en las universidades públicas, y particularmente en esta área de la optimización de la investigación de operaciones. Y considero de gran relevancia, de gran importancia, que de manera transdisciplinaria podamos intervenir.
+Finalmente, la salud es un derecho de todos y la accesibilidad, tanto a medicamentos como a insumos, pero también a los servicios, es fundamental, pensado desde la ciencia, desde la tecnología y desde lo que podemos hacer desde las universidades, pero también generar impactos grandes desde una planeación adecuada y, bueno, que finalmente es lo que buscamos: que se eficiente y se mejore cosas que se pueden hacer en el resto de la industria, pero en un sector prioritario para toda nuestra sociedad.
+Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Muchas gracias, Zaida.
+—¿Quién más?—.
+INVESTIGADOR POR MÉXICO DE LA SECIHTI Y CIMAT AGUASCALIENTES, JONÁS VELASCO ÁLVAREZ: Hola. Muy buenos días, Presidenta. Muy buenos días a todas y todos.
+Bueno, agradezco sinceramente la oportunidad de pertenecer a este Consejo. Es para mí un honor formar parte de nuestros colegas.
+Mi nombre es Jonás Velasco Álvarez. Soy investigador por México de la Secihti. Y bueno, estoy comisionado al Centro de Investigación en Matemáticas, el CIMAT.
+Mi trabajo consiste prácticamente en aplicar las matemáticas y la ciencia de datos para resolver problemas de complejidad. En este caso tenemos el tema de logística, transporte. Y bueno, prácticamente tenemos un objetivo muy claro, que es aprovechar mejor los recursos que tenemos disponibles.
+Dentro de las líneas que he trabajado en planeación de rutas, me ha tocado desarrollar sistemas de planeación en cuestión de logística en situaciones de desastre. Y todo este conocimiento quiero traer a contribución aquí en este proyecto en el cual nos encomiendan.
+En cada modelo, en cada algoritmo que se tienen ahí implementados tenemos un propósito muy claro: que las decisiones se tomen mejor con la información y que estas respondan a necesidades concretas de la sociedad.
+Y, bueno, con este compromiso me sumo a este Consejo con toda la disposición de aportar y de trabajar juntos por México.
+Muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+—¿Alguien más?—.
+PROFESOR TITULAR C EN EL INSTITUTO POLITÉCNICO NACIONAL, ROLANDO MENCHACA MÉNDEZ: Muy buenos días, señora Presidenta.
+Pues como se hizo en la presentación, yo soy profesor del Politécnico. Y para un politécnico no puede haber un honor más grande que poner la técnica al servicio de la patria; en este caso, aportando a soluciones a mejorar nuestro Sistema de Salud, que en realidad es un reto desde el punto de vista científico y técnico muy bonito por la escala que tiene, pero, sobre todo, por el impacto que puede haber en la calidad de vida de las personas.
+En particular, yo estoy convencido de que, a partir de este enfoque basado en ciencia, que siento que es un rasgo de este gobierno, podemos introducir un cambio fundamental en la calidad de servicio que se va a materializar en una mejor calidad de vida de las personas.
+Estoy convencido de que este proyecto va a dar resultados que se van a notar, que se va a hablar en el futuro, de un antes y un después, de la implementación de esta iniciativa.
+Y es realmente un honor y un privilegio formar parte de este equipo.
+Muchas gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Adelante, doctor—.
+PROFESOR INVESTIGADOR DEL INSTITUTO TECNOLÓGICO DE ORIZABA DEL TECNOLÓGICO NACIONAL DE MÉXICO, CUAUHTÉMOC SÁNCHEZ RAMÍREZ: Qué tal. Buenos días.
+Mi nombre es Cuauhtémoc Sánchez Ramírez. Vengo representando al Tecnológico Nacional de México del Instituto Tecnológico de Orizaba.
+Y, antes que nada, agradezco, Doctora, la invitación, al igual que a la doctora Rosaura, para pertenecer a este Consejo.
+Y, bueno, el Tecnológico Nacional —como saben— es uno de los sistemas más grandes educativos y contamos con diferentes expertos.
+En mi caso particular, estoy en el área de Logística.
+Y como dijeron mis demás compañeros, estamos aquí para aportar nuestro grano de arena en este reto y compromiso que tenemos desde la ciencia y la academia para que podamos mejorar el Sistema de Salud. Entonces, crean que todo el sistema tecnológico también está presente y estaremos apoyando a este proyecto.
+Muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, la próxima semana vamos a informarles:
+Las incorporaciones de más médicos y médicas, enfermeras, enfermeros, paramédicos, en el Sistema de Salud, tanto en el IMSS como en el IMSS Bienestar y en el ISSSTE.
+La compra de equipos que estamos haciendo, que ya lo habíamos informado aquí, pero cuándo llegan, qué tipo de equipos son.
+También la compra de medicamentos que estamos haciendo.
+Obviamente, las Rutas de la Salud, Casa por Casa, Farmacias del Bienestar, los consultorios que estamos construyendo.
+Pero este proyecto es muy especial, porque nunca se había hecho: convocar a los científicos y las científicas mexicanas a ayudar a modernizar ya transformar el Sistema de Salud.
+Se convoca a médicos, a médicas, pero hay especialistas en distribución, en operación logística, en hacer más eficiente la distribución, en generar sistemas informáticos que nos permitan darle trazabilidad a los medicamentos; cómo deben diseñarse las rutas, cómo debe haber comunicación entre el Centro de Salud y el almacén, cómo debe haber comunicación entre el almacén, o el centro de distribución y el almacén, y el almacén central, incluso con el proveedor de los medicamentos.
+Y es un ejercicio que, además, es muy práctico, porque no se trata de construir una teoría, sino de aterrizarlo lo más pronto posible.
+Entonces, agradecemos mucho a todas y a todos.
+Y muy pronto vamos a estarles informando cómo vamos.
+Bueno, vamos a las preguntas.
+Vamos a hacer algo: vamos sobre el tema y después despedimos a nuestros invitados y nos quedamos a otras preguntas, si les parece.
+Bueno, vamos…¿sobre el tema?
+PREGUNTA: Sí, sobre el tema.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Adelante—.
+PREGUNTA: Muy buenos días a todas y todos. Inés Arroyo de ACI de Hidalgo, ACI México y Pulso Sur.
+Sería más sobre el Consejo Asesor de la Inteligencia Artificial para el Sector Salud, ¿cómo se estarán distribuyendo las responsabilidades entre los especialistas y el equipo de la Agencia de Transformación Digital?, y ¿cómo se estaría traduciendo ese trabajo en acciones concretas para mejorar el abasto de medicamentos? De cara a lo que habían mencionado de que se espera dar el primer informe el próximo 23 de noviembre, ¿qué avances esperan presentar?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —¿Quieren platicar cómo van a trabajar?—.
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: Les platico. La primera parte creo que es muy importante, si bien los expertos que ya presentamos, los jóvenes que ya conocieron, son personas conocedoras de temas de logística, de tema del Sector Salud. La primera parte es poderles exponer y facilitar toda la información y los datos que tenemos a disposición para que ellos los analicen, los optimicen y encuentren dentro de esos datos las avenidas de mejora.
+Entonces, esa es la primera parte, es la exploración, que conozcan no solo la información, pero muy importantemente también los procesos que llevamos a cabo. Esa es la primera parte del trabajo.
+A partir de eso, con el expertise que ellos cuentan, que puedan hacer las propuestas conceptuales, que las validemos juntos, que veamos la factibilidad, que las retroalimentemos también con el Sector Salud, que es quien opera cada día los hospitales, los Centros de Salud; y, a partir de eso, tengamos conjuntamente una propuesta y los tiempos de implementación. Eso es lo que presentaremos en aproximadamente un mes.
+Pero que sean propuestas —como decía la Presidenta— que se pueden ejecutar en el corto plazo y algunas que pueden ir un poco más lejos, pero que tengamos, a partir de noviembre, una idea de las primeras acciones; y qué recursos requieren en términos de desarrollo tecnológico, en términos de inversión en infraestructura tecnológica, en términos de modificación a la operación de los almacenes y las rutas logísticas para que tengan su primer resultado en territorio, en los Centros de Salud, en los hospitales, en los almacenes a partir de enero, pero ir trabajando también para hacer mejoras graduales.
+Pero para ser muy concreto, el objetivo es facilitarles la información, alguna ya es pública, pero otra es parte de los procesos internos del Sector Salud, para que, con eso, ellos y con lo que han trabajado previamente, puedan hacer propuestas de cambio y las retroalimentemos con el equipo de la Secretaría de Salud, del IMSS, del IMSS Bienestar y del ISSSTE.
+PREGUNTA: Muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Sobre el tema? —A ver sobre el tema, la compañera de…—.
+PREGUNTA: Buenos días, Presidenta. Adriana Santos, de El Soberano.
+Preguntarle acerca de este tema, y, bueno, posteriormente pedirle, si me da la palabra, conocer: estos esfuerzos para la transformación digital del Sector Salud, ¿qué impacto van a tener precisamente en las y los mexicanos que tienen ya sea la derechohabiencia o, bueno, con la puesta en marcha de la credencialización universal para unificar el servicio de salud?
+Y, sobre todo, ¿cómo se va a ver reflejado el esfuerzo de este trabajo en las zonas rurales, las que por años fueron marginadas y que, bueno, hoy son puntos prioritarios para garantizar el acceso a la salud?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: El equipo va a trabajar un sistema que ayude a los derechohabientes a que el medicamento esté en el lugar donde tiene que estar cuando lo necesitan, así de sencillo. Tiene su complejidad hacerlo, pero nos van a ayudar a hacer todo esto muy eficiente.
+Que quien esté en la farmacia sepa ese medicamento, si no está ahí, en qué Centro de Salud está. Si está en el almacén o no está en el almacén.
+Que el Centro de Distribución conozca si ya se terminó ese medicamento para que lo pueda suministrar de manera inmediata.
+Es decir, a optimizar todo este proceso.
+Y, al mismo tiempo que, a las médicas, los médicos quienes trabajan en el Sector Salud, pues también tengan todo su equipo e insumos en el momento que los necesiten, porque ha mejorado la compra de medicamentos.
+Tenemos las Rutas de la Salud en el IMSS Bienestar, sin embargo —como sabemos—, no necesariamente y —como les platiqué— a lo mejor no hay un insumo en un hospital, pero sí está en el almacén.
+Y esta comunicación entre uno y otro, que parece algo muy sencillo, cuando es vida cotidiana y se está usando permanentemente, pues a veces no se puede dar si no es a través de un sistema bien elaborado.
+Entonces, todo esto es para beneficio del pueblo de México, de las y los derechohabientes y del acceso a la salud de todas y todos los mexicanos, es poner —como bien dijo nuestro egresado del Poli— la técnica al servicio del pueblo y de la patria.
+PREGUNTA: Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Vamos. A ver, la compañera—.
+PREGUNTA: Presidenta, buenos días. Tere Mora Guillén, corresponsal en Ciudad de México del Canal de las Noticias, que se transmite en Ciudad Juárez, Chihuahua, Tijuana y Mexicali.
+Presidenta: con el Consejo Asesor para la Transformación Digital del Sector Salud para Beneficio del Pueblo, ¿cómo se garantiza que la interoperabilidad de los Expedientes Clínicos Electrónicos permita compartir información entre instituciones, reducir tiempos de espera y mejorar la atención de los pacientes, incluso en las comunidades más alejadas?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Eso es lo que nos van a ayudar. Porque queremos digitalizar el expediente médico, que ya vamos avanzados en el primer nivel de atención; que si eres derechohabiente del IMSS y por alguna razón estás en otro lado y te queda el ISSSTE más cercano, puedas ir a ese hospital del ISSSTE y tu expediente médico esté disponible; o si te cambias de ciudad, esté disponible el expediente médico, no importa en dónde estés.
+Pero, que ese expediente médico, si resulta que tienes diabetes y tienes que tomar un medicamento cada determinado tiempo, pues se garantice que ese medicamento esté en la farmacia donde tuviste tu… o dónde vives, cerca de donde vives, en los Centros de Salud y en los hospitales.
+Entonces, es un sistema de optimización de todo el servicio de salud pública que queremos que avance al Servicio Universal de Salud. Y ellos son las y los expertos que nos van a ayudar a este proceso.
+PREGUNTA: ¿Eso también va a permitir localizar hacia dónde van directamente los medicamentos?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí. Que no nos vuelva a pasar que hay un medicamento en el almacén y que no llega al Centro de Salud, sino que todo se haga de manera automática, vinculado con el expediente clínico del paciente.
+PREGUNTA: Ahora, ¿de qué manera se va a garantizar que esta tecnología se traduzca en beneficios reales para la población con un acceso más oportuno a los servicios médicos, a los expedientes y una atención de calidad independientemente de la institución o el lugar donde vivan los pacientes?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, no todo es la tecnología, pero va a ayudar muchísimo.
+Pero, además, no solo estamos haciendo esto. Ya hicimos el análisis de cuántas médicas y médicos hacen falta en el IMSS, en el ISSSTE y en el IMSS Bienestar.
+Primero, garantizar la contratación de todos aquellos que entraron en la pandemia y que aún no tienen su contratación formal.
+Otros, en el caso del IMSS Bienestar, que sigue pagándoles el Estado, aunque ya es un sistema centralizado y que tienen que formalizarse en el IMSS Bienestar.
+Y se está haciendo un análisis de cuántos médicos, cuántas enfermeras, cuántos camilleros, camilleras, tiene que haber en cada lugar.
+Y a partir de este mismo año contratar las urgencias, y a partir del próximo año un sistema muy claro de contratación.
+Y ahí donde hacen falta médicos especialistas —porque todavía nos faltan médicos especialistas en el país— puedan hacerse equipos de trabajo que puedan ir a garantizar el servicio de salud en los distintos lugares.
+Es un programa que la próxima semana vamos a presentar, que se complementa con este sistema que nos están ayudando a desarrollar.
+PREGUNTA: Como nos lo anunció, Presidenta, la próxima semana se darán a conocer cuántos consultorios se siguen construyendo, la contratación de nuevos especialistas y médicos. ¿Y qué más? ¿Qué otro anuncio? Los equipos que se están adquiriendo.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Equipos, exactamente, los equipos que se están adquiriendo, desde equipos pequeños hasta equipos muy complejos.
+—¿Por qué no platicas eso, Eduardo, qué tipo de equipos estamos adquiriendo y cuánto tiempo van a llegar, más o menos?—.
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: De acuerdo.
+Acabamos de concluir —de hecho, terminaron las subastas a las 02:00 de la mañana hoy— de un número importante de equipos médicos de alta tecnología, son cerca de 800 equipos de alta tecnología que representaron una inversión de más de 14 mil millones de pesos.
+Son desde casi 500 mastógrafos, algunos con estereotaxia, otros con tomosíntesis de estereotaxia, que permiten hacer biopsias en el mismo lugar para facilitar la vida de las mujeres —muy relevante dado el mes en el que estamos—. Son cerca de 500 mastógrafos.
+Creo que lo que hemos buscado, nunca ha habido una compra tan grande de mastógrafos para llevarla a todos los rincones del país, a todos los hospitales del IMSS, del ISSSTE, del IMSS Bienestar.
+Estamos comprando resonadores, estamos comprando tomógrafos.
+Estamos comprando una inversión también histórica en radioterapia para nuestro país.
+Sistemas de aceleradores lineales, así como de braquiterapia, que es uno de los “cuellos de botella” que todavía enfrenta el sector en cáncer de mama —ustedes lo han escuchado mucho— para que la mujer que tiene un diagnóstico llegue rápidamente a su terapia de radiación.
+Son más de 30 sistemas de medicina nuclear de este tipo, bueno, de aceleradores lineales y radioterapia que estamos comprando.
+Y también una inversión que no había. Hoy en el Sector Salud hay muy poquitos PETs para el diagnóstico de enfermedades como cáncer. Estamos comprando más de 10 PETs también para el sector.
+El objetivo es que todos estos 780 equipos que estamos adquiriendo, comiencen a llegar desde el próximo mes los primeros y en un calendario recurrente para que, hacia mediados del próximo año, hacia junio, todos los equipos sencillos de instalar ya estén instalados.
+Y los únicos que tomarían un poco más de 9 meses, 10 meses, son evidentemente los aceleradores lineales y algunos resonadores y PETs que requieren mucho trabajo con la Comisión de Energía Nuclear para su instalación y algunas adecuaciones.
+Pero lo que buscamos es una transformación bastante sustantiva del incremento de la capacidad del Estado mexicano para diagnóstico, imagen y tratamiento con alta tecnología, que va a ir de la mano de la contratación de médicos especialistas en imagenología, en medicina nuclear, en diagnóstico y patología, que son las necesidades que la propia Presidenta mencionaba hace algunos minutos.
+Eso es lo de “altísima tecnología” que llamamos.
+Al mismo tiempo, estamos comprando más de 20 mil distintos tipos de equipo de mediana y baja tecnología, no porque sean menos importantes, pero porque son un poco menos sofisticados que los equipos: ventiladores, monitores, hasta camas, cuneros radiantes.
+Es decir, se hizo un diagnóstico hospital por hospital en el IMSS, en el ISSSTE, en el IMSS Bienestar, de qué equipamiento nos hacía falta y también qué instrumental en muchos casos.
+Y estamos haciendo esta compra consolidada, que estará llegando la de equipamiento de media y baja tecnología, a partir de aproximadamente también 45 días, a los hospitales y un calendario de entrega de entre 45 días que empieza, hasta 4 meses y medio.
+Entonces…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —¿Cuánto te ahorraste con las…?—.
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: Hicimos un proceso bastante agresivo de subastas inversas para equipo médico de alta tecnología, las cotizaciones originales que teníamos eran de cerca de 21 mil millones de pesos para adquirir estos 780 equipos; todos, además, metiendo una cosa importantísima que espero los que trabajan en un hospital la compartan, es: poniendo en todos mantenimientos mucho, mucho más largos, casi del doble de tiempo de mantenimiento de fábrica que el que se adquiere normalmente, y se cotizó en cerca de 21 mil millones de pesos.
+Llevamos 2 semanas de subastas, las concluimos hoy a las 02:00 de la mañana. Y tuvimos un ahorro, una reducción de precios de 7 mil millones de pesos, llegando a los 14 mil, como el monto al que llegaron las subastas.
+Hubo subastas, por ejemplo, de mastógrafos que fueron muy muy, muy agresivas, imagínense lo que es para una compañía competir por casi 500 mastógrafos que tuvieron que hablar a Japón, a pedir permiso del CEO de la compañía para los precios de acá; y además, dándonos condiciones mejores de tecnología, de mantenimiento, de soporte.
+Creemos que si hacemos este tipo de procesos juntos, identificando necesidades desde el territorio, en los hospitales, validando con las áreas de expertos qué equipos requieren y luego, hacemos procesos transparentes y competitivos, como las subastas inversas, todos ganamos: los médicos, con más equipos de mayor tecnología; y el gobierno ha podido reinvertir esos 7 mil millones de pesos en el propio Sector Salud para adquirir más insumos, más equipos, más instrumental que se requiera.
+Es decir, estos ahorros no son simplemente ahorros, son también la posibilidad de con ese recurso que tenemos poder invertir aún más en mayor número de equipos.
+La verdad, un proceso muy exitoso y que seguiremos implementando en las estrategias del Sector Salud.
+PREGUNTA: Muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —A ver, la compañera—.
+PREGUNTA: Gracias, Presidenta. Bertha Alicia Galindo, Alcanzando el Conocimiento y Canal 13.
+Bueno, pues es muy interesante que “va —usted— a tomar el toro por los cuernos” con este tema, con todo este esfuerzo de científicas y científicos. Y como usted lo dijo: no se había tomado a la ciencia para resolver los problemas. Y qué bueno que se está haciendo.
+Pero en la organización de este sistema que van a hacer, el sistema quizá lo puedan tener en poco tiempo, pero ¿cómo lo van a implementar?, ¿cómo lo van a llevar a los 32 estados del país? Me parece que esa es la parte compleja.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Tienes razón, una parte es el diseño y la otra parte es la implementación, y tiene que haber un proceso de capacitación permanente con aquellos que van a utilizar el sistema.
+A veces hay inercias en donde está el sistema, pero médicas, médicos, enfermeras, enfermeros, como vienen trabajando de una manera, y el trabajo que tienen, pues les cuesta incorporar un nuevo equipo o una nueva forma de comunicación.
+Por eso el sistema tiene que ser muy muy amigable, incluso que le facilite la vida, más bien, que le facilite la vida a quien trabaja en un hospital, de tal manera que tenga enormes deseos de trabajar con el sistema.
+Si el sistema te va a facilitar la vida, pues evidentemente lo vas a adoptar; si es un sistema muy complejo para utilizar y tienes que llevar 10 meses de capacitación para usar el sistema, pues difícilmente se va a implementar.
+Entonces, el objetivo es que sea un sistema muy sencillo de utilizar, muy —¿cómo llaman?— intuitivo, para que de inmediato lo quieran utilizar para hacer todo el proceso más eficiente.
+Pero si lleva su tiempo también la implementación.
+PREGUNTA: Y en ese tema, por ejemplo, si vemos a las grandes empresas, ahora distribuidoras, como Amazon o Mercado Pago, todos ellos, pues tienen también grandes almacenes.
+Aquí lo de las grandes farmacias parece que no prosperó mucho. ¿Cómo se va a retomar el tema de esas…?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, las Farmacias del Bienestar, esas sí.
+O sea, los consultorios con sus medicamentos…
+PREGUNTA: Ah, no, esas sí.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: …farmacias del programa Salud Casa por Casa, también ya se está implementando. Es decir, no se interrumpe nada, esto es adicional. Las Rutas de la Salud continúan.
+En el momento en que esté el sistema, pues ya se va a adecuar todo el sistema.
+Ahora, si se requieren mayores… Está el Centro de Almacén de Huehuetoca, que nos ayuda muchísimo, muchísimo, pero también se requieren centros de distribución, y por eso ellos y ellas nos van a decir cuál es el sistema óptimo de distribución que necesitamos con lo que ya tenemos, no necesitamos comprar más.
+O a lo mejor en algún lugar se necesita un centro de distribución adicional, pero nos tienen que decir, basados en Huehuetoca, cuáles son los centros de distribución adicionales que necesitamos.
+PREGUNTA: Ah, o sea, ¿con este sistema se van a hacer nuevos puntos de distribución?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: O por lo menos los almacenes que existen ahora en las entidades, a lo mejor transformarlos en centros de distribución regional. Nos tienen que decir los expertos cuál es el sistema óptimo de distribución.
+PREGUNTA: Y también, con esta compra de equipo y esta tecnologización que se empezó a hacer desde el sexenio pasado, también nos dimos cuenta que luego los equipos estaban ahí sin usar, o no estaban vinculados, o no hay el suficiente internet.
+También ¿cómo se va a resolver esta parte? Que, como usted bien lo dijo, estas sinergias que llevan, pero también como carencias del Sistema de Salud que todavía no se logran subsanar.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Hay un equipo también que se formó con Pepe Merino y Comisión Federal de Electricidad, con la Agencia de Transformación y CFE, en donde se está garantizando el internet para todos los Centros de Salud y los hospitales, buen internet, o digamos, de una banda suficiente para poder utilizar los sistemas.
+Y al mismo tiempo, que no haya variación de voltaje, porque en algunos casos en lugares apartados hay alguna variación de voltaje que hace que los equipos interrumpan su funcionamiento, y después hay que reiniciarlos.
+Entonces, CFE tiene un equipo en este momento dedicado exclusivamente a mejorar el servicio eléctrico en Centros de Salud y hospitales.
+PREGUNTA: Muchas gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias. ¿Ya?, ¿sobre el tema? No es sobre el tema.
+—A ver, Carlos, sobre el tema—.
+PREGUNTA: Yo, sobre el tema, Doctora. Carlos Guzmán, de Quatro Media Veracruz. Me pongo aquí de lado.
+Pues te inicio a consultarles numeritos, ¿cuánto se va a invertir para este equipo? Que, finalmente, necesitan recursos.
+2. Si ¿se va a hacer realidad el Expediente Digital? Ya en algunos se maneja de que con un celular, no sé, o ¿cómo lo piensan implementar? De que en todos los sistemas se pueda tener en el Centro de Salud, en mi Centro de Salud o si voy al IMSS, tenga el mismo Expediente Clínico.
+¿Se va a implementar lo que es el reconocimiento facial para que finalmente se sepa si es la persona a la cual se le va a dar el medicamento?
+En el tema de lo que maneja Pepe Merino, que lo ha hecho muy bien desde que estaba con usted en el Gobierno de la Ciudad de México, de que la gente pueda consultar su receta médica en el celular o puede hacer algunas cosas. ¿Qué es lo que van a tener de innovación? Si nos pueden comentar, por favor.
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: Claro.
+No lo tenía preparado, pero me acordé que tengo —de ayer de la reunión con la Presidenta— listo el avance del Expediente Digital y Receta Electrónica en el Sector Salud, para darles algunos números bastante importantes de qué está pasando.
+Entonces, por ejemplo, en el IMSS, el IMSS, el Instituto Mexicano del Seguro Social, tenemos ya mil 270 unidades de primer nivel que cuentan con Expediente Médico Electrónico, están dando receta médica electrónica, así como 277 hospitales. Es decir, prácticamente la totalidad del IMSS ha avanzado en el Expediente Médico Electrónico y Receta Electrónica.
+¿Qué le falta al IMSS? Y es donde estamos con una meta para terminar en los siguientes 4 a 5 meses, que es las mil 198 unidades de primer nivel y 81 hospitales de lo que antes se conocía como el “IMSS Coplamar”, después “IMSS Oportunidades” y ahora “IMSS Bienestar” hace algunos años; IMSS Bienestar programa, lo que eran las unidades médicas rurales que muchos conocemos que atienden, por ejemplo, en la Sierra Tarahumara, donde no llega nada y no llegó nadie durante décadas.
+En el IMSS Bienestar es donde, cuando llegó el sistema IMSS Bienestar hace algunos años al país, no existía prácticamente nada de expediente médico, todo era en papel, las recetas eran todavía en un recetario. Y el equipo del doctor Svarch, de la mano también del equipo de la Agencia de Transformación Digital han embarcado —y también con el apoyo del IMSS y, digo, nosotros en Salud también— un proyecto bastante grande de digitalización que va en curso.
+El IMSS Bienestar es una institución gigantesca en términos de la infraestructura que tiene, casi 700 hospitales y casi, bueno, más de 8 mil Centros de Salud.
+Hasta ahora, ¿dónde vamos? Ya prácticamente 3 mil puntos, 2 mil 914, hoy ya cuentan, del primer nivel de atención, con Expediente Médico Electrónico, receta electrónica e inventarios también de medicamentos, así como Laboratorio en Tu Clínica.
+Si a mí me han dicho hace algunos años que en los centros de primer nivel del IMSS Bienestar íbamos a tener la posibilidad de hacer ahí, en todos ellos, químicas sanguíneas, biometrías hemáticas, laboratorios que requieren los mexicanos y las mexicanas recurrentemente, que muchas veces involucran viajes larguísimos, se me hubiera hecho un sueño.
+Hoy ese sueño se está cumpliendo y ya llevamos prácticamente 3 mil.
+Así como 147 hospitales donde ya se implementó Expediente Médico Electrónico y receta electrónica, así como manejo hospitalario.
+¿Qué nos falta? Todavía nos faltan 4 mil 796 puntos, que esperamos concluir en los siguientes 4 meses, para inicios del año, en febrero, poder decir que tenemos una digitalización completa de receta médica electrónica, de Expediente Digital en el IMSS Bienestar.
+Es una transformación —lo digo en serio, el adjetivo vale la pena— histórica poder contar con eso, porque toda esa información va a nutrir el trabajo de los compañeros.
+Si no tenemos información de base de cuántos pacientes se atienden, cuántas recetas se emiten, qué medicamentos requiere cada paciente, es muy difícil optimizar y asegurar que todo llegue de manera adecuada.
+Y por su parte, el ISSSTE tiene ya 660 unidades de primer nivel y 144 hospitales digitalizados. A ellos les faltan 34 unidades de primer nivel que tienen que digitalizar, que esperamos terminar en diciembre.
+Es decir, hemos trabajado tal vez sin decirlo tan ampliamente en estos últimos dos años. El trabajo inició con la administración pasada, pero tenemos ya un trabajo muy muy avanzado de Expediente Médico, receta electrónica y lo que eso significa para la administración hospitalaria y de la clínica.
+Es una base fundamental para la innovación, la optimización y para una transformación también del trato que tenemos con los pacientes que se atienden diario en los Centros de Salud y hospitales.
+PREGUNTA: Aprovechando que está en el uso de la voz, ¿cuál es el ahorro que se tiene al trabajar con un equipo público interdisciplinario y no con una empresa?
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: Pues, es difícil decirlo así con un número exacto, pero hemos visto proyectos de logística, de desarrollo de sistemas que superan los cientos de millones de pesos en implementación y a veces los cientos de millones de pesos en diseño, ni siquiera en la parte que tiene que ver con desarrollo.
+Es decir, el Estado mexicano ha invertido muchísimo en la formación de expertos a través de las universidades públicas del país. Esto hoy nos permite tomarlos en cuenta, hacerlos trabajar junto con nosotros en lo que además les apasiona, estoy seguro, y ahorrarnos centenares de millones de pesos.
+Y muy importantemente, y esto es algo que la Presidenta siempre nos pide: con las capacidades del Estado mexicano, para el Estado mexicano y la soberanía y garantía de operación que eso requiere; no depender de externos, que no sabemos si van a estar aquí para bien, para mal y cuánto nos quieran cobrar en el futuro.
+PREGUNTA: ¿Qué incluiría?, ¿una app, una aplicación para el usuario?, ¿cuál es el modelo proyectado?
+SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA, EDUARDO CLARK GARCÍA DOBARGANES: No me quiero adelantar, hay muchas ideas, pero más bien, si quieren, en un mes les vamos platicando y así dejamos trabajar con la mente libre al Consejo Asesor.
+PREGUNTA: Gracias.
+PREGUNTA: —¿(Inaudible) diagnóstico, van a seguir con el abasto, o cómo…?—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, sí, sí. O sea, lo que estamos haciendo, lo que ya veníamos haciendo, mejorado incluso, porque tenemos otro equipo que está trabajando en ello, continúa: las Rutas de la Salud, la garantía de la comunicación entre el almacén y el Centro de Salud, por lo menos de manera personal, con un equipo que esté dedicado a ello.
+Lo que queremos es que todo eso se haga de manera eficiente y automática, y para eso están los expertos.
+Pero eso no quiere decir que paramos todo hasta que no esté el sistema, no. Seguimos trabajando y cuando esté el sistema ya incorporamos la implementación.
+PREGUNTA: (inaudible) de Hermosillo, los Centros de Salud, que ahí faltan reactivos. ¿Cómo están cubriendo, bueno, los Centros de Salud donde no hay reactivos para los laboratorios?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Estamos garantizando que estén todos los contratos de los reactivos.
+Las visitas que estoy haciendo nos dan una idea. Aunque estuve en Quintana Roo y en Campeche y en Yucatán, es muy probable que lo que está ocurriendo en estos estados también ocurra en otros. Entonces, vamos tomando decisiones y avanzando para que lo que encontramos ahí ya se haga a nivel nacional.
+Y, de todas maneras, este fin de semana voy a Colima y a Michoacán. Y vamos también, el mismo día de hoy, a visitar a todos los directores de hospitales para que nos digan las problemáticas y poder avanzar.
+Pero vamos de manera no paralela, porque en algún momento nos vamos a juntar, pero vamos al mismo tiempo trabajando en los dos.
+Bueno, ya, ya de este tema. ¿Sí? Vamos, porque ya son 8:30.
+Bueno, despedimos a nuestros invitados para que podamos quedarnos hablando de otras cosas, si les parece.
+—Vamos a tomarnos una foto. Vénganse, David, Rosaura—.
+(TOMA DE FOTOGRAFÍA)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Bueno, vamos a otros temas. A ver, ¿quién? ¿quién? ¿quién? A ver, la compañera. Aquí—.
+PREGUNTA: Muchas gracias, Presidenta. Buenos días.
+Hace unos días se dio a conocer la tercera edición del Festival de Escribidores. Este es un encuentro que está patrocinado internacionalmente por la Cátedra “Mario Vargas Llosa” y que aquí en México la está albergando, la está recibiendo, la Escuela de la Libertad que promueve Ricardo Salinas Pliego.
+En ese sentido, van a venir autores de diversos países; entre ellos, Leonardo Padura, va a estar también por acá Nona Fernández, que van a estar hablando en torno a la libertad. Al parecer, es lo que está buscando Ricardo Salinas Pliego.
+¿Qué piensa de que el empresario está dando su batalla cultural desde los medios de comunicación, con mesas de televisión en donde recuperó a Aguilar Camín, en donde recupera a Castañeda?, pero ahora también se mete a este ámbito cultural en donde supuestamente van a hablar de “la libertad”, pero hablan de una libertad de mercado, creo yo. ¿Qué piensa sobre ello?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Primero, van a llegar a un país libre y democrático. Porque si no hubiera libertad de expresión y no hubiera democracia, pues no podrían venir a México.
+Entonces, vienen a un país libre, democrático, justo, que va avanzando con su pueblo. Eso es lo primero.
+Lo segundo. Pues es una visión, en general, de todos ellos, de derecha, que ya hemos comentado aquí qué significa eso.
+Porque contrario a lo que ellos dicen de que “buscan la libertad”, pues en realidad todos los gobiernos de derecha del mundo históricamente, al contrario, son gobiernos muy autoritarios, que no permiten la libertad de expresión, la libertad de movilización, la libertad de reunión y que usan la represión para callar voces o movilizaciones.
+La derecha —como lo he dicho aquí— es autoritaria.
+La derecha no reconoce la democracia como los gobiernos del pueblo.
+La derecha busca que todo mundo piense igual.
+La derecha promueve la supremacía de unos sobre otros.
+Pero aquí hay libertad para que puedan expresarse.
+PREGUNTA: ¿Considera que le está hablando a una comunidad que en su momento estaba extrañando estos “apapachos” que dijo Aguilar Camín en una entrevista a Sin Embargo, que “extrañaban que se les apapachara” a una parte de la comunidad artístico-cultural del país?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, algunos de ellos, en efecto, están muy molestos porque dejaron de ser quienes estaban cerca del gobierno, quienes recibían recursos del gobierno, y de ahí viene una parte de su enojo, de su odio, de su molestia.
+Pero también es probable… Bueno, vamos a ver la respuesta. No les vaya a salir como cuando vino Ayuso, que vino a promover a Hernán Cortés, y pues no les salió muy bien. ¿verdad?
+Porque el pueblo de México es muy consciente y, sobre todo, consciente de su historia.
+México es un país muy especial. Aquí hubo una independencia que vino del pueblo, de curas de pueblo, del gran Miguel Hidalgo y Costilla, de Morelos, de los Sentimientos de la Nación, de la lucha por la justicia social, no solamente por la Independencia.
+México tuvo una Reforma, la Constitución de un Estado civil y una Guerra de Reforma, donde triunfaron los liberales mexicanos.
+Y México tuvo una Revolución Mexicana.
+Es como dice Diego Rivera: “La epopeya del pueblo mexicano”.
+Y difícilmente se aceptan estas ideas de derecha por el pueblo, porque es consciente de su historia y tiene memoria.
+PREGUNTA: Presidenta, también en otros temas, preguntarle sobre esta polémica que surgió esta semana en torno a la presidenta del INE, Guadalupe Taddei y su relación con un contratista, que es —igual— proveedor de este mismo Instituto, que incluso se dieron a conocer esta serie de videos en donde revelarían que tiene una estrecha relación.
+¿Qué piensa sobre toda esta polémica que se está generando, en este mismo ambiente, ya previo a elecciones 2027?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No debe haber ninguna sombra de corrupción en el INE, eso pienso.
+No es la defensa que se hizo del INE del pasado, cuando salieron las marchas de “el INE no se toca”, que en realidad defendían intereses propios. No se trata de eso, pero entre todas y todos tenemos que cuidar al Instituto Nacional Electoral.
+Entonces, deben hacerse las auditorías que se tengan que hacer, pero no debe haber ninguna sombra de corrupción en ningún lado del país, en ningún lado, y tampoco debe haberla en el Instituto Nacional Electoral.
+PREGUNTA: Y en ese mismo sentido, también hubo críticas en redes sociales sobre esta solicitud que hicieron senadores para que se usara el Salón de Protocolos en el Aeropuerto Internacional de la Ciudad de México.
+Las críticas en redes sociales tienen que ver mucho también con el trato VIP que están solicitando.
+¿Qué piensa sobre esta petición? Y que justamente para algunos usuarios en redes sociales pareciera que es un tema banal.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Pregúntale a Roberto, porque no tengo la información, a Roberto Velasco, si le hicieron realmente la solicitud para que senadores o legisladores usaran los salones diplomáticos o VIP, como se llaman, de los aeropuertos—.
+Primero hay que averiguar si, en efecto, fue así.
+PREGUNTA: —(Inaudible)—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, pues claro que no. Cero privilegios.
+Que no se nos olvide nunca de dónde venimos. Nosotros venimos de un movimiento social que luchó contra los privilegios de unos cuantos. Entonces, no puede ser que se llegue a donde estás y tu objetivo sea el privilegio.
+Hay que sentarse con todos. ¿Cuál es el problema? Todos somos iguales. Por eso luchamos siempre.
+Pero no sé, hay que averiguar si hubo una solicitud formal para ello. Pero no. Son salas de las líneas aéreas principalmente. Y hay creo que un área diplomática para… Pero no, los legisladores son legisladores del pueblo, que no se les olvide de dónde vienen.
+PREGUNTA: Muchas gracias, Presidenta.
+PREGUNTA: Presidenta, si me permite, Javier Pérez, de HCTV Noticias.
+Ayer en redes sociales se dio a conocer una entrevista entre la gobernadora del PAN en Chihuahua, María Eugenia Campos, y Loret de Mola.
+Como contexto, Loret de Mola fue quien difundió la noticia de que “había habido un acuerdo entre usted y María Eugenia Campos; sin embargo, en la entrevista de ayer se dio a conocer, por voz de la misma María Eugenia Campos que fue al espacio de Loret de Mola, quien difundió esta noticia —según su versión— falsa.
+Y dio datos de cómo prácticamente ella la buscó a usted en el aeropuerto, en una salita. Desde mi punto de vista, pues estuvo acosándola, ¿no?, buscándola.
+Y ella narra que hubo una discusión muy fuerte entre ella y usted, que “se gritaron” —dice en la entrevista—, que usted la regañó a ella y ella la regañó a usted, y que a final de cuentas quedaron en un acuerdo ya diplomático, por decirlo así.
+Quisiera saber su contestación, porque también señaló a la dirigente del PRI, Ariadna Montiel…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Del PRI? No, de Morena.
+PREGUNTA: Digo, de Morena, como parte del crimen organizado en Chihuahua. ¿Su parecer a estos señalamientos, sobre todo, a usted y a la presidenta de Morena?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ella hizo público… Recorrí el país para dar los informes en territorio, la rendición de cuentas en territorio, recorrí las 32 entidades de la República después del 1º de septiembre, durante todo el mes de septiembre. Cerramos aquí en el Zócalo, el 27 de septiembre, para el Informe de la Ciudad de México.
+Previo a que yo fuera a Ciudad Juárez, en Chihuahua, para hacer el Informe, ella hizo público que “deseaba reunirse con la Presidenta” y también llamó aquí a la Oficina.
+Y acordamos reunirnos en el aeropuerto, porque —si ustedes recuerdan— yo tenía tres informes diarios o dos Informes diarios, entonces iba a Ciudad Juárez y de ahí… —No recuerdo a dónde fuimos—.
+INTERVENCIÓN: —A Tijuana—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A Tijuana, nos fuimos al Informe, a la rendición de cuentas.
+Entonces, acordamos vernos en el aeropuerto.
+En efecto, nos vimos en un salón pequeño que hay ahí en el aeropuerto de Ciudad Juárez.
+Ella, lo voy a contar porque así es:
+Ella inició la conversación reclamándome.
+PREGUNTA: ¿Hubo gritos? Dice que “hubo gritos”.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Levantamos la voz en algún momento, sí, las dos.
+Ella me reclamó de: “¿por qué la había acusado yo de traición a la patria?”.
+Yo le dije: “no”. Le dije: “tiene que investigarse, porque entraron agentes extranjeros a México sin el permiso y acorde con la Ley de Seguridad Nacional”.
+Cuando yo le dije: “es que entraron agentes”, ella me dijo: “no fui yo, fue mi exfiscal”.
+Pero no solo me dijo eso, me dijo “que habían encontrado corrupción que había cometido el exfiscal”.
+Me dijo que “el exfiscal tiene casinos”, que eso habían encontrado ellos, cuando movió al fiscal.
+¿Qué le dijo la Presidenta? “Procede”, como debe proceder cualquier ciudadano cuando encuentra actos que violan la ley.
+Entonces, le dije: “¿por qué no procede la Fiscalía de Justicia del estado de Chihuahua? Y si te parece, le comentó a la fiscal general de la República para que te reciba”.
+La fiscal general de la República la recibió. Y la fiscal puede contar lo que le dijo la gobernadora de Chihuahua; que —por lo que me comenta la fiscal— le dijo exactamente lo mismo, que: “el responsable de que hubieran entrado agentes a Chihuahua es el exfiscal y que, además, habían encontrado actos de corrupción”.
+Esa es la conversación.
+Ella me dijo que “pensaba que Ariadna tenía nexos con el narcotráfico”.
+Y le dije: “si tienes pruebas, preséntalas”.
+Hasta ahora no ha presentado ninguna prueba.
+Y Ariadna es una mujer honesta, que dirige muy bien a Morena. Pero si alguien tiene pruebas contra cualquiera, pues no es un dicho, es una denuncia con pruebas.
+Así fue la conversación.
+PREGUNTA: De hecho, la entrevista…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Cuándo termina la conversación, me dijo: “bueno, ¿y cómo va a seguir la relación?”.
+Y le dije: “de manera institucional. Si tienes un tema de seguridad, puedes hablar con el secretario de Seguridad; si tienes un tema que tenga que ver con cualquier otro tema institucional entre el Gobierno Federal y el gobierno de Chihuahua, con la secretaria de Gobernación, te ayudamos en todo lo que necesites”.
+Esa fue, en resumen, la conversación.
+Y la fiscal general de la República —si me está escuchando— pues sería bueno que dijera qué pasó en la reunión que tuvo con la gobernadora de Chihuahua.
+PREGUNTA: En la entrevista, ella se refiere duramente como “el gobierno de la muerte” al Gobierno Federal.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí. Eso fue lo que yo le reclamé, porque ella… Dijo: “es que tú me…”, “usted…”, no recuerdo si fue de “usted” o de “tú”.
+Le dije: “yo no te acusé a ti, yo dije que el gobierno de Chihuahua o alguien había violado la Ley de Seguridad Nacional”, como lo dije aquí en “La mañanera”.
+“Y tú dijiste que nosotros ‘éramos gobierno de la muerte’. Pues, ¡¿qué es eso?!”, le dije.
+Entonces, por eso, en efecto, sí fue un momento de tensión.
+Pero lo que yo rescato es que finalmente ocurrió lo que ella consideró pertinente, porque nadie la obligó a nada.
+Ella me dijo: “el fiscal fue quien… el exfiscal fue el responsable, yo no sabía nada, de la entrada de los agentes a Chihuahua, y también encontramos actos de corrupción.
+¿Y yo qué le dije como Presidenta? Porque no es una conversación de dos amigas, no; está hablando la gobernadora de Chihuahua con la Presidenta de la República, pues mi obligación, ¿qué era?, decirle: “Procede. Si tú tienes pruebas de eso procede, procede en tu propia Fiscalía y habla con la fiscal general de la República”.
+Y ella procedió, porque la Fiscalía de Chihuahua es la primera que levanta cargos contra el exfiscal.
+Si recuerdan aquí hace unos días dije yo: “entiendo que hay otras investigaciones con relación al exfiscal”, por esta conversación que tuvimos en ese lugar.
+Entonces, la verdad, yo no quería platicar todo esto porque me parece que era una conversación entre dos funcionarias públicas; que sí, hubo un momento de tensión en la conversación, pero esta es la verdad. Y quien la puede ratificar es la fiscal general de la República, porque ella habló con la fiscal, en la presencia de otros servidores públicos en esa reunión, por lo que me cuenta la fiscal.
+Porque ayer cuando me comentaron que estaba la entrevista le hablé a la fiscal y le dije: “fiscal —porque ya me había dicho ella que la había ido a ver la gobernadora— ¿si te fue a ver la gobernadora?, solo quiero saber porque mañana lo voy a comentar”.
+Y me dijo: “sí, sí me vino a ver la gobernadora”.
+Y ya depende de la fiscal si hace pública o no, pues los detalles de la conversación.
+PREGUNTA: Terminó rompiendo el acuerdo.
+PREGUNTA: ¿(inaudible) relación con Estados Unidos, Presidenta?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, eso no es cierto. No, de ninguna manera.
+Tan fue así que al final de la conversación ella me dijo: “¿cuál va a ser la relación —y con razón, ¿no?— entre el gobierno de Chihuahua y el Gobierno Federal?”.
+Le dije: “bueno, lo institucional, por supuesto que es indispensable y tiene que haber apoyo porque independientemente de cualquier cosa, pues los habitantes de Chihuahua tienen que tener al Gobierno Federal con todos los servicios y todo el apoyo que requieran, y el gobierno de Chihuahua”.
+PREGUNTA: —¿(inaudible) de echar a perder la relación bilateral México-Estados Unidos?—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, no fue así.
+PREGUNTA: Presidenta, pues hablando precisamente de la derecha, desde hace días ya y el día de ayer repuntó también una información acerca de la secretaria del PRI, Carolina Viggiano, que parece ser que está creciendo no nada más el escándalo, sino sus bienes.
+Ahora, se le ha detectado un departamento, una casa en Valle de Allende, en donde lo compró a 1.3 millones y donde los terrenos o las casas alcanzan 12 millones de pesos.
+Parece que se ha convertido en una cazadora de ofertas, de terrenos inmobiliarios. Parece ser que tiene una empresa de terrenos inmobiliarios y que está evadiendo, de alguna manera también, al SAT. Ha crecido este escándalo acerca de esto.
+¿Su parecer acerca de toda esta información que ha salido ya en muchos medios de comunicación?
+Y parece ser que algunos medios, de televisión, sobre todo, no difunden absolutamente nada, al contrario de cuando se le detecta a alguien de Morena, a alguien que tiene una casa, que está pagando, pues ahí sí hay una cobertura completa.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pues, igual, que se investigue y que se reporte de dónde salieron, en todo caso, los recursos.
+Pero en cualquiera de estos casos, tiene que haber relación entre tus ingresos y tus egresos, para eso son las declaraciones patrimoniales.
+PREGUNTA: Quisiera hacerle una última pregunta acerca del Sector Salud:
+Desde hace muchísimo tiempo a mí me ha tocado cubrir, hacer investigación acerca, precisamente, sobre el tema del desabasto de medicamentos, estamos hablando desde el 2012, aproximadamente.
+Y en algunas investigaciones que me tocó hacer, el trasiego del medicamento era sin control.
+Ahorita que presentan este plan o este proyecto de meter tecnología, darle seguimiento, ¿qué se va a hacer precisamente en el trasiego de donde sale el medicamento, sobre todo, en los almacenes del IMSS, a las clínicas?
+Porque en esas investigaciones surgió que directivos de las clínicas, médicos, ni siquiera dejan llegar a los almacenes de los Centros de Salud el medicamento, los insumos.
+Se roban desde gasas, las venden en Mercado Libre, han salido videos en donde están a la venta en Mercado Libre, los guantes, las gasas, el medicamento en mercado negro.
+No tocan siquiera las clínicas, llegan las camionetas directamente a los Centros de Salud y ahí los están esperando otras camionetas en donde se descarga y salen.
+De esto dan cuenta, incluso, guardias de seguridad, que son los que atienden, precisamente, la entrada y salida de camiones, camionetas, solo que a veces los directores de los Centros de Salud, de las clínicas… no voy a mencionar en algunas clínicas donde me tocó hacer investigación desde hace ya algunos años, pero corren a los guardias de seguridad para hacer este robo, toneladas de medicamento.
+Y, obviamente, culpan al gobierno actual, ¿verdad?, en estos años se culpa al gobierno actual de que “no hay abasto, no hay medicamentos, no se compran los medicamentos”.
+¿Qué va a pasar con todo esto, Presidenta, y secretario de Salud?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: A la gran mayoría de los trabajadores, trabajadoras del IMSS, del ISSSTE, del IMSS Bienestar: nuestra admiración; 99 por ciento dedican su vida a salvar a otras vidas.
+Además, imagínense, hoy el Día del Médico y la Médica.
+Recordemos la pandemia, cómo pusieron en riesgo su vida para salvar cientos de miles de vidas.
+Entonces, cuando he ido a los hospitales, que pregunto a los pacientes: “¿cómo te tratan?”, la mayoría dice “extraordinario; los médicos, las médicas, las enfermeras, los enfermeros, todos los que trabajan aquí nos tratan de maravilla; apóyenlos más”. Así me han dicho.
+Ahora, hay casos, sí hay casos, que incluso algunos han sido presentadas denuncias, donde puede haber robo de medicamentos, de gasas, de… Sí hay casos y se tiene que presentar la denuncia, pero no se puede generalizar porque, si no, primero, estaríamos faltando a la verdad; y segundo, no reconociendo el gran trabajo que hace el personal de Salud de las instituciones públicas, que salvan vidas todos los días.
+Esta campaña que se ha dado —pagada, porque es campaña pagada— en contra de las instituciones de Salud Pública, como si fuera en contra del Gobierno, pues afectan a todo México.
+Que hay problemas, hay problemas y hay que resolverlos. Pero esta campaña que han hecho es parte de las campañas en donde quieren afectar al Gobierno.
+Entonces, no se puede generalizar. Y ahí donde se encuentra, pues hay que proceder.
+Ahora, ¿qué queremos hacer? Pues la trazabilidad de cada medicamento. Que desde que sale del proveedor la cajita de medicinas o la solución inyectable, cuando llega al almacén, del almacén al centro de distribución, y del centro de distribución a la farmacia del Centro de Salud, y de la farmacia del Centro de Salud al paciente, pues esa es la trazabilidad que queremos construir y hacer totalmente eficiente el sistema de distribución; que es en la parte en donde nosotros, por lo que hemos visitado, hemos visto lo que han trabajado durante dos años, ha sido complicado.
+Ahora, la mayor corrupción que había en el pasado no era esa, era de las grandes distribuidoras de medicamentos, o sea, eran servicios integrales que hacían eso, tanto, que hasta la farmacia del hospital era privada, la operaba un privado, con esta idea de que “los privados hacen todo mejor que lo público”, cosa que es falsa.
+Entonces, terciarizaron todo el sistema y cobraban 8 veces lo que costaba el sistema.
+Bueno, aquí mostramos hace unos días un caso del Estado de México donde se redujo a la mitad lo que se paga, nada más por licitar con otra empresa.
+Entonces, ¿qué queremos hacer?
+Lo inició el Presidente López Obrador y nosotros vamos a culminarlo, este servicio de distribución, que sea principalmente público. Puede haber una parte privada, pero tiene que ser público para garantizar el servicio, y con los mejores esquemas de distribución y de optimización que desarrollen, ¿quiénes?, científicos mexicanos, jóvenes mexicanos; expertos.
+Porque de esa manera, además, se forman capacidades del Estado mexicano que se perdieron durante todo el periodo neoliberal. Pero la principal corrupción estaba ahí.
+PREGUNTA: Y con políticos…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Y ahora que se compraron los medicamentos, y que se forzó a que se redujeran también los equipos médicos… Porque todos son de calidad, son de las mejores marcas.
+Pues algunos que no quedan, que eran los del pasado, pues se enojan mucho, porque ya perdieron un negocio que era amparo del poder público y que, además, muchas veces en el pasado se daban “moches” a los servidores públicos para contratar a uno y otro. Y luego, eran contratos multianuales de 10, 15 años.
+Entonces, ahí estaba la corrupción: un monopolio en la entrega de medicamentos, distribución de los medicamentos, incluso en la venta de los medicamentos.
+Y no, aquí hay competencia y formación de capacidades públicas.
+Ahí estaba la verdadera corrupción.
+Si hay en algún hospital alguien que vende medicamentos, pues que se proceda, pero no es nunca la generalidad, no está ahí el problema.
+PREGUNTA: Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Bueno, vamos. A ver—.
+PREGUNTA: Muchas gracias, Presidenta. No me levanto, por el tiro de las cámaras. Arturo Pavón, de Efecto Colateral Estados Unidos…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, miren, aquí está. El canciller Roberto Velasco informa:
+Confirma que se hizo la petición para el acceso al Salón de Protocolo del Aeropuerto Internacional de la Ciudad de México y la respuesta de la Cancillería fue negativa.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ya, discúlpame.
+PREGUNTA: Gracias. Arturo Pavón, de Efecto Colateral Estados Unidos y Chiwas News.
+Presidenta, preguntarle. ¿Qué opina usted?, ya la Encuesta Nacional del Inegi acerca de la seguridad urbana…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, muy buen dato.
+PREGUNTA: …pues muestra una baja en la percepción de inseguridad al 58 por ciento.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, gracias por preguntar, por andar en… Miren, esta es la Encuesta Nacional. —¿ENSU es de Seguridad Urbana? ¿Sí?—.
+PREGUNTA: Sí, es urbana.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Encuesta Nacional de Seguridad Urbana.
+PREGUNTA: Ajá.
+INTERVENCIÓN: Pública Urbana.
+PREGUNTA: Pública Urbana.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pública Urbana.
+INTERVENCIÓN: Encuesta Nacional de Seguridad Pública Urbana.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Encuesta Nacional de Seguridad Pública Urbana.
+Le preguntan a un número de personas representativo para diferentes ciudades del país. En el caso de la Ciudad de México, las 16 Alcaldías salen. Y preguntan: “¿qué tan inseguro te sientes?”, y a eso le llaman “Percepción social de inseguridad a nivel nacional”.
+Es el punto más bajo desde que inició la encuesta.
+PREGUNTA: En los últimos 13 años, hace 13 años.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Hace 13 años.
+Es decir, la gente se siente más segura, dicho por el Inegi, por una encuesta que se realiza de la misma manera desde hace 13 años.
+Bajó más en hombres. En mujeres la percepción es mayor de inseguridad, y ahí todavía tenemos que seguir trabajando todos los días.
+Hoy felicité mucho al Gabinete de Seguridad por este resultado y también a todos, a quienes realizan las labores operativas: Secretaría de Seguridad, Defensa, Marina, Guardia Nacional, y también a la secretaria de Gobernación, porque la coordinación del Programa de Atención a las Causas también tiene que ver con esta percepción.
+Y es cuestión de seguir trabajando todos los días para seguir avanzando en la disminución de los índices delictivos y con ello la inseguridad que la gente siente en las calles de sus ciudades.
+PREGUNTA: ¿Invitar a la gente a que denuncie?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, por supuesto, siempre.
+PREGUNTA: Gracias, Presidenta. Y en este mismo tema usted, anunció la construcción de 6 cárceles.
+¿No se podría tomar también en cuenta la que está en Papantla, Veracruz, que es de máxima y supermáxima seguridad?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ese centro de detención de alta seguridad se construyó con el esquema de otras de alta seguridad que tienen todavía contratos y que el Presidente López Obrador les bajó mucho lo que se pagaba, con las famosas APPs, Asociaciones Público-Privadas, donde el gobierno da recursos a un privado y el privado opera el centro de detención hasta determinado año, cuando se acabe de pagar todo.
+Como saben, los precios eran altísimos. Y como hay un contrato, el Presidente López Obrador lo dejó, pero bajó los precios prácticamente a la mitad.
+Este de Papantla, como está casi al 90 por ciento construido, lo que nosotros queremos es adquirirlo, ver cuánto ya pagó el gobierno en el pasado —porque es de la época de Peña Nieto—, adquirirlo, que se termine, para que pueda funcionar como centró en un esquema distinto a las antiguas Asociaciones Público-Privadas.
+Pero es una infraestructura que está ahí, que ya se construyó.
+Y entonces, le pedí a Raquel Buenrostro y al secretario de Hacienda que hagan el avalúo, cuánto cuesta, en fin, que hablen con quien lo construyó y que se vea la manera de utilizarlo, y de manera totalmente transparente.
+PREGUNTA: Gracias. Y ya, por último, preguntarle acerca de los institutos. Por ejemplo, el Instituto Nacional de Neurología, Cardiología, usted había anunciado que se estaba haciendo un plan para trabajar con ellos.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, lo coordina el doctor Kershenobich, él fue director del Instituto Nacional de Nutrición, conoce muy bien los institutos. Y está coordinando este trabajo con la CCINSHAE, con todos los institutos nacionales, en el mismo sentido: renovar muchos de los equipos que ya son antiguos, médicos que requieren, mayor número de residentes también. Son todos ellos hospitales-escuela.
+Ahí en el “Gea González” se quedó, desde el 2017, un área que no se está utilizando; poderla reconstruir.
+E incluso hacer un hostal, un albergue, porque viene mucha gente de distintos lugares del país y muchas veces se queda en la calle, no tiene lugar donde quedarse. Entonces, también como proyecto está el hacer un albergue, un hostal, para las familias, para que se puedan quedar ahí.
+Entonces, es un proyecto integral que también es parte de esta renovación digital, y también entrarían a la renovación digital o a la revolución digital del Sector Salud.
+PREGUNTA: Y ya, por último, sobre la credencialización ¿también sigue en pie la propuesta de que sea como una forma de identificación oficial?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, la idea es que pueda ser también una identificación oficial.
+Vamos como en 7 millones —¿no?— por ahí de credencial… bueno, de inscritos, apenas se van a entregar las credenciales.
+O, sea, paralelo a esto que presentamos hoy, está la compra de equipos, la contratación de médicos.
+Que, por cierto, hoy salen varias notas de que “los médicos cubanos ganan más que los médicos mexicanos”, es falso, absolutamente falso. Y que también “se contratan a través de una empresa”, también es falso. Es una contratación directa, y ganan exactamente lo mismo que lo que gana un médico mexicano, o sea, no hay diferencia.
+Y nos ayudan mucho en muchos lugares apartados donde están trabajando, porque no hay médicos especialistas que vayan a esos sitios.
+Pero no están contratados a través de ninguna empresa, y es una contratación directa y reciben sus honorarios, al mismo nivel que lo recibe un médico mexicano.
+Para aclararlo, eso.
+Y tampoco es cierto que “ganen 10 mil pesos”.
+Me mandó Zoé lo que gana un médico después del primer año de trabajar en el IMSS, es alrededor… más de 30 mil pesos, 32 mil creo, con un adicional.
+PREGUNTA: Y ya con el aumento ya…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, y van a tener todos un aumento.
+Me quedé con… Bueno, decía, esto que se está presentando hoy es, además de toda la modernización que se está haciendo en equipos, en contratación de médicos, médicas, enfermeras, enfermeros, paramédicos, un sistema de referencia y contrarreferencia que también se está trabajando.
+¿Qué quiere decir eso? Que si llegas a un hospital y ahí no hay ese servicio médico, pues te puedas trasladar a otro, y eso se haga también en un esquema muy eficiente con ambulancias.
+Estamos trabajando en los consultorios médicos, en las farmacias del programa Salud Casa por Casa, es decir, todo.
+En las Rutas de la Salud.
+Todo eso continúa y esto es adicional para ponerle conocimiento científico todavía más a todo.
+PREGUNTA: Y ya, finalmente, nada más, a ver si después nos pueden platicar: ¿cómo va el programa de Trato Digno?
+Ya hemos visto que en algunas clínicas y hospitales sí hay gente consultando ahí en los kioscos de Trato Digno.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, y salen también del kiosco para preguntar a las personas: “¿qué necesidades tiene?”.
+PREGUNTA: Muchas gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+INTERVENCIÓN: (Inaudible)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: ¿Cuánto gana un médico?, a ver.
+Antes del aumento, percepción neta al mes, 36 mil 896; y con el aumento, 39 mil 120.
+PREGUNTA: Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: —Vamos de este lado. ¿Quién más?
+A ver, a ver, a ver. A ver, la compañera atrás que está… Ya la última, antes de “Suave Patria”. Ya les di hoy muchas notas, muchísimas—.
+PREGUNTA: Gracias, Presidenta. Mara Rivera, de Enfoque.
+Quisiera, nada más, precisar en el tema de la Presidenta del INE, si ¿tendría que… y si cabe que renuncie al cargo temporalmente, quizás, para que se investigue?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Eso depende de ella.
+Yo solo digo, que creo que es relevante, que no debe haber ninguna sombra de corrupción, que tienen que hacerse las auditorías que tengan que hacerse.
+Ya, más allá de eso, depende de las decisiones personales de cada quien.
+Pero yo creo que tiene que aclararse, transparentarse absolutamente todo y que no debe haber ninguna sombra, ningún sesgo, ni nada, ninguna sospecha de que hay corrupción; en ninguna institución, y menos en el INE, porque estamos entrando en un proceso electoral, que ya es en menos de… Bueno, creo que ya inició, de hecho, el proceso electoral. Entonces, no debe haber ninguna sombra, ningún dejo, ninguna sospecha de corrupción, no debe ser.
+Todos debemos de cuidar las instituciones. Ahí y en ningún lado.
+PREGUNTA: Claro.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Pero ahora, como salió este tema, pues es importante, ¿no?
+PREGUNTA: También, Presidenta; ayer, por la serie de declaraciones que se hicieron en el Congreso respecto a este tema de la Modalidad 40, que se dice que “tiene que pasar por el Congreso”; entonces, pareciera como que fue una ocurrencia, por parte del Ejecutivo.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es que no se cancela la Modalidad 40, a lo mejor hubo un mal entendimiento.
+La Modalidad 40 que está garantizada en la Ley, continúa. Lo que se tomaron medidas es para evitar fraudes, abusos en la Modalidad 40.
+Entonces, no es que “desapareció la Modalidad 40”, que es una forma de pensión o para los pensionados, para quien se retira; no, la Modalidad 40 continúa.
+La decisión que se tomó en el Consejo del IMSS, que fue publicada, es ciertas medidas para evitar que se haga fraude con esta forma de pensión.
+Entonces, por eso no tiene que pasar por el Congreso, porque no es que desaparezca esta Modalidad, sino medidas para evitar fraudes.
+PREGUNTA: Quedaría acotada. Entonces, ¿quedaría nada más acotada para evitar esta…?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, y todas las medidas que se tengan que tomar para evitar que alguien que no le corresponde la Modalidad 40 se pensione con esa Modalidad o que haya abusos, en fin, que sea…
+PREGUNTA: —¿La van a acotar?—
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, o sea, es limitar los abusos; o sea, evitar que haya abusos, que haya fraudes, que se utilice esta Modalidad para que personas que no tienen ese derecho la utilicen. Por qué se encontraron, pues muchos casos de personas que no les correspondía esa Modalidad de pensión, a las que se les dio.
+Entonces, lo que se hace, pues, es decir, a ver: que no haya fraudes, que no haya abusos, porque es recurso público.
+Entonces, eso es lo que hizo el Consejo del IMSS.
+Entonces, no es que “se desaparezca la Modalidad 40”, o “que se cambie el sentido de la ley”, no.
+Es evitar abusos y fraudes.
+PREGUNTA: Ok, entonces…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es evitar abusos y fraudes.
+PREGUNTA: Presidenta, los legisladores desean la necesidad de llamar a comparecer para que explique todo esto Zoé Robledo, el director del IMSS.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Sí, puede ir…
+PREGUNTA: ¿Será necesario?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Él puede ir a comparecer y no hay nada que esconder, y explicar cualquier cosa.
+Que se pongan de acuerdo también, en este momento, “¿qué va a pasar?”, se va a usar mucho políticamente, ¿no?, por la oposición.
+Pero él, todos los servidores públicos si se llama comparecer al Congreso, deben comparecer. Puede ser ahora, puede ser después, pero no hay ningún problema en que se comparezca; y se explique esto, y se explique lo del IMSS, y cómo se está resolviendo, cómo se está atendiendo, por qué al principio se ofreció un aumento salarial, qué medidas tomaron para que hubiera mayor aumento salarial.
+Lo ha estado explicando todos los días Zoé y ha estado trabajando de manera muy importante todos los días, para poder incorporar todos estos nuevos sistemas al IMSS.
+PREGUNTA: Uno de los argumentos es de que “estaría cambiándose la Ley del Seguro Social”. Esto tampoco es preciso.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, no, no.
+Repito, no desaparece la Modalidad 40. Lo que se hace es evitar que personas que no tienen derecho a la Modalidad 40, haciendo un abuso, un fraude, la utilicen, porque se encontraron casos de este tipo.
+Entonces, yo creo que en eso todos estamos de acuerdo, que no debe abusarse de una Modalidad que puede llegar a representar pensiones de 80 mil, 90 mil pesos al mes, y que no les corresponde.
+Entonces, pues yo creo que eso nadie está de acuerdo.
+PREGUNTA: Y que, bueno, ya nada más…
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: O todos estamos de acuerdo en que no haya ninguna mala utilización de esta Modalidad.
+PREGUNTA: ¿Cuándo daría a conocer esta parte en la que se tomó esta decisión de ventilar…?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Está publicada en el Diario Oficial, por eso salió…
+PREGUNTA: Pero ¿los casos que abusaron y que tienen ya esas pensiones?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ah, se puede presentar, lo preparamos para poder presentar cuántas personas. Se estima que pudieron haber…
+PREGUNTA: Afectado el erario.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Afectado, exactamente.
+PREGUNTA: Balconearlos, pues.
+PREGUNTA: —(Inaudible)—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: No, no, no, para nada. Pero si sigue hacia futuro este mal uso de la Modalidad 40, pues entonces sí podría poner en riesgo…
+PREGUNTA: Menos habrá recursos. Presidenta, ya, por último…
+PREGUNTA:  —(Inaudible)—.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Es lo que se está investigando, bufetes de abogados y otras instituciones que pudieron haber participado en esto. Está la Secretaría de Hacienda, Buen Gobierno, incluso la propia Consejería Jurídica analizando este caso.
+PREGUNTA: (Inaudible)
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Ya que se explique para no…
+PREGUNTA: Y, Presidenta, ya por último, los trabajadores inconformes con este tema, sindicalizados del IMSS por lo del planteamiento de la propuesta salarial, ya están amagando o están amenazando con volver a estrangular a la Ciudad con marchas.
+¿Ustedes continuarán con esta mesa con los trabajadores? ¿Ya no hay nada que negociar? ¿Qué decir en este caso a los capitalinos que, a partir de la próxima semana, porque ya están dando eventualmente marchas, va a ocurrir?
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: La mayoría de los trabajadores, la gran, gran, gran mayoría, están trabajando todos los días, tienen demandas legítimas y se van a atender. Eso es lo que puede decir la Presidenta y el Gobierno de México, en apoyo al Instituto Mexicano del Seguro Social y de sus trabajadores, que vamos a atender lo que es legítimo.
+Ya la parte de uso político de todo esto y de campaña pagada de quien ni siquiera nunca ha ido al IMSS ni le interesa el IMSS, pues es otra cosa. Pero aquello que es legítimo se va a atender.
+PREGUNTA: Gracias.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Bueno, vamos con “Suave Patria”.
+DIVULGADOR DE LENGUAS INDÍGENAS, BULMARO JUÁREZ SÁNCHEZ: Muchas gracias, Presidenta. Con su permiso, Presidenta.
+(Habla en lengua indígena), la saludo en la lengua hñahñu, el otomí del estado de Tlaxcala.
+Porque en los pueblos indígenas no estamos aislados unos de los otros. Compartimos la siembra, convidamos la fiesta —que es lo más importante— y hasta nos desvelamos juntos cuando se trata de trabajar.
+Porque aquí, en este país, hay tradiciones que dan una muy buena forma a lo que es la palabra “unidad”.
+En México existen obras de arte que se preparan durante meses, que se levantan en una sola noche y que duran apenas unas horas.
+Familias enteras y vecinos que trabajan hasta la madrugada para hacerlas realidad.
+Nadie las firma ni nadie se las lleva a casa, no tienen un autor como tal. Son del pueblo y para el pueblo.
+Y aunque al amanecer desaparezcan, queda el orgullo de haberlas creado juntos.
+Para saber un poquito más a lo que me refiero, los invitamos a ver la siguiente cápsula.
+(PROYECCIÓN DE VIDEO DE LA SECCIÓN “SUAVE PATRIA”: LOS TAPETES DE HUAMANTLA, TLAXCALA)
+DIVULGADOR DE LENGUAS INDÍGENAS, BULMARO JUÁREZ SÁNCHEZ: El video nos muestra lo hermoso que puede ser una tradición. Pero como mexicanas y mexicanos, tenemos que ir más allá de esto.
+El viento puede llevarse el aserrín, el tiempo puede borrar los colores del suelo, pero el conocimiento compartido, el orgullo que pertenece ser de una comunidad y los lazos que construyen trabajando juntos, permanece —aquí y aquí— en el corazón y en la mente.
+Eso es lo que hace grande a Huamantla y, por supuesto, hace grande a nuestro México.
+Y es precisamente aquí donde encontramos una palabra que expresan los hablantes de la lengua hñahñu, el otomí, (habla en lengua indígena).
+¿Me ayudan a repetir? (Habla en lengua indígena). Significa “unidad”, “apoyo”, porque esos somos los mexicanos, las mexicanas.
+Porque en México, la unidad permanece mucho después de que terminan las fiestas. Vive en la confianza entre los vecinos, en el cuidado de los demás y en la certeza de que en nuestro país nadie camina solo, siempre vamos acompañados unos con otros.
+Y esto, amigas y amigos, (Habla en lengua indígena) es la esencia de nuestra “Suave Patria”.
+(Habla en lengua indígena) Muchas gracias.
+Gracias, Presidenta.
+PRESIDENTA DE MÉXICO, CLAUDIA SHEINBAUM PARDO: Gracias.
+—000—
