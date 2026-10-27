@@ -1,39 +1,39 @@
 {
-  "fecha": "2026-10-23",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-26",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 26 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-26-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 77,
+  "n_preguntas": 74,
   "temas": [
-    "Consejo asesor",
-    "Sector salud",
-    "Fábrica inteligencia",
-    "Público formación",
-    "Expediente médico",
-    "Ninguna sombra"
+    "Decisión separarse",
+    "Pueblo organizado",
+    "Pueblo brasil",
+    "Hablando honestidad",
+    "Derecha representa",
+    "Lula"
   ],
   "participantes": [
     {
-      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
+      "nombre": "LETICIA RAMÍREZ AMAYA",
+      "cargo": "SECRETARIA DE BIENESTAR",
       "categoria": "secretarios",
-      "intervenciones": 49
+      "intervenciones": 4
     },
     {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
+      "nombre": "ÉDGAR AMADOR ZAMORA",
+      "cargo": "SECRETARIO DE HACIENDA Y CRÉDITO PÚBLICO",
       "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 4
     },
     {
-      "nombre": "ROLANDO MENCHACA MÉNDEZ",
-      "cargo": "PROFESOR TITULAR C EN EL INSTITUTO POLITÉCNICO NACIONAL",
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
       "categoria": "otros",
       "intervenciones": 1
     },
     {
-      "nombre": "ZAIDA ESTEFANÍA ALARCÓN BERNAL",
-      "cargo": "PROFESORA DE CARRERA Y COORDINADORA DE INGENIERÍA EN SISTEMAS BIOMÉDICOS, FACULTAD DE INGENIERÍA UNAM",
+      "nombre": "VÍCTOR SÁNCHEZ GORDILLO",
+      "cargo": "BENEFICIARIO DE LA PENSIÓN ADULTO MAYOR",
       "categoria": "otros",
       "intervenciones": 1
     }
