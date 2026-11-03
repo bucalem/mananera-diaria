@@ -1,23 +1,53 @@
 {
-  "fecha": "2026-10-27",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-10-30",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 30 de octubre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-30-de-octubre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 51,
+  "n_preguntas": 25,
   "temas": [
-    "Urgencias",
-    "Social imss",
-    "Cada piso",
-    "Guadalupe taddei",
-    "Seguro social",
-    "Programa emergente"
+    "Fort worth",
+    "Día muertos",
+    "Jardín botánico",
+    "Taddei",
+    "Botánico fort",
+    "Consejeros"
   ],
   "participantes": [
     {
       "nombre": "ZOÉ ROBLEDO ABURTO",
       "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
       "categoria": "directores",
-      "intervenciones": 130
+      "intervenciones": 9
+    },
+    {
+      "nombre": "ESTELA MARTÍNEZ STEWART",
+      "cargo": "DIRECTORA DEL COMITÉ DE DÍA DE MUERTOS EN EL JARDÍN BOTÁNICO DE FORT WORTH",
+      "categoria": "directores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "DANIEL CARMONA GONZÁLEZ",
+      "cargo": "DIRECTOR DEL HOSPITAL GENERAL DE ZONA NO. 71 DE VERACRUZ NORTE",
+      "categoria": "directores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "DIPUTADO SANTIAGO CREEL MIRANDA",
+      "cargo": "DIPUTADO SANTIAGO CREEL MIRANDA",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
+      "categoria": "directores",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "ITZEL VILLAGRÁN MALDONADO",
+      "cargo": "DIRECTORA DEL HOSPITAL GENERAL DE SUBZONA NO. 17 CON MEDICINA FAMILIAR DE ANÁHUAC, CHIHUAHUA",
+      "categoria": "directores",
+      "intervenciones": 1
     }
   ]
 }
