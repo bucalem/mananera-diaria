@@ -1,52 +1,52 @@
 {
-  "fecha": "2026-10-30",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 30 de octubre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-30-de-octubre-de-2026?idiom=es",
+  "fecha": "2026-11-03",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 03 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 25,
+  "n_preguntas": 47,
   "temas": [
-    "Fort worth",
-    "Día muertos",
-    "Jardín botánico",
-    "Taddei",
-    "Botánico fort",
-    "Consejeros"
+    "Acción número",
+    "Voluntad popular",
+    "Fraude electoral",
+    "Consejeros electorales",
+    "Rehabilitación integral",
+    "Reformas electorales"
   ],
   "participantes": [
     {
       "nombre": "ZOÉ ROBLEDO ABURTO",
       "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
       "categoria": "directores",
+      "intervenciones": 49
+    },
+    {
+      "nombre": "JORGE GAVIÑO AMBRIZ",
+      "cargo": "SECRETARIO GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "categoria": "otros",
       "intervenciones": 9
     },
     {
-      "nombre": "ESTELA MARTÍNEZ STEWART",
-      "cargo": "DIRECTORA DEL COMITÉ DE DÍA DE MUERTOS EN EL JARDÍN BOTÁNICO DE FORT WORTH",
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
       "categoria": "directores",
       "intervenciones": 4
     },
     {
-      "nombre": "DANIEL CARMONA GONZÁLEZ",
-      "cargo": "DIRECTOR DEL HOSPITAL GENERAL DE ZONA NO. 71 DE VERACRUZ NORTE",
-      "categoria": "directores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "DIPUTADO SANTIAGO CREEL MIRANDA",
-      "cargo": "DIPUTADO SANTIAGO CREEL MIRANDA",
+      "nombre": "ERNESTINA GODOY RAMOS",
+      "cargo": "FISCAL GENERAL DE LA REPÚBLICA",
       "categoria": "otros",
       "intervenciones": 1
     },
     {
-      "nombre": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
+      "nombre": "HIDALGO",
+      "cargo": "COORDINADORA DE FARMACIA",
+      "categoria": "otros",
       "intervenciones": 1
     },
     {
-      "nombre": "ITZEL VILLAGRÁN MALDONADO",
-      "cargo": "DIRECTORA DEL HOSPITAL GENERAL DE SUBZONA NO. 17 CON MEDICINA FAMILIAR DE ANÁHUAC, CHIHUAHUA",
-      "categoria": "directores",
+      "nombre": "LAYDA SANSORES SAN ROMÁN",
+      "cargo": "GOBERNADORA DE CAMPECHE",
+      "categoria": "gobernadores",
       "intervenciones": 1
     }
   ]
