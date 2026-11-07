@@ -1,35 +1,29 @@
 {
-  "fecha": "2026-11-05",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 05 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-05-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-06",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 55,
+  "n_preguntas": 42,
   "temas": [
-    "Hernández casillas",
-    "Hermanos hernández",
-    "Auditoría superior",
-    "Padilla aguilar",
-    "Taddei",
-    "Carlos padilla"
+    "Artesanos",
+    "Organismos electorales",
+    "Uyuli",
+    "Mafia electoral",
+    "Cultural secretaría",
+    "Desarrollo cultural"
   ],
   "participantes": [
     {
-      "nombre": "OMAR REYES COLMENARES",
-      "cargo": "TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA",
-      "categoria": "otros",
-      "intervenciones": 81
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "RAQUEL BUENROSTRO SÁNCHEZ",
-      "cargo": "SECRETARIA ANTICORRUPCIÓN Y BUEN GOBIERNO",
+      "nombre": "CLAUDIA CURIEL DE ICAZA",
+      "cargo": "SECRETARIA DE CULTURA",
       "categoria": "secretarios",
-      "intervenciones": 4
+      "intervenciones": 36
+    },
+    {
+      "nombre": "MARINA NÚÑEZ BESPALOVA",
+      "cargo": "SUBSECRETARIA DE DESARROLLO CULTURAL, SECRETARÍA DE CULTURA",
+      "categoria": "secretarios",
+      "intervenciones": 25
     }
   ]
 }
