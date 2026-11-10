@@ -1,29 +1,47 @@
 {
-  "fecha": "2026-11-06",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 06 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-06-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-09",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 42,
+  "n_preguntas": 182,
   "temas": [
-    "Artesanos",
-    "Organismos electorales",
-    "Uyuli",
-    "Mafia electoral",
-    "Cultural secretaría",
-    "Desarrollo cultural"
+    "Quinteta",
+    "Taddei",
+    "Maite azuela",
+    "Dando razón",
+    "Reyna",
+    "Centros salud"
   ],
   "participantes": [
     {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
-      "categoria": "secretarios",
-      "intervenciones": 36
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
+      "intervenciones": 9
     },
     {
-      "nombre": "MARINA NÚÑEZ BESPALOVA",
-      "cargo": "SUBSECRETARIA DE DESARROLLO CULTURAL, SECRETARÍA DE CULTURA",
-      "categoria": "secretarios",
-      "intervenciones": 25
+      "nombre": "MARTÍ BATRES GUADARRAMA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
+      "categoria": "directores",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "PAMELA LÓPEZ RUIZ",
+      "cargo": "DIRECTORA GENERAL DEL PROGRAMA LA ESCUELA ES NUESTRA",
+      "categoria": "directores",
+      "intervenciones": 2
+    },
+    {
+      "nombre": "ALFONSO DURAZO MONTAÑO",
+      "cargo": "GOBERNADOR DE SONORA",
+      "categoria": "gobernadores",
+      "intervenciones": 1
     }
   ]
 }
