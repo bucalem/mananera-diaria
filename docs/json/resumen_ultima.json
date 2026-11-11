@@ -1,46 +1,46 @@
 {
-  "fecha": "2026-11-09",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 09 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-09-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-10",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 182,
+  "n_preguntas": 57,
   "temas": [
-    "Quinteta",
-    "Taddei",
-    "Maite azuela",
-    "Dando razón",
-    "Reyna",
-    "Centros salud"
+    "Homicidios dolosos",
+    "Alias",
+    "Protección ciudadana",
+    "Seguridad protección",
+    "Carlos manzo",
+    "Promedio diario"
   ],
   "participantes": [
     {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 289
+    },
+    {
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "categoria": "secretarios",
       "intervenciones": 9
     },
     {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
-      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
-      "categoria": "otros",
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
+      "categoria": "secretarios",
       "intervenciones": 4
     },
     {
-      "nombre": "PAMELA LÓPEZ RUIZ",
-      "cargo": "DIRECTORA GENERAL DEL PROGRAMA LA ESCUELA ES NUESTRA",
-      "categoria": "directores",
-      "intervenciones": 2
+      "nombre": "MARCELA FIGUEROA FRANCO",
+      "cargo": "SECRETARIA EJECUTIVA DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "categoria": "secretarios",
+      "intervenciones": 1
     },
     {
-      "nombre": "ALFONSO DURAZO MONTAÑO",
-      "cargo": "GOBERNADOR DE SONORA",
-      "categoria": "gobernadores",
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
