@@ -1,46 +1,70 @@
 {
-  "fecha": "2026-11-10",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-11",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 11 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-11-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 57,
+  "n_preguntas": 54,
   "temas": [
-    "Homicidios dolosos",
-    "Alias",
-    "Protección ciudadana",
-    "Seguridad protección",
-    "Carlos manzo",
-    "Promedio diario"
+    "Imss bienestar",
+    "Hospitales rurales",
+    "Siguiente componente",
+    "Guadalupe taddei",
+    "Contratista",
+    "Expediente electrónico"
   ],
   "participantes": [
     {
-      "nombre": "OMAR GARCÍA HARFUCH",
-      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
-      "categoria": "secretarios",
-      "intervenciones": 289
+      "nombre": "ALEJANDRO SVARCH PÉREZ",
+      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
+      "categoria": "directores",
+      "intervenciones": 324
     },
     {
-      "nombre": "RICARDO TREVILLA TREJO",
-      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
+      "nombre": "OLGA CONTRERAS GARCÍA",
+      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
       "categoria": "secretarios",
+      "intervenciones": 10
+    },
+    {
+      "nombre": "OCTAVIO ROMERO OROPEZA",
+      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
-      "cargo": "SECRETARIO DE MARINA",
-      "categoria": "secretarios",
+      "nombre": "MARÍA TERESA JIMÉNEZ ESQUIVEL",
+      "cargo": "GOBERNADORA DE AGUASCALIENTES",
+      "categoria": "gobernadores",
       "intervenciones": 4
     },
     {
-      "nombre": "MARCELA FIGUEROA FRANCO",
-      "cargo": "SECRETARIA EJECUTIVA DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
-      "categoria": "secretarios",
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "PABLO EMMANUEL CASO TORRES",
+      "cargo": "COORDINADOR ESTATAL DE LOS SERVICIOS DE IMSS BIENESTAR EN EL ESTADO DE TABASCO",
+      "categoria": "otros",
       "intervenciones": 1
     },
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
-      "categoria": "secretarios",
+      "nombre": "PAOLA",
+      "cargo": "HIJA DE BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
+      "categoria": "otros",
+      "intervenciones": 1
+    },
+    {
+      "nombre": "PATRICIA BAÑUELOS FLORES",
+      "cargo": "COORDINADORA ESTATAL DE LOS SERVICIOS DE IMSS BIENESTAR EN EL ESTADO DE TLAXCALA",
+      "categoria": "otros",
       "intervenciones": 1
     }
   ]
