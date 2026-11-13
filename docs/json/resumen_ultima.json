@@ -1,71 +1,35 @@
 {
-  "fecha": "2026-11-11",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 11 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-11-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-12",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 12 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-12-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 54,
+  "n_preguntas": 47,
   "temas": [
-    "Imss bienestar",
-    "Hospitales rurales",
-    "Siguiente componente",
-    "Guadalupe taddei",
-    "Contratista",
-    "Expediente electrónico"
+    "Weg",
+    "Nueva aplicación",
+    "Relaciones institucionales",
+    "Sostenibilidad relaciones",
+    "Vicepresidente global",
+    "Global sostenibilidad"
   ],
   "participantes": [
     {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 324
-    },
-    {
-      "nombre": "OLGA CONTRERAS GARCÍA",
-      "cargo": "BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 36
-    },
-    {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
+      "nombre": "MARCELO EBRARD CASAUBON",
+      "cargo": "SECRETARIO DE ECONOMÍA",
       "categoria": "secretarios",
-      "intervenciones": 10
+      "intervenciones": 121
     },
     {
-      "nombre": "OCTAVIO ROMERO OROPEZA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT)",
+      "nombre": "VÍCTOR MANUEL LAMOYI BOCANEGRA",
+      "cargo": "DIRECTOR GENERAL DEL BANCO DEL BIENESTAR",
       "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "MARÍA TERESA JIMÉNEZ ESQUIVEL",
-      "cargo": "GOBERNADORA DE AGUASCALIENTES",
-      "categoria": "gobernadores",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "categoria": "secretarios",
       "intervenciones": 4
-    },
-    {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "PABLO EMMANUEL CASO TORRES",
-      "cargo": "COORDINADOR ESTATAL DE LOS SERVICIOS DE IMSS BIENESTAR EN EL ESTADO DE TABASCO",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "PAOLA",
-      "cargo": "HIJA DE BENEFICIARIA DEL PROGRAMA VIVIENDA PARA EL BIENESTAR",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "PATRICIA BAÑUELOS FLORES",
-      "cargo": "COORDINADORA ESTATAL DE LOS SERVICIOS DE IMSS BIENESTAR EN EL ESTADO DE TLAXCALA",
-      "categoria": "otros",
-      "intervenciones": 1
     }
   ]
 }
