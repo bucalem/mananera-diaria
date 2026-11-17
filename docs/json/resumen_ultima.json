@@ -1,53 +1,41 @@
 {
-  "fecha": "2026-11-13",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-16",
+  "titulo": "Versión estenográfica. Conferencia de prensa matutina del 16 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-matutina-del-16-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 35,
+  "n_preguntas": 28,
   "temas": [
-    "Conservatorio",
-    "Devolver pueblo",
-    "Pueblo robado",
-    "Gabinete social",
-    "Indep",
-    "Música"
+    "Pobreza",
+    "Banco mundial",
+    "Kilo carne",
+    "Índice gini",
+    "Gobiernos transformación",
+    "Centavos"
   ],
   "participantes": [
     {
-      "nombre": "MÓNICA FERNÁNDEZ BALBOA",
-      "cargo": "DIRECTORA GENERAL DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO (INDEP)",
-      "categoria": "directores",
-      "intervenciones": 29
-    },
-    {
-      "nombre": "CLAUDIA CURIEL DE ICAZA",
-      "cargo": "SECRETARIA DE CULTURA",
+      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
+      "cargo": "SECRETARIA DE GOBERNACIÓN",
       "categoria": "secretarios",
-      "intervenciones": 16
+      "intervenciones": 900
     },
     {
-      "nombre": "JOSEFINA RODRÍGUEZ ZAMORA",
-      "cargo": "SECRETARIA DE TURISMO",
-      "categoria": "secretarios",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "DELFINA GÓMEZ ÁLVAREZ",
-      "cargo": "GOBERNADORA DEL ESTADO DE MÉXICO",
-      "categoria": "gobernadores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "OMAR ALEJANDRO REYES GUTIÉRREZ",
-      "cargo": "DIRECTOR DE LA ORQUESTA DE CÁMARA DE JÓVENES POR TULTEPEC",
-      "categoria": "directores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "RAMÓN SERGIO LUNA CORTÉS",
-      "cargo": "PRESIDENTE MUNICIPAL DE TULTEPEC",
+      "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
+      "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
       "categoria": "otros",
-      "intervenciones": 1
+      "intervenciones": 16
+    },
+    {
+      "nombre": "JULIO BERDEGUÉ SACRISTÁN",
+      "cargo": "ASESOR Y COORDINADOR DE ASUNTOS AGROALIMENTARIOS INTERNACIONALES",
+      "categoria": "otros",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "VIOLETA VÁZQUEZ-ROJAS MALDONADO",
+      "cargo": "SUBSECRETARIA DE CIENCIA Y HUMANIDADES",
+      "categoria": "secretarios",
+      "intervenciones": 2
     }
   ]
 }
