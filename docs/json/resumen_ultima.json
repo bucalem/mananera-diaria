@@ -1,41 +1,41 @@
 {
-  "fecha": "2026-11-16",
-  "titulo": "Versión estenográfica. Conferencia de prensa matutina del 16 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-matutina-del-16-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-23",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 28,
+  "n_preguntas": 48,
   "temas": [
-    "Pobreza",
-    "Banco mundial",
-    "Kilo carne",
-    "Índice gini",
-    "Gobiernos transformación",
-    "Centavos"
+    "Chapo isidro",
+    "Fuerzas especiales",
+    "Especiales avendaño",
+    "Beltrán leyva",
+    "Cártel guasave",
+    "Arturo beltrán"
   ],
   "participantes": [
     {
-      "nombre": "ROSA ICELA RODRÍGUEZ VELÁZQUEZ",
-      "cargo": "SECRETARIA DE GOBERNACIÓN",
+      "nombre": "RICARDO TREVILLA TREJO",
+      "cargo": "SECRETARIO DE LA DEFENSA NACIONAL",
       "categoria": "secretarios",
-      "intervenciones": 900
+      "intervenciones": 196
+    },
+    {
+      "nombre": "OMAR GARCÍA HARFUCH",
+      "cargo": "SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA",
+      "categoria": "secretarios",
+      "intervenciones": 64
     },
     {
       "nombre": "CÉSAR IVÁN ESCALANTE RUIZ",
       "cargo": "PROCURADOR FEDERAL DEL CONSUMIDOR",
       "categoria": "otros",
-      "intervenciones": 16
+      "intervenciones": 1
     },
     {
-      "nombre": "JULIO BERDEGUÉ SACRISTÁN",
-      "cargo": "ASESOR Y COORDINADOR DE ASUNTOS AGROALIMENTARIOS INTERNACIONALES",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "VIOLETA VÁZQUEZ-ROJAS MALDONADO",
-      "cargo": "SUBSECRETARIA DE CIENCIA Y HUMANIDADES",
+      "nombre": "RAYMUNDO PEDRO MORALES ÁNGELES",
+      "cargo": "SECRETARIO DE MARINA",
       "categoria": "secretarios",
-      "intervenciones": 2
+      "intervenciones": 1
     }
   ]
 }
