@@ -1,88 +1,70 @@
 {
-  "fecha": "2026-11-24",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 24 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-24-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-25",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 25 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-25-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 30,
+  "n_preguntas": 52,
   "temas": [
-    "Consultorios",
-    "Avance promedio",
-    "Atención primaria",
-    "Servicio universal",
-    "Salud renal",
-    "China"
+    "Conalep",
+    "Onu mujeres",
+    "Libre violencias",
+    "Guía derechos",
+    "Entornos digitales",
+    "Vida libre"
   ],
   "participantes": [
     {
-      "nombre": "LETICIA RAMÍREZ AMAYA",
-      "cargo": "SECRETARIA DE BIENESTAR",
-      "categoria": "secretarios",
-      "intervenciones": 25
-    },
-    {
-      "nombre": "SECRETARIO GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL JORGE GAVIÑO AMBRIZ",
-      "cargo": "SECRETARIO GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL JORGE GAVIÑO AMBRIZ",
-      "categoria": "otros",
-      "intervenciones": 17
-    },
-    {
-      "nombre": "ZOÉ ROBLEDO ABURTO",
-      "cargo": "DIRECTOR GENERAL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS)",
-      "categoria": "directores",
-      "intervenciones": 16
-    },
-    {
-      "nombre": "ALEJANDRO SVARCH PÉREZ",
-      "cargo": "DIRECTOR GENERAL DEL IMSS BIENESTAR",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "DAVID KERSHENOBICH STALNIKOWITZ",
-      "cargo": "SECRETARIO DE SALUD",
+      "nombre": "EDNA ELENA VEGA RANGEL",
+      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
       "categoria": "secretarios",
       "intervenciones": 9
     },
     {
-      "nombre": "ALVA ALEJANDRA SANTOS CARRILLO",
-      "cargo": "DIRECTORA DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL",
-      "categoria": "directores",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "ARTURO GONZÁLEZ LEDESMA",
-      "cargo": "COORDINADOR IMSS BIENESTAR ESTADO DE MÉXICO",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "MARTÍ BATRES GUADARRAMA",
-      "cargo": "DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE)",
-      "categoria": "directores",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "DAVID KERSHENOBICH",
-      "cargo": "SECRETARIO DE SALUD",
+      "nombre": "LAURA ITZEL CASTILLO",
+      "cargo": "SECRETARIA DE LAS MUJERES",
       "categoria": "secretarios",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "RODRIGO ROJAS NAVARRETE",
+      "cargo": "DIRECTOR GENERAL DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA (CONALEP)",
+      "categoria": "directores",
+      "intervenciones": 9
+    },
+    {
+      "nombre": "RODRIGO CHÁVEZ CONTRERAS",
+      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE VIVIENDA",
+      "categoria": "directores",
+      "intervenciones": 4
+    },
+    {
+      "nombre": "INGRID GÓMEZ SARACIBAR",
+      "cargo": "SUBSECRETARIA DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIAS",
+      "categoria": "secretarios",
+      "intervenciones": 2
+    },
+    {
+      "nombre": "ELEONORA BETANCUR GONZÁLEZ",
+      "cargo": "REPRESENTANTE EN MÉXICO DE ONU MUJERES",
+      "categoria": "otros",
       "intervenciones": 1
     },
     {
-      "nombre": "DELFINA GÓMEZ ÁLVAREZ",
-      "cargo": "GOBERNADORA DEL ESTADO DE MÉXICO",
+      "nombre": "EVELYN SALGADO PINEDA",
+      "cargo": "GOBERNADORA DE GUERRERO",
       "categoria": "gobernadores",
       "intervenciones": 1
     },
     {
-      "nombre": "EDUARDO CLARK GARCÍA DOBARGANES",
-      "cargo": "SUBSECRETARIO DE INTEGRACIÓN SECTORIAL Y COORDINACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA",
+      "nombre": "LUZ ELENA GONZÁLEZ ESCOBAR",
+      "cargo": "SECRETARIA DE ENERGÍA",
       "categoria": "secretarios",
       "intervenciones": 1
     },
     {
-      "nombre": "PATRICIA SUÁREZ",
-      "cargo": "DIRECTORA DEL HOSPITAL GENERAL DE ZONA NO. 1",
-      "categoria": "directores",
+      "nombre": "MARÍA ELVIRA CONCHEIRO BÓRQUEZ",
+      "cargo": "SUBSECRETARIA DE IGUALDAD SUSTANTIVA",
+      "categoria": "secretarios",
       "intervenciones": 1
     }
   ]
