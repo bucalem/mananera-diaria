@@ -1,71 +1,35 @@
 {
-  "fecha": "2026-11-25",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 25 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-25-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-26",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 26 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-26-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 52,
+  "n_preguntas": 54,
   "temas": [
-    "Conalep",
-    "Onu mujeres",
-    "Libre violencias",
-    "Guía derechos",
-    "Entornos digitales",
-    "Vida libre"
+    "Violencia vicaria",
+    "Adopción",
+    "Divorcio",
+    "Procedimientos civiles",
+    "Justicia familiar",
+    "Cada partido"
   ],
   "participantes": [
     {
-      "nombre": "EDNA ELENA VEGA RANGEL",
-      "cargo": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU)",
-      "categoria": "secretarios",
+      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
+      "cargo": "COORDINADOR DE INFODEMIA",
+      "categoria": "otros",
       "intervenciones": 9
     },
     {
-      "nombre": "LAURA ITZEL CASTILLO",
-      "cargo": "SECRETARIA DE LAS MUJERES",
-      "categoria": "secretarios",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "RODRIGO ROJAS NAVARRETE",
-      "cargo": "DIRECTOR GENERAL DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA (CONALEP)",
-      "categoria": "directores",
-      "intervenciones": 9
-    },
-    {
-      "nombre": "RODRIGO CHÁVEZ CONTRERAS",
-      "cargo": "DIRECTOR GENERAL DE LA COMISIÓN NACIONAL DE VIVIENDA",
-      "categoria": "directores",
+      "nombre": "ARTURO ZALDÍVAR LELO DE LARREA",
+      "cargo": "COORDINADOR DE POLÍTICA Y GOBIERNO DE LA PRESIDENCIA DE MÉXICO",
+      "categoria": "otros",
       "intervenciones": 4
     },
     {
-      "nombre": "INGRID GÓMEZ SARACIBAR",
-      "cargo": "SUBSECRETARIA DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIAS",
+      "nombre": "NOEMÍ JUÁREZ PÉREZ",
+      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
       "categoria": "secretarios",
-      "intervenciones": 2
-    },
-    {
-      "nombre": "ELEONORA BETANCUR GONZÁLEZ",
-      "cargo": "REPRESENTANTE EN MÉXICO DE ONU MUJERES",
-      "categoria": "otros",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "EVELYN SALGADO PINEDA",
-      "cargo": "GOBERNADORA DE GUERRERO",
-      "categoria": "gobernadores",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "LUZ ELENA GONZÁLEZ ESCOBAR",
-      "cargo": "SECRETARIA DE ENERGÍA",
-      "categoria": "secretarios",
-      "intervenciones": 1
-    },
-    {
-      "nombre": "MARÍA ELVIRA CONCHEIRO BÓRQUEZ",
-      "cargo": "SUBSECRETARIA DE IGUALDAD SUSTANTIVA",
-      "categoria": "secretarios",
-      "intervenciones": 1
+      "intervenciones": 4
     }
   ]
 }
