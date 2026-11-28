@@ -1,35 +1,41 @@
 {
-  "fecha": "2026-11-26",
-  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 26 de noviembre de 2026",
-  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-26-de-noviembre-de-2026?idiom=es",
+  "fecha": "2026-11-27",
+  "titulo": "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de noviembre de 2026",
+  "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-noviembre-de-2026?idiom=es",
   "incompleto": false,
-  "n_preguntas": 54,
+  "n_preguntas": 48,
   "temas": [
-    "Violencia vicaria",
-    "Adopción",
-    "Divorcio",
-    "Procedimientos civiles",
-    "Justicia familiar",
-    "Cada partido"
+    "Cuarta sección",
+    "Bodega",
+    "Museos",
+    "Cencropam",
+    "Colecciones",
+    "Cultural secretaría"
   ],
   "participantes": [
     {
-      "nombre": "MIGUEL ÁNGEL ELORZA VÁSQUEZ",
-      "cargo": "COORDINADOR DE INFODEMIA",
-      "categoria": "otros",
+      "nombre": "CLAUDIA CURIEL DE ICAZA",
+      "cargo": "SECRETARIA DE CULTURA",
+      "categoria": "secretarios",
+      "intervenciones": 49
+    },
+    {
+      "nombre": "MARINA NÚÑEZ BESPALOVA",
+      "cargo": "SUBSECRETARIA DE DESARROLLO CULTURAL, SECRETARÍA DE CULTURA",
+      "categoria": "secretarios",
+      "intervenciones": 36
+    },
+    {
+      "nombre": "ALEJANDRA DE LA PAZ NÁJERA",
+      "cargo": "DIRECTORA DEL INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA (INBAL)",
+      "categoria": "directores",
       "intervenciones": 9
     },
     {
-      "nombre": "ARTURO ZALDÍVAR LELO DE LARREA",
-      "cargo": "COORDINADOR DE POLÍTICA Y GOBIERNO DE LA PRESIDENCIA DE MÉXICO",
-      "categoria": "otros",
-      "intervenciones": 4
-    },
-    {
-      "nombre": "NOEMÍ JUÁREZ PÉREZ",
-      "cargo": "SUBSECRETARIA DE EDUCACIÓN BÁSICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA",
-      "categoria": "secretarios",
-      "intervenciones": 4
+      "nombre": "SUBDIRECTORA GENERAL DE PATRIMONIO ARTÍSTICO INMUEBLE DEL INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA (INBAL) DOLORES MARTÍNEZ ORRALDE",
+      "cargo": "SUBDIRECTORA GENERAL DE PATRIMONIO ARTÍSTICO INMUEBLE DEL INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA (INBAL) DOLORES MARTÍNEZ ORRALDE",
+      "categoria": "directores",
+      "intervenciones": 1
     }
   ]
 }
